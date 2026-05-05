@@ -1,0 +1,24 @@
+============================================================
+H-BOND & SALT BRIDGE SUMMARY: Nav1.5 + Mexiletine
+============================================================
+
+--- HYDROGEN BOND ANALYSIS ---
+Mean H-bond contacts/frame: 0.06
+Max H-bond contacts:        2
+% frames with ≥1 H-bond:    4.6%
+
+Top H-bond forming residues (>10% occupancy):
+
+--- SALT BRIDGE ANALYSIS ---
+Residue 347: K347 (Mutant, +1)
+
+Salt bridge occupancy (cutoff 4.0 Å):
+  K347–Resid  331: 0.0% occupancy, mean dist = 25.32 Å
+  K347–Resid  337: 0.0% occupancy, mean dist = 31.87 Å
+  K347–Resid  346: 10.2% occupancy, mean dist = 8.59 Å
+  K347–Resid  349: 0.0% occupancy, mean dist = 12.92 Å
+  K347–Resid  356: 51.2% occupancy, mean dist = 4.70 Å
+  K347–Resid  372: 0.0% occupancy, mean dist = 21.71 Å
+  K347–Resid  375: 0.0% occupancy, mean dist = 25.22 Å
+
+============================================================

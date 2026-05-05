@@ -1,0 +1,18 @@
+receptor = receptor_N347K.pdbqt
+ligand = mexiletine_protonated.pdbqt
+
+center_x = 116.8
+center_y = 112.2
+center_z = 113.3
+
+size_x = 136
+size_y = 135
+size_z = 144
+
+exhaustiveness = 128
+num_modes = 20
+energy_range = 5
+
+out = blind_docking_N347K_out.pdbqt
+log = blind_docking_N347K_log.txt
+

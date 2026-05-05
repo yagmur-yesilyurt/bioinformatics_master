@@ -1,0 +1,14 @@
+receptor = receptor_D349N.pdbqt
+ligand = mexiletine.pdbqt
+
+center_x = 89.169
+center_y = 105.101
+center_z = 107.484
+
+size_x = 26
+size_y = 26
+size_z = 26
+
+exhaustiveness = 128
+num_modes = 9
+energy_range = 3

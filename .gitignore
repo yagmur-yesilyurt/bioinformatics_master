@@ -1,0 +1,94 @@
+# ========================================
+# CONFIDENTIAL & SENSITIVE DOCUMENTS
+# ========================================
+05_literature/confidential/
+05_literature/confidential/*
+
+
+# ========================================
+# COPYRIGHTED ACADEMIC PAPERS
+# ========================================
+# Keep only protocols/guides, exclude journal papers
+05_literature/papers/*.pdf
+05_literature/books/*.pdf
+!05_literature/protocols/
+
+
+# ========================================
+# LARGE BINARY FILES
+# ========================================
+# MD trajectory files (very large)
+*.xtc
+*.trr
+*.dcd
+*.gro
+
+# Density maps
+*.dx
+
+# Large PDB archives
+*.zip
+*.tar.gz
+*.tar
+*.rar
+
+
+# ========================================
+# PYTHON & IDE
+# ========================================
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+
+# ========================================
+# SYSTEM FILES
+# ========================================
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*~
+.~lock.*
+
+
+# ========================================
+# OPTIONAL: Large structure files
+# ========================================
+# Uncomment if your repo gets too large
+# 01_structures/**/*.pdb
+# 01_structures/**/*.mol2
+# 02_docking/**/*.pdbqt
+
+
+# ========================================
+# BUILD & TEMPORARY
+# ========================================
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
