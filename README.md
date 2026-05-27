@@ -1,11 +1,5 @@
 # Bioinformatics Master - Nav1.5 Drug Discovery Project
 
-## Overview
-
-This project contains computational biology research on **Nav1.5 (voltage-gated sodium channel)** focusing on drug binding, molecular docking, and molecular dynamics simulations. The research explores how different drugs (mexiletine, flecainide, lidocaine, etc.) interact with wild-type and mutant variants of the Nav1.5 protein.
-
----
-
 ## Folder Guide
 
 ### 📁 `01_structures/`
