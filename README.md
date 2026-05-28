@@ -6,8 +6,9 @@
 **Protein and ligand coordinate files**
 - `receptors/wt/` — Wild-type Nav1.5 protein structures (PDB format)
 - `receptors/mutants/` — Mutant variants (N347K, etc.)
-- `ligands/mexiletine/` — Drug molecule structures in multiple formats
-- `prepared/` — Protein structures prepared for docking (AutoDock PDBQT format)
+- `ligands/` — Drug molecule structures in multiple formats
+  - `mexiletine/` — Mexiletine drug structures
+  - `flecainide/`, `lidocaine/`, `propafenone/`, `quinidine/` — Multidrug ligand structures
 
 ### 📁 `02_docking/`
 **Molecular docking results and analysis**
@@ -16,14 +17,13 @@
   - `mutants/` — Mutant protein binding (A344S, D349N, N347K)
   - `blind/` — Blind docking (unbiased search)
 - `other_drugs/` — Docking for multidrug compounds (flecainide, lidocaine, propafenone, quinidine)
-  - `A344S/` — Docking results for A344S mutant
-  - `D349N/` — Docking results for D349N mutant
-  - `N347K/` — Docking results for N347K mutant
-- `scoring/` — Docking logs, configurations, and scoring reports
+  - `A344S/` — Docking results for A344S mutant with 4 ligands
+  - `D349N/` — Docking results for D349N mutant with 4 ligands
+  - `N347K/` — Docking results for N347K mutant with 4 ligands
 
 ### 📁 `03_md_simulations/`
 **Molecular dynamics simulation setup and scripts**
-- `md.py` — MD simulation analysis and processing scripts
+- Contains MD simulation configuration and analysis tools
 
 ### 📁 `04_postMD_analysis_results/`
 **Molecular dynamics simulation analysis and results**
@@ -46,16 +46,13 @@ Each contains: RMSD plots, RMSF profiles, contact maps, distance plots, clusteri
 ### 📁 `06_scripts/`
 **Analysis and visualization Python scripts**
 - `analysis/` — Data processing and clustering scripts
-  - Clustering analysis (DBSCAN)
+  - Clustering analysis (DBSCAN, Silvia method)
   - RMSD/RMSF calculations
   - Hydrogen bond and salt bridge analysis
-  - Pore dimension analysis
-  - Miscellaneous analysis tools
-- `reorganize_docking.py` — Docking directory organization automation tool
-
-### 📁 `07_archive/`
-**Working notes and test directories**
-- `working_notes/` — Backup of experimental runs and test dockings
+  - Pore dimension analysis (HOLE method)
+  - Graphics and visualization tools
+  - Main analysis runners
+- `SCRIPTS_README.txt` — Detailed description of all available scripts
 
 ---
 
@@ -76,10 +73,12 @@ Each contains: RMSD plots, RMSF profiles, contact maps, distance plots, clusteri
 
 | Extension | Content | Location |
 |-----------|---------|----------|
-| `.pdb` | Protein structures | `01_structures/receptors/` |
-| `.mol2` | Ligand coordinates | `01_structures/ligands/` |
-| `.pdbqt` | Prepared structures for docking | `01_structures/prepared/` |
-| `.txt` | Logs and analysis results | `02_docking/scoring/` or `04_postMD_analysis_results/` |
+| `.pdb` | Protein structures | `01_structures/receptors/` or `02_docking/` |
+| `.mol2` | Ligand coordinates | `01_structures/ligands/` or `02_docking/` |
+| `.sdf` | Structure data file format | `01_structures/ligands/` or `02_docking/` |
+| `.pdbqt` | AutoDock PDBQT format | `02_docking/` |
+| `.pse` | PyMOL session files | `02_docking/` |
+| `.txt` | Logs and analysis results | `04_postMD_analysis_results/` |
 | `.py` | Python analysis scripts | `06_scripts/analysis/` |
 | `.pdf` | Papers and guides | `05_literature/papers/` or `05_literature/my_protocols/` |
 
@@ -87,12 +86,11 @@ Each contains: RMSD plots, RMSF profiles, contact maps, distance plots, clusteri
 
 ## Project Status
 
-✅ **Structures** — 12 protein PDB files (WT + mutants)  
+✅ **Structures** — 12 protein PDB files (WT + mutants), 5 ligand types (mexiletine + 4 multidrugs)  
 ✅ **Docking** — 16 docking setups (Mexiletine × 4 receptors + Multidrug × 3 receptors × 4 ligands)  
 ✅ **MD Analysis** — 4 simulation sets (holo/apo × WT/Mutant) with plots and statistics  
 ✅ **Literature** — 25+ reference papers, 6+ experimental protocols, and guides  
-✅ **Scripts** — 13+ Python analysis and automation tools  
-✅ **Organization** — Restructured docking directories for improved project management  
+✅ **Scripts** — 13 Python analysis tools (clustering, RMSD/RMSF, H-bonds, pore analysis, visualization)  
 
 ---
 
