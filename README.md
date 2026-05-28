@@ -83,15 +83,3 @@ Each contains: RMSD plots, RMSF profiles, contact maps, distance plots, clusteri
 | `.pdf` | Papers and guides | `05_literature/papers/` or `05_literature/my_protocols/` |
 
 ---
-
-## Project Status
-
-✅ **Structures** — 12 protein PDB files (WT + mutants), 5 ligand types (mexiletine + 4 multidrugs)  
-✅ **Docking** — 16 docking setups (Mexiletine × 4 receptors + Multidrug × 3 receptors × 4 ligands)  
-✅ **MD Analysis** — 4 simulation sets (holo/apo × WT/Mutant) with plots and statistics  
-✅ **Literature** — 25+ reference papers, 6+ experimental protocols, and guides  
-✅ **Scripts** — 13 Python analysis tools (clustering, RMSD/RMSF, H-bonds, pore analysis, visualization)  
-
----
-
-**Questions?** Check the folder-specific README files or examine example files in each directory.
