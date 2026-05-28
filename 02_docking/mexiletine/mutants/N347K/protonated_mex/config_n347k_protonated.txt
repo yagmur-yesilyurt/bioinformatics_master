@@ -1,5 +1,5 @@
-receptor = receptor_N347K.pdbqt
-ligand = mexiletine.pdbqt
+receptor = receptor_n347k.pdbqt
+ligand = ligand_mexiletine_protonated.pdbqt
 
 center_x = 87.81
 center_y = 98.53
