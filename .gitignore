@@ -11,7 +11,7 @@
 # Keep only protocols/guides, exclude journal papers
 05_literature/papers/*.pdf
 05_literature/books/*.pdf
-!05_literature/protocols/
+!05_literature/my_protocols/
 
 
 # ========================================
