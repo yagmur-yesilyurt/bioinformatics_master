@@ -15,12 +15,18 @@
   - `wt/` — Wild-type binding poses
   - `mutants/` — Mutant protein binding (A344S, D349N, N347K)
   - `blind/` — Blind docking (unbiased search)
-- `multidrug/` — Docking for other drugs (flecainide, lidocaine, propafenone, quinidine)
+- `other_drugs/` — Docking for multidrug compounds (flecainide, lidocaine, propafenone, quinidine)
+  - `A344S/` — Docking results for A344S mutant
+  - `D349N/` — Docking results for D349N mutant
+  - `N347K/` — Docking results for N347K mutant
 - `scoring/` — Docking logs, configurations, and scoring reports
 
 ### 📁 `03_md_simulations/`
+**Molecular dynamics simulation setup and scripts**
+- `md.py` — MD simulation analysis and processing scripts
+
+### 📁 `04_postMD_analysis_results/`
 **Molecular dynamics simulation analysis and results**
-- `setup/` — GROMACS configuration files and parameters
 - `holoWT_postMD/` — WT protein + ligand MD analysis
 - `apoWT_postMD/` — WT protein alone MD analysis
 - `holoMutant_postMD/` — Mutant protein + ligand MD analysis
@@ -28,19 +34,13 @@
 
 Each contains: RMSD plots, RMSF profiles, contact maps, distance plots, clustering analysis
 
-### 📁 `04_results/`
-**Publication-ready outputs**
-- `figures/` — Interaction diagrams and visualization images (PNG)
-- `tables/` — Summary data and results tables
-- `reports/` — Analysis summaries and reports
-
 ### 📁 `05_literature/`
 **Reference documents and protocols**
 - `papers/Nav1.5_structure/` — Structural studies of Nav1.5
 - `papers/Nav1.5_activators/` — Drug activator research
 - `papers/general_docking_md/` — General computational methods
 - `books/intelligent_systems/` — Reference textbooks
-- `protocols/` — Experimental guides and methods
+- `my_protocols/` — Experimental guides and methods (Mutagenesis, Membrane embedding, MD execution, Post-MD analysis, MMGBSA, Visualization)
 - `confidential/` — Restricted access documents
 
 ### 📁 `06_scripts/`
@@ -50,9 +50,8 @@ Each contains: RMSD plots, RMSF profiles, contact maps, distance plots, clusteri
   - RMSD/RMSF calculations
   - Hydrogen bond and salt bridge analysis
   - Pore dimension analysis
-- `preprocessing/` — Data preparation tools
-- `docking/` — Docking setup and analysis
-- `visualization/` — Figure generation scripts
+  - Miscellaneous analysis tools
+- `reorganize_docking.py` — Docking directory organization automation tool
 
 ### 📁 `07_archive/`
 **Working notes and test directories**
@@ -65,9 +64,10 @@ Each contains: RMSD plots, RMSF profiles, contact maps, distance plots, clusteri
 **Start here if you want to...**
 
 - **View protein structures** → Go to `01_structures/receptors/`
-- **Check docking results** → Go to `02_docking/mexiletine/mutants/N347K/` (or your mutant of interest)
-- **Analyze MD simulations** → Go to `03_md_simulations/holoMutant_postMD/`
-- **Read papers and guides** → Go to `05_literature/papers/` or `05_literature/protocols/`
+- **Check docking results** → Go to `02_docking/mexiletine/mutants/N347K/` or `02_docking/other_drugs/N347K/`
+- **Analyze MD simulations** → Go to `04_postMD_analysis_results/holoMutant_postMD/`
+- **Read protocols and guides** → Go to `05_literature/my_protocols/`
+- **Read papers and references** → Go to `05_literature/papers/`
 - **Run analysis scripts** → Go to `06_scripts/analysis/`
 
 ---
@@ -79,20 +79,20 @@ Each contains: RMSD plots, RMSF profiles, contact maps, distance plots, clusteri
 | `.pdb` | Protein structures | `01_structures/receptors/` |
 | `.mol2` | Ligand coordinates | `01_structures/ligands/` |
 | `.pdbqt` | Prepared structures for docking | `01_structures/prepared/` |
-| `.png` | Figures and plots | `04_results/figures/` |
-| `.txt` | Logs and analysis results | `02_docking/scoring/` or `03_md_simulations/` |
+| `.txt` | Logs and analysis results | `02_docking/scoring/` or `04_postMD_analysis_results/` |
 | `.py` | Python analysis scripts | `06_scripts/analysis/` |
-| `.pdf` | Papers and guides | `05_literature/papers/` or `05_literature/protocols/` |
+| `.pdf` | Papers and guides | `05_literature/papers/` or `05_literature/my_protocols/` |
 
 ---
 
 ## Project Status
 
 ✅ **Structures** — 12 protein PDB files (WT + mutants)  
-✅ **Docking** — Results for 3 drug variants, 3+ mutants, blind docking included  
+✅ **Docking** — 16 docking setups (Mexiletine × 4 receptors + Multidrug × 3 receptors × 4 ligands)  
 ✅ **MD Analysis** — 4 simulation sets (holo/apo × WT/Mutant) with plots and statistics  
-✅ **Literature** — 25+ reference papers and experimental protocols  
-✅ **Scripts** — 14+ Python analysis tools  
+✅ **Literature** — 25+ reference papers, 6+ experimental protocols, and guides  
+✅ **Scripts** — 13+ Python analysis and automation tools  
+✅ **Organization** — Restructured docking directories for improved project management  
 
 ---
 
