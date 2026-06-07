@@ -1,4 +1,4 @@
-from clustering_revised import get_most_probable_conformation
+from clustering_silvia_revised import get_most_probable_conformation
 
 # --- AYARLAR ---
 trajectory_file = "analysis_result.dcd"
