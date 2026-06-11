@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    81:
+HEADER 0  - Pocket Score                      : -0.0734
+HEADER 1  - Drug Score                        : 0.0040
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8218
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5216
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -0.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 251.8411
+HEADER 10 - Pocket volume (convex hull)       : 7.7800
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7368
+ATOM   6623    O HIS C 681      43.834 112.226  59.472  0.00  0.00           O 0
+ATOM   6798  OE1 GLN C 692      49.436 113.824  62.620  0.55  9.64           O 0
+ATOM   6791   CB GLN C 692      47.792 116.111  63.547  0.00  0.00           C 0
+ATOM   6794   CG GLN C 692      47.620 114.571  63.975  0.00  0.00           C 0
+ATOM   6646    N CYS C 683      41.735 113.232  62.507  0.51  1.09           N 0
+ATOM   6653   SG CYS C 683      44.029 112.865  64.624  0.00  0.00           S 0
+ATOM   6736   CA ARG C 689      43.422 117.500  64.872  0.00  0.00           C 0
+ATOM   6744   CD ARG C 689      39.467 117.615  63.903  0.00  0.00           C 0
+ATOM   6634   CD LYS C 682      38.017 115.260  59.342  0.00  0.00           C 0
+ATOM   6640   NZ LYS C 682      36.959 116.875  57.900  0.62  9.84           N 0
+ATOM   6637   CE LYS C 682      38.168 116.072  58.062  0.00  0.00           C 0
+ATOM   6750  NH1 ARG C 689      36.493 117.436  63.399  0.61  8.75           N 0
+ATOM   6626   CA LYS C 682      41.590 113.633  59.974  0.00  0.00           C 0
+ATOM   6738   CB ARG C 689      41.973 118.028  64.458  0.00  0.00           C 0
+ATOM   6757    O ARG C 689      45.150 118.869  63.958  0.56  2.14           O 0
+ATOM   6741   CG ARG C 689      40.818 117.055  64.355  0.00  0.00           C 0
+ATOM   6628   CB LYS C 682      40.541 114.686  59.662  0.00  0.00           C 0
+ATOM   6814   CD ARG C 693      45.258 121.640  61.564  0.00  0.00           C 0
+ATOM   6811   CG ARG C 693      46.589 120.877  61.523  0.00  0.00           C 0
+TER
+END

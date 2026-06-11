@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    65:
+HEADER 0  - Pocket Score                      : -0.0372
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6076
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3411
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 42.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 183.6042
+HEADER 10 - Pocket volume (convex hull)       : 6.2407
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM  13296   CG ARG D1306     108.008  75.516  91.209  0.00  0.00           C 0
+ATOM  19426   CB ALA D1677     103.475  77.289  96.383  0.00  0.00           C 0
+ATOM  13264  CG2 THR D1304     107.068  81.143  92.493  0.00  0.00           C 0
+ATOM  19388  CE1 PHE D1674     102.908  79.577  91.485  0.00  0.00           C 0
+ATOM  11934  OE1 GLU D1225     106.948  71.123  96.245  0.17  2.14           O 0
+ATOM  19424   CA ALA D1677     103.282  76.608  97.705  0.00  0.00           C 0
+ATOM  19422    N ALA D1677     102.294  75.510  97.584  0.00  0.00           N 0
+ATOM  19421    O MET D1676     102.630  74.560  99.515  0.57  2.14           O 0
+ATOM  19489   OH TYR D1681     106.185  75.384 101.898  0.50  6.43           O 0
+ATOM  13299   CD ARG D1306     108.773  75.542  92.583  0.00  0.00           C 0
+ATOM  19365  CG2 ILE D1673     103.249  73.792  91.901  0.00  0.00           C 0
+ATOM  19377    O ILE D1673     101.928  74.928  94.454  0.59  1.07           O 0
+ATOM  13305  NH1 ARG D1306     108.048  73.290  94.234  0.58  5.47           N 0
+ATOM  13317   CB ALA D1307     103.387  75.663  88.743  0.00  0.00           C 0
+ATOM  19386  CD1 PHE D1674     101.864  79.156  92.325  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : 0.0441
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.5758
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3682
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 17.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 113.7200
+HEADER 10 - Pocket volume (convex hull)       : 2.1644
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM  14226   CB CYS D1363      74.167  88.767 121.389  0.00  0.00           C 0
+ATOM  15381  NE2 GLN D1437      72.655  94.358 120.662  0.85  5.47           N 0
+ATOM  14222    N CYS D1363      74.055  88.790 118.950  0.00  0.00           N 0
+ATOM  14368   CB LEU D1373      69.961  88.131 122.273  0.00  0.00           C 0
+ATOM  14382    O LEU D1373      67.769  89.229 120.514  0.43  4.29           O 0
+ATOM  14232    O CYS D1363      72.125  86.896 120.285  0.00  0.00           O 0
+ATOM  14202   CB ARG D1362      73.030  89.052 115.828  0.00  0.00           C 0
+ATOM  14364    N LEU D1373      69.196  86.663 120.505  0.44  2.19           N 0
+ATOM  14211   NE ARG D1362      70.550  87.426 115.167  0.00  0.00           N 0
+ATOM  14396    O ASN D1374      66.490  90.652 122.874  0.55  2.14           O 0
+ATOM  14377  CD2 LEU D1373      70.888  89.833 123.895  0.00  0.00           C 0
+ATOM  15373   CB GLN D1437      69.513  94.991 120.030  0.00  0.00           C 0
+ATOM  14466    O VAL D1378      68.055  94.942 124.330  0.52  2.14           O 0
+ATOM  15387   CD PRO D1438      70.273  93.342 116.903  0.00  0.00           C 0
+ATOM  15395   CG PRO D1438      70.396  92.196 115.866  0.00  0.00           C 0
+ATOM  15392   CB PRO D1438      68.981  91.744 115.718  0.00  0.00           C 0
+TER
+END

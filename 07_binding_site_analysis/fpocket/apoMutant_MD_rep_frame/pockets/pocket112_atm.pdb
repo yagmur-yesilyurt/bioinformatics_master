@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   112:
+HEADER 0  - Pocket Score                      : -0.1161
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8547
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5013
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 22.3333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 288.8547
+HEADER 10 - Pocket volume (convex hull)       : 12.2178
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM  15922  CG2 VAL D1468      78.094  87.519  74.844  0.00  0.00           C 0
+ATOM  15856  CD1 LEU D1464      75.527  89.504  77.004  0.00  0.00           C 0
+ATOM   8991  OG1 THR C 824      79.804  93.451  74.415  0.16  9.64           O 0
+ATOM   9040  CG2 THR C 827      73.803  91.801  74.346  0.00  0.00           C 0
+ATOM   9038  OG1 THR C 827      74.643  93.441  72.958  0.53  7.50           O 0
+ATOM  15974  OD1 ASP D1471      77.052  86.945  69.193  0.00  0.00           O 0
+ATOM  13731   CB SER D1333      83.375  88.757  73.946  0.00  0.00           C 0
+ATOM  10891  CE1 PHE C 942      74.232  87.767  73.138  0.00  0.00           C 0
+ATOM  15918  CG1 VAL D1468      80.420  86.528  75.058  0.00  0.00           C 0
+ATOM  15987  ND2 ASN D1472      82.279  84.817  72.753  0.84  1.09           N 0
+ATOM  15985   CG ASN D1472      82.603  84.376  71.504  0.00  0.00           C 0
+ATOM  16038  NE2 GLN D1475      80.416  86.016  67.522  0.76  2.19           N 0
+ATOM  15986  OD1 ASN D1472      83.357  84.947  70.737  0.60  3.21           O 0
+ATOM  16037  OE1 GLN D1475      81.743  87.021  65.954  0.00  0.00           O 0
+ATOM  13734   OG SER D1333      83.824  87.391  73.684  0.00  0.00           O 0
+ATOM   8993  CG2 THR C 824      79.016  93.023  76.605  0.00  0.00           C 0
+ATOM  15927    O VAL D1468      79.589  83.916  73.090  0.56  1.07           O 0
+ATOM  15978    N ASN D1472      79.963  83.289  70.339  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : 0.0473
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.6635
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4155
+HEADER 5  - Mean B-factor of pocket residues  : 0.3005
+HEADER 6  - Hydrophobicity Score              : 34.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 145.1956
+HEADER 10 - Pocket volume (convex hull)       : 3.4849
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1637   CB VAL A 223     108.364 122.233  86.379  0.00  0.00           C 0
+ATOM   1607    O THR A 220     105.537 119.988  83.852  0.38  2.14           O 0
+ATOM   4718   CG GLN A 859     101.546 122.571  86.677  0.00  0.00           C 0
+ATOM   1633    N VAL A 223     108.350 122.855  84.000  0.00  0.00           N 0
+ATOM   1610  OG1 THR A 220     103.463 119.455  85.062  0.64  1.07           O 0
+ATOM   1596    O ARG A 219     102.691 121.861  80.771  0.00  0.00           O 0
+ATOM   1602  NH1 ARG A 219     102.040 124.125  80.701  0.27  7.66           N 0
+ATOM   1626   CB ARG A 222     106.967 124.582  81.478  0.00  0.00           C 0
+ATOM   1627   CG ARG A 222     105.857 124.466  80.396  0.00  0.00           C 0
+ATOM   4720  NE2 GLN A 859     100.930 123.669  84.605  0.81  3.28           N 0
+ATOM   1606    C THR A 220     104.954 119.994  82.763  0.00  0.00           C 0
+ATOM   1011   CE MET A 148     107.488 126.616  86.797  0.00  0.00           C 0
+ATOM   4692  CG1 VAL A 855     106.559 124.063  89.678  0.00  0.00           C 0
+ATOM   4693  CG2 VAL A 855     104.837 125.828  89.497  0.00  0.00           C 0
+ATOM   1605   CA THR A 220     103.432 120.083  82.723  0.00  0.00           C 0
+ATOM   1008   CB MET A 148     104.529 128.814  85.006  0.00  0.00           C 0
+ATOM   1009   CG MET A 148     105.548 128.462  86.070  0.00  0.00           C 0
+ATOM   1007    O MET A 148     102.566 128.456  87.120  0.60  5.36           O 0
+ATOM   4695   CA VAL A 856     104.545 120.570  90.004  0.00  0.00           C 0
+ATOM   1010   SD MET A 148     106.961 127.579  85.383  0.00  0.00           S 0
+TER
+END

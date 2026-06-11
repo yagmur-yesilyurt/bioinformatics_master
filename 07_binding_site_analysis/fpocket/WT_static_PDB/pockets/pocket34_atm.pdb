@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : 0.0362
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9843
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5901
+HEADER 5  - Mean B-factor of pocket residues  : 0.2089
+HEADER 6  - Hydrophobicity Score              : 27.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 251.9715
+HEADER 10 - Pocket volume (convex hull)       : 7.0593
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM   3770   CA ASN A 740      92.405 143.984 130.263  0.00  0.00           C 0
+ATOM   3826  OE2 GLU A 746      94.048 149.680 128.964  0.00  0.00           O 0
+ATOM   3769    N ASN A 740      93.177 143.096 129.374  0.62  6.56           N 0
+ATOM   7597   OH TYR A1434      90.010 143.090 125.629  0.68  4.29           O 0
+ATOM   3777    N MET A 741      94.178 145.221 131.368  0.00  0.00           N 0
+ATOM   3758   CA TYR A 739      94.690 141.275 128.757  0.00  0.00           C 0
+ATOM   3763  CD1 TYR A 739      91.775 140.381 127.374  0.00  0.00           C 0
+ATOM   3750    O HIS A 738      97.048 142.714 128.447  0.29  4.29           O 0
+ATOM   7594  CE1 TYR A1434      90.585 142.492 123.395  0.00  0.00           C 0
+ATOM   6992   CB ALA A1357      96.247 139.233 123.378  0.00  0.00           C 0
+ATOM   3761   CB TYR A 739      94.127 139.988 128.160  0.00  0.00           C 0
+ATOM   3784   CE MET A 741      98.206 145.348 129.189  0.00  0.00           C 0
+ATOM   3782   CG MET A 741      96.858 146.634 131.136  0.00  0.00           C 0
+ATOM   6990    C ALA A1357      94.100 138.681 122.245  0.00  0.00           C 0
+ATOM   6991    O ALA A1357      93.762 139.562 121.451  0.42  4.29           O 0
+TER
+END

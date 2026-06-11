@@ -1,0 +1,61 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   111:
+HEADER 0  - Pocket Score                      : -0.1067
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    59
+HEADER 3  - Mean alpha-sphere radius          : 3.8231
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4264
+HEADER 5  - Mean B-factor of pocket residues  : 0.1276
+HEADER 6  - Hydrophobicity Score              : 12.1250
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Amino Acid based volume Score     : 3.4375
+HEADER 9  - Pocket volume (Monte Carlo)       : 622.4258
+HEADER 10 - Pocket volume (convex hull)       : 175.2280
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 10.1538
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.2203
+ATOM   5962   CB GLU A1230      86.112 101.262 148.037  0.00  0.00           C 0
+ATOM   5936  CG2 ILE A1227      87.351 101.058 142.401  0.00  0.00           C 0
+ATOM  10059   CB ASN A1736      86.555 106.604 146.844  0.00  0.00           C 0
+ATOM  10061  ND2 ASN A1736      88.608 105.891 147.903  0.58  8.75           N 0
+ATOM  10054   OG SER A1735      82.735 104.471 144.674  0.00  0.00           O 0
+ATOM   5931   CA ILE A1227      89.771 101.058 143.207  0.00  0.00           C 0
+ATOM   5933    O ILE A1227      88.489  99.663 144.681  0.57  1.07           O 0
+ATOM   9638   OH TYR A1681      88.477 107.031 143.971  0.71  7.50           O 0
+ATOM   5930    N ILE A1227      91.135 101.159 142.700  0.94  1.09           N 0
+ATOM   5935  CG1 ILE A1227      88.997 102.555 141.350  0.00  0.00           C 0
+ATOM   9601    O ALA A1677      95.300 110.771 143.525  0.00  0.00           O 0
+ATOM   9636  CE2 TYR A1681      88.497 109.148 142.879  0.00  0.00           C 0
+ATOM  10062  OD1 ASN A1736      88.500 107.976 147.083  0.00  0.00           O 0
+ATOM   5925    O ASP A1226      92.119 101.010 144.713  0.67  1.07           O 0
+ATOM   5924    C ASP A1226      92.210 101.147 143.490  0.00  0.00           C 0
+ATOM   5956  CD1 LEU A1229      93.088 102.723 148.020  0.00  0.00           C 0
+ATOM   9635  CE1 TYR A1681      87.554 107.244 141.789  0.00  0.00           C 0
+ATOM   5937  CD1 ILE A1227      88.625 102.592 139.891  0.00  0.00           C 0
+ATOM  10071   CB SER A1738      87.991 111.723 145.254  0.00  0.00           C 0
+ATOM  10072   OG SER A1738      88.258 112.699 144.262  0.38  6.43           O 0
+ATOM  10066    O GLY A1737      88.677 111.769 148.591  0.00  0.00           O 0
+ATOM   5958    N GLU A1230      88.214 100.058 148.048  0.00  0.00           N 0
+ATOM  10052    O SER A1735      83.792 104.940 147.575  0.76  5.36           O 0
+ATOM   9626   CB ALA A1680      91.394 107.964 140.499  0.00  0.00           C 0
+ATOM   9752    O GLN A1695      92.607 102.387 138.797  0.88  3.21           O 0
+ATOM   9606    O ASN A1678      93.438 113.158 140.087  0.70  9.64           O 0
+ATOM   9634  CD2 TYR A1681      88.191 109.926 141.778  0.00  0.00           C 0
+ATOM   9622    N ALA A1680      92.289 109.698 139.023  0.00  0.00           N 0
+ATOM   9605    C ASN A1678      94.341 112.316 140.077  0.00  0.00           C 0
+ATOM   5916    O GLU A1225      94.747 102.930 144.745  0.48  9.64           O 0
+ATOM   5963   CG GLU A1230      84.558 101.476 148.035  0.00  0.00           C 0
+ATOM   9593    O MET A1676      95.545 107.466 141.016  0.50  3.21           O 0
+ATOM   9599   CA ALA A1677      96.887 109.167 142.762  0.00  0.00           C 0
+ATOM  10048  OD1 ASN A1734      83.474 107.900 143.020  0.00  0.00           O 0
+ATOM   5923   CA ASP A1226      93.575 101.325 142.820  0.00  0.00           C 0
+ATOM   5954   CB LEU A1229      91.186 101.122 148.325  0.00  0.00           C 0
+ATOM   9595   CG MET A1676      96.593 104.713 140.233  0.00  0.00           C 0
+ATOM   9756  NE2 GLN A1695      87.454 104.586 136.414  0.76  7.66           N 0
+ATOM   9633  CD1 TYR A1681      87.254 108.028 140.692  0.00  0.00           C 0
+TER
+END

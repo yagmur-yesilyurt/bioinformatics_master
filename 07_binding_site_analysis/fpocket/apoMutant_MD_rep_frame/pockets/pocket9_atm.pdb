@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.1128
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5162
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3625
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 91.4286
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 96.8378
+HEADER 10 - Pocket volume (convex hull)       : 1.9055
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  21531  CD1 LEU D1814      80.863  38.268  43.344  0.00  0.00           C 0
+ATOM  22127  CG2 ILE D1853      84.845  40.587  46.152  0.00  0.00           C 0
+ATOM  21192  CE1 PHE D1794      81.899  41.522  48.720  0.00  0.00           C 0
+ATOM  21453  CD1 ILE D1809      80.765  35.310  46.253  0.00  0.00           C 0
+ATOM  21446  CG2 ILE D1809      83.939  35.587  46.160  0.00  0.00           C 0
+ATOM  21244  CG2 ILE D1797      77.691  38.043  45.981  0.00  0.00           C 0
+ATOM  22085   CB CYS D1850      85.586  38.196  50.761  0.00  0.00           C 0
+ATOM  21271  CE3 TRP D1798      80.890  37.604  51.758  0.00  0.00           C 0
+ATOM  22088   SG CYS D1850      84.474  39.379  51.608  0.00  0.00           S 0
+ATOM  21259   CA TRP D1798      77.544  38.597  50.592  0.00  0.00           C 0
+ATOM  21273  CZ3 TRP D1798      82.046  36.878  52.200  0.00  0.00           C 0
+ATOM  21257    N TRP D1798      77.002  39.191  49.348  0.00  0.00           N 0
+ATOM  22083   CA CYS D1850      86.326  38.784  49.466  0.00  0.00           C 0
+TER
+END

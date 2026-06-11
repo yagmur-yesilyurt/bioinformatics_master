@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : 0.0491
+HEADER 1  - Drug Score                        : 0.0049
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.5423
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3235
+HEADER 5  - Mean B-factor of pocket residues  : 0.2046
+HEADER 6  - Hydrophobicity Score              : 76.8182
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.6364
+HEADER 9  - Pocket volume (Monte Carlo)       : 154.0831
+HEADER 10 - Pocket volume (convex hull)       : 7.9872
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   2633   CZ PHE A 355      99.298  95.370 110.908  0.00  0.00           C 0
+ATOM   2824  CD2 LEU A 377      99.302 101.181 112.446  0.00  0.00           C 0
+ATOM   2743  CD1 LEU A 368     103.733  99.721 113.250  0.00  0.00           C 0
+ATOM   2706   CB ALA A 364     100.328  99.113 108.072  0.00  0.00           C 0
+ATOM   2950  CE2 PHE A 392     103.184  94.182 115.139  0.00  0.00           C 0
+ATOM   2712   CG LEU A 365     105.309  96.849 109.505  0.00  0.00           C 0
+ATOM   2704    C ALA A 364     102.609 100.137 108.284  0.00  0.00           C 0
+ATOM   2714  CD2 LEU A 365     106.138  97.266 110.703  0.00  0.00           C 0
+ATOM   2962   CZ PHE A 393     100.376  98.388 116.275  0.00  0.00           C 0
+ATOM   2004  CE2 PHE A 272      99.466  92.501 114.990  0.00  0.00           C 0
+ATOM   2951   CZ PHE A 392     103.989  93.271 114.499  0.00  0.00           C 0
+ATOM   2707    N LEU A 365     103.514  99.229 107.926  0.00  0.00           N 0
+ATOM   2631  CE1 PHE A 355      99.640  94.249 110.191  0.00  0.00           C 0
+ATOM   2713  CD1 LEU A 365     105.724  95.488 109.020  0.00  0.00           C 0
+ATOM   1937    O PHE A 264     105.504  91.830 110.055  0.34  1.07           O 0
+ATOM   1967   CA GLY A 268     101.932  90.782 110.907  0.00  0.00           C 0
+ATOM   2960  CE1 PHE A 393     100.289  97.351 117.176  0.00  0.00           C 0
+ATOM   2861  OG1 THR A 381      96.392  95.980 116.112  0.00  0.00           O 0
+TER
+END

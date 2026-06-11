@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.0452
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.7435
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4644
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 18.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 158.1859
+HEADER 10 - Pocket volume (convex hull)       : 7.0900
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3077
+ATOM  11868   CB ALA D1221     109.155  65.360  91.166  0.00  0.00           C 0
+ATOM  12193    O LEU D1239     114.963  67.021  93.147  0.54  1.07           O 0
+ATOM  12179   CB LEU D1239     113.240  65.986  95.627  0.00  0.00           C 0
+ATOM  12188  CD2 LEU D1239     111.348  64.345  94.788  0.00  0.00           C 0
+ATOM  12205  OE1 GLU D1240     114.529  70.795  96.205  0.40  3.21           O 0
+ATOM  11935  OE2 GLU D1225     108.739  70.460  95.289  0.45  5.36           O 0
+ATOM  13308  NH2 ARG D1306     109.867  72.175  93.589  0.57  9.84           N 0
+ATOM  11874    N LEU D1222     106.630  67.228  91.531  0.00  0.00           N 0
+ATOM  12244   CB ASP D1243     115.191  70.045  91.421  0.00  0.00           C 0
+ATOM  13358  NH1 ARG D1309     111.824  71.555  88.420  0.74  3.28           N 0
+ATOM  11872    C ALA D1221     107.114  66.240  92.337  0.00  0.00           C 0
+ATOM  12307  CE2 PHE D1246     112.112  66.119  88.192  0.00  0.00           C 0
+ATOM  12240    N ASP D1243     115.686  67.839  90.614  0.00  0.00           N 0
+ATOM  12242   CA ASP D1243     115.454  69.166  90.124  0.00  0.00           C 0
+ATOM  12248  OD1 ASP D1243     114.188  71.600  89.962  0.55  1.07           O 0
+ATOM  11887  CD2 LEU D1222     107.203  71.228  91.494  0.00  0.00           C 0
+ATOM  11873    O ALA D1221     107.046  66.409  93.550  0.73  1.07           O 0
+ATOM  11881   CG LEU D1222     106.675  70.209  90.499  0.00  0.00           C 0
+ATOM  11845    O SER D1218     107.332  67.491  88.565  0.68  3.21           O 0
+TER
+END

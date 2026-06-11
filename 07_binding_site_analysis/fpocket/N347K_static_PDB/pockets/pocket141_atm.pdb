@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   141:
+HEADER 0  - Pocket Score                      : -0.1497
+HEADER 1  - Drug Score                        : 0.0035
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9797
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5163
+HEADER 5  - Mean B-factor of pocket residues  : 0.7936
+HEADER 6  - Hydrophobicity Score              : 75.5714
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 154.9341
+HEADER 10 - Pocket volume (convex hull)       : 3.7281
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.8182
+ATOM  10510  CE1 PHE A1794     165.288  81.255 108.544  0.00  0.00           C 0
+ATOM  10540  CG2 ILE A1797     168.495  79.935 103.685  0.00  0.00           C 0
+ATOM  10647  CG2 ILE A1809     173.123  80.034 108.581  0.00  0.00           C 0
+ATOM  10965   SG CYS A1850     170.371  79.271 110.599  0.00  0.00           S 0
+ATOM  10690  CD2 LEU A1814     173.085  85.621 106.342  0.00  0.00           C 0
+ATOM  10689  CD1 LEU A1814     172.762  84.489 104.135  0.00  0.00           C 0
+ATOM  10782  NH2 ARG A1826     169.216  86.751 106.554  0.74  2.19           N 0
+ATOM  10989  CD1 ILE A1853     170.670  84.711 110.866  0.00  0.00           C 0
+ATOM  10646  CG1 ILE A1809     173.491  82.121 109.953  0.00  0.00           C 0
+ATOM  10648  CD1 ILE A1809     173.901  83.541 109.614  0.00  0.00           C 0
+ATOM  10986   CB ILE A1853     168.253  85.479 111.047  0.00  0.00           C 0
+ATOM  10988  CG2 ILE A1853     168.295  86.234 109.727  0.00  0.00           C 0
+ATOM  10963    O CYS A1850     167.332  82.501 112.428  0.00  0.00           O 0
+ATOM  10964   CB CYS A1850     169.012  79.870 111.617  0.00  0.00           C 0
+ATOM  10961   CA CYS A1850     169.308  81.150 112.400  0.00  0.00           C 0
+ATOM  10781  NH1 ARG A1826     167.353  85.744 105.683  0.86  3.28           N 0
+ATOM  10541  CD1 ILE A1797     167.339  82.259 102.105  0.00  0.00           C 0
+ATOM  10508  CD1 PHE A1794     164.618  81.680 107.413  0.00  0.00           C 0
+TER
+END

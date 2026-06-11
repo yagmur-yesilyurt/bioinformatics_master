@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   147:
+HEADER 0  - Pocket Score                      : -0.1777
+HEADER 1  - Drug Score                        : 0.4055
+HEADER 2  - Number of alpha spheres           :    54
+HEADER 3  - Mean alpha-sphere radius          : 3.7999
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4163
+HEADER 5  - Mean B-factor of pocket residues  : 0.1651
+HEADER 6  - Hydrophobicity Score              : 55.8462
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6154
+HEADER 9  - Pocket volume (Monte Carlo)       : 542.2620
+HEADER 10 - Pocket volume (convex hull)       : 146.5176
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 33.0698
+HEADER 13 - Number of apolar alpha sphere     :    43
+HEADER 14 - Proportion of apolar alpha sphere : 0.7963
+ATOM   1668   CB LEU A 227     116.606 121.963  86.427  0.00  0.00           C 0
+ATOM   1670  CD1 LEU A 227     115.986 119.693  87.262  0.00  0.00           C 0
+ATOM   1423  CD1 LEU A 196     120.927 118.098  82.773  0.00  0.00           C 0
+ATOM   1394  CH2 TRP A 193     123.161 120.800  86.937  0.00  0.00           C 0
+ATOM   1765  CG2 VAL A 240     122.949 120.345  92.502  0.00  0.00           C 0
+ATOM   1764  CG1 VAL A 240     123.825 118.302  91.400  0.00  0.00           C 0
+ATOM   4613  CG1 VAL A 845     120.101 122.406  95.343  0.00  0.00           C 0
+ATOM   4641  CG1 ILE A 849     115.822 120.723  95.151  0.00  0.00           C 0
+ATOM   4643  CD1 ILE A 849     116.829 119.989  96.005  0.00  0.00           C 0
+ATOM   1392  CZ2 TRP A 193     123.842 119.652  86.670  0.00  0.00           C 0
+ATOM   1693  CG1 ILE A 230     120.489 123.795  89.454  0.00  0.00           C 0
+ATOM   1667    O LEU A 227     118.963 123.852  86.287  0.72  4.29           O 0
+ATOM   1694  CG2 ILE A 230     122.873 123.283  89.101  0.00  0.00           C 0
+ATOM   1390  CE3 TRP A 193     123.250 121.513  84.629  0.00  0.00           C 0
+ATOM   1393  CZ3 TRP A 193     122.865 121.728  85.933  0.00  0.00           C 0
+ATOM   1421   CB LEU A 196     119.397 118.865  80.937  0.00  0.00           C 0
+ATOM   1677   CG LYS A 228     118.776 125.541  81.583  0.00  0.00           C 0
+ATOM   1384    O TRP A 193     122.027 120.380  79.682  0.58  5.36           O 0
+ATOM   1425    N ASP A 197     117.928 120.733  78.628  0.00  0.00           N 0
+ATOM   1673   CA LYS A 228     118.733 125.527  84.179  0.00  0.00           C 0
+ATOM   1420    O LEU A 196     116.551 119.325  79.718  0.37  3.21           O 0
+ATOM   1424  CD2 LEU A 196     120.302 116.522  80.921  0.00  0.00           C 0
+ATOM   1646  CD1 LEU A 224     113.130 117.915  82.253  0.00  0.00           C 0
+ATOM   1672    N LYS A 228     117.584 124.863  84.835  0.00  0.00           N 0
+ATOM   1666    C LEU A 227     117.816 124.056  85.861  0.00  0.00           C 0
+ATOM   1429   CB ASP A 197     117.187 123.072  78.628  0.00  0.00           C 0
+ATOM   1419    C LEU A 196     117.677 119.609  79.295  0.00  0.00           C 0
+ATOM   1671  CD2 LEU A 227     115.828 121.663  88.779  0.00  0.00           C 0
+ATOM   1695  CD1 ILE A 230     120.850 124.164  90.873  0.00  0.00           C 0
+ATOM   1701   OG SER A 231     123.880 126.055  82.470  0.63  7.50           O 0
+ATOM   1680   NZ LYS A 228     120.600 125.983  79.334  0.67  7.66           N 0
+ATOM   1402  OD1 ASN A 194     125.309 123.155  77.546  0.73  5.36           O 0
+ATOM   1385   CB TRP A 193     124.425 120.392  81.763  0.00  0.00           C 0
+ATOM   1647  CD2 LEU A 224     113.558 118.832  84.537  0.00  0.00           C 0
+ATOM   1643    O LEU A 224     114.284 122.462  83.933  0.36  5.36           O 0
+ATOM   4634  CG2 ILE A 848     115.662 125.100  92.102  0.00  0.00           C 0
+ATOM   1700   CB SER A 231     123.238 125.292  83.476  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    87:
+HEADER 0  - Pocket Score                      : -0.0617
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9265
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5746
+HEADER 5  - Mean B-factor of pocket residues  : 0.2998
+HEADER 6  - Hydrophobicity Score              : 37.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 334.6488
+HEADER 10 - Pocket volume (convex hull)       : 19.0697
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM   3141   OH TYR A 416     129.481 120.240 104.045  0.00  0.00           O 0
+ATOM   5378   CB SER A 940     130.033 125.004 108.929  0.00  0.00           C 0
+ATOM   3175  ND2 ASN A 420     134.430 119.994 106.429  0.53  6.56           N 0
+ATOM   3176  OD1 ASN A 420     134.560 119.976 104.189  0.52  5.36           O 0
+ATOM   5348    O ALA A 936     128.213 122.267 108.293  0.65  1.07           O 0
+ATOM   4571   CG LEU A 839     126.546 125.980 105.306  0.00  0.00           C 0
+ATOM   5370   CB LEU A 939     130.730 119.620 109.893  0.00  0.00           C 0
+ATOM   5379   OG SER A 940     130.528 126.317 108.735  0.00  0.00           O 0
+ATOM   5375   CA SER A 940     130.904 124.230 109.918  0.00  0.00           C 0
+ATOM   5374    N SER A 940     130.364 122.890 110.123  0.00  0.00           N 0
+ATOM   5349   CB ALA A 936     126.643 121.041 105.637  0.00  0.00           C 0
+ATOM   4573  CD2 LEU A 839     125.831 124.743 105.830  0.00  0.00           C 0
+ATOM   5377    O SER A 940     132.013 125.677 111.477  0.18  6.43           O 0
+ATOM   5402   OG SER A 943     137.018 124.019 111.391  0.70  7.50           O 0
+ATOM   5401   CB SER A 943     135.692 123.672 111.751  0.00  0.00           C 0
+ATOM   3139  CE2 TYR A 416     129.438 118.499 105.665  0.00  0.00           C 0
+ATOM   4572  CD1 LEU A 839     127.279 126.693 106.429  0.00  0.00           C 0
+ATOM   4565   CB ALA A 838     129.538 129.892 105.398  0.00  0.00           C 0
+ATOM   4564    O ALA A 838     128.692 128.464 102.593  0.27  8.57           O 0
+ATOM   5369    O LEU A 939     132.276 122.147 111.050  0.47  1.07           O 0
+TER
+END

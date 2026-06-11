@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    58:
+HEADER 0  - Pocket Score                      : -0.0252
+HEADER 1  - Drug Score                        : 0.0043
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8457
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5620
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 64.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.8932
+HEADER 10 - Pocket volume (convex hull)       : 10.5564
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7143
+ATOM  12532    O TRP D1258     121.114  78.126  67.681  0.00  0.00           O 0
+ATOM  11352  CH2 TRP D1191     126.949  77.795  66.784  0.00  0.00           C 0
+ATOM  11442  NH2 ARG D1195     123.990  79.220  64.141  0.39  8.75           N 0
+ATOM  12517  CD1 TRP D1258     121.548  80.098  70.356  0.00  0.00           C 0
+ATOM  12603  CE2 PHE D1263     120.714  84.065  68.864  0.00  0.00           C 0
+ATOM  12522  CD2 TRP D1258     121.710  79.475  72.490  0.00  0.00           C 0
+ATOM  12527  CZ2 TRP D1258     122.997  81.334  73.383  0.00  0.00           C 0
+ATOM  12462  CD2 LEU D1255     123.998  76.010  74.809  0.00  0.00           C 0
+ATOM  12521  CE2 TRP D1258     122.321  80.731  72.388  0.00  0.00           C 0
+ATOM  12529  CH2 TRP D1258     123.015  80.734  74.623  0.00  0.00           C 0
+ATOM  12535   CA VAL D1259     122.831  75.865  67.696  0.00  0.00           C 0
+ATOM  12543  CG2 VAL D1259     124.411  74.974  69.433  0.00  0.00           C 0
+ATOM  12533    N VAL D1259     121.859  76.201  68.718  0.00  0.00           N 0
+ATOM  12519  NE1 TRP D1258     122.175  81.099  71.042  0.00  0.00           N 0
+ATOM  11350  CZ2 TRP D1191     127.303  78.619  65.722  0.00  0.00           C 0
+ATOM  12516   CG TRP D1258     121.221  79.075  71.187  0.00  0.00           C 0
+ATOM  12601  CD2 PHE D1263     119.962  83.985  67.727  0.00  0.00           C 0
+ATOM  12582   CA GLY D1262     119.951  79.857  65.117  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    39:
+HEADER 0  - Pocket Score                      : 0.0243
+HEADER 1  - Drug Score                        : 0.0045
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.9470
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5710
+HEADER 5  - Mean B-factor of pocket residues  : 0.3576
+HEADER 6  - Hydrophobicity Score              : 18.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 172.5622
+HEADER 10 - Pocket volume (convex hull)       : 3.6222
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 25.0000
+HEADER 13 - Number of apolar alpha sphere     :    26
+HEADER 14 - Proportion of apolar alpha sphere : 0.9286
+ATOM   1084  CG2 THR A 157      99.724 135.502  80.404  0.00  0.00           C 0
+ATOM   1003   CZ PHE A 147     104.303 138.221  82.779  0.00  0.00           C 0
+ATOM   1078  CH2 TRP A 156      99.836 139.727  80.665  0.00  0.00           C 0
+ATOM   1001  CE1 PHE A 147     104.546 137.734  84.044  0.00  0.00           C 0
+ATOM   1000  CD2 PHE A 147     104.043 135.988  81.981  0.00  0.00           C 0
+ATOM    999  CD1 PHE A 147     104.536 136.375  84.272  0.00  0.00           C 0
+ATOM   1024  NE2 GLN A 150     100.373 135.563  88.557  0.61  7.66           N 0
+ATOM    998   CG PHE A 147     104.287 135.487  83.244  0.00  0.00           C 0
+ATOM   1002  CE2 PHE A 147     104.052 137.347  81.746  0.00  0.00           C 0
+ATOM   1057   CD PRO A 154      95.751 136.018  82.673  0.00  0.00           C 0
+ATOM   1076  CZ2 TRP A 156      98.487 139.874  80.830  0.00  0.00           C 0
+ATOM   1023   CD GLN A 150     100.176 134.317  88.148  0.00  0.00           C 0
+ATOM    994   CA PHE A 147     103.957 133.622  84.933  0.00  0.00           C 0
+ATOM    996    O PHE A 147     102.126 132.121  84.667  0.60  2.14           O 0
+ATOM   1048   CB PRO A 153      97.298 132.557  82.764  0.00  0.00           C 0
+ATOM   1025  OE1 GLN A 150     101.100 133.575  87.817  0.86  1.07           O 0
+ATOM   1022   CG GLN A 150      98.736 133.846  88.095  0.00  0.00           C 0
+ATOM   1045   CA PRO A 153      95.966 133.123  83.271  0.00  0.00           C 0
+ATOM   1021   CB GLN A 150      98.573 132.528  87.356  0.00  0.00           C 0
+TER
+END

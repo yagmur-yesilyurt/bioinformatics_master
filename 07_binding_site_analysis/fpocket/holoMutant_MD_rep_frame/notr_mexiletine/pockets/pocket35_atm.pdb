@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.0524
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8203
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6118
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 30.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.1319
+HEADER 10 - Pocket volume (convex hull)       : 4.2269
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM  16369    O TYR D1494      86.328  57.904  67.618  0.74  2.14           O 0
+ATOM  16357  CD1 TYR D1494      91.019  56.299  69.147  0.00  0.00           C 0
+ATOM  16351   CA TYR D1494      88.772  58.177  68.105  0.00  0.00           C 0
+ATOM  16353   CB TYR D1494      89.206  57.946  69.606  0.00  0.00           C 0
+ATOM  16409   CB ALA D1497      87.022  56.075  65.007  0.00  0.00           C 0
+ATOM  16425   SD MET D1498      82.698  54.855  69.184  0.00  0.00           S 0
+ATOM  16422   CG MET D1498      83.462  56.550  69.033  0.00  0.00           C 0
+ATOM  16509   OG SER D1503      81.749  52.648  66.629  0.67  8.57           O 0
+ATOM  16523   CD LYS D1504      86.266  50.125  62.478  0.00  0.00           C 0
+ATOM  16517   CB LYS D1504      83.923  49.737  63.330  0.00  0.00           C 0
+ATOM  16529   NZ LYS D1504      87.049  52.200  61.409  0.79  4.37           N 0
+ATOM  16520   CG LYS D1504      84.772  50.410  62.306  0.00  0.00           C 0
+ATOM  16414    O ALA D1497      83.814  55.770  64.494  0.54  3.21           O 0
+ATOM  16513    N LYS D1504      82.118  51.419  63.750  0.00  0.00           N 0
+ATOM  16413    C ALA D1497      84.595  56.615  64.989  0.00  0.00           C 0
+TER
+END

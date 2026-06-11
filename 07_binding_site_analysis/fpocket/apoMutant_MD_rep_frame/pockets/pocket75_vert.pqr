@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket    75:
+HEADER 0  - Pocket Score                      : -0.0663
+HEADER 1  - Drug Score                        : 0.0141
+HEADER 2  - Number of V. Vertices             :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9202
+HEADER 4  - Mean alpha-sphere SA              : 0.5658
+HEADER 5  - Mean B-factor                     : 0.0000
+HEADER 6  - Hydrophobicity Score              : 65.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Volume Score                      : 4.8750
+HEADER 9  - Real volume (approximation)       : 340.9797
+HEADER 10 - Charge Score                      :     0
+HEADER 11 - Local hydrophobic density Score   : 19.0000
+HEADER 12 - Number of apolar alpha sphere     :    20
+HEADER 13 - Proportion of apolar alpha sphere : 0.9524
+ATOM      1    O STP    75     100.991  83.617  95.036    0.00     3.87
+ATOM      2    C STP    75      96.694  83.796  93.854    0.00     3.57
+ATOM      3    C STP    75      98.541  81.570  94.432    0.00     3.85
+ATOM      4    C STP    75      97.530  82.981  93.060    0.00     4.33
+ATOM      5    C STP    75      96.867  82.879  92.509    0.00     4.18
+ATOM      6    C STP    75      96.643  82.652  91.739    0.00     4.41
+ATOM      7    C STP    75      96.251  83.814  93.622    0.00     3.40
+ATOM      8    C STP    75      95.651  83.444  92.051    0.00     3.55
+ATOM      9    C STP    75      95.965  82.190  91.804    0.00     3.88
+ATOM     10    C STP    75      97.083  80.094  91.084    0.00     3.65
+ATOM     11    C STP    75      96.921  80.256  91.610    0.00     3.63
+ATOM     12    C STP    75      97.197  81.280  91.405    0.00     4.19
+ATOM     13    C STP    75      97.002  82.488  91.368    0.00     4.70
+ATOM     14    C STP    75      99.433  82.407  93.654    0.00     4.27
+ATOM     15    C STP    75     100.750  83.544  93.580    0.00     4.70
+ATOM     16    C STP    75      97.054  79.221  90.019    0.00     3.44
+ATOM     17    C STP    75      97.009  79.567  89.901    0.00     3.56
+ATOM     18    C STP    75      99.319  82.540  93.424    0.00     4.37
+ATOM     19    C STP    75      97.335  79.351  88.800    0.00     3.58
+ATOM     20    C STP    75      97.022  79.738  89.786    0.00     3.61
+ATOM     21    C STP    75      97.015  79.645  89.814    0.00     3.59
+TER
+END

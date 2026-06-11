@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    92:
+HEADER 0  - Pocket Score                      : -0.0721
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7312
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6048
+HEADER 5  - Mean B-factor of pocket residues  : 0.3680
+HEADER 6  - Hydrophobicity Score              : 97.7500
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 5.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 170.6539
+HEADER 10 - Pocket volume (convex hull)       : 2.0201
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8824
+ATOM   3682  CD1 LEU A 729     113.874 146.164 135.769  0.00  0.00           C 0
+ATOM   3703   CB LEU A 732     111.789 142.472 132.946  0.00  0.00           C 0
+ATOM   3714  CD2 PHE A 733     108.735 148.535 133.614  0.00  0.00           C 0
+ATOM   3708   CA PHE A 733     108.895 145.691 131.657  0.00  0.00           C 0
+ATOM   3738  CD2 LEU A 736     102.911 145.003 134.874  0.00  0.00           C 0
+ATOM   3710    O PHE A 733     106.623 145.542 130.904  0.50  1.07           O 0
+ATOM   3735   CB LEU A 736     103.827 143.688 132.959  0.00  0.00           C 0
+ATOM   3712   CG PHE A 733     108.431 148.089 132.341  0.00  0.00           C 0
+ATOM   3713  CD1 PHE A 733     107.270 148.536 131.739  0.00  0.00           C 0
+ATOM   3702    O LEU A 732     108.815 142.964 131.859  0.43  5.36           O 0
+ATOM   3707    N PHE A 733     110.044 144.810 131.463  0.00  0.00           N 0
+ATOM   3679    O LEU A 729     112.737 145.650 132.116  0.00  0.00           O 0
+ATOM   3701    C LEU A 732     109.912 143.495 131.650  0.00  0.00           C 0
+ATOM   3715  CE1 PHE A 733     106.426 149.407 132.396  0.00  0.00           C 0
+ATOM   3717   CZ PHE A 733     106.740 149.842 133.668  0.00  0.00           C 0
+ATOM   3716  CE2 PHE A 733     107.896 149.405 134.277  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   143:
+HEADER 0  - Pocket Score                      : -0.1571
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0995
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5193
+HEADER 5  - Mean B-factor of pocket residues  : 0.1465
+HEADER 6  - Hydrophobicity Score              : 58.5714
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 158.0484
+HEADER 10 - Pocket volume (convex hull)       : 1.2537
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM   4589   CB LEU A 842     123.702 123.900 100.698  0.00  0.00           C 0
+ATOM   3140   OH TYR A 416     129.481 120.240 104.045  0.00  0.00           O 0
+ATOM   1757  CG2 ILE A 239     126.060 121.667  98.086  0.00  0.00           C 0
+ATOM   1758  CD1 ILE A 239     128.187 123.722  97.199  0.00  0.00           C 0
+ATOM   4592  CD2 LEU A 842     123.885 121.760 101.966  0.00  0.00           C 0
+ATOM   4570   CG LEU A 839     126.546 125.980 105.306  0.00  0.00           C 0
+ATOM   5348   CB ALA A 936     126.643 121.041 105.637  0.00  0.00           C 0
+ATOM   4572  CD2 LEU A 839     125.831 124.743 105.830  0.00  0.00           C 0
+ATOM   4566   CA LEU A 839     126.109 127.713 103.429  0.00  0.00           C 0
+ATOM   4563    O ALA A 838     128.692 128.464 102.593  0.15  4.29           O 0
+ATOM   4581   CB ASN A 841     126.512 127.297  97.817  0.00  0.00           C 0
+ATOM   4583  ND2 ASN A 841     128.694 128.226  97.356  0.63  8.75           N 0
+ATOM   4585    N LEU A 842     123.919 125.995  99.446  0.00  0.00           N 0
+TER
+END

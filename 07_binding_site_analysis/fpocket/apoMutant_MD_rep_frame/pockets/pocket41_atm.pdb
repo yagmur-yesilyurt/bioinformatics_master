@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    41:
+HEADER 0  - Pocket Score                      : 0.0047
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9366
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5607
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 23.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 461.3241
+HEADER 10 - Pocket volume (convex hull)       : 66.1055
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.1333
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6818
+ATOM  17351   CG PRO D1554      66.162  33.963 109.780  0.00  0.00           C 0
+ATOM  17335   CB SER D1553      63.849  38.088 108.681  0.00  0.00           C 0
+ATOM  17338   OG SER D1553      63.696  38.922 109.866  0.62  9.64           O 0
+ATOM  17343   CD PRO D1554      66.327  35.473 109.439  0.00  0.00           C 0
+ATOM  17367  OE1 GLU D1555      60.009  32.345 109.199  0.00  0.00           O 0
+ATOM  17363   CG GLU D1555      61.873  32.058 107.669  0.00  0.00           C 0
+ATOM  17356    N GLU D1555      64.286  33.423 106.655  0.68  1.09           N 0
+ATOM  17452   CG LEU D1560      65.022  38.087  97.800  0.00  0.00           C 0
+ATOM  17458  CD2 LEU D1560      64.672  38.674  96.432  0.00  0.00           C 0
+ATOM  17255  CG2 VAL D1547      63.010  42.104  96.868  0.00  0.00           C 0
+ATOM  17454  CD1 LEU D1560      64.986  39.285  98.783  0.00  0.00           C 0
+ATOM  17387   NZ LYS D1556      57.625  36.964 103.668  0.00  0.00           N 0
+ATOM  17366   CD GLU D1555      60.529  31.673 108.235  0.00  0.00           C 0
+ATOM  17368  OE2 GLU D1555      59.910  30.743 107.713  0.60  7.50           O 0
+ATOM  17432  CG2 ILE D1559      62.277  32.994  97.444  0.00  0.00           C 0
+ATOM  17430   CB ILE D1559      62.952  33.034  98.778  0.00  0.00           C 0
+ATOM  17392    O LYS D1556      64.173  36.326 101.457  0.50  5.36           O 0
+ATOM  17381   CD LYS D1556      60.187  37.063 104.054  0.00  0.00           C 0
+ATOM  17373   CA LYS D1556      63.007  36.159 103.652  0.00  0.00           C 0
+ATOM  17436  CG1 ILE D1559      62.328  32.120  99.898  0.00  0.00           C 0
+ATOM  17370    O GLU D1555      63.031  33.206 103.367  0.58  3.21           O 0
+ATOM  17360   CB GLU D1555      61.848  32.995 106.401  0.00  0.00           C 0
+ATOM  17378   CG LYS D1556      61.296  37.440 105.038  0.00  0.00           C 0
+ATOM  17384   CE LYS D1556      58.768  37.507 104.483  0.00  0.00           C 0
+TER
+END

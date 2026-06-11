@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    90:
+HEADER 0  - Pocket Score                      : -0.0671
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8041
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5519
+HEADER 5  - Mean B-factor of pocket residues  : 0.2338
+HEADER 6  - Hydrophobicity Score              : 9.5556
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 117.5025
+HEADER 10 - Pocket volume (convex hull)       : 1.4575
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1818
+ATOM  10073   OG SER A1738      88.258 112.699 144.262  0.38  6.43           O 0
+ATOM  10077    O ARG A1739      86.193 115.952 143.270  0.11  5.36           O 0
+ATOM  10100    O CYS A1742      89.093 117.870 138.740  0.61  7.50           O 0
+ATOM  10088    O GLY A1740      85.746 114.064 140.534  0.70  3.21           O 0
+ATOM   9630    C TYR A1681      87.964 111.062 137.211  0.00  0.00           C 0
+ATOM  10091    C ASP A1741      86.525 115.301 137.013  0.00  0.00           C 0
+ATOM   9631    O TYR A1681      86.931 111.728 137.163  0.53  3.21           O 0
+ATOM   9640    N VAL A1682      88.978 111.275 136.372  0.00  0.00           N 0
+ATOM   9646  CG2 VAL A1682      91.237 113.064 135.660  0.00  0.00           C 0
+ATOM  10103    N GLY A1743      90.325 117.293 136.932  0.00  0.00           N 0
+ATOM   9607    O ASN A1678      93.438 113.158 140.087  0.70  9.64           O 0
+ATOM  10104   CA GLY A1743      91.606 117.459 137.585  0.00  0.00           C 0
+ATOM   9635  CD2 TYR A1681      88.191 109.926 141.778  0.00  0.00           C 0
+ATOM  10099    C CYS A1742      89.170 117.509 137.561  0.00  0.00           C 0
+ATOM  10097    N CYS A1742      86.969 116.462 137.484  0.00  0.00           N 0
+ATOM   9628    N TYR A1681      89.496 109.749 138.663  0.61  1.09           N 0
+ATOM   9632   CB TYR A1681      87.233 110.231 139.462  0.00  0.00           C 0
+TER
+END

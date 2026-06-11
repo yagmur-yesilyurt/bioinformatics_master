@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    55:
+HEADER 0  - Pocket Score                      : -0.0841
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8299
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5300
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 90.5714
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.1183
+HEADER 10 - Pocket volume (convex hull)       : 2.0354
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  15575  CG2 ILE D1448      58.909  91.907  97.852  0.00  0.00           C 0
+ATOM  15633   CB VAL D1451      60.879  86.657  96.427  0.00  0.00           C 0
+ATOM  15635  CG1 VAL D1451      60.092  85.814  95.326  0.00  0.00           C 0
+ATOM  15658  CD1 ILE D1452      60.135  90.982  93.154  0.00  0.00           C 0
+ATOM  10009   CZ PHE C 888      56.221  84.410  96.561  0.00  0.00           C 0
+ATOM  10013  CE2 PHE C 888      55.463  84.822  97.701  0.00  0.00           C 0
+ATOM  15571   CA ILE D1448      59.913  90.313  99.447  0.00  0.00           C 0
+ATOM  15579  CG1 ILE D1448      57.723  91.233 100.085  0.00  0.00           C 0
+ATOM  15552   CB TYR D1447      59.466  87.418 102.764  0.00  0.00           C 0
+ATOM  15569    N ILE D1448      60.191  89.838 100.789  0.00  0.00           N 0
+ATOM  15655  CG1 ILE D1452      60.904  91.185  94.391  0.00  0.00           C 0
+ATOM  15639  CG2 VAL D1451      60.649  86.113  97.875  0.00  0.00           C 0
+ATOM  10030  CD2 LEU C 889      57.774  83.693 100.587  0.00  0.00           C 0
+ATOM  15567    C TYR D1447      60.790  88.716 101.232  0.00  0.00           C 0
+ATOM   9966  CE2 PHE C 885      54.535  86.702 102.585  0.00  0.00           C 0
+TER
+END

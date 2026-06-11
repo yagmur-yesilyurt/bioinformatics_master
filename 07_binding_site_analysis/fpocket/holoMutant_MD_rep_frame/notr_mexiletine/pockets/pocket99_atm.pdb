@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    99:
+HEADER 0  - Pocket Score                      : -0.1606
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0402
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5399
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 19.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.5152
+HEADER 10 - Pocket volume (convex hull)       : 5.3325
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   6357  OE2 GLU B 418      58.836  67.085  65.246  0.00  0.00           O 0
+ATOM   6298    O MET B 414      62.507  69.544  69.267  0.61  3.21           O 0
+ATOM   6293   CE MET B 414      63.900  64.511  68.373  0.00  0.00           C 0
+ATOM  20972  OG1 THR D1779      66.397  65.210  64.150  0.00  0.00           O 0
+ATOM   6289   CG MET B 414      64.607  66.833  69.527  0.00  0.00           C 0
+ATOM   6342  OE2 GLU B 417      66.108  72.266  66.225  0.00  0.00           O 0
+ATOM  20970   CB THR D1779      67.100  65.052  65.385  0.00  0.00           C 0
+ATOM   6349   CB GLU B 418      59.637  69.359  67.512  0.00  0.00           C 0
+ATOM   6356  OE1 GLU B 418      58.942  66.377  67.287  0.83  4.29           O 0
+ATOM  20919  CE1 PHE D1775      68.344  70.138  68.635  0.00  0.00           C 0
+ATOM  20921   CZ PHE D1775      69.135  70.223  67.504  0.00  0.00           C 0
+ATOM  20974  CG2 THR D1779      68.531  65.616  65.204  0.00  0.00           C 0
+ATOM   6347   CA GLU B 418      59.897  70.861  66.953  0.00  0.00           C 0
+ATOM   6345    N GLU B 418      60.962  71.517  67.678  0.00  0.00           N 0
+ATOM   6334   CB GLU B 417      63.907  72.852  67.558  0.00  0.00           C 0
+ATOM   6343    C GLU B 417      61.436  72.697  67.295  0.00  0.00           C 0
+ATOM   6398   CG GLN B 421      61.162  72.915  63.220  0.00  0.00           C 0
+TER
+END

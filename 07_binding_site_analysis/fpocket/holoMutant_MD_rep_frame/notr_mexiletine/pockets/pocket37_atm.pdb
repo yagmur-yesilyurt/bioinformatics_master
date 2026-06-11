@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.0541
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.8613
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5018
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 30.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.7463
+HEADER 10 - Pocket volume (convex hull)       : 8.6494
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2593
+ATOM  14120  CD1 PHE D1356      67.789  93.624 105.841  0.00  0.00           C 0
+ATOM  15283   OG SER D1431      66.403  93.727 111.733  0.74  1.07           O 0
+ATOM  14159   CD LYS D1359      67.499  97.667 110.077  0.00  0.00           C 0
+ATOM  15542   CE MET D1446      63.606  95.854 106.065  0.00  0.00           C 0
+ATOM  14111    O LEU D1355      67.594  97.682 106.910  0.65  1.07           O 0
+ATOM  15311    N GLY D1433      65.071  96.487 113.935  0.00  0.00           N 0
+ATOM  15466  CE1 TYR D1442      59.597  96.685 114.156  0.00  0.00           C 0
+ATOM  15309    C ARG D1432      64.057  96.254 114.781  0.00  0.00           C 0
+ATOM  15310    O ARG D1432      63.370  97.156 115.192  0.55  5.36           O 0
+ATOM  15464  CD1 TYR D1442      59.862  95.295 113.864  0.00  0.00           C 0
+ATOM  15313   CA GLY D1433      65.386  97.844 113.482  0.00  0.00           C 0
+ATOM  15247    O ALA D1428      63.608  91.189 109.088  0.52  2.14           O 0
+ATOM  15481   CB ASN D1443      57.929  94.186 109.869  0.00  0.00           C 0
+ATOM  15538   CG MET D1446      62.288  93.473 106.157  0.00  0.00           C 0
+ATOM  15490    O ASN D1443      59.194  91.535 108.660  0.43  1.07           O 0
+ATOM  14162   CE LYS D1359      67.337  99.191 109.798  0.00  0.00           C 0
+ATOM  15486  ND2 ASN D1443      58.406  95.936 108.212  0.00  0.00           N 0
+ATOM  15286    O SER D1431      63.043  93.336 112.851  0.46  5.36           O 0
+ATOM  15280   CB SER D1431      65.633  92.529 111.569  0.00  0.00           C 0
+TER
+END

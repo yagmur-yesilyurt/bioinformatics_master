@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   108:
+HEADER 0  - Pocket Score                      : -0.1112
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0276
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4942
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 35.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.0185
+HEADER 10 - Pocket volume (convex hull)       : 6.1944
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   2434  OE1 GLU B 171      33.581  80.150  79.290  0.53  3.21           O 0
+ATOM   2500   NZ LYS B 175      34.391  78.870  77.080  0.00  0.00           N 0
+ATOM   1815  CE2 PHE B 133      32.057  84.667  77.375  0.00  0.00           C 0
+ATOM   1828  ND2 ASN B 134      38.633  86.163  76.704  0.59  9.84           N 0
+ATOM   1730  CD2 LEU B 128      30.947  82.051  74.166  0.00  0.00           C 0
+ATOM   2497   CE LYS B 175      33.150  78.963  76.201  0.00  0.00           C 0
+ATOM   3444  CG2 VAL B 232      38.283  82.229  80.523  0.00  0.00           C 0
+ATOM   3430   OG SER B 231      39.548  78.167  78.926  0.82  1.07           O 0
+ATOM   3433    O SER B 231      40.769  80.875  77.019  0.62  8.57           O 0
+ATOM   1875  CG2 ILE B 137      35.394  84.448  81.601  0.00  0.00           C 0
+ATOM   3440  CG1 VAL B 232      39.115  84.622  80.190  0.00  0.00           C 0
+ATOM   1813  CD2 PHE B 133      32.345  85.927  76.849  0.00  0.00           C 0
+ATOM   1821   CA ASN B 134      36.306  88.087  77.216  0.00  0.00           C 0
+ATOM   1823   CB ASN B 134      37.319  88.035  75.998  0.00  0.00           C 0
+ATOM   1873   CB ILE B 137      34.705  85.745  81.188  0.00  0.00           C 0
+ATOM   3436   CA VAL B 232      40.242  82.670  79.008  0.00  0.00           C 0
+ATOM   1735    O LEU B 128      33.295  85.542  72.121  0.00  0.00           O 0
+TER
+END

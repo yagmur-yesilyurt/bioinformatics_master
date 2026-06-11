@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   107:
+HEADER 0  - Pocket Score                      : -0.1758
+HEADER 1  - Drug Score                        : 0.0070
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0208
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6410
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 83.7143
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.5014
+HEADER 10 - Pocket volume (convex hull)       : 2.4599
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.8667
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8824
+ATOM  13065  CD2 LEU D1291     130.389  86.146  87.513  0.00  0.00           C 0
+ATOM  13018   CB ALA D1288     125.501  83.892  89.999  0.00  0.00           C 0
+ATOM  13086  CD1 PHE D1293     129.304  88.254  90.443  0.00  0.00           C 0
+ATOM  13174  CD1 ILE D1299     123.353  87.024  90.409  0.00  0.00           C 0
+ATOM  13016   CA ALA D1288     126.902  83.331  89.757  0.00  0.00           C 0
+ATOM  12958  CG1 VAL D1284     122.152  84.839  86.609  0.00  0.00           C 0
+ATOM  13004  CG1 VAL D1287     128.392  82.083  85.486  0.00  0.00           C 0
+ATOM  13014    N ALA D1288     126.720  82.302  88.757  0.73  1.09           N 0
+ATOM  12967    O VAL D1284     123.947  82.508  87.888  0.00  0.00           O 0
+ATOM  13002   CB VAL D1287     127.202  81.194  85.882  0.00  0.00           C 0
+ATOM  12954   CA VAL D1284     122.397  82.359  86.159  0.00  0.00           C 0
+ATOM  12962  CG2 VAL D1284     121.455  83.818  84.433  0.00  0.00           C 0
+ATOM  13008  CG2 VAL D1287     127.002  80.150  84.807  0.00  0.00           C 0
+ATOM  12951    O LEU D1283     123.565  79.833  85.330  0.00  0.00           O 0
+ATOM  12940   CG LEU D1283     122.546  78.419  82.633  0.00  0.00           C 0
+TER
+END

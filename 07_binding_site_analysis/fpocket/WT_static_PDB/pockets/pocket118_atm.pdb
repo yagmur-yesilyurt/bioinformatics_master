@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   118:
+HEADER 0  - Pocket Score                      : -0.1168
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8964
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6303
+HEADER 5  - Mean B-factor of pocket residues  : 0.8572
+HEADER 6  - Hydrophobicity Score              : -22.5714
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 328.4578
+HEADER 10 - Pocket volume (convex hull)       : 15.8572
+HEADER 11 - Charge Score                      :    -5
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM  10489   CB ASP A1792     157.600  80.162 100.805  0.00  0.00           C 0
+ATOM  10498   CG MET A1793     161.198  84.072 101.189  0.00  0.00           C 0
+ATOM  10464  OD1 ASP A1789     154.519  83.423  99.429  0.00  0.00           O 0
+ATOM  10461    O ASP A1789     156.004  83.151 101.721  0.45  1.07           O 0
+ATOM  10744    O SER A1822     162.510  88.098  96.854  0.53  3.21           O 0
+ATOM  10753   CD GLU A1823     159.213  90.381  93.834  0.00  0.00           C 0
+ATOM  10752   CG GLU A1823     160.709  90.141  93.879  0.00  0.00           C 0
+ATOM  10745   CB SER A1822     162.728  85.612  95.240  0.00  0.00           C 0
+ATOM  10754  OE1 GLU A1823     158.625  90.683  94.894  0.65  9.64           O 0
+ATOM  10493    N MET A1793     160.447  81.407 101.406  0.72  3.28           N 0
+ATOM  10487    C ASP A1792     159.971  80.176 101.624  0.00  0.00           C 0
+ATOM  10531  OE1 GLU A1796     162.680  78.652  97.332  0.38  9.64           O 0
+ATOM  10497   CB MET A1793     162.144  83.032 100.638  0.00  0.00           C 0
+ATOM  10499   SD MET A1793     161.566  85.730 100.587  0.00  0.00           S 0
+ATOM  10494   CA MET A1793     161.855  81.587 101.050  0.00  0.00           C 0
+ATOM  10755  OE2 GLU A1823     158.624  90.268  92.738  0.68  8.57           O 0
+ATOM  10500   CE MET A1793     160.098  86.608 101.115  0.00  0.00           C 0
+ATOM  10465  OD2 ASP A1789     153.962  85.327  98.496  0.00  0.00           O 0
+ATOM  10472  OD1 ASP A1790     156.543  87.828 102.643  0.34  6.43           O 0
+ATOM  10463   CG ASP A1789     154.043  84.576  99.491  0.00  0.00           C 0
+TER
+END

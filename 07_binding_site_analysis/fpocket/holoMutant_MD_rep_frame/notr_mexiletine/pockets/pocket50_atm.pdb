@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    50:
+HEADER 0  - Pocket Score                      : -0.0790
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6308
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3473
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 28.0833
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 186.8596
+HEADER 10 - Pocket volume (convex hull)       : 13.2259
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM   9842    O ARG C 878      58.824  76.769 108.942  0.41  5.36           O 0
+ATOM  10110  NH1 ARG C 893      63.535  73.988 103.678  0.43  7.66           N 0
+ATOM  15220   OH TYR D1426      61.774  78.607 107.489  0.75  4.29           O 0
+ATOM  10310  OD1 ASP C 905      61.029  71.907 108.545  0.63  8.57           O 0
+ATOM   9866    O TRP C 879      55.443  77.160 106.449  0.73  2.14           O 0
+ATOM   9637   OH TYR C 865      54.712  71.728 108.843  0.49  7.50           O 0
+ATOM   9867    N HIS C 880      55.316  77.189 108.669  0.00  0.00           N 0
+ATOM  10306   CB ASP C 905      59.203  70.429 108.271  0.00  0.00           C 0
+ATOM   9811   CB PRO C 877      57.472  74.390 112.937  0.00  0.00           C 0
+ATOM  10049  CD1 ILE C 890      57.722  75.354 103.724  0.00  0.00           C 0
+ATOM  10253  OG1 THR C 902      60.166  72.597 102.323  0.61  1.07           O 0
+ATOM   9895   CE MET C 881      53.136  72.471 103.197  0.00  0.00           C 0
+ATOM   9891   CG MET C 881      52.976  75.088 103.924  0.00  0.00           C 0
+ATOM  10260    O THR C 902      58.004  69.435 104.807  0.62  1.07           O 0
+ATOM   9857  CE3 TRP C 879      60.185  78.497 104.143  0.00  0.00           C 0
+ATOM   9884    N MET C 881      52.525  75.808 106.823  0.71  1.09           N 0
+ATOM  10321   SG CYS C 906      54.836  69.747 104.848  0.00  0.00           S 0
+ATOM  10255  CG2 THR C 902      58.032  71.582 102.519  0.00  0.00           C 0
+ATOM  10249   CA THR C 902      59.863  70.591 103.796  0.00  0.00           C 0
+TER
+END

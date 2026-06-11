@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    48:
+HEADER 0  - Pocket Score                      : -0.0097
+HEADER 1  - Drug Score                        : 0.0081
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7046
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5142
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 94.6250
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 182.9284
+HEADER 10 - Pocket volume (convex hull)       : 6.7670
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.9474
+ATOM  12861   CA ILE D1278     110.170  77.996  78.619  0.00  0.00           C 0
+ATOM  12872  CD1 ILE D1278     108.694  77.658  81.490  0.00  0.00           C 0
+ATOM  12916  CG2 VAL D1281     111.707  80.284  81.597  0.00  0.00           C 0
+ATOM  12847   CG LEU D1277     109.147  82.531  77.106  0.00  0.00           C 0
+ATOM  12912  CG1 VAL D1281     112.293  82.481  80.792  0.00  0.00           C 0
+ATOM  13283  CD2 LEU D1305     108.284  81.409  85.639  0.00  0.00           C 0
+ATOM  13279  CD1 LEU D1305     110.769  80.821  85.213  0.00  0.00           C 0
+ATOM  13226  CD2 LEU D1302     112.461  84.124  85.258  0.00  0.00           C 0
+ATOM  12853  CD2 LEU D1277     107.747  83.073  77.244  0.00  0.00           C 0
+ATOM  12849  CD1 LEU D1277     110.121  83.743  76.917  0.00  0.00           C 0
+ATOM  13332  CD1 LEU D1308     104.895  79.703  84.430  0.00  0.00           C 0
+ATOM  13393  CD2 LEU D1311     104.282  78.203  80.411  0.00  0.00           C 0
+ATOM  12863   CB ILE D1278     108.934  77.103  79.002  0.00  0.00           C 0
+ATOM  12859    N ILE D1278     110.019  78.742  77.334  0.00  0.00           N 0
+ATOM  12807    O LEU D1274     106.989  77.821  75.898  0.79  1.07           O 0
+ATOM  12798  CD1 LEU D1274     103.759  79.600  76.847  0.00  0.00           C 0
+TER
+END

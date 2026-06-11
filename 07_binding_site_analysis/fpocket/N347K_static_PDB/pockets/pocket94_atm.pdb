@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    94:
+HEADER 0  - Pocket Score                      : -0.0753
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.8666
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4798
+HEADER 5  - Mean B-factor of pocket residues  : 0.8024
+HEADER 6  - Hydrophobicity Score              : 44.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.8424
+HEADER 10 - Pocket volume (convex hull)       : 8.6693
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.4194
+ATOM  10498   CB MET A1793     162.144  83.032 100.638  0.00  0.00           C 0
+ATOM  10541  CD1 ILE A1797     167.339  82.259 102.105  0.00  0.00           C 0
+ATOM  10539  CG1 ILE A1797     167.241  80.805 101.698  0.00  0.00           C 0
+ATOM  10741  CD2 LEU A1821     166.582  85.873 100.553  0.00  0.00           C 0
+ATOM  10532  OE1 GLU A1796     162.680  78.652  97.332  0.38  9.64           O 0
+ATOM  10497    O MET A1793     163.822  80.547 101.956  0.00  0.00           O 0
+ATOM  10529   CB GLU A1796     163.356  77.649  99.759  0.00  0.00           C 0
+ATOM  10708    O PHE A1817     172.052  84.153  98.565  0.57  1.07           O 0
+ATOM  10734    N LEU A1821     168.275  86.217  96.825  0.00  0.00           N 0
+ATOM  10731    C ALA A1820     168.449  85.354  95.826  0.00  0.00           C 0
+ATOM  10714  CE2 PHE A1817     170.771  80.892 100.922  0.00  0.00           C 0
+ATOM  10733   CB ALA A1820     170.219  83.718  95.167  0.00  0.00           C 0
+ATOM  10732    O ALA A1820     167.525  84.672  95.370  0.68  3.21           O 0
+ATOM  10573   NZ LYS A1800     168.731  78.525  96.537  0.35  7.66           N 0
+ATOM  10742    N SER A1822     164.797  86.326  96.338  0.66  2.19           N 0
+ATOM  10747   OG SER A1822     163.303  84.406  94.769  0.28  7.50           O 0
+ATOM  10533  OE2 GLU A1796     163.990  77.345  96.150  0.73  6.43           O 0
+ATOM  10531   CD GLU A1796     163.521  77.733  97.241  0.00  0.00           C 0
+ATOM  10530   CG GLU A1796     163.993  77.057  98.513  0.00  0.00           C 0
+ATOM  10735   CA LEU A1821     166.962  86.420  97.425  0.00  0.00           C 0
+TER
+END

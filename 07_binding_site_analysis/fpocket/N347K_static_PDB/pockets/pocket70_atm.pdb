@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    70:
+HEADER 0  - Pocket Score                      : -0.0293
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9983
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7382
+HEADER 5  - Mean B-factor of pocket residues  : 0.8323
+HEADER 6  - Hydrophobicity Score              : 20.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 320.4128
+HEADER 10 - Pocket volume (convex hull)       : 15.7167
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM  10775    O ARG A1826     168.198  92.794 101.342  0.24  7.50           O 0
+ATOM  11050  NH1 ARG A1860     167.412  94.022 107.468  0.78  4.37           N 0
+ATOM  10789  CG2 ILE A1827     171.403  93.493 104.864  0.00  0.00           C 0
+ATOM  10818  ND2 ASN A1831     171.938  96.684 100.941  0.00  0.00           N 0
+ATOM  10774    C ARG A1826     168.258  92.232 102.440  0.00  0.00           C 0
+ATOM  10767    O LEU A1825     164.369  92.455 103.552  0.69  5.36           O 0
+ATOM  10873   SD MET A1838     170.762  96.069 108.685  0.00  0.00           S 0
+ATOM  10817   CG ASN A1831     173.059  96.752 101.649  0.00  0.00           C 0
+ATOM  10841   CB SER A1834     174.550  97.104 106.908  0.00  0.00           C 0
+ATOM  10816   CB ASN A1831     173.475  95.490 102.378  0.00  0.00           C 0
+ATOM  10819  OD1 ASN A1831     173.738  97.777 101.722  0.57  4.29           O 0
+ATOM  10783    N ILE A1827     169.400  92.065 103.108  0.00  0.00           N 0
+ATOM  11045   CB ARG A1860     162.723  93.753 106.833  0.00  0.00           C 0
+ATOM  11047   CD ARG A1860     165.001  92.720 106.728  0.00  0.00           C 0
+ATOM  11046   CG ARG A1860     164.007  93.478 107.589  0.00  0.00           C 0
+ATOM  10773   CA ARG A1826     167.010  91.683 103.122  0.00  0.00           C 0
+ATOM  10784   CA ILE A1827     170.654  92.631 102.628  0.00  0.00           C 0
+ATOM  10765   CA LEU A1825     163.635  91.942 101.339  0.00  0.00           C 0
+ATOM  10766    C LEU A1825     164.688  92.030 102.437  0.00  0.00           C 0
+ATOM  10760    O PRO A1824     164.549  93.224  99.010  0.00  0.00           O 0
+TER
+END

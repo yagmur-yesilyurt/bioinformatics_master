@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    82:
+HEADER 0  - Pocket Score                      : -0.1363
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9450
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6360
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -2.6667
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 293.7606
+HEADER 10 - Pocket volume (convex hull)       : 22.5068
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  12503   NZ LYS D1257     112.754  71.665  75.966  0.65  9.84           N 0
+ATOM  13476   NE ARG D1316     109.026  70.533  80.489  0.50  2.19           N 0
+ATOM  12816  OD1 ASP D1275     108.911  75.985  79.015  0.00  0.00           O 0
+ATOM  13473   CD ARG D1316     107.818  69.851  79.921  0.00  0.00           C 0
+ATOM  12734   CB TRP D1271     104.783  78.379  77.364  0.00  0.00           C 0
+ATOM  12715  ND2 ASN D1269     105.904  79.553  72.948  0.64  8.75           N 0
+ATOM  12761   SG CYS D1272     108.975  80.360  74.444  0.00  0.00           S 0
+ATOM  12754    N CYS D1272     107.293  80.441  77.171  0.00  0.00           N 0
+ATOM  13562  NH1 ARG D1321     103.619  73.914  75.569  0.72  7.66           N 0
+ATOM  13565  NH2 ARG D1321     102.695  75.063  73.848  0.69  8.75           N 0
+ATOM  13462    O SER D1315     103.786  73.134  78.193  0.00  0.00           O 0
+ATOM  13517   CD GLU D1318     103.070  70.103  72.180  0.00  0.00           C 0
+ATOM  13486    O ARG D1316     103.945  69.616  77.261  0.40  8.57           O 0
+ATOM  13518  OE1 GLU D1318     103.297  71.219  71.618  0.55  6.43           O 0
+ATOM  13459   OG SER D1315     105.854  75.350  80.066  0.80  1.07           O 0
+ATOM  13514   CG GLU D1318     102.502  69.990  73.597  0.00  0.00           C 0
+ATOM  13465   CA ARG D1316     104.782  70.718  79.340  0.00  0.00           C 0
+ATOM  13478   CZ ARG D1316     110.231  70.216  80.044  0.00  0.00           C 0
+ATOM  13482  NH2 ARG D1316     111.131  71.181  80.223  0.62  9.84           N 0
+ATOM  13479  NH1 ARG D1316     110.674  69.151  79.421  0.84  4.37           N 0
+TER
+END

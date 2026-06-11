@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    60:
+HEADER 0  - Pocket Score                      : -0.0173
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0454
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6849
+HEADER 5  - Mean B-factor of pocket residues  : 0.2142
+HEADER 6  - Hydrophobicity Score              : 5.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.9528
+HEADER 10 - Pocket volume (convex hull)       : 6.0526
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM   2218  CD1 TRP A 301      67.522  94.872 105.238  0.00  0.00           C 0
+ATOM   2263  CD1 LEU A 306      68.168  92.664 100.873  0.00  0.00           C 0
+ATOM   2222  NE1 TRP A 301      67.772  96.151 105.668  0.78  9.84           N 0
+ATOM   2264  CD2 LEU A 306      70.370  93.758 100.398  0.00  0.00           C 0
+ATOM   2260    O LEU A 306      70.572  95.000 105.036  0.00  0.00           O 0
+ATOM   2261   CB LEU A 306      69.691  93.277 102.765  0.00  0.00           C 0
+ATOM   2298  OD2 ASP A 310      70.005  98.836 106.081  0.00  0.00           O 0
+ATOM   2288    O SER A 309      75.784  97.561 104.194  0.50  5.36           O 0
+ATOM   2291    N ASP A 310      74.347  96.813 105.751  0.00  0.00           N 0
+ATOM   2287    C SER A 309      75.394  96.662 104.945  0.00  0.00           C 0
+ATOM   2258   CA LEU A 306      71.088  93.368 103.381  0.00  0.00           C 0
+ATOM   2296   CG ASP A 310      71.236  98.984 105.934  0.00  0.00           C 0
+ATOM   2290   OG SER A 309      76.309  95.934 102.613  0.54  4.29           O 0
+ATOM   2252    O ASP A 305      73.836  92.946 103.563  0.00  0.00           O 0
+ATOM   2297  OD1 ASP A 310      71.748 100.067 105.582  0.00  0.00           O 0
+ATOM   2292   CA ASP A 310      73.589  98.056 105.812  0.00  0.00           C 0
+ATOM   2305   CD PRO A 311      74.813 100.683 105.053  0.00  0.00           C 0
+ATOM   2295   CB ASP A 310      72.142  97.791 106.198  0.00  0.00           C 0
+TER
+END

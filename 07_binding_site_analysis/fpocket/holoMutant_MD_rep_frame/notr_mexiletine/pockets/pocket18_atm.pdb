@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0021
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8120
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5248
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 41.7143
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 204.8139
+HEADER 10 - Pocket volume (convex hull)       : 4.1593
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7059
+ATOM   8053  CG2 ILE C 769      66.673 124.550  74.196  0.00  0.00           C 0
+ATOM   6944   SG CYS C 700      65.865 128.000  73.291  0.00  0.00           S 0
+ATOM   6936    O CYS C 699      62.492 127.060  70.340  0.39  9.64           O 0
+ATOM   6949   CD PRO C 701      62.084 129.479  74.452  0.00  0.00           C 0
+ATOM   6957   CG PRO C 701      61.791 130.059  75.760  0.00  0.00           C 0
+ATOM   6969   CG LEU C 702      66.866 130.329  77.209  0.00  0.00           C 0
+ATOM   8057  CG1 ILE C 769      65.642 123.465  76.310  0.00  0.00           C 0
+ATOM   6939   CA CYS C 700      63.539 129.103  71.882  0.00  0.00           C 0
+ATOM   8060  CD1 ILE C 769      66.494 124.319  77.231  0.00  0.00           C 0
+ATOM   6971  CD1 LEU C 702      67.626 129.190  77.922  0.00  0.00           C 0
+ATOM   8065    O ILE C 769      65.678 122.932  71.550  0.73  1.07           O 0
+ATOM   8049   CA ILE C 769      65.464 122.490  73.959  0.00  0.00           C 0
+ATOM   8046    O ILE C 768      63.462 120.787  73.246  0.57  3.21           O 0
+ATOM   8104  OD2 ASP C 772      62.321 122.702  69.563  0.72  4.29           O 0
+TER
+END

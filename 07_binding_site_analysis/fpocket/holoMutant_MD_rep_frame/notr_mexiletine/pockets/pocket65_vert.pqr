@@ -1,0 +1,52 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket    65:
+HEADER 0  - Pocket Score                      : -0.1051
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of V. Vertices             :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.7946
+HEADER 4  - Mean alpha-sphere SA              : 0.4665
+HEADER 5  - Mean B-factor                     : 0.0000
+HEADER 6  - Hydrophobicity Score              : -5.0000
+HEADER 7  - Polarity Score                    :    11
+HEADER 8  - Volume Score                      : 4.0833
+HEADER 9  - Real volume (approximation)       : 398.8487
+HEADER 10 - Charge Score                      :    -2
+HEADER 11 - Local hydrophobic density Score   : 0.0000
+HEADER 12 - Number of apolar alpha sphere     :     0
+HEADER 13 - Proportion of apolar alpha sphere : 0.0000
+ATOM      1    O STP    65      67.499  47.306 108.209    0.00     3.73
+ATOM      2    O STP    65      68.133  47.387 109.957    0.00     3.95
+ATOM      3    O STP    65      63.418  53.327 107.932    0.00     3.44
+ATOM      4    O STP    65      64.905  53.576 107.156    0.00     3.50
+ATOM      5    O STP    65      67.696  45.714 111.747    0.00     3.87
+ATOM      6    O STP    65      68.907  46.118 110.955    0.00     3.43
+ATOM      7    O STP    65      67.128  47.511 108.500    0.00     4.03
+ATOM      8    O STP    65      67.496  47.592 108.811    0.00     4.01
+ATOM      9    O STP    65      66.317  46.638 111.284    0.00     4.57
+ATOM     10    O STP    65      66.405  47.881 112.143    0.00     3.84
+ATOM     11    O STP    65      67.943  47.558 109.849    0.00     4.09
+ATOM     12    O STP    65      63.164  53.072 108.287    0.00     3.69
+ATOM     13    O STP    65      66.768  45.112 112.052    0.00     4.17
+ATOM     14    O STP    65      67.567  45.531 111.840    0.00     3.89
+ATOM     15    O STP    65      67.500  44.723 112.715    0.00     3.64
+ATOM     16    O STP    65      64.810  44.088 110.944    0.00     4.43
+ATOM     17    O STP    65      66.697  43.923 111.503    0.00     3.49
+ATOM     18    O STP    65      67.793  47.791 109.011    0.00     3.94
+ATOM     19    O STP    65      68.138  47.773 109.774    0.00     4.02
+ATOM     20    O STP    65      68.127  47.772 109.773    0.00     4.03
+ATOM     21    O STP    65      66.151  50.064 106.604    0.00     3.52
+ATOM     22    O STP    65      66.042  48.466 107.044    0.00     3.79
+ATOM     23    O STP    65      66.015  48.476 107.092    0.00     3.83
+ATOM     24    O STP    65      68.365  48.526 110.049    0.00     3.63
+ATOM     25    O STP    65      64.399  50.300 106.721    0.00     3.56
+ATOM     26    O STP    65      65.559  50.798 106.449    0.00     3.53
+ATOM     27    O STP    65      65.201  52.307 106.884    0.00     3.40
+ATOM     28    O STP    65      64.913  53.388 107.350    0.00     3.60
+ATOM     29    O STP    65      64.926  53.319 107.354    0.00     3.60
+ATOM     30    O STP    65      64.833  53.351 107.417    0.00     3.60
+TER
+END

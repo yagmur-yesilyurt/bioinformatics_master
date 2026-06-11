@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    85:
+HEADER 0  - Pocket Score                      : -0.0797
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0402
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6444
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 2.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 343.2143
+HEADER 10 - Pocket volume (convex hull)       : 16.5431
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM    482   CB PRO B  52      32.391  76.980  45.024  0.00  0.00           C 0
+ATOM    710    N ASP B  66      36.392  81.583  46.865  0.64  3.28           N 0
+ATOM    700   CA PRO B  65      35.960  79.586  48.266  0.00  0.00           C 0
+ATOM    485   CG PRO B  52      32.227  77.495  43.616  0.00  0.00           C 0
+ATOM    718  OD1 ASP B  66      39.197  82.666  44.075  0.00  0.00           O 0
+ATOM    695    O LEU B  64      38.238  80.514  49.807  0.76  4.29           O 0
+ATOM    676    O LYS B  63      39.811  77.587  51.657  0.44  2.14           O 0
+ATOM    659   CB LYS B  63      42.153  79.804  51.217  0.00  0.00           C 0
+ATOM    554  CD1 LEU B  56      42.906  75.659  50.426  0.00  0.00           C 0
+ATOM    552   CG LEU B  56      41.767  74.636  50.318  0.00  0.00           C 0
+ATOM    714   CB ASP B  66      37.017  83.141  45.058  0.00  0.00           C 0
+ATOM    721    O ASP B  66      34.079  82.801  45.255  0.00  0.00           O 0
+ATOM    719  OD2 ASP B  66      39.143  83.235  46.203  0.42  3.21           O 0
+ATOM    717   CG ASP B  66      38.565  83.021  45.126  0.00  0.00           C 0
+ATOM    702   CB PRO B  65      34.562  79.155  48.255  0.00  0.00           C 0
+ATOM    535   CG GLN B  55      36.854  73.087  46.990  0.00  0.00           C 0
+ATOM    705   CG PRO B  65      34.510  77.886  49.151  0.00  0.00           C 0
+ATOM    696    N PRO B  65      36.458  79.092  49.579  0.60  1.09           N 0
+ATOM    532   CB GLN B  55      37.977  72.973  48.015  0.00  0.00           C 0
+ATOM    528    N GLN B  55      36.514  73.465  49.993  0.36  2.19           N 0
+TER
+END

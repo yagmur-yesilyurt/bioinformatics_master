@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   100:
+HEADER 0  - Pocket Score                      : -0.0981
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9248
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5403
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -11.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 202.0946
+HEADER 10 - Pocket volume (convex hull)       : 3.8161
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0952
+ATOM   8975   CA PRO C 823      77.558  97.148  72.197  0.00  0.00           C 0
+ATOM   9027  ND2 ASN C 826      71.821  99.510  72.305  0.63  7.66           N 0
+ATOM   8930   NZ LYS C 820      73.133 102.739  68.139  0.00  0.00           N 0
+ATOM   8980   CG PRO C 823      78.820  97.662  70.235  0.00  0.00           C 0
+ATOM   8924   CD LYS C 820      72.965 103.475  70.531  0.00  0.00           C 0
+ATOM   8916   CA LYS C 820      75.637 103.430  72.264  0.00  0.00           C 0
+ATOM   8935    O LYS C 820      77.314 103.392  70.557  0.76  4.29           O 0
+ATOM   8913    O ALA C 819      76.409 101.342  73.874  0.45  1.07           O 0
+ATOM   8977   CB PRO C 823      78.063  96.523  70.901  0.00  0.00           C 0
+ATOM   8984    O PRO C 823      76.027  95.709  73.253  0.44  1.07           O 0
+ATOM   9097   CE LYS C 830      69.609  96.534  71.050  0.00  0.00           C 0
+ATOM   9100   NZ LYS C 830      69.846  96.222  69.643  0.00  0.00           N 0
+ATOM   9038  OG1 THR C 827      74.643  93.441  72.958  0.53  7.50           O 0
+ATOM   9032    N THR C 827      73.713  95.708  74.796  0.00  0.00           N 0
+ATOM   8927   CE LYS C 820      73.642 103.612  69.173  0.00  0.00           C 0
+ATOM   9022   CB ASN C 826      73.631  98.927  73.893  0.00  0.00           C 0
+TER
+END

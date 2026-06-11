@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.0401
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0216
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6158
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 38.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 313.4999
+HEADER 10 - Pocket volume (convex hull)       : 10.3914
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM   4545    O SER B 303      71.583  41.879 119.415  0.00  0.00           O 0
+ATOM   4596    N TYR B 307      70.037  45.247 122.895  0.73  1.09           N 0
+ATOM   4411  CG2 VAL B 294      66.552  40.819 120.623  0.00  0.00           C 0
+ATOM   4600   CB TYR B 307      72.241  44.458 123.318  0.00  0.00           C 0
+ATOM   4531  OE1 GLU B 302      75.200  36.379 118.095  0.00  0.00           O 0
+ATOM   4527   CG GLU B 302      74.042  38.228 117.208  0.00  0.00           C 0
+ATOM   4559  CD2 LEU B 304      74.946  42.683 120.114  0.00  0.00           C 0
+ATOM   4603   CG TYR B 307      73.256  44.214 124.366  0.00  0.00           C 0
+ATOM   4611  CD2 TYR B 307      74.599  44.572 124.139  0.00  0.00           C 0
+ATOM   4613  CE2 TYR B 307      75.607  44.213 125.090  0.00  0.00           C 0
+ATOM   4389    O GLY B 292      66.601  40.503 125.797  0.00  0.00           O 0
+ATOM   4590  CD2 LEU B 306      65.719  42.731 123.667  0.00  0.00           C 0
+ATOM   4584   CG LEU B 306      66.355  44.127 123.683  0.00  0.00           C 0
+ATOM   4598   CA TYR B 307      71.066  45.301 123.913  0.00  0.00           C 0
+ATOM   4530   CD GLU B 302      75.395  37.475 117.560  0.00  0.00           C 0
+ATOM   4604  CD1 TYR B 307      72.904  43.635 125.595  0.00  0.00           C 0
+ATOM   4608   CZ TYR B 307      75.232  43.695 126.322  0.00  0.00           C 0
+ATOM   4581   CB LEU B 306      66.928  44.450 122.277  0.00  0.00           C 0
+ATOM   4368    O THR B 290      69.936  42.426 128.136  0.45  9.64           O 0
+TER
+END

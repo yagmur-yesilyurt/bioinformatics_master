@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0194
+HEADER 1  - Drug Score                        : 0.0034
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8741
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7713
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 53.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.6486
+HEADER 10 - Pocket volume (convex hull)       : 3.3386
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.8000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM  11272    O ALA D1186     138.044  70.916  65.721  0.63  2.14           O 0
+ATOM  11273    N PRO D1187     138.476  73.021  65.861  0.00  0.00           N 0
+ATOM  11277   CA PRO D1187     137.329  73.253  66.633  0.00  0.00           C 0
+ATOM  11282   CG PRO D1187     139.125  74.798  67.309  0.00  0.00           C 0
+ATOM  11274   CD PRO D1187     139.591  73.920  66.154  0.00  0.00           C 0
+ATOM  11271    C ALA D1186     138.729  71.843  65.338  0.00  0.00           C 0
+ATOM  11267   CB ALA D1186     141.186  71.252  64.901  0.00  0.00           C 0
+ATOM  11417  CD2 LEU D1194     130.497  71.627  71.287  0.00  0.00           C 0
+ATOM  11334   CA TRP D1191     131.665  71.899  66.562  0.00  0.00           C 0
+ATOM  11286    O PRO D1187     135.104  72.975  66.360  0.66  4.29           O 0
+ATOM  11332    N TRP D1191     132.893  71.141  66.411  0.00  0.00           N 0
+ATOM  11322  CG1 VAL D1190     134.632  69.239  69.260  0.00  0.00           C 0
+ATOM  11320   CB VAL D1190     135.303  69.715  67.945  0.00  0.00           C 0
+ATOM  11279   CB PRO D1187     137.595  74.629  67.331  0.00  0.00           C 0
+ATOM  11336   CB TRP D1191     131.756  73.308  66.028  0.00  0.00           C 0
+ATOM  11346  CE3 TRP D1191     129.893  74.471  68.566  0.00  0.00           C 0
+ATOM  11326  CG2 VAL D1190     136.698  69.122  67.906  0.00  0.00           C 0
+TER
+END

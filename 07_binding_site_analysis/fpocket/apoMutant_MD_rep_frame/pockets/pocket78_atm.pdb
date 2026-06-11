@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    78:
+HEADER 0  - Pocket Score                      : -0.0698
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    39
+HEADER 3  - Mean alpha-sphere radius          : 4.1059
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4787
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 9.5455
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 452.3609
+HEADER 10 - Pocket volume (convex hull)       : 56.3850
+HEADER 11 - Charge Score                      :    -6
+HEADER 12 - Local hydrophobic density Score   : 18.9000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.5128
+ATOM  21660    O GLU D1823      73.805  47.958  39.882  0.62  8.57           O 0
+ATOM  21642   OG SER D1822      69.611  46.309  40.591  0.00  0.00           O 0
+ATOM  21101   CG GLU D1788      69.733  51.813  46.178  0.00  0.00           C 0
+ATOM  21684  CD1 LEU D1825      73.177  53.500  42.514  0.00  0.00           C 0
+ATOM  21104   CD GLU D1788      68.757  52.775  45.509  0.00  0.00           C 0
+ATOM  21105  OE1 GLU D1788      67.474  52.651  45.567  0.72  6.43           O 0
+ATOM  21106  OE2 GLU D1788      69.271  53.775  44.902  0.90  6.43           O 0
+ATOM  21645    O SER D1822      72.788  45.064  40.172  0.77  2.14           O 0
+ATOM  21169   CB MET D1793      74.988  45.574  44.361  0.00  0.00           C 0
+ATOM  21679   CB LEU D1825      75.225  51.986  42.932  0.00  0.00           C 0
+ATOM  21675    N LEU D1825      76.138  50.347  41.318  0.51  2.19           N 0
+ATOM  21132    O ASP D1790      78.333  50.168  45.954  0.68  1.07           O 0
+ATOM  21098   CB GLU D1788      71.134  52.459  46.474  0.00  0.00           C 0
+ATOM  21120    O ASP D1789      75.434  51.506  47.413  0.59  1.07           O 0
+ATOM  21157   CB ASP D1792      73.613  48.500  48.677  0.00  0.00           C 0
+ATOM  22205  CE2 PHE D1857      80.409  47.319  42.638  0.00  0.00           C 0
+ATOM  21165    N MET D1793      74.870  46.394  46.588  0.57  4.37           N 0
+ATOM  21234  OE1 GLU D1796      69.518  43.930  48.934  0.78  8.57           O 0
+ATOM  21167   CA MET D1793      74.938  45.179  45.821  0.00  0.00           C 0
+ATOM  21230   CG GLU D1796      71.828  43.469  48.574  0.00  0.00           C 0
+ATOM  21629  CD2 LEU D1821      70.437  40.580  43.403  0.00  0.00           C 0
+ATOM  21620   CB LEU D1821      71.937  41.581  41.469  0.00  0.00           C 0
+ATOM  21625  CD1 LEU D1821      72.993  40.794  43.627  0.00  0.00           C 0
+ATOM  21227   CB GLU D1796      72.611  42.261  48.013  0.00  0.00           C 0
+TER
+END

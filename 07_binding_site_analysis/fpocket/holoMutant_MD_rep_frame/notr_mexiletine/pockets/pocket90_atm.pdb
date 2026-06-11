@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    90:
+HEADER 0  - Pocket Score                      : -0.1461
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8391
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4664
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 28.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 178.1735
+HEADER 10 - Pocket volume (convex hull)       : 3.8795
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   1773   CB SER B 131      35.075  93.186  72.525  0.00  0.00           C 0
+ATOM   1823   CB ASN B 134      36.455  88.240  75.474  0.00  0.00           C 0
+ATOM   1828  ND2 ASN B 134      38.785  87.748  74.858  0.53  9.84           N 0
+ATOM   1844   CE MET B 135      38.531  93.676  75.342  0.00  0.00           C 0
+ATOM   1779    O SER B 131      34.646  91.504  75.179  0.00  0.00           O 0
+ATOM   1771   CA SER B 131      34.131  91.986  72.907  0.00  0.00           C 0
+ATOM   1826   CG ASN B 134      37.717  87.373  75.477  0.00  0.00           C 0
+ATOM   1735    O LEU B 128      32.204  86.015  71.130  0.28  9.64           O 0
+ATOM   1776   OG SER B 131      35.630  92.997  71.243  0.61  8.57           O 0
+ATOM   1222   CG LYS B  98      36.164  90.389  68.021  0.00  0.00           C 0
+ATOM   1219   CB LYS B  98      37.359  89.575  67.625  0.00  0.00           C 0
+ATOM   1751    O VAL B 129      33.134  89.360  69.768  0.55  5.36           O 0
+ATOM   1768    O HIS B 130      32.011  90.136  72.886  0.55  1.07           O 0
+TER
+END

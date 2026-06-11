@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   142:
+HEADER 0  - Pocket Score                      : -0.1551
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8333
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3883
+HEADER 5  - Mean B-factor of pocket residues  : 0.7022
+HEADER 6  - Hydrophobicity Score              : 5.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.5139
+HEADER 10 - Pocket volume (convex hull)       : 10.2688
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM  10411   CB SER A1782     142.993  96.561 113.117  0.00  0.00           C 0
+ATOM   8177   CB LEU A1501     138.393  90.645 113.292  0.00  0.00           C 0
+ATOM   8176    O LEU A1501     140.830  89.581 112.722  0.43  5.36           O 0
+ATOM  10412   OG SER A1782     143.575  96.543 114.409  0.50  7.50           O 0
+ATOM  10418  CG2 THR A1783     145.679  92.804 113.416  0.00  0.00           C 0
+ATOM  10419  OG1 THR A1783     145.087  92.130 111.178  0.20  7.50           O 0
+ATOM  10392    O GLU A1780     141.015  96.207 109.373  0.48  9.64           O 0
+ATOM   8173    N LEU A1501     139.055  89.732 115.479  0.00  0.00           N 0
+ATOM   8162   CE LYS A1499     137.494  94.733 118.481  0.00  0.00           C 0
+ATOM   8163   NZ LYS A1499     138.889  95.166 118.767  0.12  6.56           N 0
+ATOM  10413    N THR A1783     145.270  94.965 111.477  0.30  2.19           N 0
+ATOM  10388  OG1 THR A1779     138.986  96.624 112.539  0.33  4.29           O 0
+ATOM  10387  CG2 THR A1779     138.610  97.802 114.608  0.00  0.00           C 0
+ATOM   8179  CD1 LEU A1501     136.620  92.293 112.642  0.00  0.00           C 0
+ATOM   8166    C LYS A1500     138.027  89.798 116.323  0.00  0.00           C 0
+TER
+END

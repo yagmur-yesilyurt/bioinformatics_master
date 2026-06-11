@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    80:
+HEADER 0  - Pocket Score                      : -0.0488
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7299
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4316
+HEADER 5  - Mean B-factor of pocket residues  : 0.1652
+HEADER 6  - Hydrophobicity Score              : 34.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 173.0014
+HEADER 10 - Pocket volume (convex hull)       : 0.7997
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   3740    C GLU A 737     100.053 142.450 128.582  0.00  0.00           C 0
+ATOM   7369    N VAL A1405     102.054 135.540 129.082  0.69  2.19           N 0
+ATOM   3728    O ALA A 735     104.430 140.461 130.536  0.62  8.57           O 0
+ATOM   3748   CA HIS A 738      98.367 141.175 129.774  0.00  0.00           C 0
+ATOM   3751   CB HIS A 738      98.161 140.681 131.203  0.00  0.00           C 0
+ATOM   3741    O GLU A 737      99.688 141.947 127.520  0.53  1.07           O 0
+ATOM   6959  CG1 VAL A1353     100.930 139.362 125.082  0.00  0.00           C 0
+ATOM   7375  CG2 VAL A1405     104.839 137.025 128.653  0.00  0.00           C 0
+ATOM   3747    N HIS A 738      99.417 142.184 129.721  0.00  0.00           N 0
+ATOM   7365   CB ASN A1404      99.343 135.325 130.374  0.00  0.00           C 0
+ATOM   3736  CD1 LEU A 736     102.360 142.574 134.660  0.00  0.00           C 0
+ATOM   3754  ND1 HIS A 738      99.342 142.374 132.664  0.94  2.19           N 0
+ATOM   7362   CA ASN A1404      99.654 135.771 128.942  0.00  0.00           C 0
+TER
+END

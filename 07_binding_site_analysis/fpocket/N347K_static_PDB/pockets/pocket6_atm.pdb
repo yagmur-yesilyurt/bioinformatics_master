@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1349
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5138
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3771
+HEADER 5  - Mean B-factor of pocket residues  : 0.3070
+HEADER 6  - Hydrophobicity Score              : 33.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 84.6485
+HEADER 10 - Pocket volume (convex hull)       : 1.3386
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM   1663   CB ALA A 226     112.900 126.323  87.220  0.00  0.00           C 0
+ATOM    952    O ILE A 141     112.369 132.419  85.225  0.00  0.00           O 0
+ATOM   1660   CA ALA A 226     113.916 126.059  86.112  0.00  0.00           C 0
+ATOM    979  OD1 ASN A 144     109.534 129.387  82.231  0.43  3.21           O 0
+ATOM    955  CG2 ILE A 141     115.215 130.616  85.239  0.00  0.00           C 0
+ATOM   1653   CG ARG A 225     112.727 126.401  80.784  0.00  0.00           C 0
+ATOM   1184   OH TYR A 168     114.863 130.146  80.579  0.62  1.07           O 0
+ATOM   1654   CD ARG A 225     111.676 127.368  80.246  0.00  0.00           C 0
+ATOM    985   SG CYS A 145     111.250 129.913  88.316  0.00  0.00           S 0
+ATOM   1659    N ALA A 226     113.255 125.401  84.983  0.00  0.00           N 0
+ATOM   1010   SD MET A 148     106.961 127.579  85.383  0.00  0.00           S 0
+ATOM    975    O ASN A 144     108.125 130.919  84.840  0.00  0.00           O 0
+ATOM   1011   CE MET A 148     107.488 126.616  86.797  0.00  0.00           C 0
+ATOM   1652   CB ARG A 225     112.233 125.689  82.028  0.00  0.00           C 0
+ATOM   1650    C ARG A 225     113.908 125.318  83.823  0.00  0.00           C 0
+ATOM   1625    O ARG A 222     109.723 124.315  82.994  0.56  1.07           O 0
+TER
+END

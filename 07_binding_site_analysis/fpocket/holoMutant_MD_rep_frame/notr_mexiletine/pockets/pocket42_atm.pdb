@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    42:
+HEADER 0  - Pocket Score                      : -0.0647
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    58
+HEADER 3  - Mean alpha-sphere radius          : 3.9296
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4755
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 34.5294
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.1765
+HEADER 9  - Pocket volume (Monte Carlo)       : 498.0899
+HEADER 10 - Pocket volume (convex hull)       : 125.6690
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 18.8000
+HEADER 13 - Number of apolar alpha sphere     :    25
+HEADER 14 - Proportion of apolar alpha sphere : 0.4310
+ATOM  16387  CE2 TYR D1495      83.251  64.822  67.328  0.00  0.00           C 0
+ATOM  16158    O GLY D1482      84.145  70.905  66.385  0.65  6.43           O 0
+ATOM  16206    O ILE D1485      87.069  69.117  71.652  0.57  3.21           O 0
+ATOM  16238   CE MET D1487      86.637  65.248  69.840  0.00  0.00           C 0
+ATOM  16174    C GLN D1483      87.469  69.130  66.102  0.00  0.00           C 0
+ATOM  20865   CB LEU D1772      75.439  69.882  71.179  0.00  0.00           C 0
+ATOM  20936   OG SER D1776      74.422  66.353  67.605  0.00  0.00           O 0
+ATOM  16076   NZ LYS D1477      79.135  72.959  68.076  0.70  2.19           N 0
+ATOM  20891  OE1 GLU D1773      79.335  65.115  70.194  0.58  5.36           O 0
+ATOM  16215  CD1 PHE D1486      85.800  69.410  75.000  0.00  0.00           C 0
+ATOM  19074   CB ALA D1656      84.174  64.804  72.818  0.00  0.00           C 0
+ATOM  16217  CE1 PHE D1486      84.691  70.288  75.106  0.00  0.00           C 0
+ATOM  16383   OH TYR D1495      81.148  65.433  68.360  0.00  0.00           O 0
+ATOM  16382   CZ TYR D1495      82.313  64.599  68.225  0.00  0.00           C 0
+ATOM  20817   CB ALA D1769      80.325  69.443  74.501  0.00  0.00           C 0
+ATOM  19033   OG SER D1653      79.778  63.155  73.655  0.57  2.14           O 0
+ATOM  19087   CG LEU D1657      83.021  65.626  77.005  0.00  0.00           C 0
+ATOM  16004   CZ PHE D1473      80.679  72.771  72.563  0.00  0.00           C 0
+ATOM  16073   CE LYS D1477      80.307  73.665  67.641  0.00  0.00           C 0
+ATOM  16198  CG1 ILE D1485      85.724  72.834  69.458  0.00  0.00           C 0
+ATOM  16070   CD LYS D1477      80.877  74.724  68.702  0.00  0.00           C 0
+ATOM  16448   NZ LYS D1499      78.224  63.638  66.360  0.49  5.47           N 0
+ATOM  16445   CE LYS D1499      79.661  63.436  66.259  0.00  0.00           C 0
+ATOM  16171  NE2 GLN D1483      83.032  69.261  63.382  0.00  0.00           N 0
+ATOM  16166   CG GLN D1483      84.830  67.777  63.369  0.00  0.00           C 0
+ATOM  16442   CD LYS D1499      79.926  62.351  65.192  0.00  0.00           C 0
+ATOM  20892  OE2 GLU D1773      77.838  64.340  68.806  0.54  2.14           O 0
+ATOM  20878    C LEU D1772      74.653  67.476  71.231  0.00  0.00           C 0
+ATOM  20870  CD1 LEU D1772      76.119  72.256  70.816  0.00  0.00           C 0
+ATOM  20815   CA ALA D1769      78.810  69.646  74.162  0.00  0.00           C 0
+ATOM  16161   CA GLN D1483      86.069  69.231  65.320  0.00  0.00           C 0
+ATOM  16188    N ILE D1485      87.846  70.787  69.214  0.00  0.00           N 0
+ATOM  16439   CG LYS D1499      81.382  61.849  65.166  0.00  0.00           C 0
+ATOM  16399  OD1 ASN D1496      86.506  63.327  64.003  0.77  2.14           O 0
+ATOM  20822    O ALA D1769      77.594  67.787  73.363  0.61  1.07           O 0
+ATOM  16192   CB ILE D1485      85.933  71.654  70.414  0.00  0.00           C 0
+ATOM  16194  CG2 ILE D1485      85.350  71.858  71.855  0.00  0.00           C 0
+TER
+END

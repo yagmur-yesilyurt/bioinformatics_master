@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   113:
+HEADER 0  - Pocket Score                      : -0.1184
+HEADER 1  - Drug Score                        : 0.0141
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.1307
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5538
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 76.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 357.4745
+HEADER 10 - Pocket volume (convex hull)       : 14.1975
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.8636
+ATOM  13813  CD1 LEU D1338      85.750  87.912  83.490  0.00  0.00           C 0
+ATOM  20685  CD2 LEU D1761      86.682  81.731  80.850  0.00  0.00           C 0
+ATOM  13744  CG2 ILE D1334      84.489  85.918  80.238  0.00  0.00           C 0
+ATOM  13768   CE MET D1335      88.631  87.271  80.492  0.00  0.00           C 0
+ATOM  20609  CG2 ILE D1757      85.473  84.188  85.569  0.00  0.00           C 0
+ATOM  20635  CD1 ILE D1758      91.021  81.848  86.087  0.00  0.00           C 0
+ATOM  13767   SD MET D1335      89.136  88.830  81.184  0.00  0.00           S 0
+ATOM  20557  CG2 THR D1754      92.049  85.279  89.599  0.00  0.00           C 0
+ATOM  20607   CB ILE D1757      85.822  83.740  86.989  0.00  0.00           C 0
+ATOM  20613  CG1 ILE D1757      85.178  84.736  87.979  0.00  0.00           C 0
+ATOM  20549    N THR D1754      89.753  84.274  91.364  0.00  0.00           N 0
+ATOM  20541  OG1 THR D1753      89.368  86.713  93.385  0.61  6.43           O 0
+ATOM  20548    O THR D1753      87.479  84.324  91.001  0.00  0.00           O 0
+ATOM  20547    C THR D1753      88.449  84.440  91.764  0.00  0.00           C 0
+ATOM  20632  CG1 ILE D1758      89.768  81.266  85.429  0.00  0.00           C 0
+ATOM  13707  CD1 ILE D1331      89.089  83.609  78.488  0.00  0.00           C 0
+ATOM  20551   CA THR D1754      90.044  83.813  89.977  0.00  0.00           C 0
+ATOM  20562    O THR D1754      89.087  82.180  88.646  0.50  1.07           O 0
+TER
+END

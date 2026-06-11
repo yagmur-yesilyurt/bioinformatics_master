@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   149:
+HEADER 0  - Pocket Score                      : -0.1877
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8358
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5196
+HEADER 5  - Mean B-factor of pocket residues  : 0.3787
+HEADER 6  - Hydrophobicity Score              : 49.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 183.5398
+HEADER 10 - Pocket volume (convex hull)       : 3.3144
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.8889
+ATOM   9373   CG PHE A1648     130.071  91.829 114.793  0.00  0.00           C 0
+ATOM   8180  CD2 LEU A1501     136.345  89.872 112.066  0.00  0.00           C 0
+ATOM   9340   CD ARG A1644     129.123  88.008 109.037  0.00  0.00           C 0
+ATOM   9351  OG1 THR A1645     131.423  93.971 109.112  0.55  8.57           O 0
+ATOM   9378   CZ PHE A1648     132.055  90.799 116.434  0.00  0.00           C 0
+ATOM   9375  CD2 PHE A1648     131.172  92.592 115.132  0.00  0.00           C 0
+ATOM   9377  CE2 PHE A1648     132.155  92.086 115.953  0.00  0.00           C 0
+ATOM   8179  CD1 LEU A1501     136.620  92.293 112.642  0.00  0.00           C 0
+ATOM   9374  CD1 PHE A1648     129.988  90.535 115.273  0.00  0.00           C 0
+ATOM   9339   CG ARG A1644     128.190  89.126 109.450  0.00  0.00           C 0
+ATOM   9346   CA THR A1645     129.257  94.007 110.193  0.00  0.00           C 0
+ATOM   9372   CB PHE A1648     129.008  92.379 113.888  0.00  0.00           C 0
+ATOM   9345    N THR A1645     128.559  93.090 109.305  0.00  0.00           N 0
+ATOM   9376  CE1 PHE A1648     130.970  90.023 116.094  0.00  0.00           C 0
+ATOM   9337    O ARG A1644     127.387  92.044 110.920  0.00  0.00           O 0
+TER
+END

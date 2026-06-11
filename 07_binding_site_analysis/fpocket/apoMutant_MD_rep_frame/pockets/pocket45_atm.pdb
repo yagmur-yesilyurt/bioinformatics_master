@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    45:
+HEADER 0  - Pocket Score                      : -0.0037
+HEADER 1  - Drug Score                        : 0.0032
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.9361
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4880
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 22.3000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 346.4307
+HEADER 10 - Pocket volume (convex hull)       : 22.5797
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.4333
+ATOM  15417    N TRP D1440      63.315  89.845 115.731  0.69  3.28           N 0
+ATOM  14397    N TYR D1375      65.171  91.329 121.138  0.63  1.09           N 0
+ATOM  15407   CG GLN D1439      62.038  92.858 117.104  0.00  0.00           C 0
+ATOM  14387   CB ASN D1374      64.012  88.602 122.609  0.00  0.00           C 0
+ATOM  14426  CG2 THR D1376      61.117  91.915 123.914  0.00  0.00           C 0
+ATOM  14390   CG ASN D1374      63.395  87.244 122.360  0.00  0.00           C 0
+ATOM  14391  OD1 ASN D1374      63.730  86.498 121.444  0.71  1.07           O 0
+ATOM  15421   CB TRP D1440      62.593  87.463 115.677  0.00  0.00           C 0
+ATOM   9776  CD1 LEU C 875      59.837  85.318 117.932  0.00  0.00           C 0
+ATOM  14392  ND2 ASN D1374      62.448  86.813 123.269  0.50  8.75           N 0
+ATOM   9780  CD2 LEU C 875      57.414  85.006 117.970  0.00  0.00           C 0
+ATOM   9774   CG LEU C 875      58.724  84.355 118.452  0.00  0.00           C 0
+ATOM  14385   CA ASN D1374      65.323  88.875 121.761  0.00  0.00           C 0
+ATOM  14363    O PRO D1372      67.415  85.323 120.235  0.69  1.07           O 0
+ATOM  14401   CB TYR D1375      64.426  93.348 120.148  0.00  0.00           C 0
+ATOM  15412  NE2 GLN D1439      60.017  94.056 117.566  0.00  0.00           N 0
+ATOM  14405  CD1 TYR D1375      63.033  95.521 120.181  0.00  0.00           C 0
+ATOM  15440    O TRP D1440      60.648  89.424 114.317  0.70  7.50           O 0
+ATOM  14217  NH2 ARG D1362      68.266  87.774 115.054  0.41  1.09           N 0
+ATOM  14382    O LEU D1373      67.769  89.229 120.514  0.43  4.29           O 0
+ATOM  15399    O PRO D1438      66.883  91.895 117.897  0.48  2.14           O 0
+ATOM  15431  CE3 TRP D1440      64.541  84.822 115.737  0.00  0.00           C 0
+TER
+END

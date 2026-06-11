@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   103:
+HEADER 0  - Pocket Score                      : -0.1037
+HEADER 1  - Drug Score                        : 0.0129
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8265
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6559
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 64.5714
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 252.7328
+HEADER 10 - Pocket volume (convex hull)       : 9.8312
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.7647
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.9444
+ATOM   2017  CG2 VAL B 146      42.681  90.154  93.154  0.00  0.00           C 0
+ATOM   2009   CA VAL B 146      42.043  88.210  94.634  0.00  0.00           C 0
+ATOM   2064   CB ALA B 149      45.445  86.145  97.000  0.00  0.00           C 0
+ATOM   2013  CG1 VAL B 146      41.976  90.539  95.565  0.00  0.00           C 0
+ATOM   9416  CE2 PHE C 851      46.480  84.062  93.970  0.00  0.00           C 0
+ATOM   9410  CE1 PHE C 851      45.164  82.910  92.272  0.00  0.00           C 0
+ATOM   9412   CZ PHE C 851      45.272  83.574  93.486  0.00  0.00           C 0
+ATOM   2000   CB CYS B 145      42.651  85.232  91.198  0.00  0.00           C 0
+ATOM   2022    O VAL B 146      42.302  87.538  96.880  0.00  0.00           O 0
+ATOM   2082  NE2 GLN B 150      43.256  89.105  99.602  0.58  5.47           N 0
+ATOM   1962  CD2 LEU B 142      43.256  87.065  87.049  0.00  0.00           C 0
+ATOM   2003   SG CYS B 145      42.378  83.861  89.974  0.00  0.00           S 0
+ATOM   9359  CD1 ILE C 848      46.963  83.665  86.287  0.00  0.00           C 0
+ATOM   1967    O LEU B 142      40.839  88.280  90.906  0.69  1.07           O 0
+ATOM   1953   CB LEU B 142      41.487  88.788  87.774  0.00  0.00           C 0
+ATOM   9414  CD2 PHE C 851      47.624  83.768  93.207  0.00  0.00           C 0
+ATOM   9407   CG PHE C 851      47.626  82.938  92.073  0.00  0.00           C 0
+ATOM   9408  CD1 PHE C 851      46.345  82.523  91.630  0.00  0.00           C 0
+ATOM   2006    O CYS B 145      42.981  85.668  94.316  0.66  1.07           O 0
+ATOM   2005    C CYS B 145      42.181  86.074  93.491  0.00  0.00           C 0
+TER
+END

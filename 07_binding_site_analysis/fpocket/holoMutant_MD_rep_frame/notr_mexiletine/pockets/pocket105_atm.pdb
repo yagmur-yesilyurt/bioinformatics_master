@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   105:
+HEADER 0  - Pocket Score                      : -0.1736
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9637
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5008
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -18.2000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 338.5087
+HEADER 10 - Pocket volume (convex hull)       : 21.4167
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0400
+ATOM  20216  OD1 ASP D1729      91.028  80.698 120.507  0.50  8.57           O 0
+ATOM  20195    C TYR D1727      87.878  84.390 118.669  0.00  0.00           C 0
+ATOM  20175    O PRO D1726      84.415  84.790 120.352  0.54  6.43           O 0
+ATOM  20207    O CYS D1728      89.395  84.713 122.109  0.46  6.43           O 0
+ATOM  20196    O TYR D1727      88.611  83.532 118.167  0.51  4.29           O 0
+ATOM  20178   CA TYR D1727      86.395  84.472 118.387  0.00  0.00           C 0
+ATOM  20210   CA ASP D1729      91.330  82.770 122.260  0.00  0.00           C 0
+ATOM  20221   CD PRO D1730      90.726  81.659 124.918  0.00  0.00           C 0
+ATOM  14327  OD1 ASP D1370      81.982  80.420 120.726  0.27  4.29           O 0
+ATOM  19571  OE2 GLU D1685      86.025  78.289 115.566  0.00  0.00           O 0
+ATOM  20184  CD1 TYR D1727      83.661  84.213 116.560  0.00  0.00           C 0
+ATOM  19529   NZ LYS D1683      91.497  80.247 117.578  0.54  2.19           N 0
+ATOM  19569   CD GLU D1685      87.092  77.663 115.274  0.00  0.00           C 0
+ATOM  19570  OE1 GLU D1685      87.444  76.742 116.069  0.56  3.21           O 0
+ATOM  14277  OE1 GLN D1366      83.338  85.394 123.883  0.00  0.00           O 0
+ATOM  14328  OD2 ASP D1370      82.038  82.183 122.055  0.00  0.00           O 0
+ATOM  20126    O ASN D1722      88.180  84.177 113.341  0.46  6.43           O 0
+ATOM  19566   CG GLU D1685      87.925  78.042 114.108  0.00  0.00           C 0
+ATOM  19523   CD LYS D1683      91.679  79.628 115.223  0.00  0.00           C 0
+ATOM  20180   CB TYR D1727      86.106  84.461 116.823  0.00  0.00           C 0
+ATOM  20117   CB ASN D1722      85.347  83.589 112.964  0.00  0.00           C 0
+TER
+END

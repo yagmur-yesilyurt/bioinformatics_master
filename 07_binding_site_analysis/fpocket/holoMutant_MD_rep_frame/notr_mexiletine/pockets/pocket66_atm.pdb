@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    66:
+HEADER 0  - Pocket Score                      : -0.1062
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9845
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5602
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -0.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 2.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.8862
+HEADER 10 - Pocket volume (convex hull)       : 4.1405
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM  22385  OD2 ASP D1869      75.148  56.254  49.317  0.73  7.50           O 0
+ATOM  22321   CD GLU D1864      70.714  60.778  50.227  0.00  0.00           C 0
+ATOM  22323  OE2 GLU D1864      71.699  61.198  50.911  0.67  4.29           O 0
+ATOM  22322  OE1 GLU D1864      70.409  61.337  49.175  0.00  0.00           O 0
+ATOM  22318   CG GLU D1864      69.834  59.615  50.725  0.00  0.00           C 0
+ATOM  22315   CB GLU D1864      70.491  58.533  51.693  0.00  0.00           C 0
+ATOM  22326    N SER D1865      71.111  55.459  52.686  0.67  2.19           N 0
+ATOM  22313   CA GLU D1864      69.630  57.257  51.987  0.00  0.00           C 0
+ATOM  22275  CG1 VAL D1861      67.460  52.374  51.610  0.00  0.00           C 0
+ATOM  22217  CG2 THR D1858      70.943  50.345  48.674  0.00  0.00           C 0
+ATOM  22273   CB VAL D1861      67.084  51.694  50.297  0.00  0.00           C 0
+ATOM  22222    O THR D1858      67.802  52.156  46.857  0.55  7.50           O 0
+ATOM  22213   CB THR D1858      70.477  50.705  47.288  0.00  0.00           C 0
+ATOM  22384  OD1 ASP D1869      74.890  54.395  48.192  0.80  4.29           O 0
+ATOM  22336    O SER D1865      73.773  54.356  52.114  0.50  2.14           O 0
+ATOM  22310    O GLY D1863      67.275  56.286  50.905  0.46  7.50           O 0
+TER
+END

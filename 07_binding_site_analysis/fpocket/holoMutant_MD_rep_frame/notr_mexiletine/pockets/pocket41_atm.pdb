@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    41:
+HEADER 0  - Pocket Score                      : -0.0635
+HEADER 1  - Drug Score                        : 0.0044
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0207
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6938
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 45.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 319.6344
+HEADER 10 - Pocket volume (convex hull)       : 11.9452
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.5000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   3019  CG2 THR B 206      24.284  66.319  92.679  0.00  0.00           C 0
+ATOM   3031  OG1 THR B 207      30.021  68.698  94.129  0.74  3.21           O 0
+ATOM   3084  CG2 VAL B 210      25.130  65.681  97.377  0.00  0.00           C 0
+ATOM   2974   CE MET B 203      32.312  65.488  92.047  0.00  0.00           C 0
+ATOM   3080  CG1 VAL B 210      26.801  66.526  99.156  0.00  0.00           C 0
+ATOM   3027   CA THR B 207      27.906  69.127  95.349  0.00  0.00           C 0
+ATOM   3015   CB THR B 206      25.174  67.304  92.041  0.00  0.00           C 0
+ATOM   2962    O ILE B 202      27.001  68.709  89.362  0.55  2.14           O 0
+ATOM   2965   CA MET B 203      29.657  68.506  89.611  0.00  0.00           C 0
+ATOM   3017  OG1 THR B 206      24.883  67.308  90.646  0.53  4.29           O 0
+ATOM   2973   SD MET B 203      31.693  65.741  90.411  0.00  0.00           S 0
+ATOM   2950  CG2 ILE B 202      25.501  67.740  86.520  0.00  0.00           C 0
+ATOM   2948   CB ILE B 202      26.799  68.398  86.024  0.00  0.00           C 0
+ATOM   2963    N MET B 203      28.991  68.933  88.469  0.00  0.00           N 0
+ATOM   2905   OG SER B 199      31.734  66.886  84.677  0.48  6.43           O 0
+ATOM   2967   CB MET B 203      31.159  68.276  89.361  0.00  0.00           C 0
+ATOM   2979    O MET B 203      28.938  69.071  91.783  0.00  0.00           O 0
+ATOM   3025    N THR B 207      27.164  68.964  94.028  0.73  2.19           N 0
+ATOM   2961    C ILE B 202      27.671  69.043  88.372  0.00  0.00           C 0
+ATOM   3033  CG2 THR B 207      30.221  69.251  96.383  0.00  0.00           C 0
+ATOM   3023    C THR B 206      25.784  68.649  94.030  0.00  0.00           C 0
+ATOM   3024    O THR B 206      25.145  68.310  95.061  0.00  0.00           O 0
+TER
+END

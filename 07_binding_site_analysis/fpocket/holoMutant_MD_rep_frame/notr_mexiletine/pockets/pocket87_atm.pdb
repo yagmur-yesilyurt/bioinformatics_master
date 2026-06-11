@@ -1,0 +1,50 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    87:
+HEADER 0  - Pocket Score                      : -0.1425
+HEADER 1  - Drug Score                        : 0.0083
+HEADER 2  - Number of alpha spheres           :    33
+HEADER 3  - Mean alpha-sphere radius          : 4.0056
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6067
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 22.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 360.3620
+HEADER 10 - Pocket volume (convex hull)       : 23.8002
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 17.7000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.6061
+ATOM   8936    N SER C 821      76.153 100.470  74.007  0.56  2.19           N 0
+ATOM   8903    O LEU C 818      76.098 100.410  78.748  0.50  6.43           O 0
+ATOM   8945    C SER C 821      78.037  98.948  73.833  0.00  0.00           C 0
+ATOM   8940   CB SER C 821      78.079 101.287  72.857  0.00  0.00           C 0
+ATOM   7334  OG1 THR C 724      78.421 105.965  79.734  0.82  6.43           O 0
+ATOM   8960  CD2 TRP C 822      78.648  97.128  79.538  0.00  0.00           C 0
+ATOM   8951   CB TRP C 822      78.037  97.786  77.070  0.00  0.00           C 0
+ATOM   8961  CE3 TRP C 822      77.847  97.865  80.298  0.00  0.00           C 0
+ATOM   8963  CZ3 TRP C 822      78.043  97.845  81.700  0.00  0.00           C 0
+ATOM   8959  CE2 TRP C 822      79.562  96.202  80.178  0.00  0.00           C 0
+ATOM   8965  CZ2 TRP C 822      79.780  96.138  81.566  0.00  0.00           C 0
+ATOM   8946    O SER C 821      79.160  98.632  73.411  0.77  6.43           O 0
+ATOM   7268   CB ASP C 720      77.468 107.798  74.979  0.00  0.00           C 0
+ATOM   8954   CG TRP C 822      78.841  97.010  78.110  0.00  0.00           C 0
+ATOM   7271   CG ASP C 720      76.075 107.390  74.425  0.00  0.00           C 0
+ATOM   8943   OG SER C 821      77.224 102.160  72.057  0.50  8.57           O 0
+ATOM   7273  OD2 ASP C 720      75.099 107.301  75.206  0.39  5.36           O 0
+ATOM   8918   CB LYS C 820      73.845 102.611  74.352  0.00  0.00           C 0
+ATOM   8914    N LYS C 820      74.044 100.691  75.951  0.00  0.00           N 0
+ATOM   8884    O LYS C 817      73.038 103.552  78.707  0.66  2.14           O 0
+ATOM   8924   CD LYS C 820      72.819 104.856  75.211  0.00  0.00           C 0
+ATOM   8902    C LEU C 818      75.042 100.918  79.054  0.00  0.00           C 0
+ATOM   8889   CB LEU C 818      75.824 101.691  81.183  0.00  0.00           C 0
+ATOM   8894  CD1 LEU C 818      77.062 102.232  83.379  0.00  0.00           C 0
+ATOM   7399  CG2 VAL C 728      80.447 104.108  85.414  0.00  0.00           C 0
+ATOM   8967  CH2 TRP C 822      78.964  96.975  82.329  0.00  0.00           C 0
+ATOM   8887   CA LEU C 818      74.919 102.070  80.031  0.00  0.00           C 0
+ATOM   7336  CG2 THR C 724      79.821 104.963  81.522  0.00  0.00           C 0
+TER
+END

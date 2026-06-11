@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    67:
+HEADER 0  - Pocket Score                      : -0.0397
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7565
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5124
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 40.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 81.9881
+HEADER 10 - Pocket volume (convex hull)       : 0.3042
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.8095
+ATOM  13418  NH2 ARG D1312     111.081  71.074  77.308  0.79  1.09           N 0
+ATOM  12370  CD1 PHE D1250     113.323  70.517  79.863  0.00  0.00           C 0
+ATOM  13365    O ARG D1309     106.887  71.437  81.620  0.43  7.50           O 0
+ATOM  12372  CE1 PHE D1250     112.418  69.528  80.245  0.00  0.00           C 0
+ATOM  12869  CG1 ILE D1278     108.987  76.603  80.481  0.00  0.00           C 0
+ATOM  13412   NE ARG D1312     109.125  72.263  77.008  0.72  2.19           N 0
+ATOM  12929   OG SER D1282     113.473  75.887  81.739  0.82  4.29           O 0
+ATOM  13349   CG ARG D1309     109.293  72.881  85.122  0.00  0.00           C 0
+ATOM  12376  CD2 PHE D1250     113.644  71.122  82.168  0.00  0.00           C 0
+ATOM  12378  CE2 PHE D1250     112.599  70.238  82.519  0.00  0.00           C 0
+ATOM  12374   CZ PHE D1250     112.079  69.366  81.562  0.00  0.00           C 0
+ATOM  13344   CA ARG D1309     107.231  72.813  83.543  0.00  0.00           C 0
+ATOM  12369   CG PHE D1250     114.028  71.313  80.823  0.00  0.00           C 0
+ATOM  12884  CG1 VAL D1279     112.947  73.830  77.129  0.00  0.00           C 0
+ATOM  13346   CB ARG D1309     108.271  71.976  84.474  0.00  0.00           C 0
+ATOM  12865  CG2 ILE D1278     108.693  75.987  78.080  0.00  0.00           C 0
+TER
+END

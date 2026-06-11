@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    78:
+HEADER 0  - Pocket Score                      : -0.0432
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5875
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4322
+HEADER 5  - Mean B-factor of pocket residues  : 0.2917
+HEADER 6  - Hydrophobicity Score              : 43.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 85.2234
+HEADER 10 - Pocket volume (convex hull)       : 0.6531
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   6216    O VAL A1259     129.093 103.293 163.906  0.00  0.00           O 0
+ATOM   6238   CA GLY A1262     130.321 107.093 162.455  0.00  0.00           C 0
+ATOM   5672  NH2 ARG A1195     132.601 106.546 165.513  0.73  1.09           N 0
+ATOM   5670   CZ ARG A1195     132.418 105.276 165.168  0.00  0.00           C 0
+ATOM   5628  CH2 TRP A1191     130.806 106.768 168.954  0.00  0.00           C 0
+ATOM   6202    O TRP A1258     126.204 106.687 163.755  0.52  9.64           O 0
+ATOM   6249  CE1 PHE A1263     127.268 110.835 164.524  0.00  0.00           C 0
+ATOM   6247  CD1 PHE A1263     128.273 110.738 163.580  0.00  0.00           C 0
+ATOM   5448   SG CYS A1167     132.006 112.031 166.590  0.00  0.00           S 0
+ATOM   5438    O ASP A1166     133.137 108.649 164.765  0.00  0.00           O 0
+ATOM   6214   CA VAL A1259     126.828 104.001 164.262  0.00  0.00           C 0
+ATOM   6219  CG2 VAL A1259     125.506 104.003 166.403  0.00  0.00           C 0
+TER
+END

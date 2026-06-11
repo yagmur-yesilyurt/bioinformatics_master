@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   154:
+HEADER 0  - Pocket Score                      : -0.2228
+HEADER 1  - Drug Score                        : 0.7978
+HEADER 2  - Number of alpha spheres           :    61
+HEADER 3  - Mean alpha-sphere radius          : 4.0353
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5252
+HEADER 5  - Mean B-factor of pocket residues  : 0.7277
+HEADER 6  - Hydrophobicity Score              : 71.9167
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 512.7988
+HEADER 10 - Pocket volume (convex hull)       : 74.1956
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 50.2963
+HEADER 13 - Number of apolar alpha sphere     :    54
+HEADER 14 - Proportion of apolar alpha sphere : 0.8852
+ATOM  10681  CG2 VAL A1813     180.373  80.860 103.668  0.00  0.00           C 0
+ATOM  10653   CG GLU A1810     180.009  80.861 109.684  0.00  0.00           C 0
+ATOM  10654   CD GLU A1810     181.444  80.403 109.513  0.00  0.00           C 0
+ATOM  10652   CB GLU A1810     179.615  81.925 108.674  0.00  0.00           C 0
+ATOM  10656  OE2 GLU A1810     181.793  79.326 110.042  0.58  4.29           O 0
+ATOM  10655  OE1 GLU A1810     182.222  81.118 108.849  0.68  4.29           O 0
+ATOM  10648    N GLU A1810     177.186  81.605 108.951  0.00  0.00           N 0
+ATOM  10641   CA ILE A1809     175.304  80.362 109.796  0.00  0.00           C 0
+ATOM  10632    O PHE A1808     175.453  77.672 110.536  0.60  6.43           O 0
+ATOM  10581  CE1 PHE A1801     173.909  75.870 107.707  0.00  0.00           C 0
+ATOM  10646  CG2 ILE A1809     173.123  80.034 108.581  0.00  0.00           C 0
+ATOM  10567    O LYS A1800     171.641  74.022 102.140  0.56  7.50           O 0
+ATOM  10579  CD1 PHE A1801     173.093  75.743 106.600  0.00  0.00           C 0
+ATOM  10712  CE1 PHE A1817     172.402  79.416  99.987  0.00  0.00           C 0
+ATOM  10577   CB PHE A1801     170.834  75.775 105.508  0.00  0.00           C 0
+ATOM  10578   CG PHE A1801     171.723  75.915 106.710  0.00  0.00           C 0
+ATOM  10713  CE2 PHE A1817     170.771  80.892 100.922  0.00  0.00           C 0
+ATOM  10711  CD2 PHE A1817     171.731  81.881 101.027  0.00  0.00           C 0
+ATOM  10679   CB VAL A1813     178.993  81.445 103.406  0.00  0.00           C 0
+ATOM  10680  CG1 VAL A1813     178.305  80.714 102.261  0.00  0.00           C 0
+ATOM  10710  CD1 PHE A1817     173.357  80.410 100.095  0.00  0.00           C 0
+ATOM  10539  CG2 ILE A1797     168.495  79.935 103.685  0.00  0.00           C 0
+ATOM  10688  CD1 LEU A1814     172.762  84.489 104.135  0.00  0.00           C 0
+ATOM  10682    N LEU A1814     177.022  84.010 103.835  0.68  1.09           N 0
+ATOM  10686   CB LEU A1814     175.080  84.988 104.959  0.00  0.00           C 0
+ATOM  10714   CZ PHE A1817     171.107  79.658 100.402  0.00  0.00           C 0
+ATOM  10683   CA LEU A1814     175.730  84.649 103.616  0.00  0.00           C 0
+ATOM  10644   CB ILE A1809     174.139  81.058 109.061  0.00  0.00           C 0
+ATOM  10580  CD2 PHE A1801     171.186  76.213 107.951  0.00  0.00           C 0
+ATOM  10964   SG CYS A1850     170.371  79.271 110.599  0.00  0.00           S 0
+ATOM  10550  CE3 TRP A1798     166.738  76.687 109.195  0.00  0.00           C 0
+ATOM  10542   CA TRP A1798     166.572  76.026 105.343  0.00  0.00           C 0
+ATOM  10509  CE1 PHE A1794     165.288  81.255 108.544  0.00  0.00           C 0
+ATOM  10709   CG PHE A1817     173.034  81.652 100.615  0.00  0.00           C 0
+ATOM  10708   CB PHE A1817     174.075  82.728 100.730  0.00  0.00           C 0
+ATOM  10541    N TRP A1798     166.365  77.064 104.338  0.00  0.00           N 0
+ATOM  10651    O GLU A1810     177.563  83.320 106.775  0.58  1.07           O 0
+TER
+END

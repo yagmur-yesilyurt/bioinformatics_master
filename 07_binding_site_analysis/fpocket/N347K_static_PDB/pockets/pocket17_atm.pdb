@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0785
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9111
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7402
+HEADER 5  - Mean B-factor of pocket residues  : 0.1670
+HEADER 6  - Hydrophobicity Score              : 40.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 280.3874
+HEADER 10 - Pocket volume (convex hull)       : 7.9945
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   9656    N TRP A1684      85.746 110.994 131.103  0.82  1.09           N 0
+ATOM   9660   CB TRP A1684      85.384 108.978 129.750  0.00  0.00           C 0
+ATOM   9663  CD2 TRP A1684      85.033 106.807 131.169  0.00  0.00           C 0
+ATOM   9665  CE3 TRP A1684      83.809 106.262 130.774  0.00  0.00           C 0
+ATOM   9652   CG LYS A1683      84.036 113.671 131.630  0.00  0.00           C 0
+ATOM   9659    O TRP A1684      84.768 111.189 128.092  0.67  5.36           O 0
+ATOM   9632   CB TYR A1681      87.233 110.231 139.462  0.00  0.00           C 0
+ATOM   9629   CA TYR A1681      88.115 109.951 138.247  0.00  0.00           C 0
+ATOM   9634  CD1 TYR A1681      87.254 108.028 140.692  0.00  0.00           C 0
+ATOM   9757  NE2 GLN A1695      87.454 104.586 136.414  0.76  7.66           N 0
+ATOM   9667  CZ2 TRP A1684      85.345 104.972 132.766  0.00  0.00           C 0
+ATOM   9666  NE1 TRP A1684      86.923 106.876 132.365  0.60  3.28           N 0
+ATOM   9664  CE2 TRP A1684      85.781 106.148 132.161  0.00  0.00           C 0
+ATOM   9631    O TYR A1681      86.931 111.728 137.163  0.53  3.21           O 0
+ATOM   9643    O VAL A1682      87.696 110.702 133.958  0.37  3.21           O 0
+ATOM   9630    C TYR A1681      87.964 111.062 137.211  0.00  0.00           C 0
+ATOM   9626    O ALA A1680      89.692 107.727 137.701  0.16  2.14           O 0
+ATOM   9648   CA LYS A1683      85.950 112.583 132.922  0.00  0.00           C 0
+ATOM   9661   CG TRP A1684      85.774 107.969 130.782  0.00  0.00           C 0
+ATOM   9662  CD1 TRP A1684      86.910 107.964 131.530  0.00  0.00           C 0
+TER
+END

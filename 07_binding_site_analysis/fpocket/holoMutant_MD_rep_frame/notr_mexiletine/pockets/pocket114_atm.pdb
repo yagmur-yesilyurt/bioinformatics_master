@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   114:
+HEADER 0  - Pocket Score                      : -0.2031
+HEADER 1  - Drug Score                        : 0.0045
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9409
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4891
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 67.6250
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 244.3287
+HEADER 10 - Pocket volume (convex hull)       : 8.4694
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.9000
+ATOM  10853  CD2 LEU C 939      68.525  77.120  72.780  0.00  0.00           C 0
+ATOM  15953  CG2 ILE D1470      74.880  78.197  74.013  0.00  0.00           C 0
+ATOM  10895  CD2 PHE C 942      71.895  81.159  70.339  0.00  0.00           C 0
+ATOM  10888   CG PHE C 942      71.757  81.516  71.648  0.00  0.00           C 0
+ATOM  20874  CD2 LEU D1772      73.654  71.681  71.232  0.00  0.00           C 0
+ATOM  20807  CD1 ILE D1768      74.560  73.988  74.576  0.00  0.00           C 0
+ATOM  20870  CD1 LEU D1772      76.119  72.256  70.816  0.00  0.00           C 0
+ATOM  16070   CD LYS D1477      80.877  74.724  68.702  0.00  0.00           C 0
+ATOM  16000  CD1 PHE D1473      79.537  74.910  72.733  0.00  0.00           C 0
+ATOM  16016   CB ASN D1474      78.532  79.206  69.433  0.00  0.00           C 0
+ATOM  16076   NZ LYS D1477      79.135  72.959  68.076  0.70  2.19           N 0
+ATOM  16021  ND2 ASN D1474      77.285  78.912  67.306  0.00  0.00           N 0
+ATOM  10893   CZ PHE C 942      74.239  80.647  70.706  0.00  0.00           C 0
+ATOM  20804  CG1 ILE D1768      76.059  73.826  74.557  0.00  0.00           C 0
+ATOM  15965    O ILE D1470      77.852  78.991  73.014  0.72  1.07           O 0
+ATOM  10897  CE2 PHE C 942      73.150  80.827  69.818  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : 0.0561
+HEADER 1  - Drug Score                        : 0.0037
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.8364
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4682
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 20.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.2477
+HEADER 10 - Pocket volume (convex hull)       : 9.8490
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.4688
+ATOM  22181   CA ALA D1856      87.883  46.533  42.870  0.00  0.00           C 0
+ATOM  21921  OD1 ASP D1839      93.671  46.392  39.241  0.48  9.64           O 0
+ATOM  22264  NH2 ARG D1860      90.689  45.986  37.996  0.70  4.37           N 0
+ATOM  22261  NH1 ARG D1860      91.362  48.091  38.548  0.00  0.00           N 0
+ATOM  22227   CB LYS D1859      90.073  50.031  42.407  0.00  0.00           C 0
+ATOM  22230   CG LYS D1859      91.139  49.915  43.510  0.00  0.00           C 0
+ATOM  22167  CD1 PHE D1855      92.346  46.884  45.611  0.00  0.00           C 0
+ATOM  21934  CD1 LEU D1840      96.279  41.790  43.779  0.00  0.00           C 0
+ATOM  22169  CE1 PHE D1855      93.444  47.794  45.389  0.00  0.00           C 0
+ATOM  21938  CD2 LEU D1840      97.571  41.833  41.550  0.00  0.00           C 0
+ATOM  21900   CB MET D1838      90.751  39.826  40.371  0.00  0.00           C 0
+ATOM  21913    N ASP D1839      92.437  42.245  39.003  0.60  2.19           N 0
+ATOM  22117  OD1 ASP D1852      92.834  41.191  45.967  0.53  2.14           O 0
+ATOM  21925    N LEU D1840      94.683  41.038  39.851  0.67  1.09           N 0
+ATOM  22183   CB ALA D1856      87.547  45.285  42.112  0.00  0.00           C 0
+ATOM  22179    N ALA D1856      88.268  46.293  44.202  0.77  1.09           N 0
+ATOM  22120    O ASP D1852      88.950  43.404  45.036  0.00  0.00           O 0
+ATOM  21917   CB ASP D1839      94.111  44.070  39.273  0.00  0.00           C 0
+ATOM  21906   SD MET D1838      89.047  41.010  42.179  0.00  0.00           S 0
+ATOM  21932   CG LEU D1840      96.185  41.619  42.268  0.00  0.00           C 0
+ATOM  21929   CB LEU D1840      95.619  40.227  41.855  0.00  0.00           C 0
+TER
+END

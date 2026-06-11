@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    71:
+HEADER 0  - Pocket Score                      : -0.0302
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7065
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5490
+HEADER 5  - Mean B-factor of pocket residues  : 0.0824
+HEADER 6  - Hydrophobicity Score              : 74.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 154.3578
+HEADER 10 - Pocket volume (convex hull)       : 3.8489
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM  10146    O LEU A1750     105.621 118.097 134.655  0.00  0.00           O 0
+ATOM   9557  CE1 TYR A1671     107.024 112.581 135.814  0.00  0.00           C 0
+ATOM  10184   CB THR A1754     108.890 116.921 134.606  0.00  0.00           C 0
+ATOM  10186  OG1 THR A1754     108.437 118.164 135.152  0.79  8.57           O 0
+ATOM  10152   CA PHE A1751     103.682 116.225 135.334  0.00  0.00           C 0
+ATOM  10148   CG LEU A1750     105.370 119.538 137.765  0.00  0.00           C 0
+ATOM  10149  CD1 LEU A1750     106.826 119.779 137.415  0.00  0.00           C 0
+ATOM   9560   OH TYR A1671     109.171 113.607 135.778  0.81  5.36           O 0
+ATOM  10185  CG2 THR A1754     110.258 116.600 135.179  0.00  0.00           C 0
+ATOM  10129  CG1 VAL A1747     100.093 117.438 139.884  0.00  0.00           C 0
+ATOM   9584  CE2 PHE A1674     102.554 113.875 140.629  0.00  0.00           C 0
+ATOM  10127    O VAL A1747     101.190 118.418 137.049  0.00  0.00           O 0
+ATOM  10150  CD2 LEU A1750     105.102 119.904 139.212  0.00  0.00           C 0
+ATOM  10155   CB PHE A1751     102.404 115.550 135.837  0.00  0.00           C 0
+ATOM  10157  CD1 PHE A1751     102.946 113.121 136.120  0.00  0.00           C 0
+ATOM   9582  CD2 PHE A1674     102.845 112.579 140.255  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   117:
+HEADER 0  - Pocket Score                      : -0.1166
+HEADER 1  - Drug Score                        : 0.1170
+HEADER 2  - Number of alpha spheres           :    41
+HEADER 3  - Mean alpha-sphere radius          : 3.9712
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5539
+HEADER 5  - Mean B-factor of pocket residues  : 0.2282
+HEADER 6  - Hydrophobicity Score              : 45.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 378.4584
+HEADER 10 - Pocket volume (convex hull)       : 30.7198
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 30.8235
+HEADER 13 - Number of apolar alpha sphere     :    34
+HEADER 14 - Proportion of apolar alpha sphere : 0.8293
+ATOM   8125   CB TYR A1495     133.083  95.385 125.715  0.00  0.00           C 0
+ATOM   8055   SD MET A1487     131.328  98.161 127.787  0.00  0.00           S 0
+ATOM   9425   CB PRO A1655     126.360  95.433 127.006  0.00  0.00           C 0
+ATOM   8085    O GLN A1491     132.646  94.951 129.050  0.00  0.00           O 0
+ATOM   8127  CD1 TYR A1495     131.812  96.224 123.704  0.00  0.00           C 0
+ATOM   8149    O MET A1498     133.775  89.071 121.306  0.00  0.00           O 0
+ATOM   9404   CG MET A1652     130.644  93.772 119.669  0.00  0.00           C 0
+ATOM   9398   CE MET A1651     128.479  89.638 119.204  0.00  0.00           C 0
+ATOM   9397   SD MET A1651     127.435  90.317 120.491  0.00  0.00           S 0
+ATOM   9426   CG PRO A1655     126.436  94.393 125.957  0.00  0.00           C 0
+ATOM   8113   CB TYR A1494     132.793  90.995 128.971  0.00  0.00           C 0
+ATOM   8087   CG GLN A1491     128.670  94.676 131.176  0.00  0.00           C 0
+ATOM   8083   CA GLN A1491     131.210  94.569 130.935  0.00  0.00           C 0
+ATOM   8151   CG MET A1498     133.393  87.282 124.857  0.00  0.00           C 0
+ATOM   8150   CB MET A1498     133.499  88.543 124.017  0.00  0.00           C 0
+ATOM   8112    O TYR A1494     134.126  91.270 126.053  0.00  0.00           O 0
+ATOM   8152   SD MET A1498     134.282  85.893 124.129  0.00  0.00           S 0
+ATOM   8124    O TYR A1495     134.550  93.384 123.504  0.59  2.14           O 0
+ATOM   8121    N TYR A1495     133.656  93.314 126.885  0.80  1.09           N 0
+ATOM   8086   CB GLN A1491     129.944  95.414 130.806  0.00  0.00           C 0
+ATOM   8122   CA TYR A1495     133.446  93.907 125.568  0.00  0.00           C 0
+ATOM   9400   CA MET A1652     128.381  94.554 120.523  0.00  0.00           C 0
+ATOM   9394    O MET A1651     126.327  92.978 121.401  0.00  0.00           O 0
+ATOM   8111    C TYR A1494     133.968  92.022 127.021  0.00  0.00           C 0
+ATOM   9402    O MET A1652     128.526  96.244 122.198  0.76  1.07           O 0
+TER
+END

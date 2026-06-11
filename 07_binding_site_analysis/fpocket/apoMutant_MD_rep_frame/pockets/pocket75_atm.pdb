@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    75:
+HEADER 0  - Pocket Score                      : -0.0663
+HEADER 1  - Drug Score                        : 0.0141
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9202
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5658
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 65.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 340.9797
+HEADER 10 - Pocket volume (convex hull)       : 23.8003
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 19.0000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.9524
+ATOM  20440  CG1 VAL D1747      97.837  84.140  97.217  0.00  0.00           C 0
+ATOM  19441  ND2 ASN D1678     101.211  80.208  96.855  0.76  6.56           N 0
+ATOM  20444  CG2 VAL D1747      99.060  86.405  96.901  0.00  0.00           C 0
+ATOM  19440  OD1 ASN D1678     101.160  81.869  98.485  0.55  7.50           O 0
+ATOM  20449    O VAL D1747      95.019  84.931  96.794  0.00  0.00           O 0
+ATOM  20499   CB PHE D1751      94.131  81.970  95.538  0.00  0.00           C 0
+ATOM  20489  CD2 LEU D1750      95.993  86.966  92.371  0.00  0.00           C 0
+ATOM  20503  CD1 PHE D1751      95.136  79.789  94.732  0.00  0.00           C 0
+ATOM  19382   CB PHE D1674      99.627  78.209  92.890  0.00  0.00           C 0
+ATOM  20497   CA PHE D1751      93.182  82.617  94.468  0.00  0.00           C 0
+ATOM  20555  OG1 THR D1754      92.421  83.190  90.594  0.74  3.21           O 0
+ATOM  20495    N PHE D1751      93.082  84.044  94.835  0.00  0.00           N 0
+ATOM  20483   CG LEU D1750      94.512  86.756  92.648  0.00  0.00           C 0
+ATOM  19337  CE1 TYR D1671      93.530  79.405  90.647  0.00  0.00           C 0
+ATOM  19392  CD2 PHE D1674     100.432  78.780  90.497  0.00  0.00           C 0
+ATOM  19335  CD1 TYR D1671      93.984  78.176  91.166  0.00  0.00           C 0
+ATOM  19386  CD1 PHE D1674     101.864  79.156  92.325  0.00  0.00           C 0
+ATOM  19342  CD2 TYR D1671      94.305  77.456  88.942  0.00  0.00           C 0
+ATOM  19334   CG TYR D1671      94.337  77.131  90.305  0.00  0.00           C 0
+ATOM  19385   CG PHE D1674     100.679  78.676  91.889  0.00  0.00           C 0
+ATOM  19344  CE2 TYR D1671      93.836  78.708  88.431  0.00  0.00           C 0
+ATOM  19314  CG2 ILE D1670      99.177  76.568  87.512  0.00  0.00           C 0
+ATOM  19339   CZ TYR D1671      93.444  79.708  89.292  0.00  0.00           C 0
+TER
+END

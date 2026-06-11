@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    77:
+HEADER 0  - Pocket Score                      : -0.0425
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6037
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4473
+HEADER 5  - Mean B-factor of pocket residues  : 0.3138
+HEADER 6  - Hydrophobicity Score              : 32.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 84.8038
+HEADER 10 - Pocket volume (convex hull)       : 0.9460
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM   8970    O VAL A1598     113.097  73.122 111.325  0.00  0.00           O 0
+ATOM   8997    N SER A1602     110.452  73.228 112.354  0.80  1.09           N 0
+ATOM   8993   CB LEU A1601     111.709  74.699 114.790  0.00  0.00           C 0
+ATOM   8996  CD2 LEU A1601     111.465  77.180 115.047  0.00  0.00           C 0
+ATOM   8971   CB VAL A1598     115.488  75.170 110.596  0.00  0.00           C 0
+ATOM   8968   CA VAL A1598     115.092  74.335 111.829  0.00  0.00           C 0
+ATOM   8972  CG1 VAL A1598     115.922  76.570 111.018  0.00  0.00           C 0
+ATOM   9244   CD ARG A1632     111.163  77.142 106.068  0.00  0.00           C 0
+ATOM   9247  NH1 ARG A1632     112.349  74.262 106.786  0.93  5.47           N 0
+ATOM   9242   CB ARG A1632     113.256  78.175 106.919  0.00  0.00           C 0
+ATOM   9001   CB SER A1602     110.240  73.344 109.920  0.00  0.00           C 0
+ATOM   9213    O ALA A1628     109.120  78.719 111.395  0.59  6.43           O 0
+ATOM   9238    N ARG A1632     113.713  79.888 108.757  0.69  1.09           N 0
+ATOM   9236    C GLY A1631     112.519  80.448 108.939  0.00  0.00           C 0
+ATOM   9235   CA GLY A1631     112.222  81.045 110.301  0.00  0.00           C 0
+TER
+END

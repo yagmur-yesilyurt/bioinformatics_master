@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    47:
+HEADER 0  - Pocket Score                      : 0.0057
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6066
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4101
+HEADER 5  - Mean B-factor of pocket residues  : 0.2894
+HEADER 6  - Hydrophobicity Score              : -8.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 65.9011
+HEADER 10 - Pocket volume (convex hull)       : 0.2231
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM   6362  OD2 ASP A1275     119.090 104.706 152.868  0.27  6.43           O 0
+ATOM   6161   CB GLU A1253     118.195 100.545 157.796  0.00  0.00           C 0
+ATOM   6162   CG GLU A1253     119.099  99.774 156.852  0.00  0.00           C 0
+ATOM   6198   NZ LYS A1257     123.173 103.283 154.392  0.00  3.28           N 0
+ATOM   6159    C GLU A1253     119.319 101.836 159.510  0.00  0.00           C 0
+ATOM   6160    O GLU A1253     120.550 101.881 159.564  0.52  2.14           O 0
+ATOM   6164  OE1 GLU A1253     117.565 100.387 155.157  0.74  1.07           O 0
+ATOM   6166    N MET A1254     118.555 102.918 159.615  0.00  0.00           N 0
+ATOM   6196   CD LYS A1257     123.491 104.751 156.392  0.00  0.00           C 0
+ATOM   6173   CE MET A1254     118.667 107.802 157.921  0.00  0.00           C 0
+ATOM   6360   CG ASP A1275     118.512 105.773 153.159  0.00  0.00           C 0
+ATOM   6167   CA MET A1254     119.162 104.232 159.782  0.00  0.00           C 0
+ATOM   6361  OD1 ASP A1275     117.490 105.817 153.874  0.71  2.14           O 0
+TER
+END

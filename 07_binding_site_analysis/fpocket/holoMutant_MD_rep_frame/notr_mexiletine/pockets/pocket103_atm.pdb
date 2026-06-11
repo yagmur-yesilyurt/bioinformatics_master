@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   103:
+HEADER 0  - Pocket Score                      : -0.1690
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8513
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5096
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 23.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 288.0011
+HEADER 10 - Pocket volume (convex hull)       : 10.5211
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM  16130   CB LEU D1480      89.425  76.302  67.873  0.00  0.00           C 0
+ATOM  16128   CA LEU D1480      89.543  77.005  66.481  0.00  0.00           C 0
+ATOM  13627  ND2 ASN D1325      94.039  76.768  70.476  0.45  9.84           N 0
+ATOM  16144    O LEU D1480      90.244  75.087  65.212  0.58  6.43           O 0
+ATOM  16180   CB ASP D1484      90.324  71.362  66.541  0.00  0.00           C 0
+ATOM  16139  CD2 LEU D1480      90.630  78.396  69.000  0.00  0.00           C 0
+ATOM  16125    O LYS D1479      89.815  79.250  64.897  0.00  0.00           O 0
+ATOM  16184  OD1 ASP D1484      91.675  71.487  64.619  0.72  4.29           O 0
+ATOM  16187    O ASP D1484      89.952  71.330  69.401  0.80  8.57           O 0
+ATOM  16135  CD1 LEU D1480      89.532  76.569  70.472  0.00  0.00           C 0
+ATOM  13585    O VAL D1322      92.530  73.517  73.571  0.00  0.00           O 0
+ATOM  13580  CG2 VAL D1322      95.569  70.812  71.721  0.00  0.00           C 0
+ATOM  16243    O MET D1487      92.884  68.232  69.461  0.48  6.43           O 0
+ATOM  13572   CA VAL D1322      94.674  72.379  73.451  0.00  0.00           C 0
+ATOM  13576  CG1 VAL D1322      93.183  70.401  72.419  0.00  0.00           C 0
+TER
+END

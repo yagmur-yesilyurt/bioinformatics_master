@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : 0.0118
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9275
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6636
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 17.2000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 308.0544
+HEADER 10 - Pocket volume (convex hull)       : 15.6862
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   7577  CD1 TYR C 739      79.145 101.269 108.608  0.00  0.00           C 0
+ATOM   7579  CE1 TYR C 739      78.625 101.523 109.928  0.00  0.00           C 0
+ATOM   7590    N ASN C 740      82.751 102.761 108.289  0.63  2.19           N 0
+ATOM   7692  OE1 GLU C 746      80.238 109.836 106.335  0.68  4.29           O 0
+ATOM   7598  OD1 ASN C 740      85.973 103.431 111.053  0.51  6.43           O 0
+ATOM   7592   CA ASN C 740      83.954 103.063 109.013  0.00  0.00           C 0
+ATOM   7594   CB ASN C 740      84.461 101.854 109.846  0.00  0.00           C 0
+ATOM   7582   OH TYR C 739      79.106 101.463 112.278  0.65  6.43           O 0
+ATOM   7597   CG ASN C 740      85.552 102.277 110.827  0.00  0.00           C 0
+ATOM   7620    O MET C 741      85.295 107.769 108.734  0.00  0.00           O 0
+ATOM   7604    N MET C 741      84.907 105.146 107.990  0.00  0.00           N 0
+ATOM   7611   CG MET C 741      84.062 106.493 105.526  0.00  0.00           C 0
+ATOM   7568    O HIS C 738      81.740 103.876 104.749  0.44  5.36           O 0
+ATOM   7571   CA TYR C 739      81.472 101.674 106.425  0.00  0.00           C 0
+ATOM   7615   CE MET C 741      82.169 107.540 103.934  0.00  0.00           C 0
+ATOM   7586  CE2 TYR C 739      80.552 100.320 110.803  0.00  0.00           C 0
+ATOM   7599  ND2 ASN C 740      86.043 101.228 111.531  0.00  0.00           N 0
+ATOM   7581   CZ TYR C 739      79.403 101.017 110.970  0.00  0.00           C 0
+TER
+END

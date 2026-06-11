@@ -1,0 +1,49 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : 0.0348
+HEADER 1  - Drug Score                        : 0.0100
+HEADER 2  - Number of alpha spheres           :    45
+HEADER 3  - Mean alpha-sphere radius          : 4.0882
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5910
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 68.4000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 6.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 497.8152
+HEADER 10 - Pocket volume (convex hull)       : 52.5578
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 16.8000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   6901  CE3 TRP C 697      53.170 125.417  59.007  0.00  0.00           C 0
+ATOM   6817   NE ARG C 693      45.537 123.062  61.297  0.76  5.47           N 0
+ATOM   6900  CD2 TRP C 697      53.139 125.854  60.358  0.00  0.00           C 0
+ATOM   6823  NH2 ARG C 693      45.236 125.321  61.453  0.00  0.00           N 0
+ATOM   6899  CE2 TRP C 697      53.223 127.268  60.570  0.00  0.00           C 0
+ATOM   6771  CD2 LEU C 690      42.869 122.853  65.458  0.00  0.00           C 0
+ATOM   6819   CZ ARG C 693      44.812 124.071  61.749  0.00  0.00           C 0
+ATOM   6820  NH1 ARG C 693      43.624 123.931  62.319  0.76  5.47           N 0
+ATOM   6762   CB LEU C 690      44.561 121.915  67.073  0.00  0.00           C 0
+ATOM   6808   CB ARG C 693      47.551 121.240  62.588  0.00  0.00           C 0
+ATOM   6811   CG ARG C 693      46.589 120.877  61.523  0.00  0.00           C 0
+ATOM   6891   CB TRP C 697      52.792 123.809  61.963  0.00  0.00           C 0
+ATOM   6835   CG TYR C 694      51.178 123.033  67.902  0.00  0.00           C 0
+ATOM   6832   CB TYR C 694      50.294 122.124  67.074  0.00  0.00           C 0
+ATOM   6836  CD1 TYR C 694      51.469 124.363  67.509  0.00  0.00           C 0
+ATOM   6894   CG TRP C 697      52.945 125.248  61.655  0.00  0.00           C 0
+ATOM   6889   CA TRP C 697      53.966 122.846  61.594  0.00  0.00           C 0
+ATOM   6886    O ILE C 696      54.992 120.597  60.239  0.67  4.29           O 0
+ATOM   6874  CG2 ILE C 696      51.785 118.996  60.606  0.00  0.00           C 0
+ATOM   6827    O ARG C 693      50.975 121.510  62.843  0.68  1.07           O 0
+ATOM   6897  NE1 TRP C 697      52.987 127.485  61.878  0.55  4.37           N 0
+ATOM   6895  CD1 TRP C 697      52.783 126.266  62.500  0.00  0.00           C 0
+ATOM   6806   CA ARG C 693      48.838 120.398  62.780  0.00  0.00           C 0
+ATOM   6776    O LEU C 690      47.467 120.974  66.268  0.78  2.14           O 0
+ATOM   6828    N TYR C 694      49.888 121.336  64.817  0.00  0.00           N 0
+ATOM   6830   CA TYR C 694      50.870 121.982  65.636  0.00  0.00           C 0
+ATOM   6826    C ARG C 693      49.955 121.162  63.461  0.00  0.00           C 0
+TER
+END

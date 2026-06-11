@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    76:
+HEADER 0  - Pocket Score                      : -0.0423
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6232
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4052
+HEADER 5  - Mean B-factor of pocket residues  : 0.4786
+HEADER 6  - Hydrophobicity Score              : -9.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 158.5816
+HEADER 10 - Pocket volume (convex hull)       : 1.1364
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    871    N SER A 131     130.541 138.159  80.304  0.51  1.09           N 0
+ATOM    610   CG LYS A  98     136.493 141.443  80.340  0.00  0.00           C 0
+ATOM    867  CD2 HIS A 130     132.375 141.061  77.879  0.00  0.00           C 0
+ATOM    870  NE2 HIS A 130     131.997 142.124  78.661  0.73  4.37           N 0
+ATOM    876   OG SER A 131     130.148 140.067  82.485  0.43  8.57           O 0
+ATOM    605    N LYS A  98     137.262 138.663  80.927  0.61  1.09           N 0
+ATOM    609   CB LYS A  98     136.851 140.941  81.729  0.00  0.00           C 0
+ATOM    875   CB SER A 131     130.102 138.662  82.652  0.00  0.00           C 0
+ATOM    862   CA HIS A 130     131.546 137.653  78.159  0.00  0.00           C 0
+ATOM    601   CB ASN A  97     135.945 136.146  80.319  0.00  0.00           C 0
+ATOM    614    N GLY A  99     137.465 138.219  83.624  0.00  0.00           N 0
+ATOM    603  ND2 ASN A  97     134.775 135.499  82.337  0.48  5.47           N 0
+ATOM    615   CA GLY A  99     137.778 137.653  84.921  0.00  0.00           C 0
+TER
+END

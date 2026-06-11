@@ -1,0 +1,71 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   133:
+HEADER 0  - Pocket Score                      : -0.3842
+HEADER 1  - Drug Score                        : 0.0053
+HEADER 2  - Number of alpha spheres           :    63
+HEADER 3  - Mean alpha-sphere radius          : 4.1025
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5835
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 14.4000
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.5333
+HEADER 9  - Pocket volume (Monte Carlo)       : 788.1024
+HEADER 10 - Pocket volume (convex hull)       : 157.1876
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 22.6667
+HEADER 13 - Number of apolar alpha sphere     :    33
+HEADER 14 - Proportion of apolar alpha sphere : 0.5238
+ATOM  11370  CE3 TRP D1192     129.405  66.467  62.005  0.00  0.00           C 0
+ATOM  11368  CE2 TRP D1192     128.400  67.489  60.157  0.00  0.00           C 0
+ATOM  11369  CD2 TRP D1192     129.206  67.600  61.311  0.00  0.00           C 0
+ATOM  11399  NH2 ARG D1193     132.654  62.322  61.571  0.00  0.00           N 0
+ATOM  11393   NE ARG D1193     132.007  63.915  63.147  0.58  4.37           N 0
+ATOM  11298   CB LYS D1189     136.466  69.109  62.430  0.00  0.00           C 0
+ATOM  11301   CG LYS D1189     137.081  69.529  61.094  0.00  0.00           C 0
+ATOM  11304   CD LYS D1189     138.239  68.714  60.573  0.00  0.00           C 0
+ATOM  11315    O LYS D1189     133.807  68.502  63.999  0.62  3.21           O 0
+ATOM  11226  CG2 THR D1183     133.747  74.702  60.030  0.00  0.00           C 0
+ATOM  11218    N THR D1183     134.098  74.773  57.009  0.64  1.09           N 0
+ATOM  11210   CB ASP D1182     132.244  72.821  55.311  0.00  0.00           C 0
+ATOM  11215  OD2 ASP D1182     129.930  73.460  54.605  0.00  4.29           O 0
+ATOM  11168    O CYS D1178     132.241  78.549  57.067  0.65  3.21           O 0
+ATOM  10963    O PRO D1164     123.132  71.270  60.238  0.00  0.00           O 0
+ATOM  10988  OD2 ASP D1166     124.740  76.316  57.357  0.52  8.57           O 0
+ATOM  11366  NE1 TRP D1192     128.272  68.731  59.678  0.74  8.75           N 0
+ATOM  11176   SG CYS D1179     129.018  80.638  58.212  0.00  0.00           S 0
+ATOM  11340  CD1 TRP D1191     129.976  74.719  64.943  0.00  0.00           C 0
+ATOM  11364  CD1 TRP D1192     128.984  69.600  60.413  0.00  0.00           C 0
+ATOM  11358   CA TRP D1192     129.755  69.879  63.882  0.00  0.00           C 0
+ATOM  11360   CB TRP D1192     130.461  69.612  62.507  0.00  0.00           C 0
+ATOM  11231    O THR D1183     135.599  72.657  58.261  0.64  5.36           O 0
+ATOM  11214  OD1 ASP D1182     130.641  71.327  54.634  0.00  9.64           O 0
+ATOM  11213   CG ASP D1182     130.860  72.574  54.768  0.00  0.00           C 0
+ATOM  11208   CA ASP D1182     132.741  74.247  55.041  0.00  0.00           C 0
+ATOM  11293    O GLY D1188     133.370  71.857  62.943  0.51  3.21           O 0
+ATOM  11296   CA LYS D1189     135.312  69.947  62.903  0.00  0.00           C 0
+ATOM  11433   CD ARG D1195     125.901  73.778  66.634  0.00  0.00           C 0
+ATOM  11355    O TRP D1191     129.380  71.068  66.421  0.00  0.00           O 0
+ATOM  11376  CH2 TRP D1192     128.062  65.178  60.448  0.00  0.00           C 0
+ATOM  11374  CZ2 TRP D1192     127.824  66.316  59.686  0.00  0.00           C 0
+ATOM  11372  CZ3 TRP D1192     128.795  65.234  61.603  0.00  0.00           C 0
+ATOM  10978    O GLU D1165     123.210  74.532  61.735  0.00  0.00           O 0
+ATOM  10998   SG CYS D1167     125.103  78.276  64.684  0.00  0.00           S 0
+ATOM  10991    N CYS D1167     123.776  78.135  61.510  0.59  2.19           N 0
+ATOM  10995   CB CYS D1167     124.526  79.513  63.475  0.00  0.00           C 0
+ATOM  11012  CE1 PHE D1168     127.192  81.742  61.473  0.00  0.00           C 0
+ATOM  10981   CA ASP D1166     123.158  76.538  59.766  0.00  0.00           C 0
+ATOM  11342  NE1 TRP D1191     128.928  75.526  65.290  0.70  9.84           N 0
+ATOM  11010  CD1 PHE D1168     126.161  81.455  60.613  0.00  0.00           C 0
+ATOM  11363   CG TRP D1192     129.615  68.973  61.477  0.00  0.00           C 0
+ATOM  11171   CA CYS D1179     129.775  79.077  55.882  0.00  0.00           C 0
+ATOM  11173   CB CYS D1179     128.608  79.872  56.532  0.00  0.00           C 0
+ATOM  11179    O CYS D1179     128.649  77.531  54.359  0.27  3.21           O 0
+ATOM  11439  NH1 ARG D1195     124.412  74.630  64.243  0.00  0.00           N 0
+ATOM  10956   CB PRO D1164     124.336  70.461  62.980  0.00  0.00           C 0
+ATOM  10959   CG PRO D1164     125.356  69.549  62.411  0.00  0.00           C 0
+ATOM  11427   CB ARG D1195     125.746  71.254  66.672  0.00  0.00           C 0
+TER
+END

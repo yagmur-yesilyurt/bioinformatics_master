@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    83:
+HEADER 0  - Pocket Score                      : -0.0537
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7375
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5442
+HEADER 5  - Mean B-factor of pocket residues  : 0.3032
+HEADER 6  - Hydrophobicity Score              : 91.4000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 7.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 94.2658
+HEADER 10 - Pocket volume (convex hull)       : 0.2646
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   6345  CZ3 TRP A1273     121.399 116.011 154.941  0.00  0.00           C 0
+ATOM   6370  CD2 PHE A1276     117.918 113.236 157.081  0.00  0.00           C 0
+ATOM   6279  CE2 TYR A1266     122.080 111.417 155.691  0.00  0.00           C 0
+ATOM   6372  CE2 PHE A1276     117.773 113.675 158.379  0.00  0.00           C 0
+ATOM   6373   CZ PHE A1276     118.158 112.867 159.425  0.00  0.00           C 0
+ATOM   6210  CZ2 TRP A1258     123.205 111.247 160.157  0.00  0.00           C 0
+ATOM   6346  CH2 TRP A1273     122.624 116.543 155.350  0.00  0.00           C 0
+ATOM   6371  CE1 PHE A1276     118.686 111.624 159.171  0.00  0.00           C 0
+ATOM   6277  CD2 TYR A1266     123.184 112.228 155.515  0.00  0.00           C 0
+ATOM   6274   CB TYR A1266     125.650 112.719 155.758  0.00  0.00           C 0
+ATOM   6275   CG TYR A1266     124.439 111.834 155.958  0.00  0.00           C 0
+ATOM   6212  CH2 TRP A1258     124.549 111.408 159.963  0.00  0.00           C 0
+ATOM   6292   CZ PHE A1267     127.521 116.302 157.868  0.00  0.00           C 0
+TER
+END

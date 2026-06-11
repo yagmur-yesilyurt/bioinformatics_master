@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : 0.0253
+HEADER 1  - Drug Score                        : 0.0077
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7844
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5518
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 89.4286
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 187.8978
+HEADER 10 - Pocket volume (convex hull)       : 5.7189
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.9000
+ATOM  19261  CG1 VAL D1667      92.675  75.768  86.090  0.00  0.00           C 0
+ATOM  19265  CG2 VAL D1667      93.243  75.312  83.673  0.00  0.00           C 0
+ATOM  19314  CG2 ILE D1670      99.177  76.568  87.512  0.00  0.00           C 0
+ATOM  19312   CB ILE D1670      98.757  75.109  87.093  0.00  0.00           C 0
+ATOM  13442  CD1 LEU D1314      98.629  76.277  77.793  0.00  0.00           C 0
+ATOM  19187  CD1 LEU D1663      93.850  74.425  79.651  0.00  0.00           C 0
+ATOM  19243   CG LEU D1666      97.803  72.014  82.441  0.00  0.00           C 0
+ATOM  13446  CD2 LEU D1314      97.840  74.000  77.813  0.00  0.00           C 0
+ATOM  19249  CD2 LEU D1666      98.253  71.907  80.925  0.00  0.00           C 0
+ATOM  19321  CD1 ILE D1670     100.166  75.332  84.915  0.00  0.00           C 0
+ATOM  13382   CA LEU D1311     102.978  74.456  80.302  0.00  0.00           C 0
+ATOM  13389  CD1 LEU D1311     101.849  77.429  80.520  0.00  0.00           C 0
+ATOM  19342  CD2 TYR D1671      94.305  77.456  88.942  0.00  0.00           C 0
+ATOM  19257   CA VAL D1667      94.282  73.846  85.506  0.00  0.00           C 0
+ATOM  19344  CE2 TYR D1671      93.836  78.708  88.431  0.00  0.00           C 0
+ATOM  19254    O LEU D1666      96.670  72.437  85.542  0.00  0.00           O 0
+ATOM  19255    N VAL D1667      94.572  72.767  84.547  0.00  0.00           N 0
+TER
+END

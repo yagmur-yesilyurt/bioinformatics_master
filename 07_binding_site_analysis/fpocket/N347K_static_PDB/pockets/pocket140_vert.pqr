@@ -1,0 +1,50 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   140:
+HEADER 0  - Pocket Score                      : -0.1493
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of V. Vertices             :    28
+HEADER 3  - Mean alpha-sphere radius          : 4.1479
+HEADER 4  - Mean alpha-sphere SA              : 0.5231
+HEADER 5  - Mean B-factor                     : 0.2727
+HEADER 6  - Hydrophobicity Score              : 6.5833
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Volume Score                      : 3.6667
+HEADER 9  - Real volume (approximation)       : 503.3781
+HEADER 10 - Charge Score                      :     3
+HEADER 11 - Local hydrophobic density Score   : 2.0000
+HEADER 12 - Number of apolar alpha sphere     :     3
+HEADER 13 - Proportion of apolar alpha sphere : 0.1071
+ATOM      1    O STP   140      88.139  89.592 117.906    0.00     3.74
+ATOM      2    O STP   140      88.105  89.955 117.773    0.00     3.57
+ATOM      3    O STP   140      87.297  89.609 117.560    0.00     3.47
+ATOM      4    O STP   140      88.692  86.898 112.722    0.00     3.63
+ATOM      5    O STP   140      83.628  87.276 116.113    0.00     4.45
+ATOM      6    O STP   140      88.213  87.194 117.769    0.00     4.63
+ATOM      7    O STP   140      85.316  88.450 117.142    0.00     3.59
+ATOM      8    O STP   140      83.629  87.276 116.117    0.00     4.46
+ATOM      9    O STP   140      83.771  89.118 117.114    0.00     3.82
+ATOM     10    O STP   140      83.654  89.044 117.046    0.00     3.87
+ATOM     11    C STP   140      83.612  87.127 116.058    0.00     4.52
+ATOM     12    O STP   140      89.216  87.714 118.354    0.00     4.69
+ATOM     13    O STP   140      89.080  87.813 118.310    0.00     4.64
+ATOM     14    O STP   140      88.776  88.323 118.080    0.00     4.34
+ATOM     15    O STP   140      89.688  86.015 113.146    0.00     4.57
+ATOM     16    C STP   140      83.331  89.112 117.504    0.00     3.60
+ATOM     17    O STP   140      89.763  86.084 113.058    0.00     4.52
+ATOM     18    O STP   140      89.712  86.282 112.970    0.00     4.39
+ATOM     19    O STP   140      89.456  87.492 112.226    0.00     3.60
+ATOM     20    O STP   140      83.485  89.033 116.623    0.00     3.71
+ATOM     21    O STP   140      83.603  87.566 114.963    0.00     3.93
+ATOM     22    C STP   140      88.936  85.561 116.483    0.00     5.19
+ATOM     23    O STP   140      89.105  85.626 116.547    0.00     5.20
+ATOM     24    O STP   140      83.570  89.183 116.907    0.00     3.78
+ATOM     25    O STP   140      83.554  89.238 116.867    0.00     3.74
+ATOM     26    O STP   140      83.543  89.179 116.838    0.00     3.75
+ATOM     27    O STP   140      90.434  86.355 113.237    0.00     4.12
+ATOM     28    O STP   140      89.852  84.818 114.880    0.00     4.63
+TER
+END

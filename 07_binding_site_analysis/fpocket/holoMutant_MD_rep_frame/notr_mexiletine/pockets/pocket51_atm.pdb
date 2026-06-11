@@ -1,0 +1,60 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    51:
+HEADER 0  - Pocket Score                      : -0.0791
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    50
+HEADER 3  - Mean alpha-sphere radius          : 4.0061
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5654
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 17.1176
+HEADER 7  - Polarity Score                    :    12
+HEADER 8  - Amino Acid based volume Score     : 4.7059
+HEADER 9  - Pocket volume (Monte Carlo)       : 597.9190
+HEADER 10 - Pocket volume (convex hull)       : 121.3992
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0400
+ATOM   8757  NH1 ARG C 811      70.582 107.860  97.008  0.55  2.19           N 0
+ATOM   7758  OE1 GLN C 750      73.206 111.384  99.037  0.45  4.29           O 0
+ATOM   8702  NH1 ARG C 808      67.302 109.455  98.390  0.56  6.56           N 0
+ATOM   7548  OE1 GLU C 737      73.988 107.049 102.158  0.00  0.00           O 0
+ATOM   7604    N MET C 741      77.466 106.322 109.209  0.00  0.00           N 0
+ATOM   7692  OE1 GLU C 746      74.446 109.468 106.178  0.61  9.64           O 0
+ATOM   7590    N ASN C 740      76.934 103.626 109.866  0.57  2.19           N 0
+ATOM  15331   OH TYR D1434      73.981 103.342 112.164  0.62  6.43           O 0
+ATOM   7611   CG MET C 741      77.124 106.717 105.894  0.00  0.00           C 0
+ATOM   7549  OE2 GLU C 737      74.491 107.286 100.107  0.56  3.21           O 0
+ATOM   7541   CB GLU C 737      76.227 104.893 101.534  0.00  0.00           C 0
+ATOM  14026  CG2 ILE D1350      72.691 101.690  97.038  0.00  0.00           C 0
+ATOM   7547   CD GLU C 737      74.841 107.009 101.292  0.00  0.00           C 0
+ATOM   7507    O MET C 734      76.312 103.613  98.402  0.57  1.07           O 0
+ATOM  14038    O ILE D1350      71.611 100.045  99.307  0.67  1.07           O 0
+ATOM  14165   NZ LYS D1359      68.183  99.666 108.679  0.64  6.56           N 0
+ATOM  15328  CE1 TYR D1434      71.968 102.116 111.511  0.00  0.00           C 0
+ATOM  14092    O ASN D1354      68.476 100.336 105.187  0.35  6.43           O 0
+ATOM  15326  CD1 TYR D1434      70.659 101.635 111.733  0.00  0.00           C 0
+ATOM   7568    O HIS C 738      77.371 103.542 106.560  0.00  0.00           O 0
+ATOM   7571   CA TYR C 739      76.905 101.570 108.537  0.00  0.00           C 0
+ATOM   7569    N TYR C 739      77.334 101.341 107.175  0.00  0.00           N 0
+ATOM  14136   CB ALA D1357      73.834  98.709 106.916  0.00  0.00           C 0
+ATOM   7567    C HIS C 738      77.561 102.362 106.341  0.00  0.00           C 0
+ATOM   8760  NH2 ARG C 811      70.195 105.873  97.970  0.53  2.19           N 0
+ATOM  14083   CB ASN D1354      68.809 101.164 101.955  0.00  0.00           C 0
+ATOM   8696   CD ARG C 808      66.117 107.169  99.663  0.00  0.00           C 0
+ATOM  14079    N ASN D1354      70.845  99.892 102.594  0.66  1.09           N 0
+ATOM  14141    O ALA D1357      72.455  99.275 109.559  0.00  0.00           O 0
+ATOM   7608   CB MET C 741      77.202 107.710 107.091  0.00  0.00           C 0
+ATOM  14069  CG1 VAL D1353      74.353 100.402 103.214  0.00  0.00           C 0
+ATOM   7552    N HIS C 738      77.839 103.058 104.036  0.00  0.00           N 0
+ATOM  14081   CA ASN D1354      69.725 100.727 103.123  0.00  0.00           C 0
+ATOM  14087  OD1 ASN D1354      67.474 102.466 103.429  0.00  0.00           O 0
+ATOM   8693   CG ARG C 808      65.633 105.675  99.805  0.00  0.00           C 0
+ATOM  14086   CG ASN D1354      67.573 101.974 102.359  0.00  0.00           C 0
+ATOM   8615  OD1 ASN C 803      64.390 107.895 104.466  0.00  0.00           O 0
+ATOM  14078    O VAL D1353      71.601  99.718 104.649  0.53  5.36           O 0
+TER
+END

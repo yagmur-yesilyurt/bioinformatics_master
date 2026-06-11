@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   109:
+HEADER 0  - Pocket Score                      : -0.1019
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9306
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6567
+HEADER 5  - Mean B-factor of pocket residues  : 0.2290
+HEADER 6  - Hydrophobicity Score              : 43.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.0013
+HEADER 10 - Pocket volume (convex hull)       : 2.9916
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   5658   CB LEU A1194     129.363  99.180 169.931  0.00  0.00           C 0
+ATOM   5660  CD1 LEU A1194     127.081  98.700 168.997  0.00  0.00           C 0
+ATOM   5613  CG1 VAL A1190     129.580 100.426 174.767  0.00  0.00           C 0
+ATOM   5661  CD2 LEU A1194     127.607 100.986 169.881  0.00  0.00           C 0
+ATOM   5611    O VAL A1190     131.447  99.462 172.292  0.00  0.00           O 0
+ATOM   5652  NH1 ARG A1193     130.840  94.415 175.041  0.00  0.00           N 0
+ATOM   5688  OG1 THR A1197     129.203  95.472 167.498  0.76  5.36           O 0
+ATOM   5646    O ARG A1193     131.788  95.945 168.722  0.00  0.00           O 0
+ATOM   5645    C ARG A1193     132.080  96.677 169.673  0.00  0.00           C 0
+ATOM   5649   CD ARG A1193     132.125  93.459 172.693  0.00  0.00           C 0
+ATOM   5655   CA LEU A1194     130.136  98.051 169.248  0.00  0.00           C 0
+ATOM   5687  CG2 THR A1197     130.290  93.361 167.944  0.00  0.00           C 0
+ATOM   5654    N LEU A1194     131.346  97.745 169.997  0.00  0.00           N 0
+ATOM   5647   CB ARG A1193     132.946  95.647 171.787  0.00  0.00           C 0
+TER
+END

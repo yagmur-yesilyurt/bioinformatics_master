@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    95:
+HEADER 0  - Pocket Score                      : -0.1532
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0027
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6555
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -19.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 176.1665
+HEADER 10 - Pocket volume (convex hull)       : 2.4058
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   3705   CG LYS B 249      59.622  65.622  72.600  0.00  0.00           C 0
+ATOM   3708   CD LYS B 249      59.769  64.535  71.529  0.00  0.00           C 0
+ATOM   3636   CB GLN B 245      55.351  69.274  73.111  0.00  0.00           C 0
+ATOM   6356  OE1 GLU B 418      58.942  66.377  67.287  0.83  4.29           O 0
+ATOM   6372  NE2 GLN B 419      56.971  70.511  70.583  0.94  6.56           N 0
+ATOM   3643  OE1 GLN B 245      52.632  67.687  72.651  0.78  5.36           O 0
+ATOM   3686   CD LYS B 248      52.810  64.425  73.664  0.00  0.00           C 0
+ATOM   3634   CA GLN B 245      55.116  68.083  74.214  0.00  0.00           C 0
+ATOM   3680   CB LYS B 248      55.078  63.812  74.573  0.00  0.00           C 0
+ATOM   3648    O GLN B 245      57.179  66.744  74.564  0.69  1.07           O 0
+ATOM   6371  OE1 GLN B 419      55.177  70.886  69.237  0.83  9.64           O 0
+ATOM   3639   CG GLN B 245      54.059  69.795  72.428  0.00  0.00           C 0
+ATOM   6352   CG GLU B 418      58.407  68.666  66.962  0.00  0.00           C 0
+ATOM   6355   CD GLU B 418      58.646  67.269  66.467  0.00  0.00           C 0
+ATOM   3642   CD GLN B 245      52.782  68.910  72.382  0.00  0.00           C 0
+TER
+END

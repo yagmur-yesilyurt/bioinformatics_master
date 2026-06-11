@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   129:
+HEADER 0  - Pocket Score                      : -0.1325
+HEADER 1  - Drug Score                        : 0.0153
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8826
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5542
+HEADER 5  - Mean B-factor of pocket residues  : 0.7743
+HEADER 6  - Hydrophobicity Score              : 23.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 319.4637
+HEADER 10 - Pocket volume (convex hull)       : 31.9057
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 20.0870
+HEADER 13 - Number of apolar alpha sphere     :    23
+HEADER 14 - Proportion of apolar alpha sphere : 0.8214
+ATOM  11125  CD1 LEU A1871     148.400  82.800 113.553  0.00  0.00           C 0
+ATOM  11160   CE MET A1875     153.862  78.174 112.437  0.00  0.00           C 0
+ATOM  11105   CE MET A1868     148.938  83.167 110.053  0.00  0.00           C 0
+ATOM  11123   CB LEU A1871     150.881  82.887 113.980  0.00  0.00           C 0
+ATOM   8210   CEALYS A1505     149.151  77.236 108.274  0.00  0.00           C 0
+ATOM  11126  CD2 LEU A1871     149.303  82.225 115.813  0.00  0.00           C 0
+ATOM  11122    O LEU A1871     153.832  81.776 114.980  0.62  2.14           O 0
+ATOM  11148   CB GLN A1874     154.115  82.134 118.838  0.00  0.00           C 0
+ATOM  11187   NZ LYS A1878     151.947  77.398 119.688  0.00  0.00           N 0
+ATOM   8193    O LYS A1504     145.760  80.461 109.762  0.34  3.21           O 0
+ATOM   8206   CGALYS A1505     146.788  77.711 108.970  0.00  0.00           C 0
+ATOM  11183   CB LYS A1878     156.851  76.422 119.460  0.00  0.00           C 0
+ATOM  11158   CG MET A1875     156.227  77.829 113.847  0.00  0.00           C 0
+ATOM  11185   CD LYS A1878     154.376  76.837 119.598  0.00  0.00           C 0
+ATOM  11154   CA MET A1875     156.121  79.102 116.069  0.00  0.00           C 0
+ATOM   8208   CDALYS A1505     147.936  76.716 109.024  0.00  0.00           C 0
+ATOM   8212   NZALYS A1505     150.288  76.275 108.324  0.67  5.47           N 0
+ATOM  11157   CB MET A1875     155.607  78.972 114.635  0.00  0.00           C 0
+ATOM  11153    N MET A1875     155.700  80.379 116.636  0.00  0.00           N 0
+ATOM   8194   CB LYS A1504     145.176  80.250 113.228  0.00  0.00           C 0
+ATOM   8204   CBALYS A1505     145.537  77.146 109.624  0.00  0.00           C 0
+ATOM   8196   CD LYS A1504     145.643  80.276 115.691  0.00  0.00           C 0
+ATOM   8192    C LYS A1504     145.058  80.121 110.717  0.00  0.00           C 0
+TER
+END

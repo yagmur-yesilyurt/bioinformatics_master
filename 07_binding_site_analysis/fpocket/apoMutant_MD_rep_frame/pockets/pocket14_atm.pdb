@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0729
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    42
+HEADER 3  - Mean alpha-sphere radius          : 3.9598
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4313
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 16.1538
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4615
+HEADER 9  - Pocket volume (Monte Carlo)       : 244.2835
+HEADER 10 - Pocket volume (convex hull)       : 15.7881
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.3095
+ATOM  20127    N THR D1723      93.185  84.949 109.805  0.64  1.09           N 0
+ATOM  20337    O SER D1738     100.543  87.524 110.861  0.68  9.64           O 0
+ATOM  20340   CA ARG D1739     101.135  85.762 108.523  0.00  0.00           C 0
+ATOM  20121  OD1 ASN D1722      94.338  88.016 110.135  0.00  0.00           O 0
+ATOM  20361    O ARG D1739     101.381  83.357 108.039  0.83  1.07           O 0
+ATOM  20074    O PRO D1719      93.215  83.122 107.249  0.00  0.00           O 0
+ATOM  20342   CB ARG D1739     100.836  86.020 106.963  0.00  0.00           C 0
+ATOM  20419   CG PRO D1745      96.740  88.105 104.637  0.00  0.00           C 0
+ATOM  20093    O ILE D1720      94.159  84.516 104.018  0.63  3.21           O 0
+ATOM  20184  CD1 TYR D1727      98.862  81.028 111.233  0.00  0.00           C 0
+ATOM  20385   CB CYS D1742      99.701  80.950 105.865  0.00  0.00           C 0
+ATOM  20186  CE1 TYR D1727      99.899  80.829 110.304  0.00  0.00           C 0
+ATOM  20135  CG2 THR D1723      94.594  82.598 111.709  0.00  0.00           C 0
+ATOM  20141    N GLY D1724      93.313  85.912 112.196  0.00  0.00           N 0
+ATOM  20204   SG CYS D1728     101.390  83.508 112.269  0.00  0.00           S 0
+ATOM  20388   SG CYS D1742      98.362  80.385 104.845  0.00  0.00           S 0
+ATOM  20398    O GLY D1743      98.958  84.242 103.280  0.63  1.07           O 0
+ATOM  20201   CB CYS D1728     100.900  84.586 113.642  0.00  0.00           C 0
+ATOM  20115   CA ASN D1722      93.011  86.339 107.852  0.00  0.00           C 0
+ATOM  19507  CG2 VAL D1682      96.773  78.490 107.950  0.00  0.00           C 0
+ATOM  20147    O GLY D1724      95.249  85.062 114.320  0.36  4.29           O 0
+ATOM  20197    N CYS D1728      99.364  82.852 114.633  0.00  0.00           N 0
+TER
+END

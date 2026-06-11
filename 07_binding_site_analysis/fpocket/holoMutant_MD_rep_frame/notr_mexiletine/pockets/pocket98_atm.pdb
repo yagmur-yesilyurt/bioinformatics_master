@@ -1,0 +1,53 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    98:
+HEADER 0  - Pocket Score                      : -0.1599
+HEADER 1  - Drug Score                        : 0.0871
+HEADER 2  - Number of alpha spheres           :    45
+HEADER 3  - Mean alpha-sphere radius          : 4.1303
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6437
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 66.7143
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 471.4807
+HEADER 10 - Pocket volume (convex hull)       : 36.4551
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 38.0000
+HEADER 13 - Number of apolar alpha sphere     :    39
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM   8243    C GLY C 780      63.538 104.824  74.971  0.00  0.00           C 0
+ATOM   8255  NE1 TRP C 781      68.717 102.843  73.375  0.00  0.00           N 0
+ATOM   8240   CA GLY C 780      62.691 104.466  73.816  0.00  0.00           C 0
+ATOM   8245    N TRP C 781      64.771 105.106  74.676  0.59  2.19           N 0
+ATOM   9071  CG2 ILE C 829      66.385  96.249  77.566  0.00  0.00           C 0
+ATOM   9078  CD1 ILE C 829      68.816  97.816  78.719  0.00  0.00           C 0
+ATOM   8316  CD2 PHE C 784      64.620 103.803  81.931  0.00  0.00           C 0
+ATOM   8318  CE2 PHE C 784      65.563 103.317  82.801  0.00  0.00           C 0
+ATOM   8309   CG PHE C 784      65.004 104.296  80.613  0.00  0.00           C 0
+ATOM   8261  CZ3 TRP C 781      69.286 102.317  77.347  0.00  0.00           C 0
+ATOM   8310  CD1 PHE C 784      66.373 104.467  80.339  0.00  0.00           C 0
+ATOM   8306   CB PHE C 784      63.924 104.596  79.577  0.00  0.00           C 0
+ATOM   8253  CD1 TRP C 781      68.019 104.028  73.338  0.00  0.00           C 0
+ATOM   8238    N GLY C 780      62.973 105.202  72.566  0.00  0.00           N 0
+ATOM   8314   CZ PHE C 784      66.933 103.194  82.399  0.00  0.00           C 0
+ATOM   8259  CE3 TRP C 781      68.549 103.317  76.864  0.00  0.00           C 0
+ATOM   8244    O GLY C 780      63.099 104.948  76.150  0.50  6.43           O 0
+ATOM   8247   CA TRP C 781      65.778 105.491  75.700  0.00  0.00           C 0
+ATOM   9027  ND2 ASN C 826      70.223  95.880  74.536  0.62  6.56           N 0
+ATOM   8263  CZ2 TRP C 781      69.794 101.451  75.157  0.00  0.00           C 0
+ATOM   8265  CH2 TRP C 781      69.940 101.455  76.569  0.00  0.00           C 0
+ATOM   8847   CB PHE C 816      69.125  99.856  82.615  0.00  0.00           C 0
+ATOM   9075  CG1 ILE C 829      68.507  96.407  79.157  0.00  0.00           C 0
+ATOM   8257  CE2 TRP C 781      69.036 102.510  74.678  0.00  0.00           C 0
+ATOM   8312  CE1 PHE C 784      67.328 103.890  81.199  0.00  0.00           C 0
+ATOM   8862    O PHE C 816      70.734 100.897  80.103  0.00  0.00           O 0
+ATOM   8857  CD2 PHE C 816      68.070  98.968  84.729  0.00  0.00           C 0
+ATOM   9138  CD1 ILE C 832      65.219  93.628  82.510  0.00  0.00           C 0
+ATOM   8258  CD2 TRP C 781      68.456 103.492  75.473  0.00  0.00           C 0
+ATOM   8252   CG TRP C 781      67.821 104.426  74.609  0.00  0.00           C 0
+ATOM   8850   CG PHE C 816      68.930  98.768  83.656  0.00  0.00           C 0
+TER
+END

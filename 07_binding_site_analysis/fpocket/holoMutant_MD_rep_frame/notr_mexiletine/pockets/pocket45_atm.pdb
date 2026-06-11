@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    45:
+HEADER 0  - Pocket Score                      : -0.0733
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8271
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5864
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 8.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.8289
+HEADER 10 - Pocket volume (convex hull)       : 6.5787
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM   9905   CB MET C 882      48.020  77.678 108.710  0.00  0.00           C 0
+ATOM   2097  CE1 HIS B 151      43.539  79.308 108.832  0.00  0.00           C 0
+ATOM   9912   CE MET C 882      48.368  78.253 111.966  0.00  0.00           C 0
+ATOM   2099  NE2 HIS B 151      42.987  80.241 109.567  0.59  8.75           N 0
+ATOM   9922   CB ASP C 883      47.775  81.972 105.918  0.00  0.00           C 0
+ATOM   9925   CG ASP C 883      49.115  82.597 106.001  0.00  0.00           C 0
+ATOM   2094  ND1 HIS B 151      43.715  79.672 107.505  0.76  2.19           N 0
+ATOM   9926  OD1 ASP C 883      49.230  83.812 106.407  0.45  9.64           O 0
+ATOM   9879  NE2 HIS C 880      52.562  80.071 111.382  0.68  5.47           N 0
+ATOM   9880  CD2 HIS C 880      52.446  78.980 110.558  0.00  0.00           C 0
+ATOM   2096   CG HIS B 151      43.155  80.962 107.429  0.00  0.00           C 0
+ATOM   2100  CD2 HIS B 151      42.636  81.219 108.706  0.00  0.00           C 0
+ATOM   2091   CB HIS B 151      43.085  81.902 106.211  0.00  0.00           C 0
+ATOM   9927  OD2 ASP C 883      50.191  81.930 105.807  0.00  0.00           O 0
+ATOM   9977  ND1 HIS C 886      53.484  80.401 107.954  0.38  1.09           N 0
+ATOM   9980  CE1 HIS C 886      54.077  81.321 108.663  0.00  0.00           C 0
+TER
+END

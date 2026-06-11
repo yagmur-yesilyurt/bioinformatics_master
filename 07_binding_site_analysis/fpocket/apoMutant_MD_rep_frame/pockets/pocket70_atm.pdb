@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    70:
+HEADER 0  - Pocket Score                      : -0.0443
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8893
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5933
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 6.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.5854
+HEADER 10 - Pocket volume (convex hull)       : 6.9647
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7059
+ATOM   1552  CE1 HIS B 118      10.434  83.966  64.465  0.00  0.00           C 0
+ATOM   1554  NE2 HIS B 118      10.736  83.564  63.252  0.77  2.19           N 0
+ATOM    101    O PHE A  16      11.374  88.303  59.478  0.78  6.43           O 0
+ATOM   1555  CD2 HIS B 118      12.083  83.229  63.248  0.00  0.00           C 0
+ATOM   1551   CG HIS B 118      12.549  83.403  64.477  0.00  0.00           C 0
+ATOM   1549  ND1 HIS B 118      11.515  83.738  65.269  0.64  8.75           N 0
+ATOM   1560   CD PRO B 119      16.669  85.704  64.998  0.00  0.00           C 0
+ATOM   1544   CA HIS B 118      15.127  83.116  64.046  0.00  0.00           C 0
+ATOM     60   CA ARG A  15      16.296  89.308  58.839  0.00  0.00           C 0
+ATOM   1568   CG PRO B 119      17.933  86.408  65.335  0.00  0.00           C 0
+ATOM     57    O ARG A  14      18.851  88.833  59.933  0.27  4.29           O 0
+ATOM   1546   CB HIS B 118      13.922  83.300  65.077  0.00  0.00           C 0
+ATOM     96  CD2 PHE A  16      15.626  85.221  59.614  0.00  0.00           C 0
+ATOM     82    N PHE A  16      14.181  87.984  58.917  0.00  0.00           N 0
+ATOM     86   CB PHE A  16      13.194  85.635  59.397  0.00  0.00           C 0
+TER
+END

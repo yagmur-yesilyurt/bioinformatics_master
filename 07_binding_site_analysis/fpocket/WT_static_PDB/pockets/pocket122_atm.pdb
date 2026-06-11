@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   122:
+HEADER 0  - Pocket Score                      : -0.1262
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1469
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5804
+HEADER 5  - Mean B-factor of pocket residues  : 0.4008
+HEADER 6  - Hydrophobicity Score              : -27.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 410.0231
+HEADER 10 - Pocket volume (convex hull)       : 28.1274
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3280  NH1 ARG A 433     150.917 121.276  90.943  0.77  7.66           N 0
+ATOM   3249   CG LYS A 430     146.539 121.834  95.125  0.00  0.00           C 0
+ATOM   3251   CE LYS A 430     144.453 121.386  93.805  0.00  0.00           C 0
+ATOM   3281  NH2 ARG A 433     151.925 119.386  91.751  0.00  0.00           N 0
+ATOM    263    O GLN A  55     149.249 121.207  87.040  0.40  3.21           O 0
+ATOM   3279   CZ ARG A 433     151.875 120.712  91.661  0.00  0.00           C 0
+ATOM    267  NE2 GLN A  55     151.465 123.663  84.412  0.46  9.84           N 0
+ATOM    265   CG GLN A  55     150.778 121.412  83.899  0.00  0.00           C 0
+ATOM    247   CG ARG A  53     148.335 115.424  85.717  0.00  0.00           C 0
+ATOM    249   NE ARG A  53     150.653 115.235  84.878  0.63  3.28           N 0
+ATOM    252  NH2 ARG A  53     152.837 115.485  84.234  0.00  0.00           N 0
+ATOM    256    O PRO A  54     146.818 119.093  86.418  0.00  0.00           O 0
+ATOM    277    N ASP A  57     145.239 121.891  87.884  0.57  2.19           N 0
+ATOM    278   CA ASP A  57     143.827 121.682  88.224  0.00  0.00           C 0
+ATOM    283  OD1 ASP A  57     142.158 120.112  89.893  0.00  0.00           O 0
+ATOM    281   CB ASP A  57     143.573 122.015  89.695  0.00  0.00           C 0
+ATOM    261   CA GLN A  55     148.569 120.513  84.838  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   107:
+HEADER 0  - Pocket Score                      : -0.0924
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9849
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6823
+HEADER 5  - Mean B-factor of pocket residues  : 0.1025
+HEADER 6  - Hydrophobicity Score              : -7.5455
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 2.9091
+HEADER 9  - Pocket volume (Monte Carlo)       : 367.1031
+HEADER 10 - Pocket volume (convex hull)       : 29.9491
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM  10013   CA PRO A1730      81.312 120.224 141.615  0.00  0.00           C 0
+ATOM  10017   CG PRO A1730      80.768 122.439 140.866  0.00  0.00           C 0
+ATOM  10016   CB PRO A1730      80.984 121.639 142.113  0.00  0.00           C 0
+ATOM  10101   SG CYS A1742      86.305 119.594 137.360  0.00  0.00           S 0
+ATOM  10002   CB CYS A1728      83.906 121.275 136.459  0.00  0.00           C 0
+ATOM  10007    O ASP A1729      81.298 118.050 140.003  0.00  0.00           O 0
+ATOM  10085   CA GLY A1740      84.362 115.936 141.155  0.00  0.00           C 0
+ATOM  10104    C GLY A1743      92.105 118.890 137.666  0.00  0.00           C 0
+ATOM  10110   CB SER A1744      94.445 120.384 140.008  0.00  0.00           C 0
+ATOM  10099    O CYS A1742      89.093 117.870 138.740  0.61  7.50           O 0
+ATOM  10106    N SER A1744      93.235 119.034 138.363  0.57  2.19           N 0
+ATOM  10105    O GLY A1743      91.513 119.830 137.139  0.57  5.36           O 0
+ATOM   9967  OG1 THR A1723      89.362 124.393 136.610  0.00  0.00           O 0
+ATOM   9956    O ASN A1722      88.478 121.556 135.079  0.39  1.07           O 0
+ATOM  10076    O ARG A1739      86.193 115.952 143.270  0.11  5.36           O 0
+ATOM   9964    O THR A1723      85.143 124.606 136.649  0.38  7.50           O 0
+ATOM   9966  CG2 THR A1723      87.653 126.025 137.075  0.00  0.00           C 0
+ATOM   9962   CA THR A1723      87.194 123.999 135.592  0.00  0.00           C 0
+ATOM  10107   CA SER A1744      93.884 120.317 138.593  0.00  0.00           C 0
+ATOM  10111   OG SER A1744      95.198 121.568 140.206  0.74  8.57           O 0
+ATOM  10118   CD PRO A1745      93.933 122.641 136.755  0.00  0.00           C 0
+ATOM  10015    O PRO A1730      81.517 118.433 143.188  0.79  5.36           O 0
+TER
+END

@@ -1,0 +1,63 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    87:
+HEADER 0  - Pocket Score                      : -0.0824
+HEADER 1  - Drug Score                        : 0.6036
+HEADER 2  - Number of alpha spheres           :    60
+HEADER 3  - Mean alpha-sphere radius          : 3.8867
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5016
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 41.5333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2667
+HEADER 9  - Pocket volume (Monte Carlo)       : 524.8121
+HEADER 10 - Pocket volume (convex hull)       : 141.2410
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 32.4091
+HEADER 13 - Number of apolar alpha sphere     :    44
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM   7186    O VAL C 714      78.485 122.798  72.583  0.62  4.29           O 0
+ATOM   7175   CB VAL C 714      78.463 124.574  74.689  0.00  0.00           C 0
+ATOM   7990   CB PHE C 766      74.295 124.014  77.897  0.00  0.00           C 0
+ATOM   7177  CG1 VAL C 714      78.674 123.505  75.719  0.00  0.00           C 0
+ATOM   7303  CG2 THR C 722      84.022 117.877  80.439  0.00  0.00           C 0
+ATOM   7301  OG1 THR C 722      85.256 117.933  78.226  0.00  0.00           O 0
+ATOM   7238  CD1 PHE C 718      85.231 120.861  75.450  0.00  0.00           C 0
+ATOM   7240  CE1 PHE C 718      86.143 120.924  76.517  0.00  0.00           C 0
+ATOM   7252   CA THR C 719      81.080 117.982  75.858  0.00  0.00           C 0
+ATOM   7256  OG1 THR C 719      79.561 119.910  75.344  0.78  4.29           O 0
+ATOM   7113    O VAL C 710      76.934 126.894  72.488  0.00  0.00           O 0
+ATOM   7116   CA LYS C 711      75.585 125.681  70.330  0.00  0.00           C 0
+ATOM   7258  CG2 THR C 719      78.731 118.353  76.929  0.00  0.00           C 0
+ATOM   8070   CB ALA C 770      71.587 123.570  73.123  0.00  0.00           C 0
+ATOM   8005    O PHE C 766      71.631 124.037  76.223  0.00  0.00           O 0
+ATOM   8004    C PHE C 766      72.036 123.431  77.198  0.00  0.00           C 0
+ATOM   7104  CG1 VAL C 710      74.868 127.753  74.887  0.00  0.00           C 0
+ATOM   7212  OD1 ASP C 716      75.943 118.338  71.713  0.11  9.64           O 0
+ATOM   7947   CG GLU C 763      76.038 118.556  79.475  0.00  0.00           C 0
+ATOM   8000  CD2 PHE C 766      76.367 124.585  79.258  0.00  0.00           C 0
+ATOM   7942   CA GLU C 763      75.217 120.657  80.860  0.00  0.00           C 0
+ATOM   7213  OD2 ASP C 716      76.411 119.257  69.684  0.39  7.50           O 0
+ATOM   8089  CD2 LEU C 771      70.411 119.815  71.518  0.00  0.00           C 0
+ATOM   7954    O GLU C 763      73.362 120.915  79.331  0.56  1.07           O 0
+ATOM   8013   CG LYS C 767      71.986 119.292  76.624  0.00  0.00           C 0
+ATOM   7944   CB GLU C 763      75.838 119.239  80.873  0.00  0.00           C 0
+ATOM   7895    O ILE C 759      77.204 120.209  83.877  0.67  1.07           O 0
+ATOM   7121   CG LYS C 711      73.219 124.789  69.923  0.00  0.00           C 0
+ATOM   7118   CB LYS C 711      74.466 125.365  69.252  0.00  0.00           C 0
+ATOM   7124   CD LYS C 711      72.196 124.336  68.890  0.00  0.00           C 0
+ATOM   7322  CD1 ILE C 723      79.597 117.151  81.300  0.00  0.00           C 0
+ATOM   8006    N LYS C 767      71.628 122.126  77.348  0.00  0.00           N 0
+ATOM   7940    N GLU C 763      75.347 121.271  82.191  0.00  0.00           N 0
+ATOM   7934   CB ALA C 762      76.606 123.668  84.099  0.00  0.00           C 0
+ATOM   8002  CE2 PHE C 766      77.204 125.538  79.842  0.00  0.00           C 0
+ATOM   7952  OE2 GLU C 763      75.954 116.477  78.336  0.57  4.29           O 0
+ATOM   8016   CD LYS C 767      71.958 117.776  76.962  0.00  0.00           C 0
+ATOM   7883  CG2 ILE C 759      80.290 119.059  84.189  0.00  0.00           C 0
+ATOM   7879   CA ILE C 759      78.675 120.364  85.787  0.00  0.00           C 0
+ATOM   7887  CG1 ILE C 759      81.145 120.416  86.276  0.00  0.00           C 0
+ATOM   7319  CG1 ILE C 723      79.605 116.599  79.905  0.00  0.00           C 0
+TER
+END

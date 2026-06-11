@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket    42:
+HEADER 0  - Pocket Score                      : 0.0022
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of V. Vertices             :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.5590
+HEADER 4  - Mean alpha-sphere SA              : 0.3936
+HEADER 5  - Mean B-factor                     : 0.0000
+HEADER 6  - Hydrophobicity Score              : 2.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Volume Score                      : 5.0000
+HEADER 9  - Real volume (approximation)       : 76.6609
+HEADER 10 - Charge Score                      :     0
+HEADER 11 - Local hydrophobic density Score   : 4.0000
+HEADER 12 - Number of apolar alpha sphere     :     5
+HEADER 13 - Proportion of apolar alpha sphere : 0.2632
+ATOM      1    O STP    42     126.230  72.473  54.440    0.00     3.57
+ATOM      2    C STP    42     126.389  72.193  54.255    0.00     3.53
+ATOM      3    O STP    42     126.248  72.382  54.399    0.00     3.56
+ATOM      4    C STP    42     126.337  72.070  54.242    0.00     3.56
+ATOM      5    O STP    42     126.255  71.952  54.181    0.00     3.53
+ATOM      6    C STP    42     126.305  71.953  54.182    0.00     3.54
+ATOM      7    O STP    42     126.103  72.789  54.571    0.00     3.59
+ATOM      8    O STP    42     126.078  73.032  54.563    0.00     3.54
+ATOM      9    O STP    42     125.934  73.395  54.487    0.00     3.41
+ATOM     10    O STP    42     126.069  73.419  54.662    0.00     3.48
+ATOM     11    O STP    42     126.141  72.872  54.739    0.00     3.57
+ATOM     12    O STP    42     126.117  72.942  54.955    0.00     3.49
+ATOM     13    O STP    42     126.295  74.003  55.683    0.00     3.63
+ATOM     14    O STP    42     126.297  74.111  55.726    0.00     3.65
+ATOM     15    O STP    42     126.277  73.967  55.715    0.00     3.60
+ATOM     16    C STP    42     126.306  74.413  56.430    0.00     3.44
+ATOM     17    C STP    42     126.299  74.130  55.734    0.00     3.65
+ATOM     18    O STP    42     126.296  74.131  55.729    0.00     3.65
+ATOM     19    O STP    42     126.276  74.154  55.664    0.00     3.64
+TER
+END

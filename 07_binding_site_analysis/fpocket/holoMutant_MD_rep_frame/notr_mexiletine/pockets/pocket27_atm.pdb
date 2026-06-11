@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0381
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    36
+HEADER 3  - Mean alpha-sphere radius          : 3.8157
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4502
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 39.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 193.1041
+HEADER 10 - Pocket volume (convex hull)       : 7.1760
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.1944
+ATOM  15911    O GLY D1467      75.894  82.404  75.845  0.00  0.00           O 0
+ATOM  15910    C GLY D1467      75.625  82.689  77.011  0.00  0.00           C 0
+ATOM  15974  OD1 ASP D1471      76.784  85.436  72.249  0.35  9.64           O 0
+ATOM   9038  OG1 THR C 827      72.990  89.817  75.561  0.48  9.64           O 0
+ATOM  15912    N VAL D1468      76.435  83.464  77.760  0.00  0.00           N 0
+ATOM  15914   CA VAL D1468      77.711  84.044  77.305  0.00  0.00           C 0
+ATOM   9040  CG2 THR C 827      71.805  88.600  77.261  0.00  0.00           C 0
+ATOM  10880    O SER C 941      69.836  85.898  73.494  0.43  7.50           O 0
+ATOM  15865    O LEU D1464      75.330  84.975  80.291  0.57  1.07           O 0
+ATOM  10889  CD1 PHE C 942      72.882  81.575  72.495  0.00  0.00           C 0
+ATOM  10883   CA PHE C 942      70.302  83.596  72.136  0.00  0.00           C 0
+ATOM  10839    O LEU C 938      68.818  81.799  75.383  0.72  2.14           O 0
+ATOM  10900    O PHE C 942      71.862  84.397  70.388  0.73  3.21           O 0
+ATOM  15922  CG2 VAL D1468      77.415  86.307  78.333  0.00  0.00           C 0
+ATOM  15907   CA GLY D1467      74.471  82.107  77.669  0.00  0.00           C 0
+ATOM  15846    O ASN D1463      72.500  83.006  80.681  0.66  1.07           O 0
+ATOM  10874   CB SER C 941      67.738  85.792  75.663  0.00  0.00           C 0
+ATOM  15849   CA LEU D1464      73.209  85.547  81.453  0.00  0.00           C 0
+ATOM  10828   CG LEU C 938      70.735  80.233  77.651  0.00  0.00           C 0
+ATOM  15841  OD1 ASN D1463      68.819  83.240  80.154  0.85  1.07           O 0
+ATOM   9119  CD1 ILE C 831      69.143  86.969  79.977  0.00  0.00           C 0
+TER
+END

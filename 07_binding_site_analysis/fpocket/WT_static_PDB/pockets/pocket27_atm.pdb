@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : 0.0526
+HEADER 1  - Drug Score                        : 0.0066
+HEADER 2  - Number of alpha spheres           :    42
+HEADER 3  - Mean alpha-sphere radius          : 3.8258
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5284
+HEADER 5  - Mean B-factor of pocket residues  : 0.1460
+HEADER 6  - Hydrophobicity Score              : 40.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.0745
+HEADER 10 - Pocket volume (convex hull)       : 14.7637
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 22.0000
+HEADER 13 - Number of apolar alpha sphere     :    23
+HEADER 14 - Proportion of apolar alpha sphere : 0.5476
+ATOM   9598    N ALA A1677      97.402 108.635 141.508  0.00  0.00           N 0
+ATOM   9570    O ILE A1673     101.161 106.981 141.752  0.51  5.36           O 0
+ATOM   9602   CB ALA A1677      98.044 109.505 143.707  0.00  0.00           C 0
+ATOM   9597   CE MET A1676      98.576 103.002 141.140  0.00  0.00           C 0
+ATOM   9594   CB MET A1676      97.782 105.615 139.974  0.00  0.00           C 0
+ATOM   5892    O LEU A1222     100.734 101.025 144.702  0.00  0.00           O 0
+ATOM   9574  CD1 ILE A1673     102.421 102.915 142.219  0.00  0.00           C 0
+ATOM   5895  CD1 LEU A1222     102.730 103.642 147.030  0.00  0.00           C 0
+ATOM   6564    O ARG A1303     101.645 109.310 149.499  0.00  0.00           O 0
+ATOM   6602   CB ALA A1307     104.919 108.532 144.512  0.00  0.00           C 0
+ATOM   9599   CA ALA A1677      96.887 109.167 142.762  0.00  0.00           C 0
+ATOM   9592    C MET A1676      96.725 107.746 140.783  0.00  0.00           C 0
+ATOM   9573  CG2 ILE A1673     103.730 105.569 142.876  0.00  0.00           C 0
+ATOM   6575    O THR A1304     103.809 110.819 146.664  0.00  0.00           O 0
+ATOM   6578  OG1 THR A1304     101.611 112.406 145.519  0.61  1.07           O 0
+ATOM   5894   CG LEU A1222     103.036 102.749 145.851  0.00  0.00           C 0
+ATOM   5917   CB GLU A1225      97.163 102.346 145.974  0.00  0.00           C 0
+ATOM   5916    O GLU A1225      94.747 102.930 144.745  0.48  9.64           O 0
+ATOM   6598    N ALA A1307     105.339 107.978 146.859  0.72  1.09           N 0
+ATOM   6573   CA THR A1304     101.740 111.410 147.711  0.00  0.00           C 0
+ATOM   9593    O MET A1676      95.545 107.466 141.016  0.50  3.21           O 0
+ATOM   9595   CG MET A1676      96.593 104.713 140.233  0.00  0.00           C 0
+ATOM   5918   CG GLU A1225      98.351 101.885 146.790  0.00  0.00           C 0
+ATOM   9576   CA PHE A1674     102.511 109.252 141.091  0.00  0.00           C 0
+ATOM   6597  NH2 ARG A1306     100.273 105.697 150.022  0.35  7.66           N 0
+TER
+END

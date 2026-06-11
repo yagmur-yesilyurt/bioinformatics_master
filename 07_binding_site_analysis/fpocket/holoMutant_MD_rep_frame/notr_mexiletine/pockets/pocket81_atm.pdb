@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    81:
+HEADER 0  - Pocket Score                      : -0.1351
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8906
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5877
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 77.0000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.3154
+HEADER 10 - Pocket volume (convex hull)       : 4.2026
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.9375
+ATOM  12305  CD2 PHE D1246     113.289  66.086  89.601  0.00  0.00           C 0
+ATOM  12239    O ALA D1242     115.601  67.118  92.966  0.65  1.07           O 0
+ATOM  12278   CB MET D1245     118.948  65.792  91.844  0.00  0.00           C 0
+ATOM  12291    N PHE D1246     116.540  67.709  90.369  0.94  1.09           N 0
+ATOM  12303   CZ PHE D1246     111.886  64.965  91.275  0.00  0.00           C 0
+ATOM  12307  CE2 PHE D1246     112.521  64.969  90.032  0.00  0.00           C 0
+ATOM  12234   CB ALA D1242     114.629  64.904  95.261  0.00  0.00           C 0
+ATOM  11829  CD2 LEU D1217     111.483  60.495  90.576  0.00  0.00           C 0
+ATOM  12232   CA ALA D1242     115.875  65.690  94.879  0.00  0.00           C 0
+ATOM  12284   SD MET D1245     121.558  65.003  91.025  0.00  0.00           S 0
+ATOM  11772   CE MET D1214     114.564  61.345  87.234  0.00  0.00           C 0
+ATOM  12356  CG2 VAL D1249     118.207  65.307  85.691  0.00  0.00           C 0
+ATOM  12290    O MET D1245     118.309  67.451  88.886  0.81  1.07           O 0
+ATOM  11771   SD MET D1214     113.831  63.014  87.183  0.00  0.00           S 0
+ATOM  12289    C MET D1245     117.845  67.450  90.023  0.00  0.00           C 0
+TER
+END

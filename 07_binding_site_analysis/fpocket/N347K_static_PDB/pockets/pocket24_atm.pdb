@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : 0.0639
+HEADER 1  - Drug Score                        : 0.0178
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.6992
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3693
+HEADER 5  - Mean B-factor of pocket residues  : 0.2266
+HEADER 6  - Hydrophobicity Score              : 82.3000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.4895
+HEADER 10 - Pocket volume (convex hull)       : 12.2359
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 24.0000
+HEADER 13 - Number of apolar alpha sphere     :    25
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   5219  CE1 PHE A 919     101.390 114.269  98.017  0.00  0.00           C 0
+ATOM   5023  CD1 ILE A 894     104.289 114.708 100.956  0.00  0.00           C 0
+ATOM   5244  CG2 VAL A 922     107.443 115.355  96.731  0.00  0.00           C 0
+ATOM   4993  CD1 ILE A 891     105.867 119.592  98.139  0.00  0.00           C 0
+ATOM   4984  CG2 ILE A 890     100.928 120.927  99.584  0.00  0.00           C 0
+ATOM   4905   CE MET A 881     100.194 120.796  96.164  0.00  0.00           C 0
+ATOM   4981    O ILE A 890     103.055 119.735 102.477  0.80  1.07           O 0
+ATOM   5022  CG2 ILE A 894     105.851 117.205 101.642  0.00  0.00           C 0
+ATOM   4983  CG1 ILE A 890      99.828 119.508 101.277  0.00  0.00           C 0
+ATOM   5221   CZ PHE A 919     100.460 114.189  99.026  0.00  0.00           C 0
+ATOM   4904   SD MET A 881      98.974 119.513  95.922  0.00  0.00           S 0
+ATOM   4985  CD1 ILE A 890      98.444 119.316 100.734  0.00  0.00           C 0
+ATOM   5217  CD1 PHE A 919     102.409 113.343  97.946  0.00  0.00           C 0
+ATOM   4702   CA GLY A 857     101.995 119.459  92.604  0.00  0.00           C 0
+ATOM   4674    O PHE A 853     105.438 120.632  93.771  0.59  2.14           O 0
+ATOM   4739  CE2 PHE A 861      99.859 115.509  93.349  0.00  0.00           C 0
+ATOM   5209  CG1 VAL A 918     104.089 114.309  94.241  0.00  0.00           C 0
+ATOM   4677  CD1 PHE A 853     108.949 117.872  93.666  0.00  0.00           C 0
+TER
+END

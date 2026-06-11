@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    60:
+HEADER 0  - Pocket Score                      : -0.0259
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8496
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6373
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 36.8000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.1323
+HEADER 10 - Pocket volume (convex hull)       : 6.3088
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM  13130   CG MET D1296     121.160  89.222  93.329  0.00  0.00           C 0
+ATOM  13112   CB GLU D1295     119.164  84.596  96.646  0.00  0.00           C 0
+ATOM  13077    O GLY D1292     125.407  85.058  93.277  0.00  0.00           O 0
+ATOM  13119  OE1 GLU D1295     121.052  83.172  98.624  0.00  0.00           O 0
+ATOM  13098    N ALA D1294     121.831  83.628  92.389  0.42  1.09           N 0
+ATOM  13102   CB ALA D1294     121.033  81.536  93.207  0.00  0.00           C 0
+ATOM  13076    C GLY D1292     125.247  84.217  92.433  0.00  0.00           C 0
+ATOM  13073   CA GLY D1292     126.140  83.084  92.302  0.00  0.00           C 0
+ATOM  13115   CG GLU D1295     119.644  83.114  96.723  0.00  0.00           C 0
+ATOM  13121    C GLU D1295     118.518  86.376  95.003  0.00  0.00           C 0
+ATOM  13122    O GLU D1295     117.783  87.006  95.728  0.37  6.43           O 0
+ATOM  13133   SD MET D1296     120.916  90.554  94.633  0.00  0.00           S 0
+ATOM  13123    N MET D1296     119.118  86.919  93.930  0.60  1.09           N 0
+ATOM  13108    N GLU D1295     119.729  84.458  94.264  0.00  0.00           N 0
+ATOM  13096    C PHE D1293     121.921  84.796  91.682  0.00  0.00           C 0
+TER
+END

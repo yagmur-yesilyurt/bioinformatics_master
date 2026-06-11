@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    66:
+HEADER 0  - Pocket Score                      : -0.0376
+HEADER 1  - Drug Score                        : 0.0030
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9707
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6974
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 55.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.3771
+HEADER 10 - Pocket volume (convex hull)       : 8.6866
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6471
+ATOM  12160   CB LEU D1238     116.776  61.851  96.556  0.00  0.00           C 0
+ATOM  12217  CD1 TYR D1241     121.181  64.295  95.134  0.00  0.00           C 0
+ATOM  12219  CE1 TYR D1241     122.289  64.452  95.964  0.00  0.00           C 0
+ATOM  12165  CD1 LEU D1238     117.858  60.822  94.468  0.00  0.00           C 0
+ATOM  12093  CG2 THR D1234     119.359  60.789 101.906  0.00  0.00           C 0
+ATOM  12156    N LEU D1238     117.420  64.017  97.533  0.71  1.09           N 0
+ATOM  12169  CD2 LEU D1238     115.931  59.554  95.659  0.00  0.00           C 0
+ATOM  12158   CA LEU D1238     117.298  63.272  96.266  0.00  0.00           C 0
+ATOM  12099    N ILE D1235     115.440  61.826 101.459  0.68  3.28           N 0
+ATOM  12103   CB ILE D1235     113.094  61.207 100.935  0.00  0.00           C 0
+ATOM  12101   CA ILE D1235     114.349  61.844 100.463  0.00  0.00           C 0
+ATOM  12112  CD1 ILE D1235     112.303  59.586  99.053  0.00  0.00           C 0
+ATOM  12058  NH2 ARG D1232     111.442  58.431 102.798  0.36  7.66           N 0
+ATOM  12098    O THR D1234     117.222  62.406 100.098  0.74  1.07           O 0
+ATOM  12146  CG1 VAL D1237     120.483  65.710  98.744  0.00  0.00           C 0
+ATOM  12097    C THR D1234     116.731  62.236 101.243  0.00  0.00           C 0
+TER
+END

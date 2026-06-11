@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   130:
+HEADER 0  - Pocket Score                      : -0.1333
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8123
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6080
+HEADER 5  - Mean B-factor of pocket residues  : 0.1223
+HEADER 6  - Hydrophobicity Score              : -2.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.8017
+HEADER 10 - Pocket volume (convex hull)       : 12.0311
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   6712    C ARG A1321     126.264 104.753 138.286  0.00  0.00           C 0
+ATOM   6714   CB ARG A1321     126.314 103.625 140.519  0.00  0.00           C 0
+ATOM   6748  ND2 ASN A1325     130.030 108.325 139.758  0.00  0.00           N 0
+ATOM   6713    O ARG A1321     126.539 105.956 138.204  0.70  2.14           O 0
+ATOM   8058   CA THR A1488     130.182  98.255 134.443  0.00  0.00           C 0
+ATOM   6694   CG GLU A1318     128.629  98.614 139.021  0.00  0.00           C 0
+ATOM   8064    N GLU A1489     132.040  97.209 135.607  0.00  0.00           N 0
+ATOM   6727  CG2 VAL A1322     128.427 102.016 136.256  0.00  0.00           C 0
+ATOM   8072  OE2 GLU A1489     134.627  99.769 137.162  0.43  6.43           O 0
+ATOM   6726  CG1 VAL A1322     129.091 103.591 134.479  0.00  0.00           C 0
+ATOM   6722   CA VAL A1322     127.466 104.326 136.232  0.00  0.00           C 0
+ATOM   6746   CB ASN A1325     128.489 108.521 137.919  0.00  0.00           C 0
+ATOM   6717   NE ARG A1321     127.331 101.888 142.727  0.55  5.47           N 0
+ATOM   6721    N VAL A1322     126.667 103.869 137.369  0.00  0.00           N 0
+ATOM   6692    O GLU A1318     126.311 101.046 138.189  0.00  0.00           O 0
+ATOM   6697  OE2 GLU A1318     130.441  98.213 140.510  0.45  3.21           O 0
+ATOM   6716   CD ARG A1321     126.632 103.145 142.963  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,51 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0879
+HEADER 1  - Drug Score                        : 0.0508
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.9727
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6368
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 57.3000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 476.1078
+HEADER 10 - Pocket volume (convex hull)       : 57.9161
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 17.2800
+HEADER 13 - Number of apolar alpha sphere     :    25
+HEADER 14 - Proportion of apolar alpha sphere : 0.8333
+ATOM  17199   CA THR D1544      66.510  38.399  94.404  0.00  0.00           C 0
+ATOM  17197    N THR D1544      65.941  39.144  93.294  0.00  0.00           N 0
+ATOM  17203  OG1 THR D1544      66.439  36.363  92.997  0.72  6.43           O 0
+ATOM  17187  CG1 VAL D1543      62.157  40.417  92.730  0.00  0.00           C 0
+ATOM  17195    C VAL D1543      65.205  40.230  93.477  0.00  0.00           C 0
+ATOM  17196    O VAL D1543      64.995  40.716  94.564  0.00  0.00           O 0
+ATOM  17432  CG2 ILE D1559      64.876  30.914 100.135  0.00  0.00           C 0
+ATOM  17375   CB LYS D1556      64.874  34.391 105.652  0.00  0.00           C 0
+ATOM  17381   CD LYS D1556      62.485  33.452 105.707  0.00  0.00           C 0
+ATOM  17439  CD1 ILE D1559      63.363  30.545 102.813  0.00  0.00           C 0
+ATOM  17449   CB LEU D1560      68.952  34.562 100.893  0.00  0.00           C 0
+ATOM  17454  CD1 LEU D1560      69.379  36.084  98.951  0.00  0.00           C 0
+ATOM  17447   CA LEU D1560      68.885  33.229 100.127  0.00  0.00           C 0
+ATOM  17458  CD2 LEU D1560      69.979  36.834 101.121  0.00  0.00           C 0
+ATOM  17326  NE2 GLN D1552      67.146  38.652 103.694  0.29  9.84           N 0
+ATOM  17144  CD2 LEU D1540      61.815  35.306  88.217  0.00  0.00           C 0
+ATOM  17185   CB VAL D1543      63.272  40.582  91.735  0.00  0.00           C 0
+ATOM  17191  CG2 VAL D1543      62.753  41.677  90.775  0.00  0.00           C 0
+ATOM  17133   CA LEU D1540      64.660  36.988  88.666  0.00  0.00           C 0
+ATOM  17149    O LEU D1540      65.692  37.534  90.863  0.59  2.14           O 0
+ATOM  17135   CB LEU D1540      64.390  35.415  88.527  0.00  0.00           C 0
+ATOM  17255  CG2 VAL D1547      64.767  39.505  98.211  0.00  0.00           C 0
+ATOM  17205  CG2 THR D1544      67.765  36.189  94.943  0.00  0.00           C 0
+ATOM  17251  CG1 VAL D1547      62.832  41.074  97.567  0.00  0.00           C 0
+ATOM  17502  CG2 ILE D1563      68.069  32.363  96.556  0.00  0.00           C 0
+ATOM  17392    O LYS D1556      67.018  33.111 103.508  0.54  1.07           O 0
+ATOM  17430   CB ILE D1559      65.496  30.699 101.544  0.00  0.00           C 0
+ATOM  17130    O CYS D1539      64.524  39.678  88.047  0.81  7.50           O 0
+ATOM  17445    N LEU D1560      68.079  32.319 100.886  0.74  1.09           N 0
+TER
+END

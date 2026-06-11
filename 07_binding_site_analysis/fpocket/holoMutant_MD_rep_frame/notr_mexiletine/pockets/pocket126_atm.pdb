@@ -1,0 +1,60 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   126:
+HEADER 0  - Pocket Score                      : -0.2477
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    52
+HEADER 3  - Mean alpha-sphere radius          : 3.9305
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4851
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 25.7333
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.5333
+HEADER 9  - Pocket volume (Monte Carlo)       : 678.3419
+HEADER 10 - Pocket volume (convex hull)       : 167.5082
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.0962
+ATOM   4921  OD1 ASN B 328      88.272  48.636 114.414  0.00  0.00           O 0
+ATOM   5088   CB CYS B 341      82.339  52.099 116.678  0.00  0.00           C 0
+ATOM   4908   CA GLY B 327      85.973  53.138 113.843  0.00  0.00           C 0
+ATOM   5094    O CYS B 341      81.331  49.325 116.267  0.57  7.50           O 0
+ATOM   5084    N CYS B 341      82.628  50.684 118.760  0.80  2.19           N 0
+ATOM   4999   SG CYS B 335      85.549  52.892 118.699  0.00  0.00           S 0
+ATOM   5091   SG CYS B 341      81.151  52.721 115.548  0.00  0.00           S 0
+ATOM   4177  CE1 HIS B 278      78.737  49.108 110.877  0.00  0.00           C 0
+ATOM   4922  ND2 ASN B 328      87.484  47.306 112.781  0.00  0.00           N 0
+ATOM   4179  NE2 HIS B 278      78.336  48.305 111.826  0.58  5.47           N 0
+ATOM   4174  ND1 HIS B 278      78.990  50.345 111.354  0.67  6.56           N 0
+ATOM   4176   CG HIS B 278      78.624  50.398 112.698  0.00  0.00           C 0
+ATOM   4905    O CYS B 326      83.633  54.648 114.165  0.48  6.43           O 0
+ATOM   4171   CB HIS B 278      78.501  51.676 113.536  0.00  0.00           C 0
+ATOM   4912    O GLY B 327      88.473  53.264 113.805  0.00  0.00           O 0
+ATOM   4992    N CYS B 335      87.981  54.627 118.374  0.67  1.09           N 0
+ATOM   4982   CB THR B 334      90.906  54.554 117.431  0.00  0.00           C 0
+ATOM   4996   CB CYS B 335      86.595  53.449 120.061  0.00  0.00           C 0
+ATOM   4986  CG2 THR B 334      91.787  53.795 116.429  0.00  0.00           C 0
+ATOM   5002    O CYS B 335      89.435  54.707 120.890  0.54  9.64           O 0
+ATOM   4911    C GLY B 327      87.429  52.633 113.540  0.00  0.00           C 0
+ATOM   5108  CD2 LEU B 342      80.447  46.157 117.981  0.00  0.00           C 0
+ATOM   5079  NH2 ARG B 340      83.871  44.086 119.167  0.64  7.66           N 0
+ATOM   5062   CA ARG B 340      83.572  50.315 121.046  0.00  0.00           C 0
+ATOM   5067   CG ARG B 340      84.337  47.957 122.021  0.00  0.00           C 0
+ATOM   4913    N ASN B 328      87.463  51.402 112.990  0.00  0.00           N 0
+ATOM   5796   OG SER B 384      80.039  55.673 109.521  0.87  8.57           O 0
+ATOM   4889  CD2 LEU B 325      79.332  58.324 112.603  0.00  0.00           C 0
+ATOM   4183    O HIS B 278      77.403  54.255 114.525  0.57  3.21           O 0
+ATOM   5059    O TYR B 339      85.868  51.000 122.616  0.00  0.00           O 0
+ATOM   5073   NE ARG B 340      84.074  45.875 120.686  0.62  5.47           N 0
+ATOM   5064   CB ARG B 340      83.243  48.789 121.381  0.00  0.00           C 0
+ATOM   5799    O SER B 384      83.185  55.087 108.674  0.64  9.64           O 0
+ATOM   4927    N SER B 329      88.626  52.291 110.600  0.55  2.19           N 0
+ATOM   4965   CB ALA B 332      85.958  56.402 111.375  0.00  0.00           C 0
+ATOM   4123    O ASN B 275      78.743  51.818 107.700  0.63  6.43           O 0
+ATOM   4920   CG ASN B 328      88.020  48.461 113.208  0.00  0.00           C 0
+ATOM   4180  CD2 HIS B 278      78.242  49.115 112.970  0.00  0.00           C 0
+TER
+END

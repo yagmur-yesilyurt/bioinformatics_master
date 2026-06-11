@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    51:
+HEADER 0  - Pocket Score                      : -0.0117
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8485
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5195
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 4.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 196.1620
+HEADER 10 - Pocket volume (convex hull)       : 1.4815
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  12761   SG CYS D1272     106.225  75.826  66.761  0.00  0.00           S 0
+ATOM  12753    O TRP D1271     104.695  76.759  71.203  0.00  0.00           O 0
+ATOM  13479  NH1 ARG D1316     106.952  71.173  71.595  0.67  6.56           N 0
+ATOM  12817  OD2 ASP D1275     108.602  73.331  71.236  0.46  2.14           O 0
+ATOM  12738  CD1 TRP D1271      99.620  76.373  67.751  0.00  0.00           C 0
+ATOM  13561   CZ ARG D1321      99.466  70.959  68.202  0.00  0.00           C 0
+ATOM  13565  NH2 ARG D1321      99.218  70.255  67.060  0.68  8.75           N 0
+ATOM  12715  ND2 ASN D1269     103.116  76.915  65.086  0.50  8.75           N 0
+ATOM  12734   CB TRP D1271     101.912  76.190  69.050  0.00  0.00           C 0
+ATOM  13456   CB SER D1315     103.784  73.650  72.695  0.00  0.00           C 0
+ATOM  13559   NE ARG D1321      98.622  71.996  68.454  0.78  5.47           N 0
+ATOM  13562  NH1 ARG D1321     100.441  70.510  68.954  0.00  0.00           N 0
+ATOM  13462    O SER D1315     101.955  71.609  70.803  0.48  3.21           O 0
+ATOM  12752    C TRP D1271     104.184  77.054  70.123  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    99:
+HEADER 0  - Pocket Score                      : -0.0810
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7954
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4360
+HEADER 5  - Mean B-factor of pocket residues  : 0.2543
+HEADER 6  - Hydrophobicity Score              : 93.8333
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 164.4366
+HEADER 10 - Pocket volume (convex hull)       : 2.7291
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8824
+ATOM   6376    C LEU A1277     113.969 111.899 152.621  0.00  0.00           C 0
+ATOM   6377    O LEU A1277     112.829 112.370 152.711  0.43  4.29           O 0
+ATOM   6378   CB LEU A1277     115.541 113.576 151.628  0.00  0.00           C 0
+ATOM   6387  CG1 ILE A1278     113.707 109.123 149.770  0.00  0.00           C 0
+ATOM   6411  CG2 VAL A1281     109.408 112.614 152.949  0.00  0.00           C 0
+ATOM   6608   CG LEU A1308     110.021 110.926 145.950  0.00  0.00           C 0
+ATOM   6586  CD2 LEU A1305     106.992 113.849 148.065  0.00  0.00           C 0
+ATOM   6585  CD1 LEU A1305     107.193 114.537 150.457  0.00  0.00           C 0
+ATOM   6609  CD1 LEU A1308     111.309 110.820 145.156  0.00  0.00           C 0
+ATOM   6353  CD1 LEU A1274     116.727 111.065 146.957  0.00  0.00           C 0
+ATOM   6607   CB LEU A1308     109.834 109.678 146.818  0.00  0.00           C 0
+ATOM   6582    O LEU A1305     107.083 109.827 148.817  0.67  3.21           O 0
+ATOM   6383   CA ILE A1278     113.045 109.740 152.110  0.00  0.00           C 0
+ATOM   6385    O ILE A1278     111.302 109.226 153.677  0.54  1.07           O 0
+ATOM   6388  CG2 ILE A1278     112.270 107.615 151.062  0.00  0.00           C 0
+TER
+END
