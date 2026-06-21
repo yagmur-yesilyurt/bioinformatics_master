@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    43:
+HEADER 0  - Pocket Score                      : -0.0738
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8112
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5517
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 19.2222
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 2.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 318.2785
+HEADER 10 - Pocket volume (convex hull)       : 21.7530
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM   4982   CB THR B 334      88.725  52.980 113.335  0.00  0.00           C 0
+ATOM   4940   CA SER B 330      90.785  52.610 107.436  0.00  0.00           C 0
+ATOM   4936    C SER B 329      88.634  51.691 106.919  0.00  0.00           C 0
+ATOM   4977    O GLY B 333      87.146  53.859 110.276  0.00  0.00           O 0
+ATOM   4938    N SER B 330      89.971  51.572 106.802  0.55  4.37           N 0
+ATOM   4942   CB SER B 330      92.322  52.170 107.432  0.00  0.00           C 0
+ATOM   4922  ND2 ASN B 328      82.909  49.080 111.176  0.50  9.84           N 0
+ATOM   4912    O GLY B 327      84.704  52.222 110.536  0.40  3.21           O 0
+ATOM   4992    N CYS B 335      86.085  53.800 115.061  0.39  3.28           N 0
+ATOM   4984  OG1 THR B 334      88.401  51.961 114.294  0.00  0.00           O 0
+ATOM   4925    C ASN B 328      86.030  49.447 108.158  0.00  0.00           C 0
+ATOM   4996   CB CYS B 335      84.442  53.393 116.940  0.00  0.00           C 0
+ATOM   4915   CA ASN B 328      84.766  49.805 108.960  0.00  0.00           C 0
+ATOM   4917   CB ASN B 328      83.729  48.698 108.824  0.00  0.00           C 0
+ATOM   4926    O ASN B 328      86.576  48.370 108.138  0.00  0.00           O 0
+ATOM  18402  CE2 PHE D1617      85.074  44.555 108.758  0.00  0.00           C 0
+ATOM   5088   CB CYS B 341      81.227  53.343 115.176  0.00  0.00           C 0
+ATOM   4927    N SER B 329      86.562  50.528 107.396  0.00  0.00           N 0
+ATOM   5084    N CYS B 341      80.887  51.988 117.205  0.66  7.66           N 0
+ATOM   5094    O CYS B 341      79.480  50.982 114.723  0.48  5.36           O 0
+TER
+END

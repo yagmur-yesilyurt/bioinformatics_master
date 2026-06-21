@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.0008
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.8073
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4601
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 21.6250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 176.4407
+HEADER 10 - Pocket volume (convex hull)       : 3.9969
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   4248   CZ ARG B 282      82.815  57.367 129.365  0.00  0.00           C 0
+ATOM   4441    O ALA B 296      81.330  51.537 132.519  0.70  5.36           O 0
+ATOM   4249  NH1 ARG B 282      81.932  58.250 129.740  0.00  0.00           N 0
+ATOM   4516  CH2 TRP B 301      76.772  53.158 131.631  0.00  0.00           C 0
+ATOM   4252  NH2 ARG B 282      83.654  56.932 130.237  0.14  7.66           N 0
+ATOM   4474  CD2 LEU B 299      78.505  54.331 135.864  0.00  0.00           C 0
+ATOM   4446   CB ASP B 297      84.419  52.854 132.491  0.00  0.00           C 0
+ATOM   4470  CD1 LEU B 299      80.563  53.095 136.597  0.00  0.00           C 0
+ATOM   4696  OD1 ASN B 313      77.344  55.883 127.611  0.70  6.43           O 0
+ATOM   4243   CD ARG B 282      81.707  57.059 127.206  0.00  0.00           C 0
+ATOM   4436   CB ALA B 296      80.091  50.282 130.128  0.00  0.00           C 0
+ATOM   4606  CE1 TYR B 307      78.066  51.507 127.786  0.00  0.00           C 0
+ATOM   4609   OH TYR B 307      80.205  51.871 126.618  0.74  1.07           O 0
+ATOM   4270    O ASN B 283      83.271  50.929 127.370  0.55  1.07           O 0
+ATOM   4451  OD2 ASP B 297      85.016  54.118 130.550  0.09  5.36           O 0
+ATOM   4440    C ALA B 296      81.937  50.713 131.911  0.00  0.00           C 0
+ATOM   4246   NE ARG B 282      82.807  56.825 128.172  0.31  2.19           N 0
+TER
+END

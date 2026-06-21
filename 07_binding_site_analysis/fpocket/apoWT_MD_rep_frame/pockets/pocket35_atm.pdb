@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : 0.0028
+HEADER 1  - Drug Score                        : 0.0049
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8972
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7285
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 53.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 285.5943
+HEADER 10 - Pocket volume (convex hull)       : 11.8354
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.7273
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM  11318  CG2 VAL D1190     134.353  70.759  65.350  0.00  0.00           C 0
+ATOM  11324    N TRP D1191     132.137  73.513  63.805  0.00  0.00           N 0
+ATOM  11326   CA TRP D1191     130.870  74.107  64.253  0.00  0.00           C 0
+ATOM  11314  CG1 VAL D1190     135.290  73.054  64.767  0.00  0.00           C 0
+ATOM  11323    O VAL D1190     131.361  71.480  64.103  0.00  0.00           O 0
+ATOM  11322    C VAL D1190     132.301  72.190  63.771  0.00  0.00           C 0
+ATOM  11328   CB TRP D1191     131.139  75.623  64.360  0.00  0.00           C 0
+ATOM  11338  CE3 TRP D1191     128.940  75.591  66.862  0.00  0.00           C 0
+ATOM  11395    O ARG D1193     127.374  68.622  63.240  0.00  0.00           O 0
+ATOM  11467  OG1 THR D1197     126.513  66.302  64.236  0.46  6.43           O 0
+ATOM  11394    C ARG D1193     128.173  69.507  63.104  0.00  0.00           C 0
+ATOM  11396    N LEU D1194     128.492  70.349  64.154  0.65  1.09           N 0
+ATOM  11398   CA LEU D1194     127.782  70.374  65.411  0.00  0.00           C 0
+ATOM  11376   CB ARG D1193     129.896  68.775  61.343  0.00  0.00           C 0
+ATOM  11409  CD2 LEU D1194     128.704  71.876  69.034  0.00  0.00           C 0
+ATOM  11400   CB LEU D1194     128.617  71.154  66.460  0.00  0.00           C 0
+ATOM  11405  CD1 LEU D1194     128.303  69.479  68.456  0.00  0.00           C 0
+ATOM  11465   CB THR D1197     125.650  66.665  65.280  0.00  0.00           C 0
+ATOM  11469  CG2 THR D1197     125.454  65.406  66.164  0.00  0.00           C 0
+TER
+END

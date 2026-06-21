@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    78:
+HEADER 0  - Pocket Score                      : -0.1587
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9572
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5960
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 26.4167
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.9167
+HEADER 9  - Pocket volume (Monte Carlo)       : 307.7506
+HEADER 10 - Pocket volume (convex hull)       : 10.8574
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   5780    O ARG B 383      85.169  58.692 106.946  0.43  7.50           O 0
+ATOM   5790    C SER B 384      83.665  56.402 104.237  0.00  0.00           C 0
+ATOM   5800    C ALA B 385      85.946  57.125 101.779  0.00  0.00           C 0
+ATOM   4908   CA GLY B 327      85.458  54.314 107.567  0.00  0.00           C 0
+ATOM   5791    O SER B 384      83.765  55.214 104.372  0.67  2.14           O 0
+ATOM   5802    N GLY B 386      86.996  56.470 101.282  0.62  5.47           N 0
+ATOM   5794   CA ALA B 385      84.712  56.299 102.088  0.00  0.00           C 0
+ATOM   4917   CB ASN B 328      84.464  50.930 104.420  0.00  0.00           C 0
+ATOM   4913    N ASN B 328      84.988  52.351 106.328  0.62  1.09           N 0
+ATOM   5867  CE2 TYR B 389      86.355  53.100  98.652  0.00  0.00           C 0
+ATOM  18437  OG1 THR D1620      88.315  49.698  99.716  0.00  0.00           O 0
+ATOM   5837  CG2 ILE B 388      89.908  55.027  96.633  0.00  0.00           C 0
+ATOM   5804   CA GLY B 386      88.298  56.956 100.811  0.00  0.00           C 0
+ATOM   5801    O ALA B 385      86.024  58.325 102.091  0.54  3.21           O 0
+ATOM   5822   CE LYS B 387      91.518  61.117 102.525  0.00  0.00           C 0
+ATOM   5756    O LEU B 382      85.919  60.747 103.848  0.53  2.14           O 0
+ATOM  19637   CE MET D1691      89.225  62.830 105.828  0.00  0.00           C 0
+ATOM   5863   OH TYR B 389      84.999  50.962  99.078  0.68  2.14           O 0
+TER
+END

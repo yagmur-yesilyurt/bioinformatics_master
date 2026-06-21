@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   113:
+HEADER 0  - Pocket Score                      : -0.1221
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7777
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4344
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 43.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.1179
+HEADER 10 - Pocket volume (convex hull)       : 3.6909
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM   3209   CG ARG C 219      38.624  75.700  99.907  0.00  0.00           C 0
+ATOM   3187   CB LEU C 218      39.485  71.465 102.140  0.00  0.00           C 0
+ATOM   3192  CD1 LEU C 218      38.004  72.783 103.675  0.00  0.00           C 0
+ATOM   3115  CD1 LEU C 212      36.023  69.679 101.792  0.00  0.00           C 0
+ATOM   3202    N ARG C 219      40.281  73.042  99.603  0.70  3.28           N 0
+ATOM   3033   CB THR C 207      34.142  70.380  98.013  0.00  0.00           C 0
+ATOM   3037  CG2 THR C 207      35.008  69.290  97.257  0.00  0.00           C 0
+ATOM   3035  OG1 THR C 207      34.297  71.531  97.231  0.61  1.07           O 0
+ATOM   3185   CA LEU C 218      40.815  71.274 101.351  0.00  0.00           C 0
+ATOM   3182    O ALA C 217      41.259  68.900 102.239  0.60  7.50           O 0
+ATOM   3232  OG1 THR C 220      42.740  70.355  96.095  0.70  8.57           O 0
+ATOM   3254  CD2 PHE C 221      38.274  72.058  94.595  0.00  0.00           C 0
+ATOM   2977   SD MET C 203      37.974  69.040  91.880  0.00  0.00           S 0
+ATOM   3055  OE2 GLU C 208      33.362  74.836  99.367  0.33  9.64           O 0
+ATOM   3256  CE2 PHE C 221      37.103  72.548  95.200  0.00  0.00           C 0
+TER
+END

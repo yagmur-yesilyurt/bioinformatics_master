@@ -1,0 +1,63 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   112:
+HEADER 0  - Pocket Score                      : -0.1957
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    70
+HEADER 3  - Mean alpha-sphere radius          : 3.7787
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4039
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 25.5882
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.0588
+HEADER 9  - Pocket volume (Monte Carlo)       : 612.4028
+HEADER 10 - Pocket volume (convex hull)       : 177.9759
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.9412
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.2429
+ATOM  16155   CB GLN D1483      85.071  71.132  61.246  0.00  0.00           C 0
+ATOM  16158   CG GLN D1483      83.831  71.379  60.271  0.00  0.00           C 0
+ATOM  16392  ND2 ASN D1496      86.764  63.897  59.936  0.62  9.84           N 0
+ATOM  16391  OD1 ASN D1496      84.945  64.257  61.294  0.00  0.00           O 0
+ATOM  16313   NZ LYS D1492      88.746  69.121  61.447  0.71  6.56           N 0
+ATOM  16177  OD2 ASP D1484      88.908  71.694  60.933  0.00  0.00           O 0
+ATOM  16307   CD LYS D1492      88.011  66.914  62.023  0.00  0.00           C 0
+ATOM  16065   CE LYS D1477      81.468  76.087  66.065  0.00  0.00           C 0
+ATOM  20884  OE2 GLU D1773      80.631  69.450  67.713  0.85  3.21           O 0
+ATOM  15996   CZ PHE D1473      82.422  75.312  69.375  0.00  0.00           C 0
+ATOM  16068   NZ LYS D1477      80.219  75.324  65.654  0.62  7.66           N 0
+ATOM  16000  CE2 PHE D1473      81.138  75.866  69.414  0.00  0.00           C 0
+ATOM  20857   CB LEU D1772      76.797  74.034  70.452  0.00  0.00           C 0
+ATOM  20871    O LEU D1772      75.289  71.569  68.982  0.11  3.21           O 0
+ATOM  20925   CB SER D1776      74.632  69.715  65.732  0.00  0.00           C 0
+ATOM  20928   OG SER D1776      74.945  69.465  64.373  0.00  8.57           O 0
+ATOM  19066   CB ALA D1656      85.507  69.120  71.878  0.00  0.00           C 0
+ATOM  16230   CE MET D1487      85.821  68.652  67.855  0.00  0.00           C 0
+ATOM  16213  CD2 PHE D1486      85.416  73.219  71.405  0.00  0.00           C 0
+ATOM  20814    O ALA D1769      78.942  70.990  72.643  0.00  0.00           O 0
+ATOM  16198    O ILE D1485      87.169  72.498  67.725  0.64  1.07           O 0
+ATOM  16186  CG2 ILE D1485      85.875  75.308  66.719  0.00  0.00           C 0
+ATOM  16150    O GLY D1482      83.476  73.990  63.169  0.73  1.07           O 0
+ATOM  20883  OE1 GLU D1773      78.782  68.265  67.506  0.54  1.07           O 0
+ATOM  16310   CE LYS D1492      87.928  68.416  62.275  0.00  0.00           C 0
+ATOM  16370  CD1 TYR D1495      83.100  65.182  64.704  0.00  0.00           C 0
+ATOM  20809   CB ALA D1769      81.735  72.122  73.962  0.00  0.00           C 0
+ATOM  20879   CG GLU D1773      79.507  68.942  69.727  0.00  0.00           C 0
+ATOM  20872    N GLU D1773      76.825  70.727  70.494  0.70  1.09           N 0
+ATOM  16163  NE2 GLN D1483      82.213  70.455  61.804  0.00  0.00           N 0
+ATOM  16372  CE1 TYR D1495      81.833  65.670  64.640  0.00  0.00           C 0
+ATOM  16374   CZ TYR D1495      81.335  66.238  65.800  0.00  0.00           C 0
+ATOM  16153   CA GLN D1483      85.234  72.102  62.498  0.00  0.00           C 0
+ATOM  16162  OE1 GLN D1483      81.675  72.416  60.758  0.00  0.00           O 0
+ATOM  20870    C LEU D1772      75.951  71.711  70.034  0.00  0.00           C 0
+ATOM  20807   CA ALA D1769      80.321  72.555  73.780  0.00  0.00           C 0
+ATOM  16167    O GLN D1483      86.779  70.765  63.818  0.65  2.14           O 0
+ATOM  16369   CG TYR D1495      83.823  65.067  65.859  0.00  0.00           C 0
+ATOM  16166    C GLN D1483      86.582  71.852  63.256  0.00  0.00           C 0
+ATOM  16375   OH TYR D1495      80.133  67.017  65.641  0.50  7.50           O 0
+ATOM  19028    O SER D1653      82.852  66.347  73.754  0.50  2.14           O 0
+TER
+END

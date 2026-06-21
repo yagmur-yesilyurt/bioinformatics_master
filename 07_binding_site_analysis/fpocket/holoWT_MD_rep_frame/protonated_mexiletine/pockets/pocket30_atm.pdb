@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.0649
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0577
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6983
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 63.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 150.1797
+HEADER 10 - Pocket volume (convex hull)       : 1.0884
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8750
+ATOM  17064  CE1 PHE D1536      61.082  37.663  81.970  0.00  0.00           C 0
+ATOM  17012  CG2 THR D1533      64.596  34.748  77.830  0.00  0.00           C 0
+ATOM  17010  OG1 THR D1533      63.556  35.113  75.658  0.42  9.64           O 0
+ATOM  17062  CD1 PHE D1536      62.163  38.300  81.311  0.00  0.00           C 0
+ATOM  17070  CE2 PHE D1536      59.621  39.404  81.199  0.00  0.00           C 0
+ATOM  17066   CZ PHE D1536      59.793  38.269  81.954  0.00  0.00           C 0
+ATOM  17068  CD2 PHE D1536      60.642  39.992  80.468  0.00  0.00           C 0
+ATOM  17061   CG PHE D1536      61.928  39.492  80.509  0.00  0.00           C 0
+ATOM  17006   CA THR D1533      64.291  37.102  76.800  0.00  0.00           C 0
+ATOM  17003    O VAL D1532      63.710  39.836  76.529  0.56  6.43           O 0
+ATOM  16994  CG1 VAL D1532      61.485  40.172  74.097  0.00  0.00           C 0
+ATOM  17004    N THR D1533      64.179  37.936  75.532  0.00  0.00           N 0
+ATOM  17058   CB PHE D1536      63.004  39.946  79.529  0.00  0.00           C 0
+TER
+END

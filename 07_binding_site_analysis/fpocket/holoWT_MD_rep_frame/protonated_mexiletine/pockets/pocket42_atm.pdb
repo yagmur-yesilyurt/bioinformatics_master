@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    42:
+HEADER 0  - Pocket Score                      : -0.0956
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9046
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5245
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -26.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 294.5654
+HEADER 10 - Pocket volume (convex hull)       : 11.7925
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM   2112  OD1 ASP B 152      40.088  79.776 105.255  0.69  5.36           O 0
+ATOM   2117   CD PRO B 153      38.782  82.346 101.358  0.00  0.00           C 0
+ATOM   2129    O PRO B 153      36.380  84.036 103.288  0.70  3.21           O 0
+ATOM   2108   CB ASP B 152      39.570  82.121 105.516  0.00  0.00           C 0
+ATOM   2113  OD2 ASP B 152      39.481  80.515 107.252  0.00  0.00           O 0
+ATOM   2111   CG ASP B 152      39.811  80.726 106.029  0.00  0.00           C 0
+ATOM   9596   NZ LYS C 863      40.150  77.263 105.868  0.00  0.00           N 0
+ATOM   9593   CE LYS C 863      41.062  76.345 105.192  0.00  0.00           C 0
+ATOM   9529  NE2 GLN C 859      41.313  75.873 100.024  0.50  5.47           N 0
+ATOM   3214  NH1 ARG B 219      36.188  79.269  99.223  0.47  7.66           N 0
+ATOM   2125   CG PRO B 153      37.568  82.706 100.495  0.00  0.00           C 0
+ATOM   3208   CD ARG B 219      37.871  76.879  98.905  0.00  0.00           C 0
+ATOM   2150   CB PRO B 155      31.694  83.735 105.361  0.00  0.00           C 0
+ATOM   2145   CD PRO B 155      33.295  85.453 105.753  0.00  0.00           C 0
+ATOM   2153   CG PRO B 155      32.027  84.841 106.320  0.00  0.00           C 0
+ATOM   9528  OE1 GLN C 859      42.698  77.563 100.699  0.67  3.21           O 0
+ATOM   2103    O HIS B 151      42.186  80.766 103.461  0.52  1.07           O 0
+TER
+END

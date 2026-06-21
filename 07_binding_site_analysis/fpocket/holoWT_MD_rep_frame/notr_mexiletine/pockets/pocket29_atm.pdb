@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.0400
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.8535
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5098
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 13.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 186.3705
+HEADER 10 - Pocket volume (convex hull)       : 4.4374
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM  14750   CD LYS D1397      80.108  94.206 110.472  0.00  0.00           C 0
+ATOM  14183    N GLY D1361      75.383  94.506 113.274  0.61  1.09           N 0
+ATOM   7574   OH TYR C 739      80.203  99.628 113.358  0.46  8.57           O 0
+ATOM  14858  OD1 ASP D1403      79.258  96.794 109.077  0.97  2.14           O 0
+ATOM  14712  NE1 TRP D1395      77.803  96.670 116.464  0.53  7.66           N 0
+ATOM  14710  CD1 TRP D1395      78.952  96.448 117.168  0.00  0.00           C 0
+ATOM  14140    O GLY D1358      74.579  99.169 111.850  0.69  3.21           O 0
+ATOM  14756   NZ LYS D1397      81.767  95.615 109.217  0.62  4.37           N 0
+ATOM  14753   CE LYS D1397      81.406  94.245 109.693  0.00  0.00           C 0
+ATOM   7578  CE2 TYR C 739      80.972  99.481 111.142  0.00  0.00           C 0
+ATOM   7573   CZ TYR C 739      79.972  99.967 112.012  0.00  0.00           C 0
+ATOM  14185   CA GLY D1361      75.905  94.390 114.617  0.00  0.00           C 0
+ATOM  14136   CA GLY D1358      75.935  99.161 109.917  0.00  0.00           C 0
+ATOM  14139    C GLY D1358      74.771  98.671 110.707  0.00  0.00           C 0
+ATOM  14740    N LYS D1397      79.395  92.223 114.136  0.68  1.09           N 0
+ATOM  14732  OG1 THR D1396      82.932  92.010 115.677  0.45  9.64           O 0
+ATOM  14747   CG LYS D1397      79.968  92.930 111.267  0.00  0.00           C 0
+ATOM  14725    O TRP D1395      81.710  94.275 118.102  0.00  0.00           O 0
+ATOM  14744   CB LYS D1397      78.637  92.769 111.907  0.00  0.00           C 0
+ATOM  14728   CA THR D1396      80.572  92.282 116.307  0.00  0.00           C 0
+TER
+END

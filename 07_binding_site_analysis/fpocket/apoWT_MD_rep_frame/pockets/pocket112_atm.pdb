@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   112:
+HEADER 0  - Pocket Score                      : -0.1294
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9611
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5589
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 0.0000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 305.4863
+HEADER 10 - Pocket volume (convex hull)       : 11.1571
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  14871  ND2 ASN D1404      82.935  98.414 101.675  0.54  8.75           N 0
+ATOM  14854   CB ASP D1403      78.429  97.213 105.374  0.00  0.00           C 0
+ATOM  20181   OH TYR D1727      80.816  95.576 107.577  0.43  3.21           O 0
+ATOM  14861    O ASP D1403      78.594  99.687 103.460  0.53  3.21           O 0
+ATOM   7591  ND2 ASN C 740      77.513 105.810 110.101  0.72  7.66           N 0
+ATOM   7574   OH TYR C 739      74.725 103.181 110.894  0.07  6.43           O 0
+ATOM   7578  CE2 TYR C 739      75.029 102.413 108.593  0.00  0.00           C 0
+ATOM  14756   NZ LYS D1397      79.010  97.020 109.971  0.00  0.00           N 0
+ATOM   7576  CD2 TYR C 739      74.909 102.568 107.202  0.00  0.00           C 0
+ATOM  14134    N GLY D1358      74.560  98.189 106.950  0.00  0.00           N 0
+ATOM   7581    O TYR C 739      77.645 103.756 105.456  0.52  2.14           O 0
+ATOM  14857   CG ASP D1403      77.620  96.660 106.487  0.00  0.00           C 0
+ATOM  14858  OD1 ASP D1403      78.288  96.457 107.547  0.70  1.07           O 0
+ATOM   7586   CB ASN C 740      78.354 105.513 107.873  0.00  0.00           C 0
+ATOM   7595    O ASN C 740      80.429 105.270 106.020  0.00  0.00           O 0
+ATOM   7554  CE1 HIS C 738      80.656 103.517 103.336  0.00  0.00           C 0
+ATOM   7551  ND1 HIS C 738      79.313 103.232 103.215  0.00  0.00           N 0
+ATOM  14136   CA GLY D1358      74.796  98.161 108.380  0.00  0.00           C 0
+TER
+END

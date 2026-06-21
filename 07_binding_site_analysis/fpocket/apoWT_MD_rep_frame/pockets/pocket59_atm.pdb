@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    59:
+HEADER 0  - Pocket Score                      : -0.0264
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.1084
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6443
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 21.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 252.7008
+HEADER 10 - Pocket volume (convex hull)       : 4.7281
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5385
+ATOM   5742   CB LEU B 382      83.906  61.869 101.616  0.00  0.00           C 0
+ATOM   5813   CB LYS B 387      89.281  60.375  99.137  0.00  0.00           C 0
+ATOM   5811   CA LYS B 387      87.943  59.607  99.116  0.00  0.00           C 0
+ATOM   5747  CD1 LEU B 382      84.565  63.572  99.686  0.00  0.00           C 0
+ATOM   5809    N LYS B 387      87.833  58.778 100.311  0.70  3.28           N 0
+ATOM  19628   CA MET D1691      88.408  66.054 103.969  0.00  0.00           C 0
+ATOM   5756    O LEU B 382      85.180  59.802 103.552  0.51  7.50           O 0
+ATOM  19630   CB MET D1691      86.886  65.795 104.117  0.00  0.00           C 0
+ATOM  19618   CB ASP D1690      90.717  65.604 107.950  0.00  0.00           C 0
+ATOM  19621   CG ASP D1690      89.440  64.971 108.520  0.00  0.00           C 0
+ATOM   5773  NH1 ARG B 383      87.203  62.533 108.432  0.00  0.00           N 0
+ATOM  19622  OD1 ASP D1690      89.625  63.987 109.301  0.50  6.43           O 0
+ATOM  19633   CG MET D1691      86.486  64.754 105.173  0.00  0.00           C 0
+ATOM  19626    N MET D1691      88.855  66.268 105.356  0.74  1.09           N 0
+ATOM   5819   CD LYS B 387      91.794  60.706  99.212  0.00  0.00           C 0
+ATOM  19767  ND2 ASN D1699      91.242  65.112 101.089  0.85  2.19           N 0
+ATOM   5816   CG LYS B 387      90.636  59.686  99.381  0.00  0.00           C 0
+ATOM   5825   NZ LYS B 387      93.384  59.613 100.756  0.66  9.84           N 0
+ATOM  19766  OD1 ASN D1699      93.006  65.922 102.379  0.48  8.57           O 0
+ATOM  19625    O ASP D1690      91.028  66.343 104.706  0.00  0.00           O 0
+ATOM  19624    C ASP D1690      90.162  66.485 105.617  0.00  0.00           C 0
+ATOM  19809  CD1 LEU D1702      88.359  64.744  98.902  0.00  0.00           C 0
+TER
+END

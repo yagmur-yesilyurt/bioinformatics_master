@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    69:
+HEADER 0  - Pocket Score                      : -0.0503
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9264
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5919
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 4.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 226.9005
+HEADER 10 - Pocket volume (convex hull)       : 7.1370
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM  14075   CB ASN D1354      69.123 101.622  98.882  0.00  0.00           C 0
+ATOM  14078   CG ASN D1354      69.983 102.581  98.075  0.00  0.00           C 0
+ATOM  14084    O ASN D1354      68.213 100.949 101.665  0.30  6.43           O 0
+ATOM  14080  ND2 ASN D1354      71.171 102.948  98.542  0.34  6.56           N 0
+ATOM   8685   CG ARG C 808      65.164 105.992  96.248  0.00  0.00           C 0
+ATOM   8691   NE ARG C 808      67.067 107.498  96.156  0.59  2.19           N 0
+ATOM  14079  OD1 ASN D1354      69.617 103.000  96.978  0.83  4.29           O 0
+ATOM   8697  NH2 ARG C 808      69.081 108.502  96.153  0.00  0.00           N 0
+ATOM   8612    O ASN C 803      61.809 105.623 101.426  0.00  0.00           O 0
+ATOM   8634   CA SER C 805      62.663 102.188  98.532  0.00  0.00           C 0
+ATOM   8639   OG SER C 805      62.984 100.808 100.525  0.29  6.43           O 0
+ATOM   8631    O LEU C 804      61.861 104.689  98.172  0.61  3.21           O 0
+ATOM   8636   CB SER C 805      63.087 100.736  99.153  0.00  0.00           C 0
+ATOM   8682   CB ARG C 808      65.771 104.832  95.354  0.00  0.00           C 0
+ATOM   8642    O SER C 805      63.471 101.789  96.281  0.64  1.07           O 0
+TER
+END

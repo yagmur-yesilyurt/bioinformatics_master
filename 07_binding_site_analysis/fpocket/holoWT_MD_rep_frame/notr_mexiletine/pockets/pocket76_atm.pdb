@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    76:
+HEADER 0  - Pocket Score                      : -0.1166
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0884
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6494
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 41.1667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.1188
+HEADER 10 - Pocket volume (convex hull)       : 6.1317
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8125
+ATOM  22088   CB MET D1851      73.105  36.438  37.496  0.00  0.00           C 0
+ATOM  21895   CG MET D1838      73.441  39.832  33.877  0.00  0.00           C 0
+ATOM  21898   SD MET D1838      74.995  40.718  33.595  0.00  0.00           S 0
+ATOM  21892   CB MET D1838      73.096  38.563  33.028  0.00  0.00           C 0
+ATOM  21904    O MET D1838      73.969  36.993  30.839  0.77  7.50           O 0
+ATOM  21930  CD2 LEU D1840      71.606  34.247  33.245  0.00  0.00           C 0
+ATOM  22095   CE MET D1851      73.769  39.321  38.720  0.00  0.00           C 0
+ATOM  22110  OD2 ASP D1852      78.809  35.060  38.998  0.61  4.29           O 0
+ATOM  22108   CG ASP D1852      77.653  35.079  39.509  0.00  0.00           C 0
+ATOM  21899   CE MET D1838      74.806  41.681  35.173  0.00  0.00           C 0
+ATOM  22105   CB ASP D1852      77.219  36.233  40.414  0.00  0.00           C 0
+ATOM  22101    N ASP D1852      74.867  35.967  39.860  0.83  1.09           N 0
+ATOM  22109  OD1 ASP D1852      76.887  34.128  39.370  0.00  8.57           O 0
+ATOM  22069  CD2 HIS D1849      72.702  30.617  34.715  0.00  0.00           C 0
+ATOM  22083    O CYS D1850      72.640  32.441  38.549  0.52  1.07           O 0
+ATOM  22068  NE2 HIS D1849      73.581  29.795  35.428  0.46  6.56           N 0
+ATOM  22086   CA MET D1851      73.052  35.171  38.392  0.00  0.00           C 0
+TER
+END

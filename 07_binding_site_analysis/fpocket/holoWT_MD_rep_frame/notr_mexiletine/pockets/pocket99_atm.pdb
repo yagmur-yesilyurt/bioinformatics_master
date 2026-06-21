@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    99:
+HEADER 0  - Pocket Score                      : -0.1688
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7978
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4624
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 22.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.0358
+HEADER 10 - Pocket volume (convex hull)       : 11.9630
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM  14293   CB GLU D1368      77.113  82.278 126.924  0.00  0.00           C 0
+ATOM  14358   CA LEU D1373      73.443  87.387 123.057  0.00  0.00           C 0
+ATOM  14355    O PRO D1372      73.268  84.688 121.958  0.43  4.29           O 0
+ATOM  14301  OE2 GLU D1368      74.638  82.452 128.120  0.00  0.00           O 0
+ATOM  14356    N LEU D1373      74.113  86.813 121.996  0.00  0.00           N 0
+ATOM  14341    O LEU D1371      76.257  84.087 121.192  0.73  3.21           O 0
+ATOM  14365  CD1 LEU D1373      73.754  88.521 126.086  0.00  0.00           C 0
+ATOM  14300  OE1 GLU D1368      75.746  84.065 129.224  0.67  8.57           O 0
+ATOM  14244    N ASN D1365      78.643  87.756 124.128  0.34  1.09           N 0
+ATOM  14257    O ASN D1365      79.631  85.458 124.925  0.26  1.07           O 0
+ATOM  14384  ND2 ASN D1374      67.221  86.772 126.669  0.00  0.00           N 0
+ATOM  14379   CB ASN D1374      69.235  87.121 125.405  0.00  0.00           C 0
+ATOM  14434  CG1 ILE D1377      68.502  89.831 127.593  0.00  0.00           C 0
+ATOM  14437  CD1 ILE D1377      67.509  89.587 128.789  0.00  0.00           C 0
+ATOM  14248   CB ASN D1365      78.017  87.578 126.516  0.00  0.00           C 0
+ATOM  14375    N ASN D1374      71.230  87.400 124.007  0.65  2.19           N 0
+ATOM  14377   CA ASN D1374      69.809  87.592 123.977  0.00  0.00           C 0
+TER
+END

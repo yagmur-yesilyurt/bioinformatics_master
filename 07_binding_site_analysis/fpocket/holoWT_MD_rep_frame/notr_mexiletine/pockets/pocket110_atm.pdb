@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   110:
+HEADER 0  - Pocket Score                      : -0.1853
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.2173
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5256
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 72.8750
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.3444
+HEADER 10 - Pocket volume (convex hull)       : 2.6338
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.9375
+ATOM  18128   CB LEU D1601      83.566  39.145  87.100  0.00  0.00           C 0
+ATOM  18514  CG1 VAL D1624      84.072  44.694  93.426  0.00  0.00           C 0
+ATOM  18137  CD2 LEU D1601      86.191  39.295  87.336  0.00  0.00           C 0
+ATOM  18133  CD1 LEU D1601      84.941  40.823  85.766  0.00  0.00           C 0
+ATOM  18534  CG1 ILE D1625      82.173  40.245  95.907  0.00  0.00           C 0
+ATOM  18235  CD1 LEU D1608      86.290  37.217  94.851  0.00  0.00           C 0
+ATOM  18454  CD1 LEU D1621      85.934  41.586  96.538  0.00  0.00           C 0
+ATOM  18590   CB ALA D1628      80.173  42.299  90.829  0.00  0.00           C 0
+ATOM  18526   CA ILE D1625      80.474  41.922  95.018  0.00  0.00           C 0
+ATOM  18523    O VAL D1624      81.027  44.243  93.393  0.00  0.00           O 0
+ATOM  18191   CA GLY D1605      82.109  36.803  93.095  0.00  0.00           C 0
+ATOM  18142    O LEU D1601      82.497  37.249  89.703  0.71  4.29           O 0
+ATOM  18189    N GLY D1605      82.768  35.958  92.109  0.00  0.00           N 0
+ATOM  18179  CG1 VAL D1604      86.090  35.818  91.517  0.00  0.00           C 0
+TER
+END

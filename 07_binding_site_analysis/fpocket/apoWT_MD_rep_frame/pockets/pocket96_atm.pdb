@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    96:
+HEADER 0  - Pocket Score                      : -0.0895
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9763
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5448
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 36.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.9211
+HEADER 10 - Pocket volume (convex hull)       : 7.7194
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM  20175   CG TYR D1727      81.889  91.719 108.941  0.00  0.00           C 0
+ATOM  14825  ND2 ASN D1401      80.123  92.095 104.418  0.51  9.84           N 0
+ATOM  20132    O THR D1723      85.644  91.095 108.326  0.57  2.14           O 0
+ATOM  20104    O LEU D1721      83.562  87.542 107.403  0.45  1.07           O 0
+ATOM  20178  CE1 TYR D1727      82.540  94.044 108.474  0.00  0.00           C 0
+ATOM  20181   OH TYR D1727      80.816  95.576 107.577  0.43  3.21           O 0
+ATOM  20180   CZ TYR D1727      81.199  94.253 108.006  0.00  0.00           C 0
+ATOM  20127  CG2 THR D1723      88.309  91.221 105.811  0.00  0.00           C 0
+ATOM  20176  CD1 TYR D1727      82.768  92.837 109.115  0.00  0.00           C 0
+ATOM  14871  ND2 ASN D1404      82.935  98.414 101.675  0.54  8.75           N 0
+ATOM  14903   CB ALA D1407      80.856  94.207 100.773  0.00  0.00           C 0
+ATOM  14824  OD1 ASN D1401      79.252  94.103 103.786  0.56  4.29           O 0
+ATOM  14799    O LYS D1399      79.665  89.408 105.814  0.34  1.07           O 0
+ATOM  20085    O ILE D1720      85.808  87.713 104.572  0.00  0.00           O 0
+ATOM  20123   CB THR D1723      87.696  89.853 106.201  0.00  0.00           C 0
+ATOM  14950  CD2 LEU D1410      81.909  87.891 100.773  0.00  0.00           C 0
+ATOM  20088   CA LEU D1721      83.898  85.967 105.561  0.00  0.00           C 0
+TER
+END

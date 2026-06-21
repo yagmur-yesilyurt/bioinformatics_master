@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : 0.0752
+HEADER 1  - Drug Score                        : 0.0036
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.6628
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3920
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 30.4545
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8182
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.4023
+HEADER 10 - Pocket volume (convex hull)       : 11.5215
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4231
+ATOM  20742  OD1 ASN D1765      84.521  74.649  74.217  0.75  1.07           O 0
+ATOM  15926  CG2 ILE D1469      81.427  79.182  75.000  0.00  0.00           C 0
+ATOM  20743  ND2 ASN D1765      84.715  75.804  76.174  0.87  4.37           N 0
+ATOM  13633    O ALA D1326      87.592  78.997  73.004  0.48  4.29           O 0
+ATOM  16042   CG GLN D1476      85.634  79.557  66.599  0.00  0.00           C 0
+ATOM  13626   CA ALA D1326      88.761  77.141  71.942  0.00  0.00           C 0
+ATOM  13671   CA GLY D1329      89.252  81.950  71.264  0.00  0.00           C 0
+ATOM  13628   CB ALA D1326      87.928  75.898  71.964  0.00  0.00           C 0
+ATOM  16163  NE2 GLN D1483      87.216  76.340  66.701  0.79  2.19           N 0
+ATOM  16047  NE2 GLN D1476      87.880  79.981  65.649  0.69  5.47           N 0
+ATOM  13623    O ASN D1325      90.710  78.902  71.272  0.66  2.14           O 0
+ATOM  15978  OD1 ASN D1472      84.625  81.464  71.022  0.60  4.29           O 0
+ATOM  15992  CD1 PHE D1473      81.942  75.214  69.483  0.00  0.00           C 0
+ATOM  16158   CG GLN D1483      85.612  74.590  66.414  0.00  0.00           C 0
+ATOM  16211   CZ PHE D1486      86.382  72.663  70.626  0.00  0.00           C 0
+ATOM  15986   CA PHE D1473      81.261  78.403  68.923  0.00  0.00           C 0
+ATOM  15938    O ILE D1469      80.356  80.183  72.176  0.00  0.00           O 0
+ATOM  15988   CB PHE D1473      80.584  77.371  69.900  0.00  0.00           C 0
+ATOM  15984    N PHE D1473      81.133  79.736  69.595  0.70  1.09           N 0
+ATOM  20799  CD1 ILE D1768      79.686  75.557  73.723  0.00  0.00           C 0
+TER
+END

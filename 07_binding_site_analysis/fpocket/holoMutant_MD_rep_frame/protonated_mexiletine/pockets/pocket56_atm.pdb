@@ -1,0 +1,51 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    56:
+HEADER 0  - Pocket Score                      : -0.0317
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    38
+HEADER 3  - Mean alpha-sphere radius          : 3.7712
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4061
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 15.1538
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Amino Acid based volume Score     : 5.0769
+HEADER 9  - Pocket volume (Monte Carlo)       : 429.1719
+HEADER 10 - Pocket volume (convex hull)       : 89.6053
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.0789
+ATOM  11606    O HIS F1204     112.878  62.784  68.177  0.44  8.57           O 0
+ATOM  11577   CA GLU F1203     114.674  66.511  66.817  0.00  0.00           C 0
+ATOM  11588    C GLU F1203     114.327  65.089  66.422  0.00  0.00           C 0
+ATOM  11589    O GLU F1203     113.424  64.722  65.623  0.00  0.00           O 0
+ATOM  11586  OE1 GLU F1203     112.326  68.918  65.771  0.00  0.00           O 0
+ATOM  11674  OE2 GLU F1208     109.597  67.502  72.704  0.47  3.21           O 0
+ATOM  11587  OE2 GLU F1203     113.415  70.269  67.043  0.00  0.00           O 0
+ATOM  11574    O VAL F1202     114.852  67.185  69.660  0.29  5.36           O 0
+ATOM  12748  NE1 TRP F1271     108.658  72.067  71.850  0.82  8.75           N 0
+ATOM  12825  OD2 ASP F1275     111.573  71.238  76.635  0.00  0.00           O 0
+ATOM  12505   CD LYS F1257     115.601  70.790  74.037  0.00  0.00           C 0
+ATOM  12769   SG CYS F1272     113.672  75.433  72.322  0.00  0.00           S 0
+ATOM  12746  CD1 TRP F1271     108.984  73.413  71.610  0.00  0.00           C 0
+ATOM  12820   CB ASP F1275     110.748  73.436  77.050  0.00  0.00           C 0
+ATOM  12580   OH TYR F1261     114.399  70.867  69.360  0.72  6.43           O 0
+ATOM  11652  CE1 PHE F1207     115.153  66.988  73.230  0.00  0.00           C 0
+ATOM  12584  CE2 TYR F1261     115.433  72.931  70.301  0.00  0.00           C 0
+ATOM  13490  NH2 ARG F1316     109.879  69.455  75.105  0.50  4.37           N 0
+ATOM  12579   CZ TYR F1261     115.023  72.178  69.169  0.00  0.00           C 0
+ATOM  12577  CE1 TYR F1261     115.338  72.691  67.881  0.00  0.00           C 0
+ATOM  12723  ND2 ASN F1269     111.824  77.141  68.812  0.00  0.00           N 0
+ATOM  11673  OE1 GLU F1208     109.025  65.643  71.656  0.00  0.00           O 0
+ATOM  11672   CD GLU F1208     109.822  66.282  72.407  0.00  0.00           C 0
+ATOM  12511   NZ LYS F1257     114.319  71.070  76.112  0.70  4.37           N 0
+ATOM  13570  NH1 ARG F1321     103.175  69.079  71.980  0.00  0.00           N 0
+ATOM  13478   CG ARG F1316     106.296  66.340  74.967  0.00  0.00           C 0
+ATOM  13494    O ARG F1316     102.667  66.262  72.782  0.76  5.36           O 0
+ATOM  13573  NH2 ARG F1321     102.901  69.346  69.725  0.56  8.75           N 0
+ATOM  12756  CZ2 TRP F1271     106.693  70.853  72.813  0.00  0.00           C 0
+TER
+END

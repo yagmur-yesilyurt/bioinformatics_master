@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    46:
+HEADER 0  - Pocket Score                      : -0.0174
+HEADER 1  - Drug Score                        : 0.0313
+HEADER 2  - Number of alpha spheres           :    54
+HEADER 3  - Mean alpha-sphere radius          : 3.9288
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5634
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 27.9167
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 499.0190
+HEADER 10 - Pocket volume (convex hull)       : 92.4129
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 19.6364
+HEADER 13 - Number of apolar alpha sphere     :    22
+HEADER 14 - Proportion of apolar alpha sphere : 0.4074
+ATOM  18357   CD LYS H1614      85.334  32.538 105.509  0.00  0.00           C 0
+ATOM  18424  CD2 PHE H1617      89.110  38.666 107.027  0.00  0.00           C 0
+ATOM  18346    O GLN H1613      86.715  34.909 102.394  0.43  6.43           O 0
+ATOM  18360   CE LYS H1614      83.953  32.697 106.080  0.00  0.00           C 0
+ATOM  18426  CE2 PHE H1617      88.382  39.361 107.959  0.00  0.00           C 0
+ATOM  18341  OE1 GLN H1613      84.267  37.078 100.676  0.67  5.36           O 0
+ATOM  18442   CD PRO H1619      87.515  43.937 103.716  0.00  0.00           C 0
+ATOM  18450   CG PRO H1619      86.269  44.695 104.085  0.00  0.00           C 0
+ATOM  18422   CZ PHE H1617      88.505  40.754 108.046  0.00  0.00           C 0
+ATOM  18496  CD1 PHE H1622      81.650  39.908 101.558  0.00  0.00           C 0
+ATOM  18498  CE1 PHE H1622      80.326  39.599 101.914  0.00  0.00           C 0
+ATOM  18495   CG PHE H1622      81.966  41.139 100.912  0.00  0.00           C 0
+ATOM  18492   CB PHE H1622      83.426  41.361 100.570  0.00  0.00           C 0
+ATOM  18334   CB GLN H1613      83.943  34.417 101.003  0.00  0.00           C 0
+ATOM  18340   CD GLN H1613      83.303  36.613 100.063  0.00  0.00           C 0
+ATOM  18430    N SER H1618      89.269  40.653 102.837  0.73  2.19           N 0
+ATOM  18412   CA PHE H1617      90.222  38.531 103.749  0.00  0.00           C 0
+ATOM  18409    O PHE H1616      89.267  36.886 101.691  0.52  1.07           O 0
+ATOM  18502  CD2 PHE H1622      80.944  42.070 100.756  0.00  0.00           C 0
+ATOM   4123  ND2 ASN C 275      80.675  47.818 105.256  0.00  0.00           N 0
+ATOM  18527  NH2 ARG H1623      83.223  48.378 102.152  0.70  3.28           N 0
+ATOM   4122  OD1 ASN C 275      80.478  48.697 103.172  0.00  0.00           O 0
+ATOM  18521   NE ARG H1623      82.995  47.988  99.940  0.76  1.09           N 0
+ATOM  18523   CZ ARG H1623      83.783  48.172 101.018  0.00  0.00           C 0
+ATOM  18440    O SER H1618      87.224  41.603 101.083  0.57  4.29           O 0
+ATOM  18337   CG GLN H1613      83.023  35.192 100.007  0.00  0.00           C 0
+ATOM  18342  NE2 GLN H1613      82.333  37.501  99.608  0.79  1.09           N 0
+ATOM  18447   CB PRO H1619      85.927  45.355 102.769  0.00  0.00           C 0
+ATOM  18441    N PRO H1619      87.343  43.543 102.340  0.00  0.00           N 0
+ATOM  18504  CE2 PHE H1622      79.630  41.781 101.123  0.00  0.00           C 0
+ATOM   4106    O MET C 273      76.338  46.068 103.295  0.33  9.64           O 0
+ATOM   4069    O LEU C 271      80.066  48.595  99.640  0.33  3.21           O 0
+ATOM  18515   CG ARG H1623      82.720  46.143  98.374  0.00  0.00           C 0
+ATOM   4050    O GLN C 270      78.190  46.113  97.631  0.35  7.50           O 0
+ATOM  18445   CA PRO H1619      86.121  44.152 101.859  0.00  0.00           C 0
+ATOM  18439    C SER H1618      87.836  42.369 101.815  0.00  0.00           C 0
+ATOM  18454    O PRO H1619      85.219  44.338  99.651  0.00  0.00           O 0
+TER
+END

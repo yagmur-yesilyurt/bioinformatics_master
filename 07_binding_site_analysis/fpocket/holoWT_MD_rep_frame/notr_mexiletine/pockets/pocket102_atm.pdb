@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   102:
+HEADER 0  - Pocket Score                      : -0.1749
+HEADER 1  - Drug Score                        : 0.0046
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8013
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5130
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 86.6667
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 192.1369
+HEADER 10 - Pocket volume (convex hull)       : 6.1307
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.9444
+ATOM  18041   CB PHE D1596      82.767  35.641  78.106  0.00  0.00           C 0
+ATOM  18115  CG1 ILE D1600      84.442  33.959  83.031  0.00  0.00           C 0
+ATOM  18118  CD1 ILE D1600      84.468  32.440  83.281  0.00  0.00           C 0
+ATOM  17761  CD2 LEU D1579      83.062  30.420  76.611  0.00  0.00           C 0
+ATOM  18056    O PHE D1596      82.495  36.011  81.297  0.00  0.00           O 0
+ATOM  18051  CD2 PHE D1596      80.808  34.732  76.851  0.00  0.00           C 0
+ATOM  17684   CB CYS D1575      77.461  33.482  78.396  0.00  0.00           C 0
+ATOM  17690    O CYS D1575      78.069  31.363  75.952  0.00  0.00           O 0
+ATOM  17689    C CYS D1575      77.273  31.453  76.919  0.00  0.00           C 0
+ATOM  17691    N ILE D1576      77.011  30.344  77.651  0.00  0.00           N 0
+ATOM  18095  CG1 VAL D1599      79.221  33.606  82.932  0.00  0.00           C 0
+ATOM  18039   CA PHE D1596      81.735  36.458  79.040  0.00  0.00           C 0
+ATOM  17701  CG1 ILE D1576      77.934  28.311  79.657  0.00  0.00           C 0
+ATOM  17693   CA ILE D1576      77.548  29.080  77.235  0.00  0.00           C 0
+TER
+END

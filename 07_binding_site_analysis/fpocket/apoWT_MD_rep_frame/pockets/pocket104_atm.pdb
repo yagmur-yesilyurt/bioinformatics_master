@@ -1,0 +1,63 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   104:
+HEADER 0  - Pocket Score                      : -0.1164
+HEADER 1  - Drug Score                        : 0.0145
+HEADER 2  - Number of alpha spheres           :    55
+HEADER 3  - Mean alpha-sphere radius          : 3.8623
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5037
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 17.4000
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Amino Acid based volume Score     : 4.7333
+HEADER 9  - Pocket volume (Monte Carlo)       : 667.3214
+HEADER 10 - Pocket volume (convex hull)       : 175.3098
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 28.3333
+HEADER 13 - Number of apolar alpha sphere     :    36
+HEADER 14 - Proportion of apolar alpha sphere : 0.6545
+ATOM  10338   CB GLU C 908      56.206  67.331 110.653  0.00  0.00           C 0
+ATOM  10355  CG1 VAL C 909      52.381  69.455 110.419  0.00  0.00           C 0
+ATOM  10345  OE1 GLU C 908      58.170  68.435 112.882  0.00  0.00           O 0
+ATOM   9633  CE2 TYR C 865      53.714  72.761 109.281  0.00  0.00           C 0
+ATOM   9777    O LEU C 875      62.477  77.028 117.485  0.42  8.57           O 0
+ATOM   9720   CA SER C 871      56.393  77.007 119.371  0.00  0.00           C 0
+ATOM   9705    O ARG C 869      55.841  73.145 120.095  0.42  8.57           O 0
+ATOM   9717    O ASP C 870      58.139  76.067 121.330  0.32  5.36           O 0
+ATOM   9676  CD2 LEU C 868      51.730  72.704 114.671  0.00  0.00           C 0
+ATOM   9672  CD1 LEU C 868      52.788  74.917 113.972  0.00  0.00           C 0
+ATOM   9631  CD2 TYR C 865      52.707  73.365 109.965  0.00  0.00           C 0
+ATOM   9667   CB LEU C 868      52.137  74.434 116.516  0.00  0.00           C 0
+ATOM   9722   CB SER C 871      55.360  76.684 118.133  0.00  0.00           C 0
+ATOM   9682    N ARG C 869      53.104  73.003 119.361  0.00  0.00           N 0
+ATOM   9798   CD PRO C 877      58.636  78.215 115.934  0.00  0.00           C 0
+ATOM   9803   CB PRO C 877      58.105  77.426 113.747  0.00  0.00           C 0
+ATOM   9797    N PRO C 877      59.779  78.456 115.072  0.00  0.00           N 0
+ATOM   9871  NE2 HIS C 880      58.753  75.465 110.589  0.66  2.19           N 0
+ATOM   9806   CG PRO C 877      57.453  78.142 114.915  0.00  0.00           C 0
+ATOM   9900   CG MET C 882      53.493  79.601 108.433  0.00  0.00           C 0
+ATOM   9904   CE MET C 882      52.857  82.046 109.358  0.00  0.00           C 0
+ATOM  10344   CD GLU C 908      58.480  68.285 111.703  0.00  0.00           C 0
+ATOM  10305    O ASP C 905      55.959  69.579 107.744  0.00  0.00           O 0
+ATOM   9801   CA PRO C 877      59.549  78.047 113.686  0.00  0.00           C 0
+ATOM   9623   CG TYR C 865      51.987  74.377 109.312  0.00  0.00           C 0
+ATOM   9620   CB TYR C 865      50.856  75.181 110.020  0.00  0.00           C 0
+ATOM   9810    O PRO C 877      58.983  80.234 112.953  0.66  4.29           O 0
+ATOM  15444  OE1 GLU D1441      57.632  84.095 111.977  0.77  8.57           O 0
+ATOM   9835    N TRP C 879      59.739  79.872 107.917  0.65  1.09           N 0
+ATOM   9833    C ARG C 878      60.083  79.278 109.099  0.00  0.00           C 0
+ATOM   9859    N HIS C 880      57.707  77.889 106.880  0.34  1.09           N 0
+ATOM  15445  OE2 GLU D1441      57.879  84.048 109.781  0.74  1.07           O 0
+ATOM  10346  OE2 GLU C 908      59.319  69.038 111.164  0.29  6.43           O 0
+ATOM  10298   CB ASP C 905      58.336  71.384 107.183  0.00  0.00           C 0
+ATOM   9903   SD MET C 882      53.543  81.387 107.829  0.00  0.00           S 0
+ATOM   9869  CE1 HIS C 880      59.193  74.720 109.578  0.00  0.00           C 0
+ATOM   9813   CA ARG C 878      60.052  80.099 110.389  0.00  0.00           C 0
+ATOM   9872  CD2 HIS C 880      57.674  76.167 110.030  0.00  0.00           C 0
+ATOM   9863   CB HIS C 880      56.364  76.199 107.949  0.00  0.00           C 0
+ATOM   9636    O TYR C 865      49.139  76.228 111.974  0.12  9.64           O 0
+ATOM   9897   CB MET C 882      52.044  79.039 108.343  0.00  0.00           C 0
+TER
+END

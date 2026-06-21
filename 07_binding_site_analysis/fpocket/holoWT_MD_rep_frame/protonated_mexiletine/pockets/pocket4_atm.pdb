@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0463
+HEADER 1  - Drug Score                        : 0.1023
+HEADER 2  - Number of alpha spheres           :    45
+HEADER 3  - Mean alpha-sphere radius          : 3.8527
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4554
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 72.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.3571
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.0660
+HEADER 10 - Pocket volume (convex hull)       : 17.8715
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 43.0000
+HEADER 13 - Number of apolar alpha sphere     :    44
+HEADER 14 - Proportion of apolar alpha sphere : 0.9778
+ATOM   9886   SD MET C 881      53.570  75.967 101.004  0.00  0.00           S 0
+ATOM   9563  CE1 PHE C 861      52.276  71.592 100.276  0.00  0.00           C 0
+ATOM  10247  CG2 THR C 902      58.538  73.452 100.885  0.00  0.00           C 0
+ATOM  10313   SG CYS C 906      55.452  72.228 102.804  0.00  0.00           S 0
+ATOM  10123  CD1 ILE C 894      58.640  73.664  96.534  0.00  0.00           C 0
+ATOM  10060  CD1 ILE C 891      55.239  76.546  95.955  0.00  0.00           C 0
+ATOM   9887   CE MET C 881      53.221  76.990  99.489  0.00  0.00           C 0
+ATOM   9565   CZ PHE C 861      52.021  70.226 100.394  0.00  0.00           C 0
+ATOM  10437   SG CYS C 915      54.310  67.123 101.241  0.00  0.00           S 0
+ATOM  10440    O CYS C 915      53.984  66.181  97.864  0.73  1.07           O 0
+ATOM  10499   CB PHE C 919      57.179  67.449  96.295  0.00  0.00           C 0
+ATOM  10495    N PHE C 919      54.688  67.597  95.440  0.00  0.00           N 0
+ATOM  10497   CA PHE C 919      56.091  68.002  95.220  0.00  0.00           C 0
+ATOM  10310   CB CYS C 906      55.138  70.524 103.242  0.00  0.00           C 0
+ATOM  10034  CG2 ILE C 890      57.453  76.748 100.225  0.00  0.00           C 0
+ATOM  10559  CG1 VAL C 922      55.871  73.489  93.452  0.00  0.00           C 0
+ATOM  10563  CG2 VAL C 922      53.794  72.153  93.385  0.00  0.00           C 0
+ATOM   9450    O PHE C 853      51.222  76.104  95.487  0.29  3.21           O 0
+ATOM  10503  CD1 PHE C 919      58.876  69.308  96.513  0.00  0.00           C 0
+ATOM  10253    N MET C 903      59.999  70.458 102.420  0.85  2.19           N 0
+ATOM  10255   CA MET C 903      59.539  69.085 102.546  0.00  0.00           C 0
+ATOM  10494    O VAL C 918      53.772  68.967  93.831  0.00  0.00           O 0
+ATOM  10485  CG1 VAL C 918      51.631  69.586  96.266  0.00  0.00           C 0
+ATOM  10557   CB VAL C 922      55.267  72.140  93.007  0.00  0.00           C 0
+ATOM  10263   SD MET C 903      58.356  66.745 100.775  0.00  0.00           S 0
+ATOM   9495   CA GLY C 857      50.236  74.837  98.732  0.00  0.00           C 0
+TER
+END

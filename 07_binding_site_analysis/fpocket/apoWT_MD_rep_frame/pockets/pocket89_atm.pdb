@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    89:
+HEADER 0  - Pocket Score                      : -0.0764
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 3.9648
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6512
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 8.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 411.9608
+HEADER 10 - Pocket volume (convex hull)       : 26.4086
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.3714
+ATOM  11100    O ARG D1174     120.210  96.106  57.923  0.00  0.00           O 0
+ATOM  11079   CA ARG D1174     119.349  93.868  57.678  0.00  0.00           C 0
+ATOM  11093  NH1 ARG D1174     118.264  93.323  52.128  0.00  0.00           N 0
+ATOM  11076    O VAL D1173     121.760  92.817  58.437  0.34  3.21           O 0
+ATOM  11035   CG GLU D1170     116.121  89.137  55.774  0.00  0.00           C 0
+ATOM  11040  OE2 GLU D1170     115.822  88.082  53.763  0.00  0.00           O 0
+ATOM  11067  CG1 VAL D1173     122.191  89.842  57.611  0.00  0.00           C 0
+ATOM  11032   CB GLU D1170     116.053  88.020  56.772  0.00  0.00           C 0
+ATOM  11042    O GLU D1170     117.467  90.500  58.358  0.00  0.00           O 0
+ATOM  11077    N ARG D1174     119.562  92.562  58.241  0.00  0.00           N 0
+ATOM  11087   CD ARG D1174     117.656  93.587  54.959  0.00  0.00           C 0
+ATOM  11090   NE ARG D1174     116.920  92.785  53.927  0.00  0.00           N 0
+ATOM  11084   CG ARG D1174     117.220  93.207  56.337  0.00  0.00           C 0
+ATOM  11092   CZ ARG D1174     117.165  92.798  52.648  0.00  0.00           C 0
+ATOM  11096  NH2 ARG D1174     116.286  92.237  51.839  0.00  0.00           N 0
+ATOM  11065   CB VAL D1173     120.972  89.681  58.589  0.00  0.00           C 0
+ATOM  11030   CA GLU D1170     116.774  88.306  58.104  0.00  0.00           C 0
+ATOM  11071  CG2 VAL D1173     121.018  88.344  59.408  0.00  0.00           C 0
+ATOM  12615   NZ LYS D1264     115.834  81.450  58.833  0.72  6.56           N 0
+ATOM  11013    O PHE D1168     118.742  84.596  60.422  0.50  2.14           O 0
+ATOM  11028    N GLU D1170     116.454  87.318  59.119  0.73  3.28           N 0
+ATOM  10979  OD1 ASP D1166     121.565  84.352  58.253  0.67  3.21           O 0
+ATOM  10975   CB ASP D1166     120.913  82.139  58.776  0.00  0.00           C 0
+TER
+END

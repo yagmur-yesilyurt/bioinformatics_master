@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   125:
+HEADER 0  - Pocket Score                      : -0.2431
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0140
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5195
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 17.1000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 377.4689
+HEADER 10 - Pocket volume (convex hull)       : 15.0647
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   1828  ND2 ASN B 134      34.064  87.724  72.838  0.51  3.28           N 0
+ATOM   1219   CB LYS B  98      34.342  92.902  67.828  0.00  0.00           C 0
+ATOM   1751    O VAL B 129      32.012  87.702  70.442  0.56  6.43           O 0
+ATOM   1771   CA SER B 131      32.466  91.532  72.997  0.00  0.00           C 0
+ATOM   1773   CB SER B 131      32.863  92.952  72.484  0.00  0.00           C 0
+ATOM   1823   CB ASN B 134      34.672  88.452  75.096  0.00  0.00           C 0
+ATOM   1776   OG SER B 131      33.565  93.773  73.434  0.67  5.36           O 0
+ATOM   1272  OG1 THR B 101      38.258  88.305  66.470  0.76  7.50           O 0
+ATOM   1274  CG2 THR B 101      38.284  86.040  66.083  0.00  0.00           C 0
+ATOM   1311   CZ PHE B 103      35.369  82.947  68.490  0.00  0.00           C 0
+ATOM   1315  CE2 PHE B 103      34.235  83.584  67.982  0.00  0.00           C 0
+ATOM   1270   CB THR B 101      37.578  87.302  65.706  0.00  0.00           C 0
+ATOM   1769    N SER B 131      31.399  91.046  72.111  0.50  1.09           N 0
+ATOM   1236    O LYS B  98      36.502  90.854  66.352  0.68  8.57           O 0
+ATOM   1215    N LYS B  98      33.822  91.057  66.139  0.72  1.09           N 0
+ATOM   3476   OG SER B 234      41.886  83.685  72.487  0.00  0.00           O 0
+ATOM   1827  OD1 ASN B 134      34.605  86.097  74.382  0.00  0.00           O 0
+ATOM    629   OG SER B  61      39.574  82.616  67.497  0.46  9.64           O 0
+ATOM   1205   CB ASN B  97      33.393  88.096  65.774  0.00  0.00           C 0
+ATOM   1826   CG ASN B 134      34.392  87.268  74.031  0.00  0.00           C 0
+ATOM   3449    O VAL B 232      40.160  85.820  77.634  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    68:
+HEADER 0  - Pocket Score                      : -0.0552
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1296
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7092
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -18.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.5838
+HEADER 10 - Pocket volume (convex hull)       : 1.1574
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM    773    N ASN C  70      31.785  91.320  46.629  0.52  1.09           N 0
+ATOM    768   CA GLY C  69      30.501  90.074  44.960  0.00  0.00           C 0
+ATOM    785    C ASN C  70      31.834  91.757  49.089  0.00  0.00           C 0
+ATOM    786    O ASN C  70      31.437  92.908  49.184  0.00  0.00           O 0
+ATOM    762  CE2 TYR C  68      28.957  86.976  48.044  0.00  0.00           C 0
+ATOM    787    N PRO C  71      31.622  90.845  50.015  0.00  0.00           N 0
+ATOM    758   OH TYR C  68      26.747  87.049  49.089  0.51  6.43           O 0
+ATOM    791   CA PRO C  71      31.160  91.150  51.375  0.00  0.00           C 0
+ATOM    802   CD PRO C  72      29.499  93.090  52.939  0.00  0.00           C 0
+ATOM    771    C GLY C  69      31.543  90.130  46.038  0.00  0.00           C 0
+ATOM    757   CZ TYR C  68      27.546  86.769  47.976  0.00  0.00           C 0
+ATOM    964  OD2 ASP C  82      24.271  87.464  48.363  0.00  0.00           O 0
+ATOM    766    N GLY C  69      30.145  88.744  44.569  0.69  6.56           N 0
+ATOM    755  CE1 TYR C  68      26.998  85.994  46.917  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,68 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   116:
+HEADER 0  - Pocket Score                      : -0.3014
+HEADER 1  - Drug Score                        : 0.0773
+HEADER 2  - Number of alpha spheres           :    52
+HEADER 3  - Mean alpha-sphere radius          : 3.9784
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6588
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 82.2308
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.0769
+HEADER 9  - Pocket volume (Monte Carlo)       : 781.2729
+HEADER 10 - Pocket volume (convex hull)       : 201.5355
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 28.1429
+HEADER 13 - Number of apolar alpha sphere     :    42
+HEADER 14 - Proportion of apolar alpha sphere : 0.8077
+ATOM  10509  CD2 PHE C 919      59.518  67.288  95.450  0.00  0.00           C 0
+ATOM  10517   CA LEU C 920      56.505  65.995  91.933  0.00  0.00           C 0
+ATOM  10580   CE MET C 923      61.418  67.082  91.821  0.00  0.00           C 0
+ATOM  10524  CD1 LEU C 920      57.954  63.936  90.152  0.00  0.00           C 0
+ATOM  10450  CD1 LEU C 916      57.887  62.936  97.386  0.00  0.00           C 0
+ATOM  10519   CB LEU C 920      56.081  64.536  91.749  0.00  0.00           C 0
+ATOM  10515    N LEU C 920      56.258  66.490  93.330  0.00  0.00           N 0
+ATOM  10459    O LEU C 916      55.570  64.600  95.407  0.74  1.07           O 0
+ATOM  10528  CD2 LEU C 920      55.920  62.470  90.213  0.00  0.00           C 0
+ATOM  10460    N LEU C 917      53.642  63.576  95.746  0.74  2.19           N 0
+ATOM   5414  CD1 LEU B 363      65.421  63.225  98.889  0.00  0.00           C 0
+ATOM   5467  CD2 PHE B 366      65.380  65.266  92.494  0.00  0.00           C 0
+ATOM  10511  CE2 PHE C 919      60.805  67.755  95.284  0.00  0.00           C 0
+ATOM  10201  CH2 TRP C 899      65.889  66.720  97.534  0.00  0.00           C 0
+ATOM  10462   CA LEU C 917      52.929  63.743  94.476  0.00  0.00           C 0
+ATOM  10448   CG LEU C 916      56.817  61.833  97.125  0.00  0.00           C 0
+ATOM  10454  CD2 LEU C 916      57.249  60.467  97.508  0.00  0.00           C 0
+ATOM  10410    O SER C 913      51.493  61.448  97.632  0.83  4.29           O 0
+ATOM  10445   CB LEU C 916      55.612  62.309  97.930  0.00  0.00           C 0
+ATOM  10264   CE MET C 903      59.004  66.158  99.143  0.00  0.00           C 0
+ATOM  10404   CB SER C 913      50.614  58.854  99.561  0.00  0.00           C 0
+ATOM  10407   OG SER C 913      51.129  57.726 100.284  0.41  8.57           O 0
+ATOM  10402   CA SER C 913      51.560  60.142  99.618  0.00  0.00           C 0
+ATOM  10464   CB LEU C 917      51.584  62.935  94.521  0.00  0.00           C 0
+ATOM  10469  CD1 LEU C 917      51.013  63.067  92.131  0.00  0.00           C 0
+ATOM   5465   CZ PHE B 366      64.826  64.263  90.368  0.00  0.00           C 0
+ATOM   5469  CE2 PHE B 366      64.650  65.307  91.326  0.00  0.00           C 0
+ATOM  10197  CZ3 TRP C 899      64.923  66.959  98.546  0.00  0.00           C 0
+ATOM   5343   CA ALA B 359      65.168  55.383  97.097  0.00  0.00           C 0
+ATOM   5331  CE1 PHE B 358      65.447  52.589  92.103  0.00  0.00           C 0
+ATOM   5329  CD1 PHE B 358      65.553  52.150  93.430  0.00  0.00           C 0
+ATOM   5345   CB ALA B 359      63.666  55.284  97.499  0.00  0.00           C 0
+ATOM   5389   CB PHE B 362      66.657  57.524  93.964  0.00  0.00           C 0
+ATOM   5399  CD2 PHE B 362      66.190  56.845  91.567  0.00  0.00           C 0
+ATOM   5350    O ALA B 359      65.851  57.591  97.589  0.70  7.50           O 0
+ATOM   5393  CD1 PHE B 362      66.046  59.175  92.112  0.00  0.00           C 0
+ATOM   5463  CE1 PHE B 366      65.822  63.290  90.617  0.00  0.00           C 0
+ATOM   5395  CE1 PHE B 362      65.679  59.456  90.784  0.00  0.00           C 0
+ATOM   5404    O PHE B 362      67.764  60.714  94.400  0.00  0.00           O 0
+ATOM   5460   CG PHE B 366      66.381  64.319  92.698  0.00  0.00           C 0
+ATOM   5407   CA LEU B 363      67.099  61.071  97.077  0.00  0.00           C 0
+ATOM   5461  CD1 PHE B 366      66.603  63.423  91.722  0.00  0.00           C 0
+ATOM   5392   CG PHE B 362      66.364  57.876  92.523  0.00  0.00           C 0
+ATOM   5405    N LEU B 363      67.278  59.817  96.326  0.00  0.00           N 0
+ATOM   5409   CB LEU B 363      66.492  60.835  98.470  0.00  0.00           C 0
+ATOM   5457   CB PHE B 366      67.247  64.455  93.903  0.00  0.00           C 0
+TER
+END

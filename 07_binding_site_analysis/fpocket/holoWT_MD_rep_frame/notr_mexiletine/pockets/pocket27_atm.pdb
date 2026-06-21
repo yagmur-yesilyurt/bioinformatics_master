@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0284
+HEADER 1  - Drug Score                        : 0.0053
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0389
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7722
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 45.2000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 316.4061
+HEADER 10 - Pocket volume (convex hull)       : 13.4041
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.2000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM  12079   CA THR D1234     116.235  62.490 103.682  0.00  0.00           C 0
+ATOM  12076    O LYS D1233     115.447  65.225 103.967  0.75  1.07           O 0
+ATOM  12077    N THR D1234     115.547  63.143 104.806  0.00  0.00           N 0
+ATOM  12085  CG2 THR D1234     118.047  61.184 104.716  0.00  0.00           C 0
+ATOM  12216  CD2 TYR D1241     121.015  65.981  94.430  0.00  0.00           C 0
+ATOM  12150   CA LEU D1238     116.463  64.287  97.655  0.00  0.00           C 0
+ATOM  12205   CB TYR D1241     119.107  67.027  95.515  0.00  0.00           C 0
+ATOM  12161  CD2 LEU D1238     117.537  61.835  95.877  0.00  0.00           C 0
+ATOM  12147    O VAL D1237     117.096  67.006  98.214  0.00  0.00           O 0
+ATOM  12138  CG1 VAL D1237     118.765  67.810 100.845  0.00  0.00           C 0
+ATOM  12148    N LEU D1238     116.334  64.960  98.928  0.72  2.19           N 0
+ATOM  12146    C VAL D1237     116.675  66.308  99.117  0.00  0.00           C 0
+ATOM  12075    C LYS D1233     115.213  64.453 104.851  0.00  0.00           C 0
+ATOM  12059   CB LYS D1233     115.231  65.323 107.187  0.00  0.00           C 0
+ATOM  12136   CB VAL D1237     117.577  66.992 101.440  0.00  0.00           C 0
+ATOM  12142  CG2 VAL D1237     117.062  67.810 102.625  0.00  0.00           C 0
+ATOM  12090    O THR D1234     115.953  63.014 101.382  0.78  2.14           O 0
+ATOM  12208   CG TYR D1241     120.465  67.110  94.946  0.00  0.00           C 0
+ATOM  12209  CD1 TYR D1241     121.243  68.271  95.061  0.00  0.00           C 0
+TER
+END

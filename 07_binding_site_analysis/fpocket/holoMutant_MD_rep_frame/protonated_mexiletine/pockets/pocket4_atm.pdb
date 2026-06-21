@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1071
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5448
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3224
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 54.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 117.8773
+HEADER 10 - Pocket volume (convex hull)       : 2.5164
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM   9870    O TRP D 879      59.634  77.737 105.613  0.51  3.21           O 0
+ATOM   9873   CA HIS D 880      56.838  77.454 105.672  0.00  0.00           C 0
+ATOM  10264    O THR D 902      60.480  71.375 103.372  0.00  0.00           O 0
+ATOM  10325   SG CYS D 906      57.340  70.887 103.773  0.00  0.00           S 0
+ATOM   9641   OH TYR D 865      57.540  72.314 107.886  0.62  2.14           O 0
+ATOM  10310   CB ASP D 905      61.399  72.174 106.924  0.00  0.00           C 0
+ATOM  10053  CD1 ILE D 890      58.217  77.367 102.269  0.00  0.00           C 0
+ATOM   9888    N MET D 881      54.734  76.853 104.387  0.73  2.19           N 0
+ATOM  10519   CZ PHE D 919      58.127  71.554 100.224  0.00  0.00           C 0
+ATOM  10255   CB THR D 902      61.696  73.837 101.534  0.00  0.00           C 0
+ATOM   9638  CE1 TYR D 865      55.264  72.715 107.222  0.00  0.00           C 0
+ATOM   9573  CD1 PHE D 861      53.633  71.178 101.993  0.00  0.00           C 0
+ATOM  10253   CA THR D 902      62.147  72.839 102.541  0.00  0.00           C 0
+ATOM   9895   CG MET D 881      54.330  76.228 101.365  0.00  0.00           C 0
+ATOM   9899   CE MET D 881      55.574  75.330  99.344  0.00  0.00           C 0
+TER
+END

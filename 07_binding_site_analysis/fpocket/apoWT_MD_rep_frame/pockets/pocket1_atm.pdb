@@ -1,0 +1,68 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.2046
+HEADER 1  - Drug Score                        : 0.0162
+HEADER 2  - Number of alpha spheres           :    66
+HEADER 3  - Mean alpha-sphere radius          : 3.8476
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4400
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 35.5789
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Amino Acid based volume Score     : 4.8421
+HEADER 9  - Pocket volume (Monte Carlo)       : 575.4960
+HEADER 10 - Pocket volume (convex hull)       : 119.7738
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0909
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   7781   CA ASN C 753      76.502 115.242  90.192  0.00  0.00           C 0
+ATOM   7854  OG1 THR C 757      72.763 115.240  87.877  0.00  0.00           O 0
+ATOM   7425  ND2 ASN C 730      75.510 109.482  87.417  0.34  5.47           N 0
+ATOM   7787  OD1 ASN C 753      76.775 112.710  91.490  0.75  6.43           O 0
+ATOM   7494   CE MET C 734      73.789 108.136  90.653  0.00  0.00           C 0
+ATOM   7783   CB ASN C 753      75.715 114.845  91.451  0.00  0.00           C 0
+ATOM   7483    N MET C 734      78.272 106.437  91.898  0.00  0.00           N 0
+ATOM   7493   SD MET C 734      74.250 106.786  91.782  0.00  0.00           S 0
+ATOM   7467   CB PHE C 733      79.876 109.192  91.663  0.00  0.00           C 0
+ATOM   7786   CG ASN C 753      76.425 113.652  92.172  0.00  0.00           C 0
+ATOM   7788  ND2 ASN C 753      76.262 113.636  93.467  0.50  5.47           N 0
+ATOM   7482    O PHE C 733      79.113 107.035  93.967  0.65  4.29           O 0
+ATOM   7724   CB LEU C 749      81.183 113.345  95.272  0.00  0.00           C 0
+ATOM   7733  CD2 LEU C 749      82.682 111.466  94.256  0.00  0.00           C 0
+ATOM   7751  NE2 GLN C 750      77.060 113.857  97.142  0.00  0.00           N 0
+ATOM   7481    C PHE C 733      79.105 107.073  92.718  0.00  0.00           C 0
+ATOM   7856  CG2 THR C 757      70.767 115.704  86.732  0.00  0.00           C 0
+ATOM   8436   OG SER C 792      67.269 114.069  86.316  0.50  5.36           O 0
+ATOM   8483   CG GLU C 795      65.640 111.917  91.823  0.00  0.00           C 0
+ATOM   7792    O ASN C 753      75.108 116.104  88.615  0.75  1.07           O 0
+ATOM   7898  CE1 PHE C 760      74.701 111.437  83.612  0.00  0.00           C 0
+ATOM   8808   NE ARG C 814      70.799 110.299  84.668  0.59  4.37           N 0
+ATOM   7896  CD1 PHE C 760      73.710 112.266  83.148  0.00  0.00           C 0
+ATOM   8756    O ARG C 811      71.296 106.817  88.054  0.77  2.14           O 0
+ATOM   8488  OE2 GLU C 795      65.676 109.584  91.377  0.59  1.07           O 0
+ATOM   8732    O PHE C 810      66.982 106.365  86.789  0.74  3.21           O 0
+ATOM   8431   CA SER C 792      65.064 112.970  86.542  0.00  0.00           C 0
+ATOM   8735   CA ARG C 811      68.927 107.118  88.792  0.00  0.00           C 0
+ATOM   8429    N SER C 792      64.247 111.958  85.875  0.69  2.19           N 0
+ATOM   8428    O LEU C 791      63.167 111.456  87.737  0.00  0.00           O 0
+ATOM   8743   CD ARG C 811      70.330 107.647  92.424  0.00  0.00           C 0
+ATOM   8749  NH1 ARG C 811      72.257 107.811  94.506  0.00  9.84           N 0
+ATOM   8694  NH1 ARG C 808      67.442 109.224  94.743  0.71  5.47           N 0
+ATOM   8697  NH2 ARG C 808      69.081 108.502  96.153  0.00  0.00           N 0
+ATOM   8486   CD GLU C 795      65.525 110.475  92.251  0.00  0.00           C 0
+ATOM   7729  CD1 LEU C 749      82.494 111.870  96.770  0.00  0.00           C 0
+ATOM   7607   CE MET C 741      80.813 108.432  99.657  0.00  0.00           C 0
+ATOM   8480   CB GLU C 795      64.646 112.185  90.697  0.00  0.00           C 0
+ATOM   7541  OE2 GLU C 737      74.598 108.677  96.699  0.65  5.36           O 0
+ATOM   7533   CB GLU C 737      76.994 106.350  97.043  0.00  0.00           C 0
+ATOM   8814  NH2 ARG C 814      69.400 111.979  85.254  0.60  6.56           N 0
+ATOM   8374    O ILE C 788      65.340 111.126  83.405  0.53  1.07           O 0
+ATOM   7606   SD MET C 741      79.043 108.288 100.236  0.00  0.00           S 0
+ATOM   7536   CG GLU C 737      75.893 107.023  97.914  0.00  0.00           C 0
+ATOM   8737   CB ARG C 811      69.145 107.858  90.135  0.00  0.00           C 0
+ATOM   7523  CD2 LEU C 736      83.350 108.083  96.288  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    42:
+HEADER 0  - Pocket Score                      : -0.0705
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8032
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5296
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 2.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.5456
+HEADER 10 - Pocket volume (convex hull)       : 3.3438
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3500
+ATOM  13478    O ARG D1316     102.794  70.431  73.429  0.41  9.64           O 0
+ATOM  13454    O SER D1315     102.326  74.135  73.114  0.53  1.07           O 0
+ATOM  13554  NH1 ARG D1321     102.331  75.444  70.522  0.00  0.00           N 0
+ATOM  13506   CG GLU D1318      99.497  68.607  69.910  0.00  0.00           C 0
+ATOM  13511  OE2 GLU D1318      98.468  68.833  67.806  0.09  5.36           O 0
+ATOM  13509   CD GLU D1318      99.281  68.125  68.476  0.00  0.00           C 0
+ATOM  13553   CZ ARG D1321     101.529  76.376  70.011  0.00  0.00           C 0
+ATOM  13557  NH2 ARG D1321     101.750  76.996  68.883  0.67  6.56           N 0
+ATOM  13568  CG1 VAL D1322      94.055  71.933  69.341  0.00  0.00           C 0
+ATOM  13503   CB GLU D1318      98.153  68.717  70.719  0.00  0.00           C 0
+ATOM  13513    O GLU D1318      96.056  70.692  72.252  0.00  0.00           O 0
+ATOM  13499    N GLU D1318      99.230  69.417  72.985  0.70  4.37           N 0
+ATOM  13542   CB ARG D1321      98.272  73.756  72.315  0.00  0.00           C 0
+ATOM  13501   CA GLU D1318      98.161  69.672  72.005  0.00  0.00           C 0
+ATOM  13545   CG ARG D1321      98.866  74.761  71.255  0.00  0.00           C 0
+TER
+END

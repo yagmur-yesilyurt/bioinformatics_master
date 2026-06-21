@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    58:
+HEADER 0  - Pocket Score                      : -0.0359
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9441
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4787
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 41.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.0813
+HEADER 10 - Pocket volume (convex hull)       : 0.9843
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.9444
+ATOM   6638   CD LYS D 682      63.115 137.545  53.522  0.00  0.00           C 0
+ATOM   6904  CD2 TRP D 697      57.914 134.876  57.514  0.00  0.00           C 0
+ATOM   6899  CD1 TRP D 697      59.902 134.827  58.488  0.00  0.00           C 0
+ATOM   6901  NE1 TRP D 697      59.391 136.150  58.515  0.78  9.84           N 0
+ATOM   6898   CG TRP D 697      58.972 134.012  57.924  0.00  0.00           C 0
+ATOM   6641   CE LYS D 682      62.774 139.012  53.233  0.00  0.00           C 0
+ATOM   6644   NZ LYS D 682      62.069 139.367  51.950  0.00  0.00           N 0
+ATOM   6909  CZ2 TRP D 697      57.289 137.283  57.647  0.00  0.00           C 0
+ATOM   6911  CH2 TRP D 697      56.142 137.004  56.940  0.00  0.00           C 0
+ATOM   6907  CZ3 TRP D 697      55.884 135.664  56.526  0.00  0.00           C 0
+ATOM   6905  CE3 TRP D 697      56.766 134.648  56.725  0.00  0.00           C 0
+ATOM   6660    O CYS D 683      61.401 131.793  55.541  0.76  7.50           O 0
+ATOM   6650    N CYS D 683      64.064 133.357  55.497  0.00  0.00           N 0
+ATOM   6903  CE2 TRP D 697      58.180 136.221  57.899  0.00  0.00           C 0
+TER
+END

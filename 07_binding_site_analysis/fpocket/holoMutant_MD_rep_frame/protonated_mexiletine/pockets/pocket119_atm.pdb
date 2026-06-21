@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   119:
+HEADER 0  - Pocket Score                      : -0.1312
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0164
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6574
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 70.5000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.6195
+HEADER 10 - Pocket volume (convex hull)       : 5.3601
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.9375
+ATOM  17617   CA ALA G1569      73.113  29.253  83.777  0.00  0.00           C 0
+ATOM  17670  OG1 THR G1572      76.652  30.879  81.937  0.79  1.07           O 0
+ATOM  18187  CD1 ILE G1603      79.905  30.830  84.380  0.00  0.00           C 0
+ATOM  17672  CG2 THR G1572      77.448  29.267  80.533  0.00  0.00           C 0
+ATOM  17605  CG1 VAL G1568      75.259  32.588  86.105  0.00  0.00           C 0
+ATOM  17559    O LEU G1565      72.767  30.024  87.239  0.00  0.00           O 0
+ATOM  17615    N ALA G1569      72.981  30.543  84.469  0.00  0.00           N 0
+ATOM  17619   CB ALA G1569      72.567  28.180  84.668  0.00  0.00           C 0
+ATOM  17624    O ALA G1569      72.730  28.553  81.475  0.35  8.57           O 0
+ATOM  17668   CB THR G1572      76.171  29.965  80.988  0.00  0.00           C 0
+ATOM  18184  CG1 ILE G1603      79.154  31.158  85.739  0.00  0.00           C 0
+ATOM  17550  CD1 LEU G1565      75.990  30.391  89.444  0.00  0.00           C 0
+ATOM  17548   CG LEU G1565      74.899  29.366  89.854  0.00  0.00           C 0
+ATOM  18180  CG2 ILE G1603      80.429  29.607  87.253  0.00  0.00           C 0
+ATOM  17554  CD2 LEU G1565      75.444  28.496  90.952  0.00  0.00           C 0
+ATOM  18259  CD1 LEU H1608      80.853  27.353  90.964  0.00  0.00           C 0
+TER
+END

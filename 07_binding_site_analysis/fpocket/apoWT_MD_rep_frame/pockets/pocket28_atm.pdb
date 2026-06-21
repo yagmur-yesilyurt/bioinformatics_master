@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : 0.0440
+HEADER 1  - Drug Score                        : 0.0050
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.7335
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3963
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 32.8182
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.4545
+HEADER 9  - Pocket volume (Monte Carlo)       : 176.9061
+HEADER 10 - Pocket volume (convex hull)       : 5.8517
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.5161
+ATOM  20062   CG PRO D1719      89.864  81.390 106.192  0.00  0.00           C 0
+ATOM  20022    O LEU D1716      87.944  79.941 102.435  0.51  3.21           O 0
+ATOM  19454  CE2 PHE D1679      94.776  80.294 101.579  0.00  0.00           C 0
+ATOM  20380   SG CYS D1742      93.932  80.218 105.399  0.00  0.00           S 0
+ATOM  20067    N ILE D1720      87.951  84.805 104.581  0.88  1.09           N 0
+ATOM  20065    C PRO D1719      88.321  84.755 105.880  0.00  0.00           C 0
+ATOM  20390    O GLY D1743      94.821  86.465 104.368  0.70  5.36           O 0
+ATOM  20066    O PRO D1719      88.441  85.777 106.564  0.55  6.43           O 0
+ATOM  20408   CB PRO D1745      90.978  89.098 102.107  0.00  0.00           C 0
+ATOM  20125  OG1 THR D1723      88.588  88.914 105.757  0.73  5.36           O 0
+ATOM  20406   CA PRO D1745      91.987  88.222 101.290  0.00  0.00           C 0
+ATOM  20080  CD1 ILE D1720      88.594  84.242 100.583  0.00  0.00           C 0
+ATOM  20383    O CYS D1742      95.852  83.535 103.554  0.54  1.07           O 0
+ATOM  20377   CB CYS D1742      94.279  82.006 105.419  0.00  0.00           C 0
+ATOM  20444   CA GLY D1748      92.284  84.480  98.035  0.00  0.00           C 0
+ATOM  20401    O SER D1744      94.275  86.672 101.011  0.40  1.07           O 0
+ATOM  20403   CD PRO D1745      93.231  89.667 102.817  0.00  0.00           C 0
+ATOM  19450   CZ PHE D1679      94.201  79.983 100.286  0.00  0.00           C 0
+ATOM  20059   CB PRO D1719      90.065  82.878 105.996  0.00  0.00           C 0
+ATOM  20077  CG1 ILE D1720      88.595  85.259 101.769  0.00  0.00           C 0
+ATOM  20519   CZ PHE D1752      88.754  80.024  98.971  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    54:
+HEADER 0  - Pocket Score                      : -0.0864
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7774
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6360
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 19.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.9049
+HEADER 10 - Pocket volume (convex hull)       : 4.4847
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM   8964   CD PRO C 823      79.413  98.235  71.495  0.00  0.00           C 0
+ATOM   8937    C SER C 821      79.469 101.842  72.764  0.00  0.00           C 0
+ATOM   8927    O LYS C 820      76.431 104.066  71.471  0.00  0.00           O 0
+ATOM   8939    N TRP C 822      78.800 100.979  73.568  0.00  0.00           N 0
+ATOM   8905    O ALA C 819      75.851 101.299  74.058  0.43  3.21           O 0
+ATOM   8972   CG PRO C 823      78.885  97.461  70.254  0.00  0.00           C 0
+ATOM   8938    O SER C 821      80.615 101.628  72.350  0.00  0.00           O 0
+ATOM   8930   CA SER C 821      78.795 103.095  72.389  0.00  0.00           C 0
+ATOM   9018  OD1 ASN C 826      72.018  98.713  73.183  0.53  5.36           O 0
+ATOM   8255  CZ2 TRP C 781      71.844 103.564  73.990  0.00  0.00           C 0
+ATOM   8247  NE1 TRP C 781      71.664 105.327  72.323  0.56  8.75           N 0
+ATOM   8963    N PRO C 823      78.665  97.823  72.660  0.00  0.00           N 0
+ATOM   9019  ND2 ASN C 826      73.007  97.368  71.640  0.00  0.00           N 0
+ATOM   8967   CA PRO C 823      77.936  96.608  72.368  0.00  0.00           C 0
+ATOM   9017   CG ASN C 826      72.944  98.035  72.829  0.00  0.00           C 0
+ATOM   9014   CB ASN C 826      74.201  97.863  73.716  0.00  0.00           C 0
+TER
+END

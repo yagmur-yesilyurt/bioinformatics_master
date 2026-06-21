@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : 0.0029
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0183
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6685
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 29.1667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.1702
+HEADER 10 - Pocket volume (convex hull)       : 7.3947
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM  18799    C GLY D1639      69.626  45.615  73.999  0.00  0.00           C 0
+ATOM  17044   CG MET D1535      67.936  39.332  77.395  0.00  0.00           C 0
+ATOM  17048   CE MET D1535      70.178  40.945  77.097  0.00  0.00           C 0
+ATOM  17047   SD MET D1535      68.784  40.603  78.237  0.00  0.00           S 0
+ATOM  18801    N ALA D1640      69.195  46.491  74.909  0.89  1.09           N 0
+ATOM  18803   CA ALA D1640      67.957  47.107  74.919  0.00  0.00           C 0
+ATOM  18750    O LEU D1636      70.071  46.001  77.906  0.76  1.07           O 0
+ATOM  18745  CD2 LEU D1636      67.833  45.637  80.197  0.00  0.00           C 0
+ATOM  18805   CB ALA D1640      67.639  47.736  76.294  0.00  0.00           C 0
+ATOM  18800    O GLY D1639      69.155  45.521  72.902  0.56  5.36           O 0
+ATOM  18796   CA GLY D1639      70.790  44.796  74.419  0.00  0.00           C 0
+ATOM  18811    N LYS D1641      66.726  48.041  72.991  0.76  3.28           N 0
+ATOM  18821   CD LYS D1641      62.732  47.396  71.379  0.00  0.00           C 0
+ATOM  18818   CG LYS D1641      63.839  48.109  72.183  0.00  0.00           C 0
+ATOM  18875  NH1 ARG D1644      68.723  46.933  70.528  0.55  6.56           N 0
+ATOM  18815   CB LYS D1641      64.972  48.616  71.316  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,13 @@
+receptor = /home/yagmur/Desktop/bioinformatics_master/02_docking/mexiletine/blind/WT/N347K_holoWT_notrMex_MD_rep_frame/holoWT_nolig_model0.pdbqt
+ligand = /home/yagmur/Desktop/bioinformatics_master/01_structures/ligands/mexiletine/ligand_mexiletine_protonated.pdbqt
+center_x = 78.707
+center_y = 75.516
+center_z = 80.064
+size_x = 139.415
+size_y = 126.214
+size_z = 126.683
+exhaustiveness = 128
+num_modes = 20
+energy_range = 5
+out = /home/yagmur/Desktop/bioinformatics_master/02_docking/mexiletine/blind/WT/N347K_holoWT_notrMex_MD_rep_frame/docked.pdbqt
+log = /home/yagmur/Desktop/bioinformatics_master/02_docking/mexiletine/blind/WT/N347K_holoWT_notrMex_MD_rep_frame/log.txt

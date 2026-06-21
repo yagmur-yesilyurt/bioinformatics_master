@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    70:
+HEADER 0  - Pocket Score                      : -0.1328
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.2362
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6416
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 33.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.4508
+HEADER 10 - Pocket volume (convex hull)       : 3.3175
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM  11352   CB TRP D1192     131.100  72.100  60.670  0.00  0.00           C 0
+ATOM  11356  CD1 TRP D1192     129.040  72.066  59.208  0.00  0.00           C 0
+ATOM  11172    N ALA D1180     129.964  75.591  55.270  0.00  0.00           N 0
+ATOM  11168   SG CYS D1179     132.941  73.137  57.577  0.00  0.00           S 0
+ATOM  11165   CB CYS D1179     132.382  74.107  56.132  0.00  0.00           C 0
+ATOM  11332  CD1 TRP D1191     130.712  75.868  63.912  0.00  0.00           C 0
+ATOM  11230  OG1 THR D1184     135.178  76.224  56.339  0.75  4.29           O 0
+ATOM  11232  CG2 THR D1184     136.081  75.554  58.411  0.00  0.00           C 0
+ATOM  11176   CB ALA D1180     128.718  77.827  55.488  0.00  0.00           C 0
+ATOM  11182    N VAL D1181     131.658  77.745  53.906  0.58  1.09           N 0
+ATOM  10980  OD2 ASP D1166     126.611  74.324  59.010  0.40  8.57           O 0
+ATOM  11334  NE1 TRP D1191     129.418  76.326  64.311  0.00  0.00           N 0
+ATOM  11285    O GLY D1188     133.755  73.780  61.462  0.00  0.00           O 0
+ATOM  11428   NE ARG D1195     125.569  74.221  61.771  0.59  1.09           N 0
+ATOM  11425   CD ARG D1195     126.502  74.052  62.945  0.00  0.00           C 0
+TER
+END

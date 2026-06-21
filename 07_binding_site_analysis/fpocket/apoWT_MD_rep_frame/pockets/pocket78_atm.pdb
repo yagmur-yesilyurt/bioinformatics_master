@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    78:
+HEADER 0  - Pocket Score                      : -0.0613
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8886
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5189
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 7.4286
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 190.8858
+HEADER 10 - Pocket volume (convex hull)       : 5.4217
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM  19547  CH2 TRP D1684      93.892  69.249 107.035  0.00  0.00           C 0
+ATOM  19718   CB THR D1696      97.462  67.039 101.242  0.00  0.00           C 0
+ATOM  11969  CD1 TYR D1228      98.952  69.990 107.221  0.00  0.00           C 0
+ATOM  19545  CZ2 TRP D1684      94.102  68.292 108.005  0.00  0.00           C 0
+ATOM  19671  OD1 ASN D1693      94.421  69.859 103.354  0.00  0.00           O 0
+ATOM  19713    O GLN D1695      98.938  69.729 102.116  0.68  1.07           O 0
+ATOM  11937   CG ASP D1226     101.202  65.884 102.528  0.00  0.00           C 0
+ATOM  11934   CB ASP D1226     102.243  66.665 103.250  0.00  0.00           C 0
+ATOM  11938  OD1 ASP D1226     100.701  64.893 103.134  0.00  0.00           O 0
+ATOM  19537  NE1 TRP D1684      95.355  68.073 110.238  0.68  5.47           N 0
+ATOM  11965   CB TYR D1228     100.875  68.692 108.031  0.00  0.00           C 0
+ATOM  19722  CG2 THR D1696      95.971  66.701 101.273  0.00  0.00           C 0
+ATOM  19720  OG1 THR D1696      98.240  65.917 100.920  0.40  4.29           O 0
+ATOM  19766  OD1 ASN D1699      93.006  65.922 102.379  0.48  8.57           O 0
+TER
+END

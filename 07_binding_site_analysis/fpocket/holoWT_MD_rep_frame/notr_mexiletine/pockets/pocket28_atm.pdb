@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : -0.0339
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0261
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5821
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 22.2500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 230.3303
+HEADER 10 - Pocket volume (convex hull)       : 2.8871
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM  18406    N SER D1618      85.769  42.040 104.696  0.00  0.00           N 0
+ATOM  18293  CG2 ILE D1612      81.940  38.829 103.750  0.00  0.00           C 0
+ATOM  18394  CD1 PHE D1617      84.120  41.989 108.732  0.00  0.00           C 0
+ATOM  18396  CE1 PHE D1617      83.267  42.980 109.063  0.00  0.00           C 0
+ATOM  18417    N PRO D1619      84.401  44.956 104.148  0.78  1.09           N 0
+ATOM  18468   CB PHE D1622      81.070  43.217 101.619  0.00  0.00           C 0
+ATOM  18471   CG PHE D1622      79.530  43.025 101.827  0.00  0.00           C 0
+ATOM  18478  CD2 PHE D1622      79.142  41.721 102.158  0.00  0.00           C 0
+ATOM  18416    O SER D1618      84.322  43.453 102.529  0.00  0.00           O 0
+ATOM  18423   CB PRO D1619      83.609  47.146 104.583  0.00  0.00           C 0
+ATOM  18426   CG PRO D1619      84.028  46.545 105.946  0.00  0.00           C 0
+ATOM   4921  OD1 ASN B 328      81.527  49.293 109.456  0.46  9.64           O 0
+ATOM   4119  ND2 ASN B 275      77.117  50.118 105.203  0.41  3.28           N 0
+ATOM  18503  NH2 ARG D1623      80.708  51.067 103.552  0.69  5.47           N 0
+ATOM  18415    C SER D1618      84.907  43.895 103.511  0.00  0.00           C 0
+ATOM  18421   CA PRO D1619      83.497  45.922 103.632  0.00  0.00           C 0
+ATOM  18472  CD1 PHE D1622      78.548  43.982 101.677  0.00  0.00           C 0
+TER
+END

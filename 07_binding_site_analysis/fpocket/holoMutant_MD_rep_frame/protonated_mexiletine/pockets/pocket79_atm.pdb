@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    79:
+HEADER 0  - Pocket Score                      : -0.0693
+HEADER 1  - Drug Score                        : 0.0038
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0013
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5614
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 94.8571
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 235.6307
+HEADER 10 - Pocket volume (convex hull)       : 6.0497
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.9333
+ATOM  13720    O ILE F1331      89.965  87.514  78.583  0.63  2.14           O 0
+ATOM  13767   CA MET F1335      87.850  90.125  80.201  0.00  0.00           C 0
+ATOM  13765    N MET F1335      87.561  88.891  79.486  0.00  0.00           N 0
+ATOM  13752  CG2 ILE F1334      86.345  85.658  80.959  0.00  0.00           C 0
+ATOM  13821  CD1 LEU F1338      86.043  88.563  85.825  0.00  0.00           C 0
+ATOM  13775   SD MET F1335      90.333  91.815  81.889  0.00  0.00           S 0
+ATOM  13708  CG2 ILE F1331      92.614  86.283  79.502  0.00  0.00           C 0
+ATOM  13715  CD1 ILE F1331      93.139  83.155  79.754  0.00  0.00           C 0
+ATOM  20701  CD2 LEU H1761      88.598  80.824  80.673  0.00  0.00           C 0
+ATOM  20648  CG1 ILE H1758      91.002  80.319  85.823  0.00  0.00           C 0
+ATOM  20625  CG2 ILE H1757      87.574  83.445  84.921  0.00  0.00           C 0
+ATOM  13712  CG1 ILE F1331      91.884  83.722  79.216  0.00  0.00           C 0
+ATOM  13816   CB LEU F1338      85.142  89.813  83.705  0.00  0.00           C 0
+ATOM  13825  CD2 LEU F1338      86.451  91.122  85.556  0.00  0.00           C 0
+TER
+END

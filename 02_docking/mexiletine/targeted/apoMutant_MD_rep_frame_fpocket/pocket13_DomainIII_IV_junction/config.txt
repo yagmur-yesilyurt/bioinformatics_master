@@ -1,0 +1,13 @@
+receptor = /home/yagmur/Desktop/bioinformatics_master/02_docking/mexiletine/blind/Mutant/N347K_apoMutant_MD_rep_frame/rep_structure_full_10k_model0.pdbqt
+ligand = /home/yagmur/Desktop/bioinformatics_master/01_structures/ligands/mexiletine/ligand_mexiletine_protonated.pdbqt
+center_x = 76.310
+center_y = 54.803
+center_z = 85.566
+size_x = 25
+size_y = 25
+size_z = 25
+exhaustiveness = 128
+num_modes = 20
+energy_range = 5
+out = /home/yagmur/Desktop/bioinformatics_master/02_docking/mexiletine/targeted/pocket13_DomainIII_IV_junction/docked.pdbqt
+log = /home/yagmur/Desktop/bioinformatics_master/02_docking/mexiletine/targeted/pocket13_DomainIII_IV_junction/log.txt

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    80:
+HEADER 0  - Pocket Score                      : -0.0626
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8749
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3945
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 35.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 189.2829
+HEADER 10 - Pocket volume (convex hull)       : 4.1280
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4348
+ATOM  12330   OH TYR D1248     123.458  71.594  90.335  0.67  9.64           O 0
+ATOM  12254   CD LYS D1244     120.123  71.340  92.732  0.00  0.00           C 0
+ATOM  13038  CG2 THR D1290     120.872  77.164  93.533  0.00  0.00           C 0
+ATOM  13036  OG1 THR D1290     119.279  77.721  91.989  0.73  5.36           O 0
+ATOM  13034   CB THR D1290     120.554  78.131  92.485  0.00  0.00           C 0
+ATOM  13057  CD2 LEU D1291     124.717  77.762  90.745  0.00  0.00           C 0
+ATOM  12311  CG2 THR D1247     118.795  73.128  87.216  0.00  0.00           C 0
+ATOM  12309  OG1 THR D1247     117.317  71.804  88.431  0.81  3.21           O 0
+ATOM  12996  CG1 VAL D1287     121.568  77.500  86.960  0.00  0.00           C 0
+ATOM  12327  CE1 TYR D1248     122.691  71.952  88.020  0.00  0.00           C 0
+ATOM  12241  OD2 ASP D1243     114.385  71.634  92.235  0.54  9.64           O 0
+ATOM  12257   CE LYS D1244     119.831  71.992  94.206  0.00  0.00           C 0
+ATOM  12984  CD2 LEU D1286     114.544  75.974  89.569  0.00  0.00           C 0
+ATOM  12980  CD1 LEU D1286     115.180  77.723  91.198  0.00  0.00           C 0
+ATOM  13000  CG2 VAL D1287     119.451  76.338  86.741  0.00  0.00           C 0
+ATOM  12978   CG LEU D1286     115.408  77.180  89.713  0.00  0.00           C 0
+TER
+END

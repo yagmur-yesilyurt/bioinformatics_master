@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : 0.0277
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.5765
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4292
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 30.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 74.2018
+HEADER 10 - Pocket volume (convex hull)       : 0.5080
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   8823  NH1 ARG D 814      71.721 112.586  84.674  0.71  3.28           N 0
+ATOM   8389   CA VAL D 789      67.070 114.957  84.972  0.00  0.00           C 0
+ATOM   8445   CB SER D 792      68.297 114.271  89.181  0.00  0.00           C 0
+ATOM   8397  CG2 VAL D 789      68.684 115.570  83.249  0.00  0.00           C 0
+ATOM   8448   OG SER D 792      69.374 114.908  89.900  0.28  2.14           O 0
+ATOM   7926  OG1 THR D 761      70.429 119.584  85.790  0.79  2.14           O 0
+ATOM   7862   CA THR D 757      73.908 117.705  88.539  0.00  0.00           C 0
+ATOM   7868  CG2 THR D 757      71.471 117.928  89.414  0.00  0.00           C 0
+ATOM   7866  OG1 THR D 757      73.033 116.521  90.585  0.53  3.21           O 0
+ATOM   7873    O THR D 757      73.007 118.962  86.774  0.00  0.00           O 0
+ATOM   7904   CB PHE D 760      73.752 115.909  84.298  0.00  0.00           C 0
+ATOM   8826  NH2 ARG D 814      73.085 111.991  86.380  0.75  5.47           N 0
+ATOM   7908  CD1 PHE D 760      75.166 114.512  85.872  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0346
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9257
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4951
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 30.6000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.8488
+HEADER 10 - Pocket volume (convex hull)       : 9.5381
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2609
+ATOM   2319  CD2 PHE B 164      33.765  84.080  91.285  0.00  0.00           C 0
+ATOM   2381   OH TYR B 168      35.706  82.361  86.894  1.00  1.07           O 0
+ATOM   1990  OD1 ASN B 144      38.080  81.723  91.430  0.58  1.07           O 0
+ATOM   2378  CE1 TYR B 168      33.663  81.073  86.871  0.00  0.00           C 0
+ATOM   2915  CG1 VAL B 200      34.990  73.802  85.652  0.00  0.00           C 0
+ATOM   3244  CD1 PHE B 221      34.767  72.867  90.026  0.00  0.00           C 0
+ATOM   3328   NE ARG B 225      35.562  77.638  86.528  0.81  2.19           N 0
+ATOM   2984   CB ALA B 204      30.789  73.254  88.299  0.00  0.00           C 0
+ATOM   2267  OE2 GLU B 161      34.397  80.876  94.654  0.35  8.57           O 0
+ATOM   2309   CB PHE B 164      32.022  83.328  89.503  0.00  0.00           C 0
+ATOM   3322   CG ARG B 225      37.103  79.004  87.730  0.00  0.00           C 0
+ATOM   2331  OG1 THR B 165      29.684  78.356  89.301  0.00  0.00           O 0
+ATOM   3263   CG ARG B 222      37.960  79.083  93.356  0.00  0.00           C 0
+ATOM   2376  CD1 TYR B 168      32.655  80.394  86.200  0.00  0.00           C 0
+ATOM   3240   CB PHE B 221      36.134  74.587  91.412  0.00  0.00           C 0
+ATOM   3256    N ARG B 222      38.486  76.841  91.523  0.00  0.00           N 0
+ATOM   2269    O GLU B 161      29.960  81.552  91.675  0.56  2.14           O 0
+ATOM   3334  NH2 ARG B 225      33.702  77.203  85.159  0.71  1.09           N 0
+ATOM   3254    C PHE B 221      38.106  76.025  90.535  0.00  0.00           C 0
+ATOM   3255    O PHE B 221      38.229  76.396  89.385  0.00  0.00           O 0
+TER
+END

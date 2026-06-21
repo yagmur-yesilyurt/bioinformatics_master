@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0712
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.9026
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5209
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 54.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 329.5583
+HEADER 10 - Pocket volume (convex hull)       : 20.2557
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.8462
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.4483
+ATOM  22212   CG PHE H1857      72.035  43.346  39.362  0.00  0.00           C 0
+ATOM  22213  CD1 PHE H1857      71.226  43.537  40.531  0.00  0.00           C 0
+ATOM  21747  CD1 ILE H1827      74.472  39.781  40.570  0.00  0.00           C 0
+ATOM  22209   CB PHE H1857      73.122  44.219  38.908  0.00  0.00           C 0
+ATOM  21753    N ALA H1828      71.698  36.364  43.109  0.79  3.28           N 0
+ATOM  22215  CE1 PHE H1857      70.196  42.713  40.822  0.00  0.00           C 0
+ATOM  21808  ND2 ASN H1831      68.475  38.531  41.833  0.00  0.00           N 0
+ATOM  21690    O PRO H1824      75.681  40.354  46.461  0.00  0.00           O 0
+ATOM  22217   CZ PHE H1857      69.900  41.610  40.047  0.00  0.00           C 0
+ATOM  21733    O ARG H1826      74.846  37.426  44.559  0.58  3.21           O 0
+ATOM  21757   CB ALA H1828      69.525  36.273  44.290  0.00  0.00           C 0
+ATOM  21596  CE2 PHE H1817      73.990  35.017  46.772  0.00  0.00           C 0
+ATOM  21681   CA PRO H1824      76.026  39.075  48.494  0.00  0.00           C 0
+ATOM  21683   CB PRO H1824      75.488  40.024  49.547  0.00  0.00           C 0
+ATOM  21592   CZ PHE H1817      73.232  34.729  47.936  0.00  0.00           C 0
+ATOM  21736   CA ILE H1827      73.936  36.893  42.074  0.00  0.00           C 0
+ATOM  22165  CD1 LEU H1854      76.030  45.867  43.795  0.00  0.00           C 0
+ATOM  21709    O LEU H1825      77.284  39.593  43.368  0.63  3.21           O 0
+ATOM  22156    N LEU H1854      77.531  45.281  39.815  0.68  1.09           N 0
+ATOM  22143  CG2 ILE H1853      79.095  42.233  39.479  0.00  0.00           C 0
+ATOM  21700  CD1 LEU H1825      79.997  41.564  43.579  0.00  0.00           C 0
+ATOM  22147  CG1 ILE H1853      76.825  41.738  38.466  0.00  0.00           C 0
+ATOM  22158   CA LEU H1854      76.588  46.125  40.602  0.00  0.00           C 0
+TER
+END

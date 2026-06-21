@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0695
+HEADER 1  - Drug Score                        : 0.0062
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0129
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6408
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 84.4286
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 311.8028
+HEADER 10 - Pocket volume (convex hull)       : 9.6958
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.3750
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.7619
+ATOM  19173    C GLY H1661      90.581  67.230  81.693  0.00  0.00           C 0
+ATOM  19129  CD2 PHE H1658      91.351  61.842  78.835  0.00  0.00           C 0
+ATOM  19175    N LEU H1662      91.534  66.859  80.836  0.00  0.00           N 0
+ATOM  19188  CD2 LEU H1662      94.713  64.258  80.535  0.00  0.00           C 0
+ATOM  19174    O GLY H1661      90.786  67.563  82.871  0.45  1.07           O 0
+ATOM  19117   CA PHE H1658      89.122  63.931  77.677  0.00  0.00           C 0
+ATOM  19114    O LEU H1657      87.551  65.724  78.679  0.35  4.29           O 0
+ATOM  19170   CA GLY H1661      89.214  67.271  81.191  0.00  0.00           C 0
+ATOM   6042   CZ PHE C 398      83.326  63.012  80.948  0.00  0.00           C 0
+ATOM  19236   CB PHE H1665      92.893  66.913  85.342  0.00  0.00           C 0
+ATOM  19177   CA LEU H1662      92.977  66.988  81.204  0.00  0.00           C 0
+ATOM  19240  CD1 PHE H1665      95.096  65.680  84.998  0.00  0.00           C 0
+ATOM  19239   CG PHE H1665      93.988  65.996  85.824  0.00  0.00           C 0
+ATOM  19134    O PHE H1658      90.947  65.328  78.442  0.57  1.07           O 0
+ATOM   6046  CE2 PHE C 398      83.127  64.023  81.926  0.00  0.00           C 0
+ATOM  19115    N PHE H1658      87.917  64.331  77.006  0.74  1.09           N 0
+ATOM   6040  CE1 PHE C 398      83.109  61.662  81.280  0.00  0.00           C 0
+ATOM  19119   CB PHE H1658      89.683  62.613  77.007  0.00  0.00           C 0
+ATOM  19062  CD1 LEU H1654      85.224  59.906  76.328  0.00  0.00           C 0
+ATOM  19100   CB LEU H1657      84.665  64.884  77.442  0.00  0.00           C 0
+TER
+END

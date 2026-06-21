@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    60:
+HEADER 0  - Pocket Score                      : -0.0294
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9890
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6089
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 12.6000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.1253
+HEADER 10 - Pocket volume (convex hull)       : 2.0245
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM  22159  CD1 PHE D1855      88.713  48.257  49.277  0.00  0.00           C 0
+ATOM  22105   CB ASP D1852      87.428  41.962  46.590  0.00  0.00           C 0
+ATOM  22112    O ASP D1852      86.691  44.959  45.978  0.62  5.36           O 0
+ATOM  21945   CG PRO D1841      90.983  42.495  44.570  0.00  0.00           C 0
+ATOM  22103   CA ASP D1852      86.466  42.998  47.206  0.00  0.00           C 0
+ATOM  22108   CG ASP D1852      88.147  40.978  47.552  0.00  0.00           C 0
+ATOM  22109  OD1 ASP D1852      87.911  40.969  48.800  0.39  9.64           O 0
+ATOM  22110  OD2 ASP D1852      88.927  40.144  47.036  0.78  8.57           O 0
+ATOM  22158   CG PHE D1855      87.377  48.187  49.536  0.00  0.00           C 0
+ATOM  22155   CB PHE D1855      86.489  47.366  48.665  0.00  0.00           C 0
+ATOM  22462  NE2 GLN D1874      86.943  44.403  54.101  0.58  4.37           N 0
+ATOM  22460   CD GLN D1874      85.864  44.921  53.411  0.00  0.00           C 0
+ATOM  22461  OE1 GLN D1874      85.212  44.215  52.705  0.84  6.43           O 0
+ATOM  22100    O MET D1851      84.561  44.256  48.743  0.00  0.00           O 0
+TER
+END

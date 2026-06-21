@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket    94:
+HEADER 0  - Pocket Score                      : -0.0888
+HEADER 1  - Drug Score                        : 0.0100
+HEADER 2  - Number of V. Vertices             :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0807
+HEADER 4  - Mean alpha-sphere SA              : 0.6019
+HEADER 5  - Mean B-factor                     : 0.0000
+HEADER 6  - Hydrophobicity Score              : 60.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Volume Score                      : 4.8571
+HEADER 9  - Real volume (approximation)       : 288.2867
+HEADER 10 - Charge Score                      :     0
+HEADER 11 - Local hydrophobic density Score   : 16.5556
+HEADER 12 - Number of apolar alpha sphere     :    18
+HEADER 13 - Proportion of apolar alpha sphere : 0.7500
+ATOM      1    O STP    94      96.260  83.246  89.745    0.00     4.54
+ATOM      2    O STP    94      94.562  83.786  91.458    0.00     3.41
+ATOM      3    O STP    94      96.129  83.870  92.684    0.00     4.14
+ATOM      4    C STP    94      97.346  82.960  93.304    0.00     4.39
+ATOM      5    C STP    94      96.789  83.450  92.704    0.00     4.68
+ATOM      6    C STP    94      97.791  81.989  95.175    0.00     3.80
+ATOM      7    C STP    94      97.907  83.112  93.307    0.00     4.43
+ATOM      8    C STP    94      98.242  82.084  95.223    0.00     3.85
+ATOM      9    C STP    94      97.730  81.375  95.528    0.00     3.50
+ATOM     10    C STP    94      96.054  82.009  89.541    0.00     3.74
+ATOM     11    C STP    94      96.221  81.102  87.663    0.00     3.67
+ATOM     12    O STP    94      95.805  82.651  90.485    0.00     4.14
+ATOM     13    C STP    94      95.816  82.262  90.244    0.00     3.87
+ATOM     14    C STP    94      97.720  81.323  95.548    0.00     3.48
+ATOM     15    C STP    94      95.751  82.801  91.225    0.00     4.28
+ATOM     16    C STP    94      95.982  83.232  91.233    0.00     4.51
+ATOM     17    O STP    94      94.665  83.737  91.461    0.00     3.49
+ATOM     18    C STP    94      95.684  82.087  91.898    0.00     3.88
+ATOM     19    C STP    94      95.873  83.168  93.674    0.00     3.65
+ATOM     20    C STP    94      96.407  83.415  91.952    0.00     4.57
+ATOM     21    C STP    94      96.205  83.738  92.550    0.00     4.26
+ATOM     22    O STP    94      96.279  83.734  92.645    0.00     4.30
+ATOM     23    C STP    94      96.754  83.479  92.635    0.00     4.69
+ATOM     24    C STP    94      96.755  83.450  92.673    0.00     4.68
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0784
+HEADER 1  - Drug Score                        : 0.0070
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8169
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5297
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 90.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 6.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.7525
+HEADER 10 - Pocket volume (convex hull)       : 13.7875
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.1250
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  12595  CE2 PHE D1263     120.477  84.584  70.947  0.00  0.00           C 0
+ATOM  12653  CE1 TYR D1266     115.582  80.538  71.942  0.00  0.00           C 0
+ATOM  12509  CD1 TRP D1258     120.591  80.172  71.075  0.00  0.00           C 0
+ATOM  12435   CE MET D1254     118.179  79.184  75.367  0.00  0.00           C 0
+ATOM  12824   CZ PHE D1276     115.103  82.258  76.378  0.00  0.00           C 0
+ATOM  12651  CD1 TYR D1266     115.251  81.669  71.211  0.00  0.00           C 0
+ATOM  12764   CG TRP D1273     108.395  86.037  72.919  0.00  0.00           C 0
+ATOM  12770  CD2 TRP D1273     108.900  86.418  74.179  0.00  0.00           C 0
+ATOM  12771  CE3 TRP D1273     109.817  85.849  75.051  0.00  0.00           C 0
+ATOM  12663    O TYR D1266     111.283  85.135  68.989  0.25  5.36           O 0
+ATOM  12647   CB TYR D1266     113.665  83.265  70.157  0.00  0.00           C 0
+ATOM  12828  CE2 PHE D1276     114.024  83.096  76.077  0.00  0.00           C 0
+ATOM  12826  CD2 PHE D1276     112.795  82.553  75.708  0.00  0.00           C 0
+ATOM  12678  CD2 PHE D1267     115.318  86.565  67.775  0.00  0.00           C 0
+ATOM  12680  CE2 PHE D1267     116.305  87.193  68.451  0.00  0.00           C 0
+ATOM  12759   CA TRP D1273     108.864  83.309  72.478  0.00  0.00           C 0
+ATOM  12593  CD2 PHE D1263     119.399  84.408  70.085  0.00  0.00           C 0
+ATOM  12650   CG TYR D1266     113.903  82.025  70.963  0.00  0.00           C 0
+ATOM  12761   CB TRP D1273     108.640  84.866  71.944  0.00  0.00           C 0
+TER
+END

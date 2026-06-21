@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : 0.0205
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.6960
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4974
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 10.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 106.0497
+HEADER 10 - Pocket volume (convex hull)       : 2.0485
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2174
+ATOM   1567   CA PRO C 119      18.307  80.601  65.572  0.00  0.00           C 0
+ATOM   1562    O HIS C 118      17.181  78.004  66.004  0.17  1.07           O 0
+ATOM   1089  OE1 GLN C  90      17.711  78.737  60.680  0.54  1.07           O 0
+ATOM   1094    O GLN C  90      20.359  75.006  61.365  0.08  4.29           O 0
+ATOM   1609   NE ARG C 121      21.960  73.879  65.631  0.67  1.09           N 0
+ATOM   1525    O PRO C 116      16.916  75.261  64.632  0.21  1.07           O 0
+ATOM   1596    N ARG C 121      21.617  78.094  67.790  0.68  3.28           N 0
+ATOM   1620    N ARG C 122      23.439  79.714  66.058  0.75  1.09           N 0
+ATOM   1600   CB ARG C 121      23.290  76.525  66.749  0.00  0.00           C 0
+ATOM   1577    N ILE C 120      19.214  79.250  67.486  0.00  0.00           N 0
+ATOM   1575    C PRO C 119      19.265  80.404  66.736  0.00  0.00           C 0
+ATOM   1627   CG ARG C 122      21.894  81.598  64.168  0.00  0.00           C 0
+ATOM   1630   CD ARG C 122      21.398  81.967  62.769  0.00  0.00           C 0
+ATOM   1077    O THR C  89      22.126  77.115  59.111  0.50  4.29           O 0
+ATOM   1080   CA GLN C  90      19.546  76.352  59.540  0.00  0.00           C 0
+ATOM   1139  CD1 PHE C  93      25.214  78.245  61.976  0.00  0.00           C 0
+ATOM   1141  CE1 PHE C  93      25.569  78.190  63.336  0.00  0.00           C 0
+TER
+END

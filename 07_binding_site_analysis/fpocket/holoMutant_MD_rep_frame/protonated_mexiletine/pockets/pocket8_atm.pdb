@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0922
+HEADER 1  - Drug Score                        : 0.0074
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0540
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7178
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 77.3333
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 370.2239
+HEADER 10 - Pocket volume (convex hull)       : 27.0074
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.5333
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8824
+ATOM   8469    C LEU D 793      64.357 117.026  91.699  0.00  0.00           C 0
+ATOM   8456   CB LEU D 793      65.057 118.349  89.667  0.00  0.00           C 0
+ATOM   8478   CG MET D 794      60.569 115.284  90.487  0.00  0.00           C 0
+ATOM   8470    O LEU D 793      64.162 117.670  92.700  0.50  3.21           O 0
+ATOM   8482   CE MET D 794      58.543 115.573  88.797  0.00  0.00           C 0
+ATOM   8421    O ILE D 790      62.958 114.881  88.334  0.00  0.00           O 0
+ATOM   8416  CD1 ILE D 790      61.865 117.193  84.254  0.00  0.00           C 0
+ATOM   8473   CA MET D 794      62.428 115.557  92.291  0.00  0.00           C 0
+ATOM   8524   CA GLY D 797      62.638 118.715  95.952  0.00  0.00           C 0
+ATOM   8405   CA ILE D 790      63.328 115.181  86.046  0.00  0.00           C 0
+ATOM   8471    N MET D 794      63.502 116.002  91.438  0.00  0.00           N 0
+ATOM   8538  CD1 LEU D 798      60.377 112.495  96.797  0.00  0.00           C 0
+ATOM   8684  CD2 LEU D 807      62.326 111.065  93.212  0.00  0.00           C 0
+ATOM   8481   SD MET D 794      59.575 114.215  89.532  0.00  0.00           S 0
+ATOM   8475   CB MET D 794      61.559 114.537  91.454  0.00  0.00           C 0
+ATOM   8536   CG LEU D 798      60.595 114.054  97.212  0.00  0.00           C 0
+ATOM   8542  CD2 LEU D 798      59.350 114.447  97.923  0.00  0.00           C 0
+ATOM   8527    C GLY D 797      62.211 118.052  97.327  0.00  0.00           C 0
+ATOM   8487    O MET D 794      62.446 115.411  94.671  0.51  1.07           O 0
+ATOM   8529    N LEU D 798      62.311 116.716  97.340  0.00  0.00           N 0
+TER
+END

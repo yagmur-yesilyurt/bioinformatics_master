@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   123:
+HEADER 0  - Pocket Score                      : -0.2331
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9322
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6335
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 65.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 186.2934
+HEADER 10 - Pocket volume (convex hull)       : 3.0950
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  13759   SD MET D1335      89.472  89.625  82.605  0.00  0.00           S 0
+ATOM  13805  CD1 LEU D1338      85.986  87.687  83.525  0.00  0.00           C 0
+ATOM  13760   CE MET D1335      91.095  88.818  82.822  0.00  0.00           C 0
+ATOM  20601  CG2 ILE D1757      86.235  84.954  86.531  0.00  0.00           C 0
+ATOM  20549  CG2 THR D1754      91.713  85.915  91.297  0.00  0.00           C 0
+ATOM  20599   CB ILE D1757      86.246  84.375  87.988  0.00  0.00           C 0
+ATOM  20605  CG1 ILE D1757      85.590  85.388  88.981  0.00  0.00           C 0
+ATOM  20624  CG1 ILE D1758      90.444  82.026  86.544  0.00  0.00           C 0
+ATOM  20627  CD1 ILE D1758      91.880  82.033  87.245  0.00  0.00           C 0
+ATOM  20554    O THR D1754      89.090  82.631  89.754  0.50  1.07           O 0
+ATOM  20545   CB THR D1754      91.461  84.403  91.225  0.00  0.00           C 0
+ATOM  20543   CA THR D1754      89.914  84.258  91.325  0.00  0.00           C 0
+ATOM  20540    O THR D1753      87.219  84.892  91.794  0.67  2.14           O 0
+TER
+END

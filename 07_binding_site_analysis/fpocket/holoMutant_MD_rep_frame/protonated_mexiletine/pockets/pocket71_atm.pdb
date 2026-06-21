@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    71:
+HEADER 0  - Pocket Score                      : -0.0596
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8619
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6578
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 27.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 238.1218
+HEADER 10 - Pocket volume (convex hull)       : 4.8776
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM  20385    N ASP H1741      98.876  80.184 111.061  0.77  1.09           N 0
+ATOM  19542   CE LYS H1683      96.543  77.521 115.102  0.00  0.00           C 0
+ATOM  19496   CB TYR H1681      97.710  76.870 108.412  0.00  0.00           C 0
+ATOM  20394  OD2 ASP H1741     101.926  77.491 111.493  0.64  5.36           O 0
+ATOM  19512    O TYR H1681      95.447  77.036 109.594  0.42  5.36           O 0
+ATOM  19531   CA LYS H1683      93.125  74.306 112.989  0.00  0.00           C 0
+ATOM  19529    N LYS H1683      93.285  74.957 111.689  0.62  1.09           N 0
+ATOM  19733  NE2 GLN H1695      95.710  71.524 108.023  0.00  0.00           N 0
+ATOM  19528    O VAL H1682      92.516  73.307 110.291  0.43  5.36           O 0
+ATOM  19513    N VAL H1682      94.460  75.138 108.743  0.00  0.00           N 0
+ATOM  19511    C TYR H1681      95.521  75.967 108.951  0.00  0.00           C 0
+ATOM  19551    N TRP H1684      91.852  72.583 114.134  0.67  9.84           N 0
+ATOM  19536   CG LYS H1683      94.882  75.962 113.979  0.00  0.00           C 0
+ATOM  19507  CD2 TYR H1681      99.959  75.589 108.322  0.00  0.00           C 0
+ATOM  19494   CA TYR H1681      96.825  75.629 108.284  0.00  0.00           C 0
+ATOM  19491    O ALA H1680      97.949  73.495 106.888  0.00  0.00           O 0
+ATOM  20392   CG ASP H1741     101.442  78.629 111.319  0.00  0.00           C 0
+ATOM  20389   CB ASP H1741     100.712  78.803 109.968  0.00  0.00           C 0
+TER
+END

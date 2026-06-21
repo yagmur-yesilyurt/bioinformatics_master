@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    64:
+HEADER 0  - Pocket Score                      : -0.1243
+HEADER 1  - Drug Score                        : 0.0031
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0964
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5699
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 90.6667
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 230.3101
+HEADER 10 - Pocket volume (convex hull)       : 8.8847
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  20696  CD1 ILE D1762      89.541  76.691  83.254  0.00  0.00           C 0
+ATOM  19179  CD1 LEU D1663      93.024  75.087  80.574  0.00  0.00           C 0
+ATOM  13604  CG2 VAL D1324      93.384  77.265  77.539  0.00  0.00           C 0
+ATOM  19257  CG2 VAL D1667      92.779  76.949  84.585  0.00  0.00           C 0
+ATOM  19183  CD2 LEU D1663      90.509  75.454  79.793  0.00  0.00           C 0
+ATOM  20677  CD2 LEU D1761      86.545  82.936  80.326  0.00  0.00           C 0
+ATOM  13699  CD1 ILE D1331      89.160  85.693  79.537  0.00  0.00           C 0
+ATOM  20620  CG2 ILE D1758      89.940  79.842  85.170  0.00  0.00           C 0
+ATOM  13638   CB LEU D1327      89.291  80.561  76.709  0.00  0.00           C 0
+ATOM  20624  CG1 ILE D1758      90.125  82.321  85.699  0.00  0.00           C 0
+ATOM  13643  CD1 LEU D1327      89.136  78.392  77.891  0.00  0.00           C 0
+ATOM  20693  CG1 ILE D1762      88.296  77.063  82.433  0.00  0.00           C 0
+ATOM  20671   CG LEU D1761      85.618  81.669  80.545  0.00  0.00           C 0
+ATOM  20632    O ILE D1758      86.899  79.425  84.575  0.00  0.00           O 0
+ATOM  13696  CG1 ILE D1331      90.026  85.909  78.301  0.00  0.00           C 0
+ATOM  13663  CG2 VAL D1328      93.503  83.043  76.785  0.00  0.00           C 0
+ATOM  13600  CG1 VAL D1324      94.663  79.236  76.523  0.00  0.00           C 0
+ATOM  20616   CA ILE D1758      87.920  81.325  85.665  0.00  0.00           C 0
+TER
+END

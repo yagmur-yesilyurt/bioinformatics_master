@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0685
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.5923
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4792
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 82.8571
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 61.3220
+HEADER 10 - Pocket volume (convex hull)       : 0.1355
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM  14041  CD1 ILE F1350      77.263 102.891  93.065  0.00  0.00           C 0
+ATOM  13977    O LEU F1346      76.175  99.542  91.952  0.00  0.00           O 0
+ATOM   8782  CD2 LEU D 812      74.478 104.797  91.712  0.00  0.00           C 0
+ATOM  13976    C LEU F1346      76.228  98.940  90.876  0.00  0.00           C 0
+ATOM  13966   CG LEU F1346      79.044 100.215  90.480  0.00  0.00           C 0
+ATOM   8787    O LEU D 812      73.750 103.898  87.201  0.69  1.07           O 0
+ATOM   7450  CG2 THR D 731      78.913 104.997  89.263  0.00  0.00           C 0
+ATOM  13972  CD2 LEU F1346      79.874 101.099  89.639  0.00  0.00           C 0
+ATOM   8837  CG1 VAL D 815      77.218 103.379  85.331  0.00  0.00           C 0
+ATOM  13963   CB LEU F1346      78.557  98.947  89.690  0.00  0.00           C 0
+ATOM   8773   CB LEU D 812      72.780 104.035  90.015  0.00  0.00           C 0
+ATOM  13980   CA ILE F1347      73.951  99.387  90.168  0.00  0.00           C 0
+ATOM  13914    O ILE F1343      77.511  98.379  86.442  0.63  2.14           O 0
+ATOM  13988  CG1 ILE F1347      73.761  99.669  87.537  0.00  0.00           C 0
+ATOM  13978    N ILE F1347      75.220  98.841  89.983  0.00  0.00           N 0
+TER
+END

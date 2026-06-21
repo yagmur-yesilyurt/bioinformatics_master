@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    52:
+HEADER 0  - Pocket Score                      : -0.0832
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0260
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6088
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -18.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.4829
+HEADER 10 - Pocket volume (convex hull)       : 6.0100
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM  16013  ND2 ASN D1474      77.311  82.074  66.338  0.60  9.84           N 0
+ATOM  16011   CG ASN D1474      78.468  81.404  66.670  0.00  0.00           C 0
+ATOM  16087   CE LYS D1478      80.893  83.223  60.774  0.00  0.00           C 0
+ATOM  16008   CB ASN D1474      79.739  82.250  66.490  0.00  0.00           C 0
+ATOM  16090   NZ LYS D1478      80.250  82.595  59.589  0.00  0.00           N 0
+ATOM  16017    O ASN D1474      82.352  82.045  64.659  0.68  1.07           O 0
+ATOM  16012  OD1 ASN D1474      78.460  80.220  66.975  0.62  5.36           O 0
+ATOM  16006   CA ASN D1474      81.086  81.431  66.592  0.00  0.00           C 0
+ATOM  16062   CD LYS D1477      81.876  77.134  64.968  0.00  0.00           C 0
+ATOM  16056   CB LYS D1477      83.591  78.828  64.123  0.00  0.00           C 0
+ATOM  16084   CD LYS D1478      82.408  82.870  60.797  0.00  0.00           C 0
+ATOM  16146   CA GLY D1482      84.358  75.722  61.808  0.00  0.00           C 0
+ATOM  16073    O LYS D1477      85.984  79.395  62.054  0.55  3.21           O 0
+ATOM  16072    C LYS D1477      85.304  80.031  62.871  0.00  0.00           C 0
+TER
+END

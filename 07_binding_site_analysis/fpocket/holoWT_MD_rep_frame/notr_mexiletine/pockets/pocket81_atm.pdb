@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    81:
+HEADER 0  - Pocket Score                      : -0.1297
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9398
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6064
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 87.5000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 226.7674
+HEADER 10 - Pocket volume (convex hull)       : 7.2303
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.9412
+ATOM   6047  CD1 LEU B 399      72.768  61.130  83.968  0.00  0.00           C 0
+ATOM   6110  CD2 TYR B 403      73.794  62.328  80.132  0.00  0.00           C 0
+ATOM  18978  CD2 LEU D1650      77.337  60.802  78.385  0.00  0.00           C 0
+ATOM  18929  CD2 LEU D1647      73.426  57.707  77.694  0.00  0.00           C 0
+ATOM   6032  CD2 PHE B 398      79.319  62.901  82.558  0.00  0.00           C 0
+ATOM   3948   CZ PHE B 264      76.215  56.627  86.795  0.00  0.00           C 0
+ATOM   5977  CD2 LEU B 395      81.299  58.635  86.120  0.00  0.00           C 0
+ATOM   5982    O LEU B 395      77.896  61.644  86.952  0.65  2.14           O 0
+ATOM   6038    N LEU B 399      76.586  63.405  85.309  0.00  0.00           N 0
+ATOM   6042   CB LEU B 399      74.628  61.857  85.609  0.00  0.00           C 0
+ATOM   6112  CE2 TYR B 403      73.002  61.598  79.234  0.00  0.00           C 0
+ATOM   3886   SG CYS B 260      70.366  57.876  81.688  0.00  0.00           S 0
+ATOM   3952  CE2 PHE B 264      75.001  56.022  86.350  0.00  0.00           C 0
+ATOM   3883   CB CYS B 260      70.274  57.966  83.468  0.00  0.00           C 0
+ATOM   6051  CD2 LEU B 399      72.946  60.286  86.328  0.00  0.00           C 0
+ATOM   6040   CA LEU B 399      75.217  63.117  84.864  0.00  0.00           C 0
+TER
+END

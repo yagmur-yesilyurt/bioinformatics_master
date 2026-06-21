@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    55:
+HEADER 0  - Pocket Score                      : -0.0298
+HEADER 1  - Drug Score                        : 0.0040
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9544
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6931
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 54.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.1818
+HEADER 10 - Pocket volume (convex hull)       : 8.7161
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  16781    C TYR G1517      73.606  20.259  71.138  0.00  0.00           C 0
+ATOM  16785   CA GLN G1518      74.852  22.280  70.714  0.00  0.00           C 0
+ATOM  16782    O TYR G1517      72.688  21.000  71.466  0.74  1.07           O 0
+ATOM  16790   CG GLN G1518      77.347  22.384  71.536  0.00  0.00           C 0
+ATOM  16766   CB TYR G1517      74.384  18.071  72.112  0.00  0.00           C 0
+ATOM  16783    N GLN G1518      74.761  20.820  70.671  0.00  0.00           N 0
+ATOM  16837  CG1 ILE G1521      70.901  22.763  73.727  0.00  0.00           C 0
+ATOM  17736  CG1 VAL G1577      75.097  26.141  72.617  0.00  0.00           C 0
+ATOM  16833  CG2 ILE G1521      71.308  25.237  73.687  0.00  0.00           C 0
+ATOM  17724  CD1 ILE G1576      77.913  25.719  77.194  0.00  0.00           C 0
+ATOM  17721  CG1 ILE G1576      77.738  26.650  76.013  0.00  0.00           C 0
+ATOM  17684    O GLY G1573      74.604  28.381  75.205  0.00  0.00           O 0
+ATOM  16831   CB ILE G1521      71.251  23.958  72.763  0.00  0.00           C 0
+ATOM  17680   CA GLY G1573      73.849  28.115  77.478  0.00  0.00           C 0
+ATOM  16840  CD1 ILE G1521      69.467  22.955  74.398  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,50 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   130:
+HEADER 0  - Pocket Score                      : -0.1570
+HEADER 1  - Drug Score                        : 0.0039
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.7522
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4998
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 35.5833
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0833
+HEADER 9  - Pocket volume (Monte Carlo)       : 527.2067
+HEADER 10 - Pocket volume (convex hull)       : 46.2390
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 14.9412
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.5862
+ATOM  12911  OD2 ASP F1280     111.220  78.939  86.613  0.81  5.36           O 0
+ATOM  12913    O ASP F1280     115.816  77.466  87.885  0.76  2.14           O 0
+ATOM  12906   CB ASP F1280     113.253  78.313  85.695  0.00  0.00           C 0
+ATOM  12970  CG2 VAL F1284     117.830  79.688  90.044  0.00  0.00           C 0
+ATOM  12912    C ASP F1280     114.759  77.103  87.407  0.00  0.00           C 0
+ATOM  12929    O VAL F1281     116.063  75.069  90.468  0.74  1.07           O 0
+ATOM  12983   OG SER F1285     116.600  73.665  93.060  0.00  0.00           O 0
+ATOM  13230  CD1 LEU F1302     114.664  79.220  95.699  0.00  0.00           C 0
+ATOM  12920  CG1 VAL F1281     113.109  74.761  91.624  0.00  0.00           C 0
+ATOM  12976    N SER F1285     118.557  75.525  91.836  0.00  0.00           N 0
+ATOM  13234  CD2 LEU F1302     112.641  79.797  94.146  0.00  0.00           C 0
+ATOM  12916   CA VAL F1281     114.068  75.972  89.584  0.00  0.00           C 0
+ATOM  12964   CB VAL F1284     117.993  78.569  91.093  0.00  0.00           C 0
+ATOM  12966  CG1 VAL F1284     118.478  79.188  92.449  0.00  0.00           C 0
+ATOM  12978   CA SER F1285     118.809  74.391  92.768  0.00  0.00           C 0
+ATOM  12924  CG2 VAL F1281     112.015  76.860  90.521  0.00  0.00           C 0
+ATOM  13287  CD1 LEU F1305     109.005  79.586  92.176  0.00  0.00           C 0
+ATOM  13026   CB ALA F1288     121.346  76.123  96.002  0.00  0.00           C 0
+ATOM  12975    O VAL F1284     120.363  76.745  92.357  0.00  0.00           O 0
+ATOM  13147    O MET F1296     116.974  80.116  98.545  0.65  4.29           O 0
+ATOM  13135   CB MET F1296     119.906  80.029  98.747  0.00  0.00           C 0
+ATOM  13131    N MET F1296     118.870  79.054 100.672  0.44  1.09           N 0
+ATOM  13253   NE ARG F1303     112.147  74.145 101.617  0.00  0.00           N 0
+ATOM  13116    N GLU F1295     119.515  76.727 102.121  0.00  0.00           N 0
+ATOM  13040  OD1 ASN F1289     121.555  71.752  96.559  0.48  7.50           O 0
+ATOM  12914    N VAL F1281     113.840  76.429  88.228  0.00  0.00           N 0
+ATOM  13118   CA GLU F1295     118.271  77.428 102.454  0.00  0.00           C 0
+ATOM  13175  CG2 ILE F1299     114.569  78.444 100.835  0.00  0.00           C 0
+TER
+END

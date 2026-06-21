@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    99:
+HEADER 0  - Pocket Score                      : -0.1023
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8197
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5748
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -17.2500
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 281.4479
+HEADER 10 - Pocket volume (convex hull)       : 21.4345
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4545
+ATOM   3526   NZ LYS C 237      42.492  79.419  72.292  0.00  0.00           N 0
+ATOM   2797  CD1 TRP C 193      42.400  75.049  76.692  0.00  0.00           C 0
+ATOM   3437    O SER C 231      42.247  80.189  75.213  0.68  8.57           O 0
+ATOM   3431   CB SER C 231      41.500  78.475  77.735  0.00  0.00           C 0
+ATOM   2784   CG PRO C 192      42.402  69.259  75.708  0.00  0.00           C 0
+ATOM   2799  NE1 TRP C 193      43.714  75.349  76.736  0.67  5.47           N 0
+ATOM   2781   CB PRO C 192      42.466  70.114  76.960  0.00  0.00           C 0
+ATOM   2776   CD PRO C 192      41.030  69.530  75.158  0.00  0.00           C 0
+ATOM   2821  OD1 ASN C 194      35.481  74.763  77.012  0.60  5.36           O 0
+ATOM   2793   CB TRP C 193      40.479  74.909  78.452  0.00  0.00           C 0
+ATOM   3434   OG SER C 231      40.503  79.241  78.333  0.62  7.50           O 0
+ATOM   2879  OD2 ASP C 197      35.617  76.932  80.930  0.00  0.00           O 0
+ATOM   2767   CB ASP C 191      37.449  71.088  74.523  0.00  0.00           C 0
+ATOM   2813    N ASN C 194      37.780  72.868  78.566  0.00  0.00           N 0
+ATOM   2789    N TRP C 193      40.375  72.427  78.051  0.00  0.00           N 0
+ATOM   2775    N PRO C 192      40.286  70.147  76.182  0.68  1.09           N 0
+ATOM   2770   CG ASP C 191      37.291  71.291  73.065  0.00  0.00           C 0
+ATOM   2504   NZ LYS C 175      35.029  79.041  77.046  0.00  0.00           N 0
+ATOM   2820   CG ASN C 194      35.305  73.619  76.612  0.00  0.00           C 0
+ATOM   2771  OD1 ASP C 191      36.936  72.385  72.599  0.75  6.43           O 0
+TER
+END

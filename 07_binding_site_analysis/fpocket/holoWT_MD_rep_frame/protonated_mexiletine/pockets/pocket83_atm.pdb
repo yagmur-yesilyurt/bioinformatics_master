@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    83:
+HEADER 0  - Pocket Score                      : -0.1724
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8250
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5988
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -0.2222
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 298.6960
+HEADER 10 - Pocket volume (convex hull)       : 21.3261
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2800
+ATOM   9028   CB THR C 827      74.866  93.094  74.798  0.00  0.00           C 0
+ATOM   8985  CG2 THR C 824      79.240  94.012  77.567  0.00  0.00           C 0
+ATOM  15914  CG2 VAL D1468      78.331  88.794  75.795  0.00  0.00           C 0
+ATOM   9030  OG1 THR C 827      75.334  93.569  73.564  0.68  8.57           O 0
+ATOM  15967  OD2 ASP D1471      78.634  88.666  70.116  0.35  7.50           O 0
+ATOM   9032  CG2 THR C 827      74.703  91.576  74.742  0.00  0.00           C 0
+ATOM  13718    O PRO D1332      86.129  92.557  76.669  0.40  9.64           O 0
+ATOM  13719    N SER D1333      85.829  90.686  75.477  0.71  2.19           N 0
+ATOM  13721   CA SER D1333      84.376  90.621  75.655  0.00  0.00           C 0
+ATOM  13726   OG SER D1333      84.107  89.601  73.503  0.00  0.00           O 0
+ATOM  15910  CG1 VAL D1468      80.725  87.873  75.383  0.00  0.00           C 0
+ATOM  13723   CB SER D1333      83.660  89.485  74.842  0.00  0.00           C 0
+ATOM   8983  OG1 THR C 824      80.444  95.268  75.954  0.12  5.36           O 0
+ATOM   8979   CA THR C 824      78.061  95.711  76.131  0.00  0.00           C 0
+ATOM   8976    O PRO C 823      76.319  96.090  74.131  0.00  0.00           O 0
+ATOM   8969   CB PRO C 823      78.267  97.699  72.051  0.00  0.00           C 0
+ATOM   8975    C PRO C 823      77.217  96.886  74.235  0.00  0.00           C 0
+ATOM   8977    N THR C 824      78.183  96.766  75.112  0.00  0.00           N 0
+ATOM  13770   CB ASN D1336      83.530  94.750  78.041  0.00  0.00           C 0
+ATOM  13775  ND2 ASN D1336      83.411  96.816  76.735  0.00  5.47           N 0
+ATOM  13729    O SER D1333      83.362  91.163  77.667  0.00  0.00           O 0
+ATOM  13790  CG2 VAL D1337      79.876  90.454  78.799  0.00  0.00           C 0
+TER
+END

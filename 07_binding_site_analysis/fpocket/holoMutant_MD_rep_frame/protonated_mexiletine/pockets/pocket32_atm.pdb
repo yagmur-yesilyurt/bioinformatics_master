@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : 0.0157
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9801
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5846
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -6.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 286.1749
+HEADER 10 - Pocket volume (convex hull)       : 8.1116
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6316
+ATOM    955    N ASP C  82      23.456  84.683  51.958  0.76  2.19           N 0
+ATOM    957   CA ASP C  82      23.180  84.667  50.553  0.00  0.00           C 0
+ATOM    953    C GLU C  81      23.288  83.648  52.723  0.00  0.00           C 0
+ATOM    944   CB GLU C  81      22.503  84.631  54.874  0.00  0.00           C 0
+ATOM    954    O GLU C  81      22.924  82.560  52.287  0.00  0.00           O 0
+ATOM   1026  CD2 PHE C  86      16.474  80.436  56.014  0.00  0.00           C 0
+ATOM    950   CD GLU C  81      21.814  85.612  57.182  0.00  0.00           C 0
+ATOM    952  OE2 GLU C  81      21.311  85.119  58.231  0.64  7.50           O 0
+ATOM    951  OE1 GLU C  81      21.528  86.791  56.880  0.00  0.00           O 0
+ATOM   1068   CB THR C  89      21.914  79.025  56.227  0.00  0.00           C 0
+ATOM   1072  CG2 THR C  89      21.862  79.935  57.423  0.00  0.00           C 0
+ATOM   1070  OG1 THR C  89      22.898  79.512  55.343  0.00  0.00           O 0
+ATOM    947   CG GLU C  81      22.714  84.736  56.400  0.00  0.00           C 0
+ATOM   1014   CA PHE C  86      18.040  78.816  53.804  0.00  0.00           C 0
+ATOM   1016   CB PHE C  86      16.605  79.333  53.668  0.00  0.00           C 0
+ATOM    997    O ASP C  84      21.729  80.124  51.288  0.00  0.00           O 0
+ATOM   1012    N PHE C  86      18.554  78.572  52.460  0.57  4.37           N 0
+ATOM   1028  CE2 PHE C  86      15.740  80.778  57.156  0.00  0.00           C 0
+ATOM   1090  NE2 GLN C  90      18.265  79.331  58.538  0.88  6.56           N 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    81:
+HEADER 0  - Pocket Score                      : -0.0721
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0712
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4702
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -5.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 183.4662
+HEADER 10 - Pocket volume (convex hull)       : 4.0142
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   4906   SG CYS C 326      84.614  50.453 112.097  0.00  0.00           S 0
+ATOM   4178  ND1 HIS C 278      81.306  48.786 111.420  0.63  3.28           N 0
+ATOM   4916    O GLY C 327      86.297  51.889 108.936  0.68  4.29           O 0
+ATOM   4181  CE1 HIS C 278      81.905  47.746 112.063  0.00  0.00           C 0
+ATOM   4931    N SER C 329      88.171  50.191 106.330  0.00  0.00           N 0
+ATOM   4935   CB SER C 329      87.934  47.858 105.618  0.00  0.00           C 0
+ATOM   4933   CA SER C 329      88.516  48.812 106.725  0.00  0.00           C 0
+ATOM   5803    O SER C 384      84.484  52.170 105.435  0.54  9.64           O 0
+ATOM   4123  ND2 ASN C 275      80.675  47.818 105.256  0.00  0.00           N 0
+ATOM  18450   CG PRO H1619      86.269  44.695 104.085  0.00  0.00           C 0
+ATOM  18527  NH2 ARG H1623      83.223  48.378 102.152  0.70  3.28           N 0
+ATOM   4127    O ASN C 275      79.307  51.597 107.580  0.50  1.07           O 0
+ATOM   4909    O CYS C 326      83.558  53.446 109.619  0.00  0.00           O 0
+TER
+END

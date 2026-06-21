@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    62:
+HEADER 0  - Pocket Score                      : -0.1224
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.5818
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3930
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 3.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 78.9454
+HEADER 10 - Pocket volume (convex hull)       : 0.5444
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM  14139    C GLY D1358      72.771  97.647 111.680  0.00  0.00           C 0
+ATOM  14140    O GLY D1358      72.233  98.123 112.654  0.49  1.07           O 0
+ATOM  14183    N GLY D1361      72.773  92.976 113.814  0.48  3.28           N 0
+ATOM  14185   CA GLY D1361      73.678  92.720 114.952  0.00  0.00           C 0
+ATOM  14712  NE1 TRP D1395      76.373  94.313 116.968  0.00  0.00           N 0
+ATOM  14720  CZ2 TRP D1395      74.068  94.819 117.880  0.00  0.00           C 0
+ATOM  15333   CA GLU D1435      72.587  99.120 115.958  0.00  0.00           C 0
+ATOM  15338   CG GLU D1435      74.874 100.191 115.545  0.00  0.00           C 0
+ATOM  14503   NZ LYS D1381      78.369  98.143 115.622  0.00  9.84           N 0
+ATOM  14136   CA GLY D1358      74.144  98.183 111.274  0.00  0.00           C 0
+ATOM  14753   CE LYS D1397      77.858  93.831 111.661  0.00  0.00           C 0
+ATOM  14750   CD LYS D1397      78.212  93.490 113.164  0.00  0.00           C 0
+ATOM  14756   NZ LYS D1397      78.760  94.832 111.051  0.60  4.37           N 0
+ATOM  14500   CE LYS D1381      77.753  97.506 116.768  0.00  0.00           C 0
+TER
+END

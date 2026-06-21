@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   122:
+HEADER 0  - Pocket Score                      : -0.1385
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0075
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6333
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 19.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.4098
+HEADER 10 - Pocket volume (convex hull)       : 7.4663
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM  18905    C ARG H1644      72.072  54.886  69.457  0.00  0.00           C 0
+ATOM  18909   CA THR H1645      71.343  57.126  68.609  0.00  0.00           C 0
+ATOM  18902  NH2 ARG H1644      71.974  50.769  64.957  0.00  0.00           N 0
+ATOM  18913  OG1 THR H1645      69.517  56.947  67.193  0.00  0.00           O 0
+ATOM  18907    N THR H1645      71.018  55.734  69.123  0.00  0.00           N 0
+ATOM  18887   CB ARG H1644      71.590  52.503  68.938  0.00  0.00           C 0
+ATOM  18856    O LYS H1641      68.027  53.768  68.476  0.70  4.29           O 0
+ATOM  18966   CG PHE H1648      76.132  57.829  66.670  0.00  0.00           C 0
+ATOM  18963   CB PHE H1648      75.900  56.908  67.849  0.00  0.00           C 0
+ATOM  18967  CD1 PHE H1648      77.202  57.582  65.807  0.00  0.00           C 0
+ATOM  18906    O ARG H1644      73.194  55.304  69.497  0.48  5.36           O 0
+ATOM  18896   NE ARG H1644      72.184  50.269  67.146  0.77  5.47           N 0
+ATOM  18890   CG ARG H1644      72.056  51.156  69.409  0.00  0.00           C 0
+ATOM  18973  CD2 PHE H1648      75.247  58.951  66.417  0.00  0.00           C 0
+TER
+END

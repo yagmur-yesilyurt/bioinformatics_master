@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    85:
+HEADER 0  - Pocket Score                      : -0.0692
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8431
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5251
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 19.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.5308
+HEADER 10 - Pocket volume (convex hull)       : 8.0147
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM  16759  CE2 TYR D1517      82.043  14.935  68.612  0.00  0.00           C 0
+ATOM  16754   CZ TYR D1517      81.263  14.024  67.879  0.00  0.00           C 0
+ATOM  16714  OD1 ASN D1515      85.174  19.504  63.917  0.00  0.00           O 0
+ATOM  16755   OH TYR D1517      81.963  12.891  67.389  0.00  0.00           O 0
+ATOM  16720    N LYS D1516      80.435  18.688  63.904  0.51  1.09           N 0
+ATOM  16727   CG LYS D1516      79.347  16.111  62.618  0.00  0.00           C 0
+ATOM  16708   CA ASN D1515      82.374  20.055  63.682  0.00  0.00           C 0
+ATOM  16724   CB LYS D1516      79.052  16.595  64.081  0.00  0.00           C 0
+ATOM  16713   CG ASN D1515      84.619  20.155  64.855  0.00  0.00           C 0
+ATOM  16715  ND2 ASN D1515      85.396  20.597  65.890  0.42  3.28           N 0
+ATOM  16757  CD2 TYR D1517      81.400  16.056  69.084  0.00  0.00           C 0
+ATOM  16705    O LEU D1514      81.618  20.151  60.918  0.19  7.50           O 0
+ATOM  16710   CB ASN D1515      83.182  20.481  64.947  0.00  0.00           C 0
+ATOM  16770   CG GLN D1518      82.077  22.504  68.337  0.00  0.00           C 0
+ATOM  16763    N GLN D1518      79.567  20.598  67.966  0.00  0.00           N 0
+TER
+END

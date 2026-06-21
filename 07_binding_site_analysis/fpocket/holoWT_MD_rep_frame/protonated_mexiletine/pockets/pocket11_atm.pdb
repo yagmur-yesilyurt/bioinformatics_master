@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0139
+HEADER 1  - Drug Score                        : 0.0203
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0298
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6532
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 74.7778
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 367.7151
+HEADER 10 - Pocket volume (convex hull)       : 17.1654
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.1429
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM  11741  CD1 PHE D1213     106.489  59.582  80.412  0.00  0.00           C 0
+ATOM  11798  CD1 LEU D1216     102.561  63.690  79.890  0.00  0.00           C 0
+ATOM  11743  CE1 PHE D1213     106.486  58.881  81.579  0.00  0.00           C 0
+ATOM  11793   CB LEU D1216     103.804  64.157  82.046  0.00  0.00           C 0
+ATOM  11909  CD2 PHE D1224     106.540  62.007  95.171  0.00  0.00           C 0
+ATOM  11855    O GLY D1220     104.572  64.650  91.359  0.00  0.00           O 0
+ATOM  11854    C GLY D1220     104.956  64.839  90.216  0.00  0.00           C 0
+ATOM  11817  CD1 LEU D1217     108.003  60.639  86.614  0.00  0.00           C 0
+ATOM  11856    N ALA D1221     106.192  65.222  89.990  0.00  0.00           N 0
+ATOM  11807    O LEU D1216     104.593  64.587  85.294  0.45  4.29           O 0
+ATOM  11810   CA LEU D1217     107.021  63.358  85.395  0.00  0.00           C 0
+ATOM  11851   CA GLY D1220     104.106  64.692  88.985  0.00  0.00           C 0
+ATOM  11808    N LEU D1217     106.270  63.772  84.149  0.76  1.09           N 0
+ATOM  11806    C LEU D1216     105.099  64.387  84.182  0.00  0.00           C 0
+ATOM  11826    O LEU D1217     107.255  64.382  87.546  0.52  1.07           O 0
+ATOM  11860   CB ALA D1221     108.477  65.811  90.534  0.00  0.00           C 0
+ATOM  12295   CZ PHE D1246     111.785  63.531  87.786  0.00  0.00           C 0
+ATOM  11815   CG LEU D1217     108.889  61.761  86.056  0.00  0.00           C 0
+ATOM  12176  CD1 LEU D1239     111.018  64.296  94.723  0.00  0.00           C 0
+ATOM  12299  CE2 PHE D1246     111.717  64.838  88.417  0.00  0.00           C 0
+ATOM  12226   CB ALA D1242     114.674  63.549  90.880  0.00  0.00           C 0
+ATOM  11858   CA ALA D1221     107.069  65.671  91.074  0.00  0.00           C 0
+TER
+END

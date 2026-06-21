@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   115:
+HEADER 0  - Pocket Score                      : -0.2693
+HEADER 1  - Drug Score                        : 0.0721
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.9559
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5866
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 81.7000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 410.9832
+HEADER 10 - Pocket volume (convex hull)       : 44.5131
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 25.8621
+HEADER 13 - Number of apolar alpha sphere     :    29
+HEADER 14 - Proportion of apolar alpha sphere : 0.9355
+ATOM   7719    O MET C 748      79.732 120.902  99.057  0.69  2.14           O 0
+ATOM   7772    N GLY C 752      77.881 121.437  97.158  0.77  1.09           N 0
+ATOM   7762  CG1 VAL C 751      78.287 125.242  97.412  0.00  0.00           C 0
+ATOM   7714   CE MET C 748      83.362 124.039  99.491  0.00  0.00           C 0
+ATOM   7479  CE2 PHE C 733      80.968 117.890  94.958  0.00  0.00           C 0
+ATOM   7475   CZ PHE C 733      82.227 117.706  94.391  0.00  0.00           C 0
+ATOM   7774   CA GLY C 752      77.923 120.598  95.993  0.00  0.00           C 0
+ATOM   7822  CG2 VAL C 755      77.241 124.137  92.815  0.00  0.00           C 0
+ATOM   7707   CB MET C 748      82.337 121.439 101.076  0.00  0.00           C 0
+ATOM   7718    C MET C 748      80.082 120.776 100.197  0.00  0.00           C 0
+ATOM   7523  CD2 LEU C 736      84.597 114.492  99.075  0.00  0.00           C 0
+ATOM   7669  CE2 PHE C 745      84.205 116.056 103.319  0.00  0.00           C 0
+ATOM   7665   CZ PHE C 745      85.592 116.185 103.080  0.00  0.00           C 0
+ATOM   7710   CG MET C 748      83.308 122.404 101.758  0.00  0.00           C 0
+ATOM   7661  CD1 PHE C 745      85.754 118.073 104.563  0.00  0.00           C 0
+ATOM   7663  CE1 PHE C 745      86.365 117.169 103.702  0.00  0.00           C 0
+ATOM   7733  CD2 LEU C 749      80.093 115.639  99.936  0.00  0.00           C 0
+ATOM   7477  CD2 PHE C 733      80.343 116.851  95.647  0.00  0.00           C 0
+ATOM   7720    N LEU C 749      79.646 119.679 100.898  0.00  0.00           N 0
+ATOM   7727   CG LEU C 749      80.083 116.465 101.238  0.00  0.00           C 0
+ATOM   7818  CG1 VAL C 755      77.421 122.403  90.964  0.00  0.00           C 0
+ATOM   7844  CE2 PHE C 756      78.148 117.592  91.709  0.00  0.00           C 0
+ATOM   7406  CD1 LEU C 729      81.302 117.249  88.933  0.00  0.00           C 0
+ATOM   7816   CB VAL C 755      76.787 122.715  92.351  0.00  0.00           C 0
+ATOM   7470   CG PHE C 733      80.896 115.600  95.763  0.00  0.00           C 0
+ATOM   7473  CE1 PHE C 733      82.746 116.415  94.358  0.00  0.00           C 0
+TER
+END

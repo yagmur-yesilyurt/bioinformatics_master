@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0334
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5318
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3359
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 22.4545
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1818
+HEADER 9  - Pocket volume (Monte Carlo)       : 120.5870
+HEADER 10 - Pocket volume (convex hull)       : 1.7105
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM  22295    O LEU D1862      77.415  49.137  47.638  0.65  1.07           O 0
+ATOM  16521   NZ LYS D1504      82.018  45.928  48.154  0.58  3.28           N 0
+ATOM  21097  OE1 GLU D1788      80.608  47.365  49.851  0.00  0.00           O 0
+ATOM  21139  CD2 PHE D1791      78.163  43.248  49.799  0.00  0.00           C 0
+ATOM  22317    O GLU D1864      82.639  47.574  43.268  0.55  2.14           O 0
+ATOM  22301    C GLY D1863      80.626  49.889  44.991  0.00  0.00           C 0
+ATOM  22361   SD MET D1868      79.746  43.705  43.286  0.00  0.00           S 0
+ATOM  22298   CA GLY D1863      79.787  49.817  46.220  0.00  0.00           C 0
+ATOM  22214    O THR D1858      76.938  44.267  44.605  0.55  5.36           O 0
+ATOM  22271  CG2 VAL D1861      74.919  45.709  47.496  0.00  0.00           C 0
+ATOM  22302    O GLY D1863      80.126  49.998  43.913  0.25  9.64           O 0
+ATOM  22358   CG MET D1868      80.624  44.589  42.038  0.00  0.00           C 0
+ATOM  22322   CB SER D1865      82.264  48.527  39.261  0.00  0.00           C 0
+ATOM  22320   CA SER D1865      82.761  47.913  40.575  0.00  0.00           C 0
+ATOM  22231   NZ LYS D1859      77.953  46.732  37.574  0.58  6.56           N 0
+ATOM  22236    O LYS D1859      75.453  46.451  41.611  0.29  7.50           O 0
+ATOM  22276    O VAL D1861      75.954  47.908  45.164  0.40  3.21           O 0
+ATOM  22225   CD LYS D1859      76.926  45.056  38.947  0.00  0.00           C 0
+TER
+END

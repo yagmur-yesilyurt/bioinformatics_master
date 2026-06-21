@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    41:
+HEADER 0  - Pocket Score                      : -0.0703
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0424
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4675
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -11.3333
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.3857
+HEADER 10 - Pocket volume (convex hull)       : 5.0653
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  17303  OD2 ASP D1551      69.054  47.151 111.117  0.39  2.14           O 0
+ATOM   4162  NH2 ARG B 277      69.074  51.049 112.650  0.30  6.56           N 0
+ATOM  17291  OD2 ASP D1550      70.432  49.441 107.983  0.00  0.00           O 0
+ATOM  17293    O ASP D1550      66.694  47.090 106.795  0.00  0.00           O 0
+ATOM   5302   CB ASP B 356      68.290  52.653 104.216  0.00  0.00           C 0
+ATOM  17286   CB ASP D1550      69.253  48.822 106.073  0.00  0.00           C 0
+ATOM   5307  OD2 ASP B 356      69.544  53.366 106.154  0.83  3.21           O 0
+ATOM   4156   NE ARG B 277      69.534  52.777 111.168  0.59  2.19           N 0
+ATOM  17274  OG1 THR D1549      65.065  49.026 103.738  0.30  9.64           O 0
+ATOM   5177  ND2 ASN B 347      64.165  55.425 109.510  0.00  0.00           N 0
+ATOM   5361  NE1 TRP B 360      63.350  54.599 103.464  0.34  9.84           N 0
+ATOM   5176  OD1 ASN B 347      66.102  54.876 110.503  0.20  3.21           O 0
+ATOM   5227   CA GLY B 351      65.461  58.752 105.926  0.00  0.00           C 0
+ATOM   5172   CB ASN B 347      66.065  56.969 109.295  0.00  0.00           C 0
+ATOM   5274   OG SER B 354      67.877  56.184 103.515  0.74  2.14           O 0
+ATOM   5175   CG ASN B 347      65.462  55.665 109.811  0.00  0.00           C 0
+ATOM   5359  CD1 TRP B 360      64.498  54.508 102.675  0.00  0.00           C 0
+TER
+END

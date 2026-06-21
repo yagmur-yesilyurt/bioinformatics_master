@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   136:
+HEADER 0  - Pocket Score                      : -0.1716
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 4.2506
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5473
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 17.6250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 382.7542
+HEADER 10 - Pocket volume (convex hull)       : 18.5814
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.7500
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.2581
+ATOM  18798   CB ARG H1638      72.773  45.101  71.348  0.00  0.00           C 0
+ATOM  18751  NH2 ARG H1635      71.010  37.428  73.037  0.54  9.84           N 0
+ATOM  18816    C ARG H1638      70.362  45.807  71.160  0.00  0.00           C 0
+ATOM  18817    O ARG H1638      70.062  45.851  69.969  0.34  5.36           O 0
+ATOM  18739   CG ARG H1635      71.032  41.066  75.242  0.00  0.00           C 0
+ATOM  18755    O ARG H1635      70.628  44.294  74.392  0.80  2.14           O 0
+ATOM  17986  CZ2 TRP G1591      74.794  41.670  72.420  0.00  0.00           C 0
+ATOM  18820   CA GLY H1639      67.988  45.632  71.992  0.00  0.00           C 0
+ATOM  17068   CE MET G1535      66.945  42.689  75.575  0.00  0.00           C 0
+ATOM  17004  OD1 ASP G1531      66.784  37.645  70.702  0.56  8.57           O 0
+ATOM  17005  OD2 ASP G1531      65.304  38.599  69.401  0.68  6.43           O 0
+ATOM  18745   NE ARG H1635      70.458  38.797  74.767  0.00  0.00           N 0
+ATOM  18851   NZ LYS H1641      65.521  46.372  66.895  0.58  7.66           N 0
+ATOM  18824    O GLY H1639      66.581  46.809  70.420  0.00  0.00           O 0
+ATOM  17007    O ASP G1531      65.188  37.764  73.749  0.72  3.21           O 0
+ATOM  18818    N GLY H1639      69.490  45.682  72.104  0.00  0.00           N 0
+ATOM  17064   CG MET G1535      64.883  41.285  76.268  0.00  0.00           C 0
+ATOM  17012   CB VAL G1532      61.016  38.355  73.516  0.00  0.00           C 0
+ATOM  17010   CA VAL G1532      62.399  37.977  74.116  0.00  0.00           C 0
+ATOM  17008    N VAL G1532      63.042  37.299  73.113  0.75  2.19           N 0
+ATOM  17018  CG2 VAL G1532      60.232  39.368  74.380  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    58:
+HEADER 0  - Pocket Score                      : -0.0264
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8220
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5784
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 22.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 302.8061
+HEADER 10 - Pocket volume (convex hull)       : 16.9242
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   2099  NE2 HIS B 151      42.364  87.765 108.537  0.00  0.00           N 0
+ATOM   2081  OE1 GLN B 150      46.402  86.178 103.263  0.40  7.50           O 0
+ATOM   2100  CD2 HIS B 151      42.362  86.488 108.064  0.00  0.00           C 0
+ATOM   2074   CB GLN B 150      43.055  85.130 103.247  0.00  0.00           C 0
+ATOM   2096   CG HIS B 151      41.098  86.090 107.761  0.00  0.00           C 0
+ATOM   2097  CE1 HIS B 151      41.138  88.102 108.583  0.00  0.00           C 0
+ATOM   2094  ND1 HIS B 151      40.330  87.113 108.121  0.60  4.37           N 0
+ATOM   2086    O GLN B 150      40.714  83.411 104.616  0.52  1.07           O 0
+ATOM   2033  CE1 PHE B 147      35.343  84.565 100.733  0.00  0.00           C 0
+ATOM   2174  CZ3 TRP B 156      32.286  88.345 103.362  0.00  0.00           C 0
+ATOM   2139   CG PRO B 154      33.794  85.395 105.420  0.00  0.00           C 0
+ATOM   2178  CH2 TRP B 156      32.923  89.073 104.411  0.00  0.00           C 0
+ATOM   2091   CB HIS B 151      40.439  84.781 107.394  0.00  0.00           C 0
+ATOM   2131   CD PRO B 154      34.812  84.545 106.108  0.00  0.00           C 0
+ATOM   3217  NH2 ARG B 219      37.225  79.836 104.087  0.55  2.19           N 0
+ATOM   2042    O PHE B 147      39.406  83.533 101.347  0.47  3.21           O 0
+ATOM   3214  NH1 ARG B 219      36.089  80.236 102.249  0.72  1.09           N 0
+ATOM   2031  CD1 PHE B 147      36.550  85.214 100.235  0.00  0.00           C 0
+ATOM   2025   CA PHE B 147      39.856  84.597  99.257  0.00  0.00           C 0
+TER
+END

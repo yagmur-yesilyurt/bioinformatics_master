@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : 0.0464
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.6023
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4454
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 93.1667
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 82.0511
+HEADER 10 - Pocket volume (convex hull)       : 0.7160
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.9500
+ATOM  20530    O PHE H1751      90.807  80.541  93.951  0.00  0.00           O 0
+ATOM  20545  CD2 PHE H1752      86.567  79.733  97.369  0.00  0.00           C 0
+ATOM  20523   CZ PHE H1751      93.153  77.309  96.736  0.00  0.00           C 0
+ATOM  20521  CE1 PHE H1751      92.864  78.059  97.892  0.00  0.00           C 0
+ATOM  20538   CG PHE H1752      87.478  80.815  97.361  0.00  0.00           C 0
+ATOM  20547  CE2 PHE H1752      86.675  78.783  98.437  0.00  0.00           C 0
+ATOM  20519  CD1 PHE H1751      92.695  79.452  97.782  0.00  0.00           C 0
+ATOM  19713   CZ PHE H1694      90.088  74.860  98.394  0.00  0.00           C 0
+ATOM  19923  CD1 ILE H1707      86.654  75.260  96.451  0.00  0.00           C 0
+ATOM  19867  CD2 LEU H1704      90.017  74.105  93.836  0.00  0.00           C 0
+ATOM  20583   CB TYR H1755      89.154  78.578  91.572  0.00  0.00           C 0
+ATOM  20533   CA PHE H1752      88.470  81.406  95.054  0.00  0.00           C 0
+ATOM  20527  CE2 PHE H1751      93.551  77.920  95.518  0.00  0.00           C 0
+ATOM  20531    N PHE H1752      89.822  81.696  95.565  0.00  0.00           N 0
+ATOM  19916  CG2 ILE H1707      84.833  76.143  93.943  0.00  0.00           C 0
+TER
+END

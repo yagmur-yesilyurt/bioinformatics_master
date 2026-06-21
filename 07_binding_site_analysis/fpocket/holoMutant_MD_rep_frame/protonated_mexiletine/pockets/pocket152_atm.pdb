@@ -1,0 +1,49 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   152:
+HEADER 0  - Pocket Score                      : -0.2446
+HEADER 1  - Drug Score                        : 0.0160
+HEADER 2  - Number of alpha spheres           :    50
+HEADER 3  - Mean alpha-sphere radius          : 4.2097
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4174
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 41.4545
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2727
+HEADER 9  - Pocket volume (Monte Carlo)       : 490.5532
+HEADER 10 - Pocket volume (convex hull)       : 42.4911
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 40.0000
+HEADER 13 - Number of apolar alpha sphere     :    41
+HEADER 14 - Proportion of apolar alpha sphere : 0.8200
+ATOM  13313  NH1 ARG F1306     109.510  68.528  97.184  0.00  0.00           N 0
+ATOM  11886   CB LEU F1222     106.588  65.315  94.063  0.00  0.00           C 0
+ATOM  11895  CD2 LEU F1222     108.484  66.994  94.162  0.00  0.00           C 0
+ATOM  11942  OE1 GLU F1225     108.758  66.475  98.791  0.45  8.57           O 0
+ATOM  11910    O ALA F1223     104.379  60.708  97.990  0.00  0.00           O 0
+ATOM  19766  CD2 PHE H1697      96.844  64.586  95.653  0.00  0.00           C 0
+ATOM  19756   CB PHE H1697      97.415  65.728  97.880  0.00  0.00           C 0
+ATOM  19759   CG PHE H1697      97.390  65.698  96.364  0.00  0.00           C 0
+ATOM  11903   CA ALA F1223     104.714  61.665  95.735  0.00  0.00           C 0
+ATOM  19760  CD1 PHE H1697      97.925  66.778  95.637  0.00  0.00           C 0
+ATOM  19768  CE2 PHE H1697      96.945  64.565  94.271  0.00  0.00           C 0
+ATOM  11905   CB ALA F1223     104.046  60.697  94.679  0.00  0.00           C 0
+ATOM  19762  CE1 PHE H1697      97.830  66.783  94.249  0.00  0.00           C 0
+ATOM  19314  CE1 PHE H1669     100.451  67.463  91.272  0.00  0.00           C 0
+ATOM  19388  CD1 ILE H1673     101.419  70.358  94.286  0.00  0.00           C 0
+ATOM  13325   CB ALA F1307     105.548  70.844  94.357  0.00  0.00           C 0
+ATOM  13330    O ALA F1307     104.676  69.732  91.704  0.00  0.00           O 0
+ATOM  11891  CD1 LEU F1222     106.739  67.210  92.244  0.00  0.00           C 0
+ATOM  19764   CZ PHE H1697      97.408  65.696  93.526  0.00  0.00           C 0
+ATOM  11864    O SER F1219     106.002  62.105  91.935  0.76  4.29           O 0
+ATOM  13383   CG PRO F1310     103.360  66.410  88.228  0.00  0.00           C 0
+ATOM  19316   CZ PHE H1669     101.625  68.099  90.860  0.00  0.00           C 0
+ATOM  11900    O LEU F1222     105.987  63.850  96.942  0.54  7.50           O 0
+ATOM  19432   CE MET H1676      99.970  69.001  98.949  0.00  0.00           C 0
+ATOM  11945    O GLU F1225     105.106  62.369 101.009  0.00  0.00           O 0
+ATOM  11901    N ALA F1223     105.725  62.453  95.164  0.72  1.09           N 0
+ATOM  11899    C LEU F1222     106.245  63.550  95.788  0.00  0.00           C 0
+TER
+END

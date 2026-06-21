@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   138:
+HEADER 0  - Pocket Score                      : -0.1800
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    34
+HEADER 3  - Mean alpha-sphere radius          : 3.9830
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4141
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 2.6429
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 463.5284
+HEADER 10 - Pocket volume (convex hull)       : 48.0165
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM  14710   OH TYR F1394      90.029  90.623 122.979  0.00  7.50           O 0
+ATOM  14670   CG GLU F1392      89.485  91.039 127.446  0.00  0.00           C 0
+ATOM  14674  OE1 GLU F1392      90.713  88.929 127.274  0.00  7.50           O 0
+ATOM  14655    O THR F1390      90.372  94.879 127.098  0.47  9.64           O 0
+ATOM  14662    O GLY F1391      89.164  93.427 124.047  0.52  3.21           O 0
+ATOM  20318   OG SER H1735      97.653  91.547 123.524  0.78  3.21           O 0
+ATOM  20245   CG PRO H1730      95.586  94.927 121.368  0.00  0.00           C 0
+ATOM  20277  CD2 LEU H1732      96.020  96.847 126.621  0.00  0.00           C 0
+ATOM  20256  OG1 THR H1731      95.193 101.083 120.363  0.00  0.00           O 0
+ATOM  20242   CB PRO H1730      94.477  95.890 120.849  0.00  0.00           C 0
+ATOM  20264    N LEU H1732      96.943  98.871 122.174  0.65  3.28           N 0
+ATOM  20268   CB LEU H1732      96.665  97.883 124.468  0.00  0.00           C 0
+ATOM  14658   CA GLY F1391      88.451  95.290 125.181  0.00  0.00           C 0
+ATOM  20237   CD PRO H1730      95.807  93.999 120.134  0.00  0.00           C 0
+ATOM  20177    O PRO H1725      90.437  92.177 117.127  0.70  4.29           O 0
+ATOM  20223    O CYS H1728      93.360  92.610 116.627  0.70  1.07           O 0
+ATOM  20236    N PRO H1730      95.299  94.815 118.998  0.00  0.00           N 0
+ATOM  14285  OE1 GLN F1366      91.252  87.320 121.256  0.00  6.43           O 0
+ATOM  20373  NH2 ARG H1739      95.815  89.710 117.916  0.79  2.19           N 0
+ATOM  20338   CA GLY H1737      98.352  87.282 121.286  0.00  0.00           C 0
+ATOM  14714  CE2 TYR F1394      88.794  91.984 121.340  0.00  0.00           C 0
+ATOM  20370  NH1 ARG H1739      94.487  87.980 117.513  0.64  6.56           N 0
+ATOM  20191    O PRO H1726      91.038  88.278 117.519  0.71  1.07           O 0
+TER
+END

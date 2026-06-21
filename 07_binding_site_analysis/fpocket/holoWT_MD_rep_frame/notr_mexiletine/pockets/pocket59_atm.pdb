@@ -1,0 +1,33 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    59:
+HEADER 0  - Pocket Score                      : -0.0921
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1959
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6215
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 25.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 141.7362
+HEADER 10 - Pocket volume (convex hull)       : 0.4472
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    368   CA ALA A  33      30.668  63.782  43.937  0.00  0.00           C 0
+ATOM    365    O GLN A  32      32.099  66.098  43.718  0.50  5.36           O 0
+ATOM    366    N ALA A  33      30.086  65.117  43.949  0.00  0.00           N 0
+ATOM    370   CB ALA A  33      29.910  62.903  44.938  0.00  0.00           C 0
+ATOM   1045  CE2 TYR B  87      27.545  69.623  49.006  0.00  0.00           C 0
+ATOM   1086  NE2 GLN B  90      31.607  69.700  49.766  0.39  8.75           N 0
+ATOM   1085  OE1 GLN B  90      31.296  68.441  51.575  0.00  0.00           O 0
+ATOM    311    O ALA A  29      27.429  65.863  45.534  0.61  5.36           O 0
+ATOM   1041   OH TYR B  87      27.079  68.141  50.873  0.23  4.29           O 0
+ATOM    364    C GLN A  32      30.861  66.212  43.809  0.00  0.00           C 0
+ATOM    353   CB GLN A  32      30.104  68.399  44.993  0.00  0.00           C 0
+TER
+END

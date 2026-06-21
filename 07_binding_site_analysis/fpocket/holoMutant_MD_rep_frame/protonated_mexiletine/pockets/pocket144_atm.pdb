@@ -1,0 +1,65 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   144:
+HEADER 0  - Pocket Score                      : -0.1963
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    73
+HEADER 3  - Mean alpha-sphere radius          : 4.0988
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5011
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 12.7333
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.0667
+HEADER 9  - Pocket volume (Monte Carlo)       : 700.2394
+HEADER 10 - Pocket volume (convex hull)       : 149.2592
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 17.0476
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.2877
+ATOM  20380   CA GLY H1740      97.584  81.318 112.776  0.00  0.00           C 0
+ATOM  19539   CD LYS H1683      95.128  76.964 115.102  0.00  0.00           C 0
+ATOM  19542   CE LYS H1683      96.543  77.521 115.102  0.00  0.00           C 0
+ATOM  19545   NZ LYS H1683      96.669  78.162 116.392  0.00  0.00           N 0
+ATOM  19585   CD GLU H1685      88.256  77.203 114.501  0.00  0.00           C 0
+ATOM  19586  OE1 GLU H1685      87.852  77.965 115.421  0.53  6.43           O 0
+ATOM  19533   CB LYS H1683      93.429  75.386 114.016  0.00  0.00           C 0
+ATOM  19587  OE2 GLU H1685      88.471  77.534 113.312  0.38  5.36           O 0
+ATOM  20378    N GLY H1740      97.482  82.600 113.580  0.75  6.56           N 0
+ATOM  20401   CB CYS H1742      95.434  80.152 108.191  0.00  0.00           C 0
+ATOM  20407    O CYS H1742      97.348  82.782 107.853  0.30  9.64           O 0
+ATOM  20202  CE1 TYR H1727      89.794  84.535 114.839  0.00  0.00           C 0
+ATOM  19515   CA VAL H1682      93.164  75.490 109.372  0.00  0.00           C 0
+ATOM  19519  CG1 VAL H1682      90.647  75.893 109.207  0.00  0.00           C 0
+ATOM  19529    N LYS H1683      93.285  74.957 111.689  0.62  1.09           N 0
+ATOM  19512    O TYR H1681      95.447  77.036 109.594  0.42  5.36           O 0
+ATOM  19582   CG GLU H1685      88.480  75.754 114.865  0.00  0.00           C 0
+ATOM  19574    O TRP H1684      90.296  73.422 116.384  0.00  0.00           O 0
+ATOM  20083   CB PRO H1719      89.152  79.190 108.714  0.00  0.00           C 0
+ATOM  20404   SG CYS H1742      94.270  79.869 106.904  0.00  0.00           S 0
+ATOM  19523  CG2 VAL H1682      92.263  76.533 107.282  0.00  0.00           C 0
+ATOM  19536   CG LYS H1683      94.882  75.962 113.979  0.00  0.00           C 0
+ATOM  20138  ND2 ASN H1722      89.662  82.368 111.302  0.34  3.28           N 0
+ATOM  20205   OH TYR H1727      87.612  83.528 114.498  0.57  2.14           O 0
+ATOM  20358   CB ARG H1739      98.296  85.530 114.307  0.00  0.00           C 0
+ATOM  20384    O GLY H1740      99.154  82.389 111.441  0.54  3.21           O 0
+ATOM  20142    O ASN H1722      91.499  86.880 109.452  0.00  0.00           O 0
+ATOM  20212    O TYR H1727      94.068  89.033 113.900  0.53  7.50           O 0
+ATOM  20364   CD ARG H1739      96.570  86.913 115.663  0.00  0.00           C 0
+ATOM  20090    O PRO H1719      90.583  82.047 107.836  0.38  5.36           O 0
+ATOM  20414    O GLY H1743      95.505  84.203 105.575  0.70  2.14           O 0
+ATOM  20196   CB TYR H1727      91.358  87.769 113.634  0.00  0.00           C 0
+ATOM  20200  CD1 TYR H1727      90.752  85.560 114.648  0.00  0.00           C 0
+ATOM  20353    O SER H1738      97.206  83.433 117.837  0.35  7.50           O 0
+ATOM  14286  NE2 GLN F1366      90.266  86.148 119.561  0.57  6.56           N 0
+ATOM  20356   CA ARG H1739      97.917  84.307 115.253  0.00  0.00           C 0
+ATOM  20370  NH1 ARG H1739      94.487  87.980 117.513  0.64  6.56           N 0
+ATOM  14285  OE1 GLN F1366      91.252  87.320 121.256  0.00  6.43           O 0
+ATOM  20343    N SER H1738      98.554  85.533 119.599  0.71  2.19           N 0
+ATOM  20338   CA GLY H1737      98.352  87.282 121.286  0.00  0.00           C 0
+ATOM  14284   CD GLN F1366      90.569  86.349 120.890  0.00  0.00           C 0
+ATOM  20133   CB ASN H1722      90.071  84.578 110.529  0.00  0.00           C 0
+ATOM  20199   CG TYR H1727      90.422  86.628 113.799  0.00  0.00           C 0
+TER
+END

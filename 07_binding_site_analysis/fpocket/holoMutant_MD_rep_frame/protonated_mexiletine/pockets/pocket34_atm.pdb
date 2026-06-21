@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : 0.0120
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5728
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3778
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 9.2500
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 98.9057
+HEADER 10 - Pocket volume (convex hull)       : 1.6934
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM  18222  OG1 THR G1606      76.405  34.036  91.400  0.78  4.29           O 0
+ATOM  18622   CA ARG H1629      77.280  38.927  89.675  0.00  0.00           C 0
+ATOM  18167   CB SER G1602      78.122  36.082  86.518  0.00  0.00           C 0
+ATOM  18643    O ARG H1629      75.861  39.343  87.778  0.54  1.07           O 0
+ATOM  17605  CG1 VAL G1568      75.259  32.588  86.105  0.00  0.00           C 0
+ATOM  17603   CB VAL G1568      74.390  33.647  85.402  0.00  0.00           C 0
+ATOM  17540    O ASN G1564      72.073  33.532  88.570  0.45  5.36           O 0
+ATOM  17234   CE MET G1545      72.611  39.408  90.570  0.00  0.00           C 0
+ATOM  17170  OD1 ASN G1541      70.461  38.658  86.280  0.39  4.29           O 0
+ATOM  17171  ND2 ASN G1541      69.686  37.911  88.368  0.66  1.09           N 0
+ATOM  17531   CB ASN G1564      71.110  34.948  91.271  0.00  0.00           C 0
+ATOM  18686  NH1 ARG H1632      75.388  38.325  85.194  0.67  3.28           N 0
+ATOM  18624   CB ARG H1629      76.446  39.103  90.996  0.00  0.00           C 0
+TER
+END

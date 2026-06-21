@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0111
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.7620
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4687
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 19.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 146.9657
+HEADER 10 - Pocket volume (convex hull)       : 2.0423
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0385
+ATOM  18472  CD1 PHE D1622      78.548  43.982 101.677  0.00  0.00           C 0
+ATOM   4118  OD1 ASN B 275      77.839  51.150 103.385  0.00  0.00           O 0
+ATOM  18474  CE1 PHE D1622      77.191  43.719 101.979  0.00  0.00           C 0
+ATOM   4119  ND2 ASN B 275      77.117  50.118 105.203  0.41  3.28           N 0
+ATOM  18491   CG ARG D1623      80.601  48.470  99.900  0.00  0.00           C 0
+ATOM   4065    O LEU B 271      78.275  50.972 100.171  0.64  1.07           O 0
+ATOM  18497   NE ARG D1623      80.704  50.402 101.412  0.68  1.09           N 0
+ATOM  18503  NH2 ARG D1623      80.708  51.067 103.552  0.69  5.47           N 0
+ATOM   4046    O GLN B 270      76.316  48.002  98.051  0.41  2.14           O 0
+ATOM  18423   CB PRO D1619      83.609  47.146 104.583  0.00  0.00           C 0
+ATOM  18430    O PRO D1619      82.802  46.423 101.418  0.00  0.00           O 0
+ATOM  18499   CZ ARG D1623      81.408  50.763 102.474  0.00  0.00           C 0
+ATOM  18421   CA PRO D1619      83.497  45.922 103.632  0.00  0.00           C 0
+ATOM   4102    O MET B 273      73.966  49.204 104.039  0.39  9.64           O 0
+ATOM  18556   NE ARG D1626      74.770  45.261  98.628  0.00  0.00           N 0
+ATOM   4086    N MET B 273      74.080  50.811 101.581  0.00  0.00           N 0
+ATOM   4097   CE MET B 273      71.524  46.249 101.954  0.00  0.00           C 0
+ATOM   4090   CB MET B 273      72.083  49.425 101.577  0.00  0.00           C 0
+TER
+END

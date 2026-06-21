@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0750
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.5639
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4387
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 29.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 79.2595
+HEADER 10 - Pocket volume (convex hull)       : 0.5214
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5217
+ATOM  11717  CG2 ILE F1211     113.536  65.838  79.716  0.00  0.00           C 0
+ATOM  11715   CB ILE F1211     113.643  64.590  78.794  0.00  0.00           C 0
+ATOM  11740  CG1 ILE F1212     108.648  63.475  78.603  0.00  0.00           C 0
+ATOM  11676    O GLU F1208     111.431  62.803  76.758  0.00  0.00           O 0
+ATOM  11669   CG GLU F1208     110.932  65.526  73.224  0.00  0.00           C 0
+ATOM  12437  OE2 GLU F1253     114.515  68.614  77.034  0.58  5.36           O 0
+ATOM  11664   CA GLU F1208     111.609  63.588  74.522  0.00  0.00           C 0
+ATOM  13490  NH2 ARG F1316     109.879  69.455  75.105  0.50  4.37           N 0
+ATOM  13486   CZ ARG F1316     108.873  68.959  75.817  0.00  0.00           C 0
+ATOM  11666   CB GLU F1208     110.329  64.249  74.001  0.00  0.00           C 0
+ATOM  13426  NH2 ARG F1312     112.418  69.703  78.811  0.70  2.19           N 0
+ATOM  13484   NE ARG F1316     108.140  67.960  75.232  0.00  0.00           N 0
+ATOM  13487  NH1 ARG F1316     108.496  69.468  76.941  0.00  0.00           N 0
+ATOM  11799  CD1 ILE F1215     109.934  65.674  82.121  0.00  0.00           C 0
+ATOM  13430    O ARG F1312     106.620  68.106  79.761  0.00  0.00           O 0
+ATOM  13420   NE ARG F1312     111.013  70.301  80.404  0.00  0.00           N 0
+ATOM  13414   CG ARG F1312     108.836  69.735  81.273  0.00  0.00           C 0
+TER
+END

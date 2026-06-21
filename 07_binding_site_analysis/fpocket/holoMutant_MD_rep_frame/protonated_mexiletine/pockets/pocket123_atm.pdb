@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   123:
+HEADER 0  - Pocket Score                      : -0.1432
+HEADER 1  - Drug Score                        : 0.0039
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.1537
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5561
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 76.8571
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 282.0291
+HEADER 10 - Pocket volume (convex hull)       : 8.4077
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 19.0000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.9091
+ATOM  12419  CD2 LEU F1252     125.160  65.953  79.087  0.00  0.00           C 0
+ATOM  12360  CG1 VAL F1249     119.159  63.670  81.154  0.00  0.00           C 0
+ATOM  12364  CG2 VAL F1249     120.856  62.923  82.995  0.00  0.00           C 0
+ATOM  12356   CA VAL F1249     120.653  65.410  82.488  0.00  0.00           C 0
+ATOM  12425    N GLU F1253     120.536  68.842  78.631  0.00  0.00           N 0
+ATOM  12413   CG LEU F1252     124.366  67.178  78.673  0.00  0.00           C 0
+ATOM  12489  CD2 LEU F1256     121.418  66.998  73.407  0.00  0.00           C 0
+ATOM  12429   CB GLU F1253     118.119  68.140  78.212  0.00  0.00           C 0
+ATOM  12423    C LEU F1252     121.735  69.224  78.442  0.00  0.00           C 0
+ATOM  12369    O VAL F1249     119.919  67.090  80.823  0.51  2.14           O 0
+ATOM  11707  CE2 PHE F1210     118.709  60.826  78.907  0.00  0.00           C 0
+ATOM  12410   CB LEU F1252     123.442  67.789  79.865  0.00  0.00           C 0
+ATOM  11724  CD1 ILE F1211     116.213  64.859  78.475  0.00  0.00           C 0
+ATOM  12427   CA GLU F1253     119.415  68.980  77.734  0.00  0.00           C 0
+ATOM  11658  CE2 PHE F1207     117.194  65.825  73.876  0.00  0.00           C 0
+ATOM  11656  CD2 PHE F1207     116.772  64.724  73.141  0.00  0.00           C 0
+ATOM  11705  CD2 PHE F1210     117.566  60.885  78.057  0.00  0.00           C 0
+TER
+END

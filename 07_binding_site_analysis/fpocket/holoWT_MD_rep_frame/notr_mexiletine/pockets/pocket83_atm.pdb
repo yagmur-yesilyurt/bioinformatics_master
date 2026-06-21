@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    83:
+HEADER 0  - Pocket Score                      : -0.1400
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0089
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5556
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -14.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.7741
+HEADER 10 - Pocket volume (convex hull)       : 2.9245
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   6946   CB PRO C 701      66.116 127.441  64.436  0.00  0.00           C 0
+ATOM   6953    O PRO C 701      65.854 126.146  67.143  0.65  7.50           O 0
+ATOM   6944   CA PRO C 701      64.850 127.139  65.277  0.00  0.00           C 0
+ATOM   8096  OD2 ASP C 772      64.027 120.697  64.325  0.30  6.43           O 0
+ATOM   7057   CE LYS C 707      68.667 125.667  66.650  0.00  0.00           C 0
+ATOM   8094   CG ASP C 772      64.818 119.833  63.880  0.00  0.00           C 0
+ATOM   8091   CB ASP C 772      66.020 119.438  64.734  0.00  0.00           C 0
+ATOM   7054   CD LYS C 707      70.040 125.291  66.041  0.00  0.00           C 0
+ATOM   7122   NZ LYS C 711      72.153 123.000  64.172  0.00  0.00           N 0
+ATOM   7008   CE MET C 704      70.534 128.149  61.953  0.00  0.00           C 0
+ATOM   7007   SD MET C 704      70.042 128.308  63.701  0.00  0.00           S 0
+ATOM   7060   NZ LYS C 707      68.175 124.679  67.621  0.81  1.09           N 0
+ATOM   8089   CA ASP C 772      66.067 119.781  66.259  0.00  0.00           C 0
+ATOM   8087    N ASP C 772      67.451 119.580  66.745  0.67  2.19           N 0
+TER
+END

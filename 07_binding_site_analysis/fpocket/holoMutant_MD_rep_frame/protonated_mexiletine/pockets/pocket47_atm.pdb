@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    47:
+HEADER 0  - Pocket Score                      : -0.0189
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7872
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5399
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 5.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 353.9645
+HEADER 10 - Pocket volume (convex hull)       : 48.8874
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3500
+ATOM  22024    O GLY H1845      88.356  34.148  34.853  0.44  5.36           O 0
+ATOM  22029   CB ASP H1846      85.516  33.466  32.553  0.00  0.00           C 0
+ATOM  22034  OD2 ASP H1846      85.896  31.373  31.344  0.00  0.00           O 0
+ATOM  21487  OE2 GLU H1810      87.735  31.242  38.011  0.00  0.00           O 0
+ATOM  22033  OD1 ASP H1846      86.124  33.235  30.305  0.23  7.50           O 0
+ATOM  21981   CG MET H1842      83.290  38.652  30.835  0.00  0.00           C 0
+ATOM  21985   CE MET H1842      81.331  37.761  31.906  0.00  0.00           C 0
+ATOM  21515   CB SER H1812      81.722  29.524  36.975  0.00  0.00           C 0
+ATOM  21498  CD1 TYR H1811      79.967  33.827  33.035  0.00  0.00           C 0
+ATOM  21479   CB GLU H1810      85.776  33.386  38.447  0.00  0.00           C 0
+ATOM  21490    N TYR H1811      83.138  34.581  36.716  0.00  0.00           N 0
+ATOM  22036    O ASP H1846      84.818  35.143  34.575  0.00  0.00           O 0
+ATOM  22032   CG ASP H1846      85.917  32.627  31.349  0.00  0.00           C 0
+ATOM  21513   CA SER H1812      80.935  30.838  37.212  0.00  0.00           C 0
+ATOM  21518   OG SER H1812      80.906  28.383  37.311  0.41  4.29           O 0
+ATOM  21564   OG SER H1815      76.949  32.677  36.102  0.64  4.29           O 0
+ATOM  21561   CB SER H1815      76.643  31.799  37.195  0.00  0.00           C 0
+ATOM  21511    N SER H1812      81.520  32.054  36.590  0.60  2.19           N 0
+ATOM  21494   CB TYR H1811      81.802  34.601  34.578  0.00  0.00           C 0
+TER
+END

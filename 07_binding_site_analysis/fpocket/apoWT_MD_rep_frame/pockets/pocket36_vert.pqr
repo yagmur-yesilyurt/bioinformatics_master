@@ -1,0 +1,74 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : 0.0023
+HEADER 1  - Drug Score                        : 0.6270
+HEADER 2  - Number of V. Vertices             :    52
+HEADER 3  - Mean alpha-sphere radius          : 4.0685
+HEADER 4  - Mean alpha-sphere SA              : 0.5101
+HEADER 5  - Mean B-factor                     : 0.0000
+HEADER 6  - Hydrophobicity Score              : 61.2308
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Volume Score                      : 4.1538
+HEADER 9  - Real volume (approximation)       : 587.4826
+HEADER 10 - Charge Score                      :     0
+HEADER 11 - Local hydrophobic density Score   : 40.1250
+HEADER 12 - Number of apolar alpha sphere     :    48
+HEADER 13 - Proportion of apolar alpha sphere : 0.9231
+ATOM      1    C STP    36     101.094  65.011  86.164    0.00     4.58
+ATOM      2    C STP    36      98.050  68.106  80.996    0.00     3.72
+ATOM      3    C STP    36     100.806  64.363  88.241    0.00     4.74
+ATOM      4    C STP    36      99.209  66.278  83.077    0.00     4.40
+ATOM      5    C STP    36      97.381  64.046  82.618    0.00     4.32
+ATOM      6    C STP    36      96.251  66.710  80.185    0.00     3.41
+ATOM      7    C STP    36      97.952  68.064  81.082    0.00     3.76
+ATOM      8    C STP    36     101.211  63.389  91.067    0.00     4.31
+ATOM      9    C STP    36     101.445  62.686  91.876    0.00     4.64
+ATOM     10    C STP    36     101.241  64.929  89.884    0.00     3.93
+ATOM     11    C STP    36     100.957  64.726  88.801    0.00     4.39
+ATOM     12    O STP    36     101.002  64.721  88.582    0.00     4.42
+ATOM     13    C STP    36     101.080  65.633  89.847    0.00     3.65
+ATOM     14    C STP    36     101.101  64.967  87.016    0.00     4.61
+ATOM     15    O STP    36     101.193  64.989  87.180    0.00     4.54
+ATOM     16    O STP    36     101.091  64.833  87.219    0.00     4.64
+ATOM     17    C STP    36     101.405  65.322  87.424    0.00     4.21
+ATOM     18    O STP    36     101.418  65.349  87.744    0.00     4.08
+ATOM     19    C STP    36     101.697  66.018  87.642    0.00     3.63
+ATOM     20    C STP    36     101.691  66.009  87.640    0.00     3.64
+ATOM     21    C STP    36     101.691  66.009  87.642    0.00     3.64
+ATOM     22    C STP    36      97.357  67.730  81.182    0.00     3.81
+ATOM     23    C STP    36      96.289  66.906  80.164    0.00     3.46
+ATOM     24    C STP    36      97.525  67.126  82.152    0.00     4.11
+ATOM     25    C STP    36      96.269  66.752  80.298    0.00     3.46
+ATOM     26    C STP    36      96.807  66.094  81.999    0.00     3.97
+ATOM     27    C STP    36      99.081  67.646  82.398    0.00     4.31
+ATOM     28    C STP    36      99.334  67.874  81.876    0.00     4.05
+ATOM     29    C STP    36     100.197  67.355  81.884    0.00     3.91
+ATOM     30    C STP    36      99.910  68.593  80.867    0.00     3.56
+ATOM     31    C STP    36      99.321  67.072  82.991    0.00     4.57
+ATOM     32    C STP    36      99.070  67.339  82.829    0.00     4.53
+ATOM     33    C STP    36      99.152  68.088  84.000    0.00     4.16
+ATOM     34    C STP    36     100.009  67.094  84.187    0.00     4.40
+ATOM     35    C STP    36      99.586  67.072  83.540    0.00     4.48
+ATOM     36    C STP    36      99.630  67.565  84.241    0.00     4.27
+ATOM     37    C STP    36      99.546  67.628  84.199    0.00     4.27
+ATOM     38    C STP    36     100.828  68.221  80.702    0.00     3.41
+ATOM     39    C STP    36     101.067  67.599  81.160    0.00     3.57
+ATOM     40    C STP    36     101.093  63.190  92.888    0.00     4.04
+ATOM     41    C STP    36     100.657  66.579  85.401    0.00     4.34
+ATOM     42    C STP    36     101.013  67.375  85.697    0.00     3.74
+ATOM     43    C STP    36     100.634  66.663  85.213    0.00     4.39
+ATOM     44    C STP    36      99.178  67.797  84.790    0.00     3.80
+ATOM     45    C STP    36     100.666  66.873  85.066    0.00     4.35
+ATOM     46    C STP    36     100.775  67.076  85.207    0.00     4.16
+ATOM     47    C STP    36     100.451  66.904  84.895    0.00     4.39
+ATOM     48    C STP    36     100.318  67.022  84.815    0.00     4.34
+ATOM     49    C STP    36      99.254  69.485  84.048    0.00     3.43
+ATOM     50    C STP    36      98.525  68.398  84.942    0.00     3.47
+ATOM     51    C STP    36      99.009  68.190  84.124    0.00     4.04
+ATOM     52    C STP    36      98.470  68.473  84.884    0.00     3.49
+TER
+END

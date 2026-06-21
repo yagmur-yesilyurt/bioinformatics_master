@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    91:
+HEADER 0  - Pocket Score                      : -0.0806
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9358
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6220
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 28.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 320.5843
+HEADER 10 - Pocket volume (convex hull)       : 26.7935
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3478
+ATOM   7638    N GLU C 744      86.447 112.667 101.610  0.61  2.19           N 0
+ATOM   7645   CG GLU C 744      89.062 113.393 103.118  0.00  0.00           C 0
+ATOM   7669  CE2 PHE C 745      89.872 112.272  97.538  0.00  0.00           C 0
+ATOM   7642   CB GLU C 744      88.512 114.033 101.828  0.00  0.00           C 0
+ATOM   7629   CA SER C 743      84.944 110.729 101.918  0.00  0.00           C 0
+ATOM   7626    O THR C 742      85.586 108.540 103.737  0.00  0.00           O 0
+ATOM   7556  NE2 HIS C 738      81.288 103.390 102.167  0.37  8.75           N 0
+ATOM   7519  CD1 LEU C 736      84.265 105.781  96.362  0.00  0.00           C 0
+ATOM   7607   CE MET C 741      80.813 108.432  99.657  0.00  0.00           C 0
+ATOM   7619  OG1 THR C 742      84.971 107.402 106.447  0.65  9.64           O 0
+ATOM   7613    N THR C 742      82.859 107.899 104.806  0.65  2.19           N 0
+ATOM   7600   CB MET C 741      80.383 106.937 102.341  0.00  0.00           C 0
+ATOM   7598   CA MET C 741      80.805 106.847 103.834  0.00  0.00           C 0
+ATOM   7631   CB SER C 743      84.235 110.545 100.613  0.00  0.00           C 0
+ATOM   7517   CG LEU C 736      82.974 106.593  96.546  0.00  0.00           C 0
+ATOM   7523  CD2 LEU C 736      83.350 108.083  96.288  0.00  0.00           C 0
+ATOM   7634   OG SER C 743      84.906 111.040  99.460  0.57  4.29           O 0
+ATOM   7667  CD2 PHE C 745      88.457 112.307  97.356  0.00  0.00           C 0
+ATOM   7528    O LEU C 736      80.729 104.658  98.222  0.49  3.21           O 0
+ATOM   7554  CE1 HIS C 738      80.656 103.517 103.336  0.00  0.00           C 0
+ATOM   7595    O ASN C 740      80.429 105.270 106.020  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    52:
+HEADER 0  - Pocket Score                      : -0.0171
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9605
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6338
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 49.2500
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 206.5193
+HEADER 10 - Pocket volume (convex hull)       : 5.3981
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM   6985  CE2 TRP C 703      60.814 130.787  65.596  0.00  0.00           C 0
+ATOM   6939    O CYS C 700      57.376 125.143  61.007  0.69  6.43           O 0
+ATOM   6991  CZ2 TRP C 703      60.006 130.682  66.802  0.00  0.00           C 0
+ATOM   6983  NE1 TRP C 703      60.631 131.464  64.413  0.00  0.00           N 0
+ATOM   6987  CE3 TRP C 703      62.493 129.324  66.598  0.00  0.00           C 0
+ATOM   6956   CA LEU C 702      62.030 125.609  63.141  0.00  0.00           C 0
+ATOM   6986  CD2 TRP C 703      62.060 130.111  65.471  0.00  0.00           C 0
+ATOM   6989  CZ3 TRP C 703      61.780 129.344  67.810  0.00  0.00           C 0
+ATOM   6963  CD1 LEU C 702      63.129 125.546  66.386  0.00  0.00           C 0
+ATOM   6953    O PRO C 701      60.375 126.376  61.039  0.77  4.29           O 0
+ATOM   6981  CD1 TRP C 703      61.699 131.262  63.523  0.00  0.00           C 0
+ATOM   6936   SG CYS C 700      58.977 127.838  58.471  0.00  0.00           S 0
+ATOM   6933   CB CYS C 700      57.237 127.366  58.872  0.00  0.00           C 0
+ATOM   6954    N LEU C 702      61.143 124.798  62.483  0.64  6.56           N 0
+ATOM   6958   CB LEU C 702      62.855 124.565  64.067  0.00  0.00           C 0
+ATOM   6952    C PRO C 701      60.423 125.198  61.396  0.00  0.00           C 0
+ATOM   6993  CH2 TRP C 703      60.526 129.987  67.876  0.00  0.00           C 0
+TER
+END

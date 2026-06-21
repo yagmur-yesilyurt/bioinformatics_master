@@ -1,0 +1,64 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0192
+HEADER 1  - Drug Score                        : 0.0257
+HEADER 2  - Number of alpha spheres           :    57
+HEADER 3  - Mean alpha-sphere radius          : 3.9197
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5621
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 39.1538
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5385
+HEADER 9  - Pocket volume (Monte Carlo)       : 659.7828
+HEADER 10 - Pocket volume (convex hull)       : 184.0862
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 18.4848
+HEADER 13 - Number of apolar alpha sphere     :    33
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM  21474  CD1 TYR D1811      61.015  32.714  39.498  0.00  0.00           C 0
+ATOM  22012    O ASP D1846      64.632  28.188  34.461  0.39  9.64           O 0
+ATOM  22047  CG1 ILE D1848      65.874  31.702  38.011  0.00  0.00           C 0
+ATOM  21470   CB TYR D1811      60.140  30.895  41.030  0.00  0.00           C 0
+ATOM  21466    N TYR D1811      61.783  29.729  42.416  0.57  2.19           N 0
+ATOM  22020   CG ARG D1847      66.035  25.225  37.046  0.00  0.00           C 0
+ATOM  21450    O ILE D1809      65.332  28.988  41.827  0.58  5.36           O 0
+ATOM  22015   CA ARG D1847      66.726  27.461  36.150  0.00  0.00           C 0
+ATOM  21458   CG GLU D1810      62.687  25.484  43.703  0.00  0.00           C 0
+ATOM  21431    O PHE D1808      68.796  26.566  44.093  0.57  2.14           O 0
+ATOM  21463  OE2 GLU D1810      62.549  24.037  45.568  0.00  0.00           O 0
+ATOM  21389  CG2 THR D1806      68.927  23.629  46.763  0.00  0.00           C 0
+ATOM  21387  OG1 THR D1806      70.735  22.156  46.148  0.05  7.50           O 0
+ATOM  21412    N PHE D1808      70.608  25.388  42.537  0.57  1.09           N 0
+ATOM  21426  CD2 PHE D1808      69.903  23.477  39.977  0.00  0.00           C 0
+ATOM  22037    N ILE D1848      67.451  29.092  37.712  0.00  0.00           N 0
+ATOM  22050  CD1 ILE D1848      64.949  32.496  38.911  0.00  0.00           C 0
+ATOM  21416   CB PHE D1808      68.752  25.521  40.839  0.00  0.00           C 0
+ATOM  21430    C PHE D1808      68.770  26.959  42.945  0.00  0.00           C 0
+ATOM  22023   CD ARG D1847      66.480  23.819  37.546  0.00  0.00           C 0
+ATOM  21442  CG1 ILE D1809      66.916  30.246  45.305  0.00  0.00           C 0
+ATOM  21504  CG1 VAL D1813      64.719  30.123  48.370  0.00  0.00           C 0
+ATOM  21322   CZ PHE D1801      69.149  30.687  49.242  0.00  0.00           C 0
+ATOM  21394    O THR D1806      71.636  26.158  45.633  0.54  2.14           O 0
+ATOM  21381    N THR D1806      71.342  25.241  48.122  0.50  2.19           N 0
+ATOM  22080   SG CYS D1850      73.264  30.145  46.221  0.00  0.00           S 0
+ATOM  21453   CA GLU D1810      63.277  27.978  43.287  0.00  0.00           C 0
+ATOM  21312   CA PHE D1801      71.527  30.373  54.078  0.00  0.00           C 0
+ATOM  21360   CB GLU D1804      70.075  25.439  54.582  0.00  0.00           C 0
+ATOM  21318  CD1 PHE D1801      69.011  31.543  51.527  0.00  0.00           C 0
+ATOM  21329    O PHE D1801      72.059  28.249  53.039  0.46  1.07           O 0
+ATOM  21367  OE1 GLU D1804      68.318  26.584  56.817  0.72  5.36           O 0
+ATOM  21320  CE1 PHE D1801      68.394  31.259  50.293  0.00  0.00           C 0
+ATOM  21373   CA ALA D1805      71.749  26.154  50.392  0.00  0.00           C 0
+ATOM  21371    N ALA D1805      71.856  25.724  51.769  0.00  0.00           N 0
+ATOM  21370    O GLU D1804      70.600  23.781  51.834  0.29  4.29           O 0
+ATOM  21369    C GLU D1804      71.202  24.672  52.408  0.00  0.00           C 0
+ATOM  21449    C ILE D1809      65.642  28.536  42.961  0.00  0.00           C 0
+ATOM  21451    N GLU D1810      64.686  27.981  43.667  0.54  2.19           N 0
+ATOM  21434   CA ILE D1809      67.058  28.524  43.515  0.00  0.00           C 0
+ATOM  21502   CB VAL D1813      63.444  29.826  47.524  0.00  0.00           C 0
+ATOM  21508  CG2 VAL D1813      62.607  28.788  48.240  0.00  0.00           C 0
+TER
+END

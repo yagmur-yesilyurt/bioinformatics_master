@@ -1,0 +1,69 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    88:
+HEADER 0  - Pocket Score                      : -0.0874
+HEADER 1  - Drug Score                        : 0.0111
+HEADER 2  - Number of alpha spheres           :    63
+HEADER 3  - Mean alpha-sphere radius          : 3.9319
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4778
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -0.7647
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Amino Acid based volume Score     : 4.2353
+HEADER 9  - Pocket volume (Monte Carlo)       : 722.6520
+HEADER 10 - Pocket volume (convex hull)       : 243.2579
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 22.8000
+HEADER 13 - Number of apolar alpha sphere     :    40
+HEADER 14 - Proportion of apolar alpha sphere : 0.6349
+ATOM  21649    C LEU H1821      77.390  32.448  52.881  0.00  0.00           C 0
+ATOM  21661    O SER H1822      76.505  35.426  51.271  0.35  9.64           O 0
+ATOM  21634   CA LEU H1821      76.868  31.681  54.055  0.00  0.00           C 0
+ATOM  21650    O LEU H1821      78.563  32.934  52.953  0.67  6.43           O 0
+ATOM  21253    O GLU H1796      81.943  43.157  51.584  0.00  0.00           O 0
+ATOM  21678   CD PRO H1824      77.624  39.247  50.327  0.00  0.00           C 0
+ATOM  21252    C GLU H1796      80.742  43.498  51.499  0.00  0.00           C 0
+ATOM  21254    N ILE H1797      80.194  43.909  50.317  0.00  0.00           N 0
+ATOM  21695   CB LEU H1825      79.800  40.096  45.612  0.00  0.00           C 0
+ATOM  21666   CB GLU H1823      80.054  36.508  49.060  0.00  0.00           C 0
+ATOM  21322   CD LYS H1800      85.486  39.585  50.260  0.00  0.00           C 0
+ATOM  21674  OE2 GLU H1823      83.317  36.167  48.795  0.80  2.14           O 0
+ATOM  21669   CG GLU H1823      81.175  35.943  49.882  0.00  0.00           C 0
+ATOM  21325   CE LYS H1800      85.254  38.425  51.244  0.00  0.00           C 0
+ATOM  21243   CB GLU H1796      79.109  42.131  52.802  0.00  0.00           C 0
+ATOM  16560   CE LYS G1505      77.208  45.576  59.428  0.00  0.00           C 0
+ATOM  21178  OD2 ASP H1792      73.204  44.936  58.576  0.00  0.00           O 0
+ATOM  16623   CD PRO G1509      77.675  38.293  60.851  0.00  0.00           C 0
+ATOM  16557   CD LYS G1505      78.224  45.138  60.574  0.00  0.00           C 0
+ATOM  16554   CG LYS G1505      79.446  44.414  60.085  0.00  0.00           C 0
+ATOM  21250  OE1 GLU H1796      80.430  40.798  55.336  0.00  0.00           O 0
+ATOM  21664   CA GLU H1823      78.663  36.505  49.770  0.00  0.00           C 0
+ATOM  21251  OE2 GLU H1796      79.386  42.373  56.373  0.81  3.21           O 0
+ATOM  21249   CD GLU H1796      79.500  41.687  55.347  0.00  0.00           C 0
+ATOM  21192   CE MET H1793      73.470  40.953  54.882  0.00  0.00           C 0
+ATOM  16599    O GLN G1507      79.556  40.944  63.718  0.57  4.29           O 0
+ATOM  16610   CD LYS G1508      81.195  40.349  59.684  0.00  0.00           C 0
+ATOM  21246   CG GLU H1796      78.542  41.855  54.260  0.00  0.00           C 0
+ATOM  21256   CA ILE H1797      80.895  44.095  49.079  0.00  0.00           C 0
+ATOM  21264  CG1 ILE H1797      78.930  43.482  47.519  0.00  0.00           C 0
+ATOM  21316   CB LYS H1800      85.402  42.142  49.994  0.00  0.00           C 0
+ATOM  21191   SD MET H1793      73.917  40.689  53.109  0.00  0.00           S 0
+ATOM  16563   NZ LYS G1505      76.092  46.258  60.007  0.00  0.00           N 0
+ATOM  21430  OE1 GLN H1807      84.576  41.837  46.289  0.77  1.07           O 0
+ATOM  21704  CD2 LEU H1825      82.012  40.292  44.498  0.00  0.00           C 0
+ATOM  21645  CD2 LEU H1821      76.681  30.949  57.011  0.00  0.00           C 0
+ATOM  21636   CB LEU H1821      78.062  30.986  54.859  0.00  0.00           C 0
+ATOM  16635    O PRO G1509      78.999  34.749  62.061  0.78  6.43           O 0
+ATOM  16664   CG PRO G1511      79.684  30.469  60.628  0.00  0.00           C 0
+ATOM  21641  CD1 LEU H1821      78.850  29.739  56.857  0.00  0.00           C 0
+ATOM  21319   CG LYS H1800      85.301  40.946  50.955  0.00  0.00           C 0
+ATOM  21308  OE1 GLU H1799      84.426  42.939  56.972  0.38  4.29           O 0
+ATOM  21304   CG GLU H1799      85.076  44.345  55.068  0.00  0.00           C 0
+ATOM  16616   NZ LYS G1508      82.208  41.228  57.498  0.00  0.00           N 0
+ATOM  21173   CB ASP H1792      73.787  44.863  56.271  0.00  0.00           C 0
+ATOM  16628   CB PRO G1509      76.477  36.232  61.141  0.00  0.00           C 0
+ATOM  16631   CG PRO G1509      76.321  37.684  60.708  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   116:
+HEADER 0  - Pocket Score                      : -0.2058
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0893
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4420
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 47.2500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 245.3071
+HEADER 10 - Pocket volume (convex hull)       : 6.0139
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM   5541  CG2 THR B 370      66.527  68.979  91.673  0.00  0.00           C 0
+ATOM  10161   CA GLY C 897      65.651  75.517  93.506  0.00  0.00           C 0
+ATOM  10637  ND2 ASN C 927      64.781  75.135  86.505  0.48  7.66           N 0
+ATOM  10635   CG ASN C 927      63.914  74.054  86.361  0.00  0.00           C 0
+ATOM   5537   CB THR B 370      67.400  69.732  92.585  0.00  0.00           C 0
+ATOM  10158    O CYS C 896      66.994  77.823  92.524  0.41  8.57           O 0
+ATOM  10147    O LEU C 895      63.653  78.231  90.638  0.19  6.43           O 0
+ATOM   5546    O THR B 370      69.310  71.751  93.118  0.62  6.43           O 0
+ATOM   5535   CA THR B 370      68.841  69.647  92.032  0.00  0.00           C 0
+ATOM  10636  OD1 ASN C 927      64.280  72.991  85.952  0.50  5.36           O 0
+ATOM   5532    O MET B 369      70.315  68.567  89.919  0.42  4.29           O 0
+ATOM  10579   SD MET C 923      62.762  71.649  93.197  0.00  0.00           S 0
+ATOM  10585    O MET C 923      60.261  73.771  88.911  0.65  2.14           O 0
+ATOM  10576   CG MET C 923      61.808  72.407  91.808  0.00  0.00           C 0
+ATOM  10632   CB ASN C 927      62.400  74.198  86.807  0.00  0.00           C 0
+ATOM  10128    O ILE C 894      62.331  75.982  93.145  0.40  1.07           O 0
+TER
+END

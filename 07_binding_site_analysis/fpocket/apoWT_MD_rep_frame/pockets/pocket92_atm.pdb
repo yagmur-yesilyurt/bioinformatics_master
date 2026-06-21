@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    92:
+HEADER 0  - Pocket Score                      : -0.0852
+HEADER 1  - Drug Score                        : 0.0055
+HEADER 2  - Number of alpha spheres           :    44
+HEADER 3  - Mean alpha-sphere radius          : 3.8817
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5856
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 45.0769
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 576.2948
+HEADER 10 - Pocket volume (convex hull)       : 117.2794
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 15.4737
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.4318
+ATOM  10831    O LEU C 938      68.783  82.309  71.479  0.58  5.36           O 0
+ATOM  10845  CD2 LEU C 939      66.082  78.847  68.417  0.00  0.00           C 0
+ATOM  10832    N LEU C 939      66.973  81.096  71.819  0.00  0.00           N 0
+ATOM  10834   CA LEU C 939      66.406  81.240  70.504  0.00  0.00           C 0
+ATOM  10892    O PHE C 942      69.940  84.172  68.273  0.64  6.43           O 0
+ATOM  10903    O SER C 943      71.884  82.879  65.178  0.32  7.50           O 0
+ATOM  10850    O LEU C 939      66.383  83.126  68.968  0.51  5.36           O 0
+ATOM  10817   CB LEU C 938      69.021  80.022  73.974  0.00  0.00           C 0
+ATOM  10839   CG LEU C 939      65.611  78.890  69.819  0.00  0.00           C 0
+ATOM  10774  CD1 LEU C 935      66.655  75.507  73.315  0.00  0.00           C 0
+ATOM  10841  CD1 LEU C 939      64.508  77.841  69.997  0.00  0.00           C 0
+ATOM  10830    C LEU C 938      68.126  81.654  72.233  0.00  0.00           C 0
+ATOM   6273    O ALA B 413      64.431  73.238  69.003  0.69  4.29           O 0
+ATOM  20913   CZ PHE D1775      69.729  71.382  70.505  0.00  0.00           C 0
+ATOM  20917  CE2 PHE D1775      68.902  70.456  69.873  0.00  0.00           C 0
+ATOM   6333  OE1 GLU B 417      65.895  74.428  63.328  0.00  0.00           O 0
+ATOM   6326   CB GLU B 417      63.360  74.474  65.601  0.00  0.00           C 0
+ATOM   6332   CD GLU B 417      64.947  73.678  63.791  0.00  0.00           C 0
+ATOM   6334  OE2 GLU B 417      65.110  72.465  64.028  0.61  7.50           O 0
+ATOM   6285   CE MET B 414      66.315  67.891  65.094  0.00  0.00           C 0
+ATOM  20915  CD2 PHE D1775      69.359  69.320  69.321  0.00  0.00           C 0
+ATOM   6281   CG MET B 414      66.078  68.830  67.521  0.00  0.00           C 0
+ATOM   6274    N MET B 414      64.801  71.020  69.239  0.00  0.00           N 0
+ATOM   6276   CA MET B 414      64.230  70.592  67.969  0.00  0.00           C 0
+ATOM  16013  ND2 ASN D1474      75.484  79.530  67.876  0.64  6.56           N 0
+ATOM  10877   CB PHE C 942      72.086  84.673  70.507  0.00  0.00           C 0
+ATOM  10902    C SER C 943      72.449  83.822  65.683  0.00  0.00           C 0
+ATOM  10904  OXT SER C 943      73.695  83.885  65.938  0.52  4.29           O 0
+ATOM   6268   CB ALA B 413      66.477  72.471  71.549  0.00  0.00           C 0
+ATOM  15960   CA ASP D1471      77.614  82.466  69.688  0.00  0.00           C 0
+ATOM  15903    O GLY D1467      75.604  82.409  72.863  0.74  2.14           O 0
+ATOM  15945  CG2 ILE D1470      75.511  78.360  70.929  0.00  0.00           C 0
+ATOM  10826  CD2 LEU C 938      71.306  80.461  75.127  0.00  0.00           C 0
+ATOM  10881  CD1 PHE C 942      71.515  84.089  72.873  0.00  0.00           C 0
+ATOM  10822  CD1 LEU C 938      70.139  78.196  75.434  0.00  0.00           C 0
+ATOM  15952  CD1 ILE D1470      75.144  77.349  73.951  0.00  0.00           C 0
+ATOM  15958    N ASP D1471      77.445  81.617  70.791  0.00  0.00           N 0
+TER
+END

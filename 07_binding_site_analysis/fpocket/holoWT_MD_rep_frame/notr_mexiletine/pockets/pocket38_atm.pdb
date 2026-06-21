@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    38:
+HEADER 0  - Pocket Score                      : -0.0606
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.1034
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7202
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 45.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 279.0913
+HEADER 10 - Pocket volume (convex hull)       : 6.2804
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM  11798  CD1 LEU D1216     105.553  63.273  80.679  0.00  0.00           C 0
+ATOM  11737   CB PHE D1213     110.275  62.191  79.937  0.00  0.00           C 0
+ATOM  11741  CD1 PHE D1213     109.088  60.245  80.987  0.00  0.00           C 0
+ATOM  11669  CG2 THR D1209     111.201  60.299  75.403  0.00  0.00           C 0
+ATOM  11674    O THR D1209     111.469  62.937  77.315  0.74  1.07           O 0
+ATOM  11733    N PHE D1213     109.537  64.297  79.280  0.82  1.09           N 0
+ATOM  11724  CG1 ILE D1212     108.190  67.077  75.916  0.00  0.00           C 0
+ATOM  11663   CA THR D1209     111.388  62.872  74.896  0.00  0.00           C 0
+ATOM  11718   CB ILE D1212     108.065  65.973  77.071  0.00  0.00           C 0
+ATOM  11667  OG1 THR D1209     111.072  61.079  73.278  0.88  6.43           O 0
+ATOM  11660    O GLU D1208     110.892  65.650  75.031  0.74  1.07           O 0
+ATOM  11720  CG2 ILE D1212     106.665  65.534  77.484  0.00  0.00           C 0
+ATOM  11601    O SER D1205     112.769  62.880  70.876  0.64  1.07           O 0
+ATOM  11650   CB GLU D1208     111.221  66.217  71.815  0.00  0.00           C 0
+ATOM  11657  OE1 GLU D1208     109.577  66.631  69.719  0.44  5.36           O 0
+ATOM  11653   CG GLU D1208     109.925  67.031  72.029  0.00  0.00           C 0
+ATOM  11661    N THR D1209     111.880  63.899  73.931  0.74  1.09           N 0
+ATOM  11656   CD GLU D1208     109.096  67.140  70.791  0.00  0.00           C 0
+ATOM  11658  OE2 GLU D1208     107.988  67.729  70.792  0.45  7.50           O 0
+ATOM  11659    C GLU D1208     111.589  65.212  74.091  0.00  0.00           C 0
+TER
+END

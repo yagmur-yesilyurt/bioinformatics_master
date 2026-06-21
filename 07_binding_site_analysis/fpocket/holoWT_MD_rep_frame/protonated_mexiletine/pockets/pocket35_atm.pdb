@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.0851
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0074
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5413
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -0.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 226.8332
+HEADER 10 - Pocket volume (convex hull)       : 6.5433
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM  22347  OE1 GLU D1867      84.393  47.261  48.009  0.71  3.21           O 0
+ATOM  21098  OE2 GLU D1788      82.237  48.400  50.930  0.71  4.29           O 0
+ATOM  22310   CG GLU D1864      84.484  51.632  44.927  0.00  0.00           C 0
+ATOM  22303    N GLU D1864      81.923  49.945  45.020  0.00  0.00           N 0
+ATOM  22314  OE1 GLU D1864      86.733  50.917  45.355  0.27  5.36           O 0
+ATOM  22348  OE2 GLU D1867      86.509  47.188  48.445  0.40  8.57           O 0
+ATOM  21065  CD1 LEU D1786      80.389  54.146  47.820  0.00  0.00           C 0
+ATOM  22298   CA GLY D1863      79.787  49.817  46.220  0.00  0.00           C 0
+ATOM  21096   CD GLU D1788      81.021  48.266  50.664  0.00  0.00           C 0
+ATOM  21093   CG GLU D1788      79.957  49.159  51.272  0.00  0.00           C 0
+ATOM  22313   CD GLU D1864      85.980  51.906  45.159  0.00  0.00           C 0
+ATOM  22315  OE2 GLU D1864      86.334  53.117  45.199  0.00  0.00           O 0
+ATOM  21060   CB LEU D1786      80.483  54.613  50.309  0.00  0.00           C 0
+ATOM  21074    O LEU D1786      80.959  54.471  53.398  0.00  0.00           O 0
+ATOM  16498   CB SER D1503      84.076  48.717  53.809  0.00  0.00           C 0
+ATOM  16493    O GLY D1502      81.343  50.474  54.683  0.71  2.14           O 0
+TER
+END

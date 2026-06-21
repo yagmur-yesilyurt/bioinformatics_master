@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    60:
+HEADER 0  - Pocket Score                      : -0.1184
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1645
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5849
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 1.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 305.4750
+HEADER 10 - Pocket volume (convex hull)       : 4.9008
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   6739   NE ARG C 689      35.970 120.552  62.780  0.62  7.66           N 0
+ATOM   6745  NH2 ARG C 689      34.741 119.857  60.941  0.00  0.00           N 0
+ATOM   6721  ND2 ASN C 688      37.608 114.477  66.108  0.66  9.84           N 0
+ATOM   6684   SG CYS C 686      35.711 118.450  68.020  0.00  0.00           S 0
+ATOM   6716   CB ASN C 688      38.675 116.656  66.301  0.00  0.00           C 0
+ATOM   6786   CG GLN C 692      42.466 120.224  62.853  0.00  0.00           C 0
+ATOM   6725    O ASN C 688      40.846 118.808  65.450  0.70  1.07           O 0
+ATOM   6742  NH1 ARG C 689      36.720 120.927  60.675  0.00  0.00           N 0
+ATOM   6791  NE2 GLN C 692      42.862 118.004  63.693  0.00  0.00           N 0
+ATOM   6741   CZ ARG C 689      35.871 120.387  61.463  0.00  0.00           C 0
+ATOM   6609  CE1 HIS C 681      32.674 117.504  69.090  0.00  0.00           C 0
+ATOM   6611  NE2 HIS C 681      31.743 118.410  68.912  0.62  9.84           N 0
+ATOM   6736   CD ARG C 689      37.079 121.284  63.481  0.00  0.00           C 0
+TER
+END

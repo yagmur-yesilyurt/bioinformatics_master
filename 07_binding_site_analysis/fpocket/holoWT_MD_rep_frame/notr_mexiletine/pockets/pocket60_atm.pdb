@@ -1,0 +1,65 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    60:
+HEADER 0  - Pocket Score                      : -0.0922
+HEADER 1  - Drug Score                        : 0.0139
+HEADER 2  - Number of alpha spheres           :    74
+HEADER 3  - Mean alpha-sphere radius          : 3.8316
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4464
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 14.2353
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 3.3529
+HEADER 9  - Pocket volume (Monte Carlo)       : 553.5718
+HEADER 10 - Pocket volume (convex hull)       : 150.2936
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 15.6000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.2703
+ATOM  20207   CG ASP D1729      98.094  79.820 122.925  0.00  0.00           C 0
+ATOM  20311    O ASN D1736     102.192  79.562 119.426  0.59  4.29           O 0
+ATOM  20208  OD1 ASP D1729      98.833  78.801 122.675  0.48  9.64           O 0
+ATOM  20200    N ASP D1729      97.521  82.598 121.899  0.68  1.09           N 0
+ATOM  19521   NZ LYS D1683      97.877  75.954 116.802  0.59  9.84           N 0
+ATOM  19518   CE LYS D1683      96.972  77.088 116.417  0.00  0.00           C 0
+ATOM  20191   CA CYS D1728      96.778  83.611 119.795  0.00  0.00           C 0
+ATOM  20193   CB CYS D1728      97.947  84.457 119.343  0.00  0.00           C 0
+ATOM  20127  CG2 THR D1723      93.386  78.974 113.671  0.00  0.00           C 0
+ATOM  19563  OE2 GLU D1685      90.874  77.359 115.299  0.48  7.50           O 0
+ATOM  20188    O TYR D1727      94.377  82.366 119.521  0.63  5.36           O 0
+ATOM  20118    O ASN D1722      91.035  81.239 115.065  0.63  4.29           O 0
+ATOM  20209  OD2 ASP D1729      96.848  79.791 122.772  0.69  5.36           O 0
+ATOM  20329    O SER D1738     100.912  84.145 116.627  0.75  3.21           O 0
+ATOM  20196   SG CYS D1728      97.930  84.519 117.560  0.00  0.00           S 0
+ATOM  20314   CA GLY D1737     102.716  80.062 116.708  0.00  0.00           C 0
+ATOM  20132    O THR D1723      95.515  82.230 115.051  0.66  1.07           O 0
+ATOM  20135   CA GLY D1724      95.222  84.821 113.688  0.00  0.00           C 0
+ATOM  20123   CB THR D1723      94.391  80.127 113.596  0.00  0.00           C 0
+ATOM  19515   CD LYS D1683      97.658  78.044 115.377  0.00  0.00           C 0
+ATOM  20121   CA THR D1723      93.543  81.337 114.085  0.00  0.00           C 0
+ATOM  20319    N SER D1738     102.666  82.181 115.515  0.71  2.19           N 0
+ATOM  19512   CG LYS D1683      97.933  77.440 113.982  0.00  0.00           C 0
+ATOM  20323   CB SER D1738     102.450  83.729 113.674  0.00  0.00           C 0
+ATOM  20125  OG1 THR D1723      94.954  80.257 112.293  0.67  4.29           O 0
+ATOM  20377   CB CYS D1742     102.131  83.259 110.096  0.00  0.00           C 0
+ATOM  19488    O TYR D1681     100.794  78.070 109.799  0.00  0.00           O 0
+ATOM  19505    N LYS D1683      97.390  77.225 110.835  0.00  0.00           N 0
+ATOM  19491   CA VAL D1682      98.356  78.006 108.759  0.00  0.00           C 0
+ATOM  19499  CG2 VAL D1682      98.235  79.979 107.370  0.00  0.00           C 0
+ATOM  20380   SG CYS D1742     103.744  82.561 110.186  0.00  0.00           S 0
+ATOM  19472   CB TYR D1681     102.987  78.961 107.892  0.00  0.00           C 0
+ATOM  19483  CD2 TYR D1681     105.135  77.753 107.552  0.00  0.00           C 0
+ATOM  20354    N GLY D1740     100.823  87.206 114.243  0.66  1.09           N 0
+ATOM  20326   OG SER D1738     102.336  85.060 113.231  0.00  0.00           O 0
+ATOM  20356   CA GLY D1740     100.055  87.841 113.240  0.00  0.00           C 0
+ATOM  20384    N GLY D1743      99.880  83.945 107.976  0.47  6.56           N 0
+ATOM  20386   CA GLY D1743      98.575  84.164 107.425  0.00  0.00           C 0
+ATOM  20085    O ILE D1720      93.383  83.420 109.930  0.47  5.36           O 0
+ATOM  20133    N GLY D1724      94.386  83.562 113.562  0.00  0.00           N 0
+ATOM  19495  CG1 VAL D1682      95.995  79.121 108.375  0.00  0.00           C 0
+ATOM  20383    O CYS D1742      99.596  85.464 109.638  0.44  5.36           O 0
+ATOM  20382    C CYS D1742     100.344  84.735 108.972  0.00  0.00           C 0
+TER
+END

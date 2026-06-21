@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    39:
+HEADER 0  - Pocket Score                      : -0.0684
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8908
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5089
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 26.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 295.2197
+HEADER 10 - Pocket volume (convex hull)       : 11.7947
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   1370   OG SER B 106      27.762  71.132  60.887  0.71  2.14           O 0
+ATOM   1392  CG2 THR B 108      25.993  68.995  59.271  0.00  0.00           C 0
+ATOM   2656   CB ALA B 185      31.803  65.515  62.448  0.00  0.00           C 0
+ATOM   1390  OG1 THR B 108      25.463  69.329  61.624  0.55  2.14           O 0
+ATOM   1388   CB THR B 108      24.898  69.047  60.293  0.00  0.00           C 0
+ATOM   2639   CB HIS B 184      27.408  65.002  65.402  0.00  0.00           C 0
+ATOM   2652    N ALA B 185      30.164  64.787  64.192  0.78  4.37           N 0
+ATOM   2676  CD2 PHE B 186      33.999  68.253  61.868  0.00  0.00           C 0
+ATOM   2661    O ALA B 185      30.701  67.586  64.815  0.74  2.14           O 0
+ATOM    589  CD2 LEU B  58      32.588  71.903  61.515  0.00  0.00           C 0
+ATOM   2678  CE2 PHE B 186      34.947  67.916  60.891  0.00  0.00           C 0
+ATOM   1121  CG2 THR B  92      30.839  72.887  58.125  0.00  0.00           C 0
+ATOM   1367   CB SER B 106      28.390  71.999  61.898  0.00  0.00           C 0
+ATOM   1090    O GLN B  90      29.147  71.116  54.237  0.18  2.14           O 0
+ATOM   1112    O LYS B  91      27.445  72.281  57.919  0.00  0.00           O 0
+ATOM   1095   CB LYS B  91      26.447  70.828  55.702  0.00  0.00           C 0
+TER
+END

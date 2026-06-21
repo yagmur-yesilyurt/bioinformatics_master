@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   147:
+HEADER 0  - Pocket Score                      : -0.2021
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0619
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6113
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 70.6667
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.9522
+HEADER 10 - Pocket volume (convex hull)       : 1.1465
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.9333
+ATOM   9280  CG2 THR D 843      57.620  86.375  82.595  0.00  0.00           C 0
+ATOM   9285    O THR D 843      55.972  83.646  83.314  0.83  1.07           O 0
+ATOM   9334  CD2 LEU D 846      59.773  81.167  84.456  0.00  0.00           C 0
+ATOM   9344   CB ALA D 847      54.182  83.683  86.468  0.00  0.00           C 0
+ATOM   9328   CG LEU D 846      58.519  80.378  84.918  0.00  0.00           C 0
+ATOM  10013   CZ PHE D 888      56.596  84.574  92.172  0.00  0.00           C 0
+ATOM   9342   CA ALA D 847      54.381  82.186  86.640  0.00  0.00           C 0
+ATOM  10150  CD1 LEU D 895      60.375  79.606  89.642  0.00  0.00           C 0
+ATOM   9340    N ALA D 847      54.988  81.526  85.561  0.00  0.00           N 0
+ATOM   9398  CG2 VAL D 850      56.511  78.885  89.388  0.00  0.00           C 0
+ATOM  10017  CE2 PHE D 888      55.697  83.522  92.281  0.00  0.00           C 0
+ATOM   9392   CB VAL D 850      55.301  79.541  90.108  0.00  0.00           C 0
+ATOM   9394  CG1 VAL D 850      55.630  80.178  91.445  0.00  0.00           C 0
+TER
+END

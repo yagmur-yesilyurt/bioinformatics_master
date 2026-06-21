@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    46:
+HEADER 0  - Pocket Score                      : -0.0992
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9193
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4980
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 11.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 351.8439
+HEADER 10 - Pocket volume (convex hull)       : 12.9062
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM  11434  NH2 ARG D1195     123.614  74.542  60.620  0.00  0.00           N 0
+ATOM  12555   CB TYR D1261     117.726  75.326  63.781  0.00  0.00           C 0
+ATOM  10938  OD1 ASP D1163     118.508  81.128  55.846  0.00  0.00           O 0
+ATOM  10934   CB ASP D1163     118.635  79.210  54.424  0.00  0.00           C 0
+ATOM  10958   CA GLU D1165     122.142  73.359  54.189  0.00  0.00           C 0
+ATOM  10963   CG GLU D1165     119.878  72.349  53.643  0.00  0.00           C 0
+ATOM  11499   OH TYR D1199     118.129  71.344  59.595  0.43  5.36           O 0
+ATOM  10955    O PRO D1164     121.362  76.097  54.341  0.49  8.57           O 0
+ATOM  10968  OE2 GLU D1165     118.096  71.060  54.707  0.00  0.00           O 0
+ATOM  10960   CB GLU D1165     121.334  72.003  53.906  0.00  0.00           C 0
+ATOM  10979  OD1 ASP D1166     124.613  74.103  58.071  0.30  2.14           O 0
+ATOM  11496  CE1 TYR D1199     120.366  70.550  60.328  0.00  0.00           C 0
+ATOM  10941    O ASP D1163     118.845  76.353  52.743  0.65  2.14           O 0
+ATOM  10983    N CYS D1167     124.793  71.172  56.903  0.53  1.09           N 0
+ATOM  11498   CZ TYR D1199     118.993  70.864  60.585  0.00  0.00           C 0
+ATOM  11008  CD2 PHE D1168     120.718  68.342  56.851  0.00  0.00           C 0
+ATOM  12550    O ALA D1260     120.629  73.886  63.423  0.67  3.21           O 0
+ATOM  11431  NH1 ARG D1195     123.608  74.659  62.816  0.48  5.47           N 0
+ATOM  12553   CA TYR D1261     119.042  75.979  64.383  0.00  0.00           C 0
+TER
+END

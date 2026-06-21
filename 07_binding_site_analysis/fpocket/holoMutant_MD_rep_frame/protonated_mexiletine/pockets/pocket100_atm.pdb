@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   100:
+HEADER 0  - Pocket Score                      : -0.1028
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0996
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5827
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 16.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 289.6340
+HEADER 10 - Pocket volume (convex hull)       : 7.3570
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   7618   SD MET D 741      79.807 108.228 103.397  0.00  0.00           S 0
+ATOM   7545   CB GLU D 737      78.457 106.262 100.181  0.00  0.00           C 0
+ATOM   7696  OE1 GLU D 746      76.232 109.886 104.566  0.54  5.36           O 0
+ATOM   7553  OE2 GLU D 737      76.203 108.431 100.384  0.53  5.36           O 0
+ATOM  14100    O ASN F1354      71.459 102.044 102.861  0.54  6.43           O 0
+ATOM   7572    O HIS D 738      79.597 104.465 105.042  0.55  5.36           O 0
+ATOM  14144   CB ALA F1357      76.763 100.052 104.806  0.00  0.00           C 0
+ATOM  14086    O VAL F1353      74.558 100.171 102.552  0.59  2.14           O 0
+ATOM  14096  ND2 ASN F1354      71.976 104.806 100.617  0.41  9.84           N 0
+ATOM   7556    N HIS D 738      80.172 104.443 102.376  0.00  0.00           N 0
+ATOM   7554    C GLU D 737      79.929 104.435 101.018  0.00  0.00           C 0
+ATOM   7555    O GLU D 737      79.575 103.384 100.464  0.78  1.07           O 0
+ATOM  14077  CG1 VAL F1353      77.187 100.483 100.747  0.00  0.00           C 0
+ATOM   7571    C HIS D 738      80.067 103.425 104.569  0.00  0.00           C 0
+ATOM  15330   CB TYR F1434      72.465 102.479 111.478  0.00  0.00           C 0
+ATOM  15341  CD2 TYR F1434      74.579 102.554 110.080  0.00  0.00           C 0
+ATOM  14170   CE LYS F1359      71.129 100.232 108.722  0.00  0.00           C 0
+ATOM  14173   NZ LYS F1359      70.197 100.350 107.547  0.28  8.75           N 0
+ATOM  14149    O ALA F1357      75.180 100.064 107.429  0.00  0.00           O 0
+ATOM  15343  CE2 TYR F1434      75.868 103.093 109.869  0.00  0.00           C 0
+ATOM  14089   CA ASN F1354      72.845 101.874 100.973  0.00  0.00           C 0
+TER
+END

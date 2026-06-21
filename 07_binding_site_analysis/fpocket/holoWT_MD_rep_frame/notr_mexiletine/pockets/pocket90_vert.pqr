@@ -1,0 +1,67 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket    90:
+HEADER 0  - Pocket Score                      : -0.1504
+HEADER 1  - Drug Score                        : 0.1951
+HEADER 2  - Number of V. Vertices             :    45
+HEADER 3  - Mean alpha-sphere radius          : 4.0839
+HEADER 4  - Mean alpha-sphere SA              : 0.6021
+HEADER 5  - Mean B-factor                     : 0.0000
+HEADER 6  - Hydrophobicity Score              : 43.7273
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Volume Score                      : 4.3636
+HEADER 9  - Real volume (approximation)       : 493.6303
+HEADER 10 - Charge Score                      :     1
+HEADER 11 - Local hydrophobic density Score   : 32.7027
+HEADER 12 - Number of apolar alpha sphere     :    37
+HEADER 13 - Proportion of apolar alpha sphere : 0.8222
+ATOM      1    C STP    90      46.042  76.129  81.864    0.00     3.95
+ATOM      2    C STP    90      45.945  73.383  80.922    0.00     4.45
+ATOM      3    C STP    90      45.662  73.125  80.507    0.00     4.36
+ATOM      4    C STP    90      45.961  76.072  81.930    0.00     4.00
+ATOM      5    C STP    90      45.573  75.986  82.256    0.00     4.11
+ATOM      6    C STP    90      45.989  75.991  81.978    0.00     4.07
+ATOM      7    C STP    90      45.921  74.265  81.406    0.00     4.21
+ATOM      8    C STP    90      45.920  75.666  82.291    0.00     4.36
+ATOM      9    C STP    90      46.232  76.551  81.433    0.00     3.56
+ATOM     10    C STP    90      46.463  76.693  81.543    0.00     3.47
+ATOM     11    C STP    90      44.648  72.080  78.838    0.00     4.58
+ATOM     12    C STP    90      44.726  72.124  79.231    0.00     4.59
+ATOM     13    C STP    90      44.620  72.035  78.908    0.00     4.62
+ATOM     14    C STP    90      44.295  72.444  79.137    0.00     4.19
+ATOM     15    O STP    90      43.280  77.617  83.041    0.00     3.63
+ATOM     16    C STP    90      44.061  77.066  83.625    0.00     3.91
+ATOM     17    O STP    90      44.136  72.042  76.164    0.00     3.53
+ATOM     18    C STP    90      44.762  72.240  78.721    0.00     4.44
+ATOM     19    C STP    90      43.959  72.244  76.774    0.00     3.56
+ATOM     20    O STP    90      44.091  72.160  76.514    0.00     3.58
+ATOM     21    C STP    90      45.219  71.646  76.629    0.00     4.21
+ATOM     22    C STP    90      44.409  71.917  76.580    0.00     3.83
+ATOM     23    C STP    90      44.966  72.505  78.670    0.00     4.23
+ATOM     24    C STP    90      44.969  72.508  78.667    0.00     4.22
+ATOM     25    C STP    90      44.908  72.734  78.583    0.00     3.99
+ATOM     26    C STP    90      46.248  71.452  74.907    0.00     4.33
+ATOM     27    C STP    90      46.796  71.528  74.150    0.00     4.58
+ATOM     28    C STP    90      46.917  70.558  74.338    0.00     4.64
+ATOM     29    C STP    90      44.901  71.566  77.261    0.00     4.37
+ATOM     30    C STP    90      44.650  71.709  77.040    0.00     4.14
+ATOM     31    C STP    90      44.667  71.950  78.466    0.00     4.51
+ATOM     32    C STP    90      44.100  72.118  77.106    0.00     3.76
+ATOM     33    C STP    90      44.605  72.006  78.853    0.00     4.63
+ATOM     34    C STP    90      44.604  72.005  78.860    0.00     4.63
+ATOM     35    C STP    90      43.029  72.703  78.278    0.00     3.43
+ATOM     36    C STP    90      42.910  72.725  78.402    0.00     3.42
+ATOM     37    O STP    90      43.610  72.349  77.122    0.00     3.42
+ATOM     38    C STP    90      47.015  70.156  74.065    0.00     4.68
+ATOM     39    C STP    90      47.780  71.354  74.126    0.00     4.22
+ATOM     40    C STP    90      48.045  71.538  74.309    0.00     3.93
+ATOM     41    C STP    90      47.962  71.432  74.236    0.00     4.05
+ATOM     42    O STP    90      49.193  70.261  73.015    0.00     4.05
+ATOM     43    O STP    90      50.320  69.534  72.668    0.00     3.47
+ATOM     44    O STP    90      49.267  70.223  72.533    0.00     4.14
+ATOM     45    O STP    90      49.725  70.512  72.314    0.00     3.75
+TER
+END

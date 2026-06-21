@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    95:
+HEADER 0  - Pocket Score                      : -0.1606
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.8336
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4547
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 11.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 182.9931
+HEADER 10 - Pocket volume (convex hull)       : 6.5039
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 20.0000
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.7778
+ATOM   1051   CA SER B  88      30.088  75.911  48.634  0.00  0.00           C 0
+ATOM   1003   CG PRO B  85      28.523  78.059  43.879  0.00  0.00           C 0
+ATOM   1053   CB SER B  88      30.430  77.298  48.021  0.00  0.00           C 0
+ATOM    361  NE2 GLN A  32      32.151  71.014  44.102  0.65  7.66           N 0
+ATOM    359   CD GLN A  32      30.848  70.673  43.822  0.00  0.00           C 0
+ATOM    356   CG GLN A  32      30.026  69.973  44.852  0.00  0.00           C 0
+ATOM   1047    C TYR B  87      28.127  74.505  49.020  0.00  0.00           C 0
+ATOM   1032   CB TYR B  87      26.295  73.108  48.085  0.00  0.00           C 0
+ATOM   1049    N SER B  88      28.671  75.732  48.729  0.76  1.09           N 0
+ATOM   1000   CB PRO B  85      27.211  77.722  44.644  0.00  0.00           C 0
+ATOM    295   SD MET A  28      24.709  74.690  45.326  0.00  0.00           S 0
+ATOM    289   CB MET A  28      25.230  71.941  44.931  0.00  0.00           C 0
+ATOM    292   CG MET A  28      24.634  73.189  44.241  0.00  0.00           C 0
+ATOM    360  OE1 GLN A  32      30.394  70.897  42.676  0.65  6.43           O 0
+ATOM   1048    O TYR B  87      28.865  73.601  49.320  0.57  3.21           O 0
+ATOM   1086  NE2 GLN B  90      31.607  69.700  49.766  0.39  8.75           N 0
+ATOM   1059    O SER B  88      32.042  75.120  49.940  0.66  7.50           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    49:
+HEADER 0  - Pocket Score                      : -0.0785
+HEADER 1  - Drug Score                        : 0.0091
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.2631
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6129
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 98.6667
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.5022
+HEADER 10 - Pocket volume (convex hull)       : 5.8615
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 20.0000
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   8253  CZ3 TRP C 781      71.639 104.367  76.302  0.00  0.00           C 0
+ATOM   8854    O PHE C 816      73.191 102.598  79.218  0.91  1.07           O 0
+ATOM   8304  CE1 PHE C 784      70.272 106.089  81.087  0.00  0.00           C 0
+ATOM   8839   CB PHE C 816      72.100 101.846  81.956  0.00  0.00           C 0
+ATOM   8301   CG PHE C 784      68.313 106.948  79.877  0.00  0.00           C 0
+ATOM   9063  CG2 ILE C 829      68.736  98.119  77.691  0.00  0.00           C 0
+ATOM   9067  CG1 ILE C 829      71.112  97.788  78.851  0.00  0.00           C 0
+ATOM   9070  CD1 ILE C 829      71.818  99.052  78.458  0.00  0.00           C 0
+ATOM   9130  CD1 ILE C 832      68.767  94.823  81.900  0.00  0.00           C 0
+ATOM   8849  CD2 PHE C 816      72.160  99.439  82.756  0.00  0.00           C 0
+ATOM   8842   CG PHE C 816      72.026 100.826  83.100  0.00  0.00           C 0
+ATOM   8257  CH2 TRP C 781      71.893 103.376  75.384  0.00  0.00           C 0
+ATOM   8302  CD1 PHE C 784      69.688 106.792  79.973  0.00  0.00           C 0
+ATOM   8306   CZ PHE C 784      69.393 105.650  82.123  0.00  0.00           C 0
+ATOM   8843  CD1 PHE C 816      71.748 101.208  84.481  0.00  0.00           C 0
+ATOM   8785  CD1 LEU C 813      67.684 104.106  86.191  0.00  0.00           C 0
+ATOM   8310  CE2 PHE C 784      68.023 105.948  82.090  0.00  0.00           C 0
+ATOM   8308  CD2 PHE C 784      67.488 106.549  80.986  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   104:
+HEADER 0  - Pocket Score                      : -0.1787
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.0048
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6371
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 17.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 170.7695
+HEADER 10 - Pocket volume (convex hull)       : 3.8026
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0769
+ATOM  10105  NH2 ARG C 893      66.203  76.790 101.644  0.38  2.19           N 0
+ATOM  10235  OE1 GLU C 901      66.556  75.892 104.268  0.62  7.50           O 0
+ATOM  10236  OE2 GLU C 901      68.046  74.662 105.191  0.00  0.00           O 0
+ATOM  10178  OE2 GLU C 898      69.391  76.272  98.996  0.00  0.00           O 0
+ATOM  10177  OE1 GLU C 898      67.897  77.837  99.571  0.62  1.07           O 0
+ATOM  15080    O PHE D1418      72.401  79.371  99.262  0.00  0.00           O 0
+ATOM  15103    N GLY D1420      73.995  80.403 101.772  0.18  4.37           N 0
+ATOM  15159  OD1 ASP D1423      73.036  81.431 108.335  0.00  0.00           O 0
+ATOM  15160  OD2 ASP D1423      70.874  81.035 107.837  0.00  0.00           O 0
+ATOM  15158   CG ASP D1423      71.942  81.746 107.782  0.00  0.00           C 0
+ATOM  15105   CA GLY D1420      73.876  81.109 103.015  0.00  0.00           C 0
+ATOM  15141   CG MET D1422      67.168  80.358 102.630  0.00  0.00           C 0
+ATOM  15110    N TRP D1421      72.109  82.073 101.733  0.41  1.09           N 0
+ATOM  15134    N MET D1422      69.455  82.501 102.708  0.00  0.00           N 0
+ATOM  15118  CD1 TRP D1421      69.867  80.891  99.516  0.00  0.00           C 0
+ATOM  15138   CB MET D1422      67.665  81.060 103.933  0.00  0.00           C 0
+ATOM  15108    C GLY D1420      72.784  82.096 102.899  0.00  0.00           C 0
+ATOM  15151    N ASP D1423      69.921  82.866 105.457  0.71  1.09           N 0
+TER
+END

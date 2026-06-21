@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0027
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7315
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4733
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -1.3000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.3578
+HEADER 10 - Pocket volume (convex hull)       : 7.1846
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1000
+ATOM  20360    O GLY D1740     105.671  82.221 104.314  0.56  5.36           O 0
+ATOM  20372    O ASP D1741     102.805  82.280 104.301  0.75  3.21           O 0
+ATOM  20383    O CYS D1742     101.143  85.499 104.550  0.62  5.36           O 0
+ATOM  19432  OD1 ASN D1678     102.011  83.390  98.787  0.00  0.00           O 0
+ATOM  20384    N GLY D1743      99.947  84.389 102.903  0.00  0.00           N 0
+ATOM  20386   CA GLY D1743      99.790  85.525 102.081  0.00  0.00           C 0
+ATOM  20334   CB ARG D1739     109.408  81.798 101.135  0.00  0.00           C 0
+ATOM  20353    O ARG D1739     107.383  80.366 102.224  0.00  0.00           O 0
+ATOM  13254  OG1 THR D1304     104.682  82.712  96.489  0.77  4.29           O 0
+ATOM  20340   CD ARG D1739     110.619  84.076 101.474  0.00  0.00           C 0
+ATOM  13201   OG SER D1301     110.597  84.691  96.783  0.00  0.00           O 0
+ATOM  20346  NH1 ARG D1739     110.982  86.488  99.622  0.73  7.66           N 0
+ATOM  20337   CG ARG D1739     110.560  82.746 100.655  0.00  0.00           C 0
+ATOM  19423    O ALA D1677     102.882  79.883 100.755  0.48  2.14           O 0
+ATOM  13198   CB SER D1301     110.141  83.668  95.952  0.00  0.00           C 0
+ATOM  13196   CA SER D1301     110.587  82.287  96.511  0.00  0.00           C 0
+ATOM  13248    N THR D1304     106.117  79.955  95.693  0.00  0.00           N 0
+ATOM  13228   CB ARG D1303     106.789  77.717  97.786  0.00  0.00           C 0
+ATOM  19418   CB ALA D1677     103.190  78.845  97.663  0.00  0.00           C 0
+TER
+END

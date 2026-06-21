@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    89:
+HEADER 0  - Pocket Score                      : -0.0900
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8857
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6500
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 74.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 206.1699
+HEADER 10 - Pocket volume (convex hull)       : 5.6968
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  12551  CG2 VAL F1259     125.278  73.824  72.440  0.00  0.00           C 0
+ATOM  12476    N LEU F1256     122.291  71.413  75.238  0.00  0.00           N 0
+ATOM  12478   CA LEU F1256     122.254  70.805  73.957  0.00  0.00           C 0
+ATOM  12415  CD1 LEU F1252     125.322  68.294  78.071  0.00  0.00           C 0
+ATOM  12485  CD1 LEU F1256     123.142  68.501  72.411  0.00  0.00           C 0
+ATOM  12474    C LEU F1255     122.757  72.682  75.486  0.00  0.00           C 0
+ATOM  11434   CG ARG E1195     129.774  71.749  68.968  0.00  0.00           C 0
+ATOM  11498   SG CYS F1198     125.203  69.628  69.524  0.00  0.00           S 0
+ATOM  12547  CG1 VAL F1259     125.454  73.314  69.972  0.00  0.00           C 0
+ATOM  11352  CZ3 TRP E1191     132.472  70.352  72.143  0.00  0.00           C 0
+ATOM  11412   CB LEU E1194     130.201  67.282  67.967  0.00  0.00           C 0
+ATOM  11356  CH2 TRP E1191     132.426  71.645  72.732  0.00  0.00           C 0
+ATOM  11437   CD ARG E1195     130.716  72.859  69.482  0.00  0.00           C 0
+ATOM  11426    O LEU E1194     127.278  68.326  67.367  0.63  1.07           O 0
+ATOM  12470  CD2 LEU F1255     126.348  72.842  78.256  0.00  0.00           C 0
+ATOM  12475    O LEU F1255     123.136  73.432  74.559  0.00  0.00           O 0
+ATOM  12464   CG LEU F1255     125.124  73.542  77.610  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1402
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.5919
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3602
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 32.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 139.0183
+HEADER 10 - Pocket volume (convex hull)       : 6.2600
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5909
+ATOM  21168   CE MET D1793      76.589  48.754  44.595  0.00  0.00           C 0
+ATOM  22209  CG2 THR D1858      80.535  51.185  46.908  0.00  0.00           C 0
+ATOM  21124    O ASP D1790      74.917  48.617  48.710  0.69  1.07           O 0
+ATOM  22141  CD1 LEU D1854      78.632  45.132  46.870  0.00  0.00           C 0
+ATOM  22136   CB LEU D1854      80.950  46.158  46.853  0.00  0.00           C 0
+ATOM  22437  CG2 ILE D1873      79.135  47.280  52.362  0.00  0.00           C 0
+ATOM  21117   CB ASP D1790      75.784  51.911  48.408  0.00  0.00           C 0
+ATOM  21122  OD2 ASP D1790      76.914  53.017  50.216  0.62  3.21           O 0
+ATOM  21123    C ASP D1790      74.548  49.757  49.009  0.00  0.00           C 0
+ATOM  21178   CB PHE D1794      75.642  45.409  49.039  0.00  0.00           C 0
+ATOM  22444  CD1 ILE D1873      81.089  45.673  50.779  0.00  0.00           C 0
+ATOM  22150    O LEU D1854      82.893  48.809  46.805  0.73  1.07           O 0
+ATOM  22207  OG1 THR D1858      82.823  51.162  47.924  0.64  3.21           O 0
+ATOM  22413   CB LYS D1872      79.827  51.697  54.015  0.00  0.00           C 0
+ATOM  22431    N ILE D1873      80.800  48.671  54.210  0.00  0.00           N 0
+ATOM  22389    O ALA D1870      84.153  50.733  51.472  0.24  1.07           O 0
+ATOM  22379    O ASP D1869      81.673  54.020  51.020  0.47  1.07           O 0
+ATOM  22441  CG1 ILE D1873      81.519  46.356  52.063  0.00  0.00           C 0
+TER
+END

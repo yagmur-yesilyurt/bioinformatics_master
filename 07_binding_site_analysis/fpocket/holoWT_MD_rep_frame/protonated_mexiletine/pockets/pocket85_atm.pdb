@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    85:
+HEADER 0  - Pocket Score                      : -0.1757
+HEADER 1  - Drug Score                        : 0.0044
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0100
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5996
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 94.1429
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 293.1259
+HEADER 10 - Pocket volume (convex hull)       : 16.0919
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.8182
+ATOM  18978  CD2 LEU D1650      77.911  60.306  77.036  0.00  0.00           C 0
+ATOM   6051  CD2 LEU B 399      78.604  61.255  81.341  0.00  0.00           C 0
+ATOM   6030   CZ PHE B 398      82.245  62.546  81.305  0.00  0.00           C 0
+ATOM  18972   CG LEU D1650      78.749  61.159  76.108  0.00  0.00           C 0
+ATOM  19038  CD1 LEU D1654      85.166  61.733  76.650  0.00  0.00           C 0
+ATOM  18974  CD1 LEU D1650      78.955  62.645  76.538  0.00  0.00           C 0
+ATOM  19085  CD2 LEU D1657      82.316  64.749  77.572  0.00  0.00           C 0
+ATOM   6047  CD1 LEU B 399      79.322  59.008  82.126  0.00  0.00           C 0
+ATOM  19042  CD2 LEU D1654      85.282  59.531  75.280  0.00  0.00           C 0
+ATOM   6028  CE1 PHE B 398      82.553  61.811  82.467  0.00  0.00           C 0
+ATOM  19033   CB LEU D1654      84.297  61.605  74.253  0.00  0.00           C 0
+ATOM  18983    O LEU D1650      81.010  61.925  73.532  0.00  0.00           O 0
+ATOM  18984    N MET D1651      80.010  60.102  72.629  0.72  1.09           N 0
+ATOM  18986   CA MET D1651      81.213  59.425  72.077  0.00  0.00           C 0
+ATOM  18988   CB MET D1651      80.802  58.009  71.516  0.00  0.00           C 0
+ATOM  18991   CG MET D1651      81.903  56.981  71.175  0.00  0.00           C 0
+ATOM  18982    C LEU D1650      79.997  61.254  73.283  0.00  0.00           C 0
+ATOM  18934    O LEU D1647      77.593  58.382  72.478  0.76  5.36           O 0
+ATOM  18920   CB LEU D1647      75.439  57.069  74.347  0.00  0.00           C 0
+ATOM  18929  CD2 LEU D1647      75.513  55.948  76.593  0.00  0.00           C 0
+TER
+END

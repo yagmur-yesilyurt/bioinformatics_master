@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : 0.0315
+HEADER 1  - Drug Score                        : 0.0132
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8111
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4435
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 79.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.9104
+HEADER 10 - Pocket volume (convex hull)       : 5.8261
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 23.0000
+HEADER 13 - Number of apolar alpha sphere     :    24
+HEADER 14 - Proportion of apolar alpha sphere : 0.8571
+ATOM   3939    O VAL C 263      74.149  50.712  89.087  0.00  0.00           O 0
+ATOM   3926   CA VAL C 263      72.805  51.103  87.218  0.00  0.00           C 0
+ATOM   3930  CG1 VAL C 263      74.950  50.617  86.069  0.00  0.00           C 0
+ATOM  18650  CG2 ILE H1630      75.345  44.645  87.861  0.00  0.00           C 0
+ATOM   3983  CD2 LEU C 266      71.226  45.819  89.919  0.00  0.00           C 0
+ATOM   3923    O SER C 262      70.739  51.034  89.270  0.00  0.00           O 0
+ATOM   3924    N VAL C 263      71.467  51.691  87.243  0.00  0.00           N 0
+ATOM   3934  CG2 VAL C 263      72.771  50.209  84.841  0.00  0.00           C 0
+ATOM  17251   CE MET G1546      67.690  47.326  89.682  0.00  0.00           C 0
+ATOM   3917   CB SER C 262      68.303  51.801  87.085  0.00  0.00           C 0
+ATOM   3974   CB LEU C 266      71.782  48.032  90.948  0.00  0.00           C 0
+ATOM   3922    C SER C 262      70.553  51.670  88.224  0.00  0.00           C 0
+ATOM  17186   SD MET G1542      69.374  44.263  86.778  0.00  0.00           S 0
+ATOM  17183   CG MET G1542      67.876  43.790  85.946  0.00  0.00           C 0
+ATOM  17187   CE MET G1542      70.206  44.273  85.206  0.00  0.00           C 0
+ATOM  18707  CD1 ILE H1633      74.296  46.033  84.093  0.00  0.00           C 0
+ATOM   3873  CE1 PHE C 259      70.382  49.806  81.748  0.00  0.00           C 0
+ATOM   3871  CD1 PHE C 259      69.848  51.007  82.145  0.00  0.00           C 0
+ATOM  18765  CD1 LEU H1636      69.268  45.325  80.401  0.00  0.00           C 0
+TER
+END

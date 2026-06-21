@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : 0.0382
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8135
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4688
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 16.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 248.8400
+HEADER 10 - Pocket volume (convex hull)       : 6.4777
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   7685  OE2 GLU C 746      78.910 115.249 103.175  0.45  6.43           O 0
+ATOM   7603   CG MET C 741      79.381 108.104 101.976  0.00  0.00           C 0
+ATOM   7683   CD GLU C 746      79.963 114.795 102.577  0.00  0.00           C 0
+ATOM   7684  OE1 GLU C 746      80.806 114.056 103.179  0.11  3.21           O 0
+ATOM   7612    O MET C 741      81.283 109.254 104.111  0.44  5.36           O 0
+ATOM   7631   CB SER C 743      84.235 110.545 100.613  0.00  0.00           C 0
+ATOM   7677   CB GLU C 746      81.760 114.962 100.808  0.00  0.00           C 0
+ATOM   7607   CE MET C 741      80.813 108.432  99.657  0.00  0.00           C 0
+ATOM   7606   SD MET C 741      79.043 108.288 100.236  0.00  0.00           S 0
+ATOM   7751  NE2 GLN C 750      77.060 113.857  97.142  0.00  0.00           N 0
+ATOM   7680   CG GLU C 746      80.244 115.083 101.154  0.00  0.00           C 0
+ATOM   7675   CA GLU C 746      82.171 114.911  99.268  0.00  0.00           C 0
+ATOM   7729  CD1 LEU C 749      82.494 111.870  96.770  0.00  0.00           C 0
+ATOM   7582    N ASN C 740      77.039 105.868 105.833  0.32  4.37           N 0
+ATOM   7596    N MET C 741      79.606 106.690 104.612  0.00  0.00           N 0
+ATOM   7584   CA ASN C 740      78.259 106.259 106.485  0.00  0.00           C 0
+TER
+END

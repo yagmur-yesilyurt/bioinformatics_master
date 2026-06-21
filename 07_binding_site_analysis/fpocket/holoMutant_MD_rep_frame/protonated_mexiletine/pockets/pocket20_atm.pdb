@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0463
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5469
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4322
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 27.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 85.4627
+HEADER 10 - Pocket volume (convex hull)       : 0.9271
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   8277   CB ASN D 782      67.511 113.422  73.688  0.00  0.00           C 0
+ATOM   8014   CB LYS D 767      70.336 118.473  74.227  0.00  0.00           C 0
+ATOM   8089  CD1 LEU D 771      67.289 117.841  70.999  0.00  0.00           C 0
+ATOM   8045  CD1 ILE D 768      64.997 119.576  75.494  0.00  0.00           C 0
+ATOM   8187    O TYR D 776      64.723 114.997  72.061  0.70  3.21           O 0
+ATOM   8023   CE LYS D 767      71.685 115.808  75.750  0.00  0.00           C 0
+ATOM   8280   CG ASN D 782      68.876 113.888  73.190  0.00  0.00           C 0
+ATOM   8281  OD1 ASN D 782      69.888 113.644  73.933  0.97  2.14           O 0
+ATOM   8286    O ASN D 782      66.363 112.709  76.645  0.53  1.07           O 0
+ATOM   8345   OG SER D 786      65.232 114.837  77.954  0.93  3.21           O 0
+ATOM   7975    O MET D 764      68.870 119.690  77.217  0.00  0.00           O 0
+ATOM   8330   CB ASP D 785      69.429 113.053  78.937  0.00  0.00           C 0
+ATOM   7966   CG MET D 764      67.859 117.513  79.908  0.00  0.00           C 0
+ATOM   7961   CA MET D 764      70.154 118.469  78.803  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   102:
+HEADER 0  - Pocket Score                      : -0.1074
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0448
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6168
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 0.6667
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 331.4234
+HEADER 10 - Pocket volume (convex hull)       : 16.3484
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM  15419  OE1 GLN F1439      65.697  90.544 119.798  0.79  2.14           O 0
+ATOM  14405    N TYR F1375      70.822  90.309 120.805  0.53  5.47           N 0
+ATOM  15415   CG GLN F1439      65.595  89.897 117.392  0.00  0.00           C 0
+ATOM  14409   CB TYR F1375      69.591  91.808 119.398  0.00  0.00           C 0
+ATOM  15412   CB GLN F1439      66.711  90.593 116.529  0.00  0.00           C 0
+ATOM  15407    O PRO F1438      69.950  89.980 115.217  0.53  2.14           O 0
+ATOM  15410   CA GLN F1439      67.014  90.026 115.123  0.00  0.00           C 0
+ATOM  14395   CB ASN F1374      70.736  87.449 122.302  0.00  0.00           C 0
+ATOM  14434  CG2 THR F1376      66.511  89.633 123.920  0.00  0.00           C 0
+ATOM  14400  ND2 ASN F1374      70.493  85.007 122.730  0.36  9.84           N 0
+ATOM  14432  OG1 THR F1376      68.707  89.065 124.377  0.58  4.29           O 0
+ATOM  14399  OD1 ASN F1374      71.834  85.663 121.101  0.64  1.07           O 0
+ATOM  15439  CE3 TRP F1440      63.350  83.667 113.807  0.00  0.00           C 0
+ATOM  15425    N TRP F1440      65.271  88.434 114.307  0.00  0.00           N 0
+ATOM  15281  OD2 ASP F1430      67.524  87.219 111.576  0.00  0.00           O 0
+ATOM   9839  NH1 ARG D 878      65.720  85.088 111.121  0.18  6.56           N 0
+ATOM  14398   CG ASN F1374      71.077  85.961 121.974  0.00  0.00           C 0
+ATOM  14222  NH1 ARG F1362      72.506  88.039 115.417  0.49  7.66           N 0
+ATOM  14225  NH2 ARG F1362      72.437  87.447 113.232  0.19  5.47           N 0
+ATOM  14393   CA ASN F1374      71.865  88.286 121.742  0.00  0.00           C 0
+TER
+END

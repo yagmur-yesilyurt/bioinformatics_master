@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : 0.0500
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.9986
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5986
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 0.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 401.1163
+HEADER 10 - Pocket volume (convex hull)       : 41.4256
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.5000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM    544    O GLN B  55      32.509  68.456  57.228  0.54  2.14           O 0
+ATOM    558  CD2 LEU B  56      32.314  67.940  62.014  0.00  0.00           C 0
+ATOM    513    O ARG B  53      30.270  65.534  56.004  0.77  7.50           O 0
+ATOM    527    O PRO B  54      33.077  65.255  58.137  0.71  7.50           O 0
+ATOM    482   CB PRO B  52      25.870  65.079  54.868  0.00  0.00           C 0
+ATOM    490    N ARG B  53      28.811  66.150  53.860  0.62  2.19           N 0
+ATOM    573  OD2 ASP B  57      28.039  72.890  57.807  0.00  0.00           O 0
+ATOM    585  CD1 LEU B  58      30.255  71.764  64.351  0.00  0.00           C 0
+ATOM    589  CD2 LEU B  58      29.465  73.900  63.579  0.00  0.00           C 0
+ATOM    583   CG LEU B  58      30.541  72.879  63.315  0.00  0.00           C 0
+ATOM    564    N ASP B  57      31.941  71.869  58.989  0.55  1.09           N 0
+ATOM   1107   NZ LYS B  91      26.901  72.928  55.499  0.47  9.84           N 0
+ATOM   1104   CE LYS B  91      25.451  73.250  55.736  0.00  0.00           C 0
+ATOM    480   CA PRO B  52      26.474  65.380  53.532  0.00  0.00           C 0
+ATOM    547   CA LEU B  56      33.120  69.893  59.480  0.00  0.00           C 0
+ATOM    568   CB ASP B  57      30.141  73.454  58.790  0.00  0.00           C 0
+ATOM    572  OD1 ASP B  57      29.883  72.472  56.672  0.71  1.07           O 0
+ATOM    494   CB ARG B  53      30.781  67.487  53.571  0.00  0.00           C 0
+ATOM    571   CG ASP B  57      29.283  72.872  57.708  0.00  0.00           C 0
+ATOM    497   CG ARG B  53      30.017  68.452  52.635  0.00  0.00           C 0
+ATOM    503   NE ARG B  53      30.857  70.683  53.374  0.00  0.00           N 0
+ATOM    500   CD ARG B  53      30.692  69.726  52.227  0.00  0.00           C 0
+TER
+END

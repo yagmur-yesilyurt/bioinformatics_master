@@ -1,0 +1,55 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    41:
+HEADER 0  - Pocket Score                      : -0.0075
+HEADER 1  - Drug Score                        : 0.0102
+HEADER 2  - Number of alpha spheres           :    49
+HEADER 3  - Mean alpha-sphere radius          : 3.9850
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4926
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 21.7143
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 498.8655
+HEADER 10 - Pocket volume (convex hull)       : 54.2060
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 25.5333
+HEADER 13 - Number of apolar alpha sphere     :    30
+HEADER 14 - Proportion of apolar alpha sphere : 0.6122
+ATOM  20013   CB ASP H1714      79.092  79.673 103.023  0.00  0.00           C 0
+ATOM  20020    O ASP H1714      81.403  79.778 105.238  0.35  7.50           O 0
+ATOM  15176  OD2 ASP F1423      74.676  81.181 106.347  0.42  2.14           O 0
+ATOM  20018  OD2 ASP H1714      77.379  79.090 104.613  0.45  3.21           O 0
+ATOM  20011   CA ASP H1714      80.565  79.130 102.992  0.00  0.00           C 0
+ATOM  20060  CD2 LEU H1717      83.691  82.876 101.151  0.00  0.00           C 0
+ATOM  15240   CB ALA F1427      71.819  88.880 107.665  0.00  0.00           C 0
+ATOM  14788  CG2 VAL F1398      77.979  88.584 107.733  0.00  0.00           C 0
+ATOM  14784  CG1 VAL F1398      77.519  88.459 110.303  0.00  0.00           C 0
+ATOM  15178    O ASP F1423      71.880  86.022 106.011  0.41  5.36           O 0
+ATOM  14826  CG2 VAL F1400      81.357  86.461 102.445  0.00  0.00           C 0
+ATOM  15032  NE2 GLN F1414      80.314  82.963  98.400  0.65  1.09           N 0
+ATOM  15118    O LYS F1419      77.176  82.261  99.423  0.71  1.07           O 0
+ATOM  14816    N VAL F1400      81.178  87.741 105.006  0.75  2.19           N 0
+ATOM  14782   CB VAL F1398      78.473  88.071 109.110  0.00  0.00           C 0
+ATOM  15171   CB ASP F1423      73.732  83.185 105.741  0.00  0.00           C 0
+ATOM  14225  NH2 ARG F1362      72.437  87.447 113.232  0.19  5.47           N 0
+ATOM  15121   CA GLY F1420      75.773  81.971 101.681  0.00  0.00           C 0
+ATOM  14798   CB LYS F1399      82.836  85.672 106.891  0.00  0.00           C 0
+ATOM  14794    N LYS F1399      81.464  87.483 107.969  0.68  2.19           N 0
+ATOM  14801   CG LYS F1399      83.340  85.033 108.189  0.00  0.00           C 0
+ATOM  20066    N SER H1718      85.000  80.608 105.801  0.89  1.09           N 0
+ATOM  20054   CG LEU H1717      84.879  82.203 101.882  0.00  0.00           C 0
+ATOM  15177    C ASP F1423      72.361  85.278 105.141  0.00  0.00           C 0
+ATOM  15125    O GLY F1420      74.716  83.957 102.166  0.70  3.21           O 0
+ATOM  14820   CB VAL F1400      80.215  87.446 102.729  0.00  0.00           C 0
+ATOM  14831    O VAL F1400      78.553  89.173 104.746  0.00  0.00           O 0
+ATOM  15027   CG GLN F1414      79.600  85.229  98.809  0.00  0.00           C 0
+ATOM  15192  CD1 ILE F1424      75.880  87.294 101.318  0.00  0.00           C 0
+ATOM  15181   CA ILE F1424      72.768  87.199 103.646  0.00  0.00           C 0
+ATOM  14193  CD2 PHE F1360      75.167  91.923 106.150  0.00  0.00           C 0
+ATOM  15179    N ILE F1424      72.864  85.776 103.957  0.00  0.00           N 0
+ATOM  15189  CG1 ILE F1424      75.043  87.293 102.643  0.00  0.00           C 0
+TER
+END

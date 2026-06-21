@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   131:
+HEADER 0  - Pocket Score                      : -0.1584
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9833
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5650
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -4.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.2871
+HEADER 10 - Pocket volume (convex hull)       : 9.3484
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1730  CD1 LEU C 128      30.270  79.579  72.596  0.00  0.00           C 0
+ATOM   2498   CD LYS C 175      32.971  77.732  76.528  0.00  0.00           C 0
+ATOM   2565   CG ARG C 179      31.175  73.940  70.262  0.00  0.00           C 0
+ATOM   2501   CE LYS C 175      33.816  79.022  76.263  0.00  0.00           C 0
+ATOM   2495   CG LYS C 175      31.519  77.816  76.070  0.00  0.00           C 0
+ATOM   2492   CB LYS C 175      30.674  76.520  76.187  0.00  0.00           C 0
+ATOM   2490   CA LYS C 175      29.339  76.484  75.485  0.00  0.00           C 0
+ATOM   2509    O LYS C 175      29.043  74.451  74.159  0.00  0.00           O 0
+ATOM   2571   NE ARG C 179      32.841  74.170  68.475  0.83  8.75           N 0
+ATOM   2577  NH2 ARG C 179      35.140  74.019  68.494  0.37  6.56           N 0
+ATOM   2822  ND2 ASN C 194      34.908  73.399  75.350  0.00  0.00           N 0
+ATOM   2821  OD1 ASN C 194      35.481  74.763  77.012  0.60  5.36           O 0
+ATOM   2504   NZ LYS C 175      35.029  79.041  77.046  0.00  0.00           N 0
+ATOM   2573   CZ ARG C 179      33.959  73.486  68.682  0.00  0.00           C 0
+ATOM   2771  OD1 ASP C 191      36.936  72.385  72.599  0.75  6.43           O 0
+TER
+END

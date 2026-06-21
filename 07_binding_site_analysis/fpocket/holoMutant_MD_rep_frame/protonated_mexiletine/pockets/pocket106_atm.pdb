@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   106:
+HEADER 0  - Pocket Score                      : -0.1127
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8766
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4687
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 9.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 333.1165
+HEADER 10 - Pocket volume (convex hull)       : 9.4569
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM   3385   CE LYS C 228      36.206  80.418  81.991  0.00  0.00           C 0
+ATOM   2438  OE1 GLU C 171      34.173  80.654  78.923  0.38  4.29           O 0
+ATOM   3448  CG2 VAL C 232      40.340  83.184  78.147  0.00  0.00           C 0
+ATOM   3388   NZ LYS C 228      35.920  79.459  80.904  0.52  2.19           N 0
+ATOM   1879  CG2 ILE C 137      35.348  84.089  81.815  0.00  0.00           C 0
+ATOM   3434   OG SER C 231      40.503  79.241  78.333  0.62  7.50           O 0
+ATOM   1832  ND2 ASN C 134      34.152  86.444  74.184  0.00  0.00           N 0
+ATOM   1830   CG ASN C 134      34.772  86.174  75.369  0.00  0.00           C 0
+ATOM   3444  CG1 VAL C 232      40.938  85.072  76.500  0.00  0.00           C 0
+ATOM   1827   CB ASN C 134      35.642  87.210  76.068  0.00  0.00           C 0
+ATOM   1831  OD1 ASN C 134      34.644  85.111  75.885  0.00  0.00           O 0
+ATOM   1877   CB ILE C 137      34.739  85.354  81.192  0.00  0.00           C 0
+ATOM   3453    O VAL C 232      42.465  83.587  74.186  0.00  0.00           O 0
+ATOM   1836    O ASN C 134      36.393  87.741  79.248  0.57  2.14           O 0
+ATOM   3440   CA VAL C 232      41.828  82.761  76.297  0.00  0.00           C 0
+ATOM   3437    O SER C 231      42.247  80.189  75.213  0.68  8.57           O 0
+ATOM   2504   NZ LYS C 175      35.029  79.041  77.046  0.00  0.00           N 0
+TER
+END

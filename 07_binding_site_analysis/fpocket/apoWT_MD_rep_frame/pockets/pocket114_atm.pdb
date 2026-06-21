@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   114:
+HEADER 0  - Pocket Score                      : -0.1389
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8865
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4164
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 25.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.8556
+HEADER 10 - Pocket volume (convex hull)       : 6.9685
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1000
+ATOM   7258   CA ASP C 720      79.549 110.911  72.172  0.00  0.00           C 0
+ATOM   8935   OG SER C 821      78.817 103.389  72.066  0.00  0.00           O 0
+ATOM   7267    O ASP C 720      80.242 110.049  74.397  0.45  1.07           O 0
+ATOM   8922   NZ LYS C 820      74.863 106.998  72.817  0.96  6.56           N 0
+ATOM   8932   CB SER C 821      78.725 103.082  70.653  0.00  0.00           C 0
+ATOM   7264  OD1 ASP C 720      78.423 110.087  69.636  0.00  0.00           O 0
+ATOM   8919   CE LYS C 820      74.092 107.083  71.630  0.00  0.00           C 0
+ATOM   7326  OG1 THR C 724      81.309 107.225  75.832  0.59  8.57           O 0
+ATOM   7260   CB ASP C 720      80.310 111.036  70.810  0.00  0.00           C 0
+ATOM   7281  CD2 LEU C 721      85.107 109.525  72.528  0.00  0.00           C 0
+ATOM   8890  CD2 LEU C 818      78.782 105.283  77.619  0.00  0.00           C 0
+ATOM   7307  CG2 ILE C 723      76.753 109.827  77.683  0.00  0.00           C 0
+ATOM   8876    O LYS C 817      74.803 105.067  75.091  0.00  0.00           O 0
+ATOM   7266    C ASP C 720      80.585 110.661  73.368  0.00  0.00           C 0
+ATOM   8879   CA LEU C 818      76.969 103.360  76.178  0.00  0.00           C 0
+TER
+END

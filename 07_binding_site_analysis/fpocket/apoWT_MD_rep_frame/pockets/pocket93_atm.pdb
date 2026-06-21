@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    93:
+HEADER 0  - Pocket Score                      : -0.0882
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0543
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7372
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 39.6667
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.1873
+HEADER 10 - Pocket volume (convex hull)       : 1.6005
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM   7692   CB GLU C 747      82.070 119.715  99.041  0.00  0.00           C 0
+ATOM   7701    C GLU C 747      81.922 118.458  96.796  0.00  0.00           C 0
+ATOM   7766  CG2 VAL C 751      79.737 121.441  94.053  0.00  0.00           C 0
+ATOM   7714   CE MET C 748      86.808 120.007  97.404  0.00  0.00           C 0
+ATOM   7710   CG MET C 748      85.828 118.619  95.490  0.00  0.00           C 0
+ATOM   7702    O GLU C 747      81.070 118.788  95.926  0.00  0.00           O 0
+ATOM   7703    N MET C 748      83.128 118.011  96.396  0.00  0.00           N 0
+ATOM   7705   CA MET C 748      83.467 117.919  94.972  0.00  0.00           C 0
+ATOM   7707   CB MET C 748      84.937 117.602  94.692  0.00  0.00           C 0
+ATOM   7762  CG1 VAL C 751      80.459 121.553  91.638  0.00  0.00           C 0
+ATOM   7719    O MET C 748      82.046 117.234  93.099  0.54  3.21           O 0
+ATOM   7760   CB VAL C 751      80.243 120.640  92.819  0.00  0.00           C 0
+TER
+END

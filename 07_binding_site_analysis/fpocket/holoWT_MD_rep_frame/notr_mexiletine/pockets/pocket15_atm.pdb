@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0040
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9436
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5747
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 18.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.4631
+HEADER 10 - Pocket volume (convex hull)       : 6.9269
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1364
+ATOM  19959    C GLY D1712      81.541  76.145 100.526  0.00  0.00           C 0
+ATOM   5623  OE2 GLU B 375      79.742  71.943 101.630  0.40  5.36           O 0
+ATOM  19997    N GLY D1715      83.945  77.178 105.522  0.49  5.47           N 0
+ATOM  19956   CA GLY D1712      80.055  75.908 100.529  0.00  0.00           C 0
+ATOM  20011   CG LEU D1716      86.797  75.083 102.014  0.00  0.00           C 0
+ATOM  19657  CD2 PHE D1692      86.042  70.783 104.284  0.00  0.00           C 0
+ATOM  19659  CE2 PHE D1692      84.959  70.719 105.132  0.00  0.00           C 0
+ATOM  19881  NE2 GLN D1706      84.064  70.729 100.331  0.48  2.19           N 0
+ATOM  19582    O GLY D1687      85.860  73.438 106.733  0.34  2.14           O 0
+ATOM  19999   CA GLY D1715      84.789  76.389 106.402  0.00  0.00           C 0
+ATOM  19960    O GLY D1712      82.329  75.302 100.120  0.50  1.07           O 0
+ATOM  19989   CB ASP D1714      81.515  79.335 105.379  0.00  0.00           C 0
+ATOM  19985    N ASP D1714      82.750  78.637 103.454  0.56  1.09           N 0
+ATOM  20004    N LEU D1716      86.326  76.545 104.638  0.00  0.00           N 0
+ATOM  19961    N TRP D1713      81.948  77.262 101.127  0.57  2.19           N 0
+ATOM  19655   CZ PHE D1692      83.932  69.818 104.966  0.00  0.00           C 0
+ATOM   5702  NE2 GLN B 379      80.083  69.182 104.349  0.76  5.47           N 0
+ATOM   5622  OE1 GLU B 375      77.849  73.107 101.777  0.00  0.00           O 0
+TER
+END

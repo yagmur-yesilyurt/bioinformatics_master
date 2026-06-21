@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.0034
+HEADER 1  - Drug Score                        : 0.0086
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9139
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6174
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 74.4444
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 370.1045
+HEADER 10 - Pocket volume (convex hull)       : 35.2050
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.8462
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6190
+ATOM   1858   CB LEU C 136      32.298  90.529  81.864  0.00  0.00           C 0
+ATOM   1926  OG1 THR C 140      33.545  87.914  86.286  0.54  8.57           O 0
+ATOM   1872    O LEU C 136      34.264  88.786  83.816  0.57  2.14           O 0
+ATOM   1867  CD2 LEU C 136      32.645  92.964  82.499  0.00  0.00           C 0
+ATOM   1863  CD1 LEU C 136      30.464  92.206  81.767  0.00  0.00           C 0
+ATOM   2366  CD1 ILE C 167      28.327  87.189  87.322  0.00  0.00           C 0
+ATOM   2359  CG2 ILE C 167      29.915  85.559  85.024  0.00  0.00           C 0
+ATOM   1886  CD1 ILE C 137      32.330  84.586  81.600  0.00  0.00           C 0
+ATOM   1811  CD1 PHE C 133      29.805  86.526  78.636  0.00  0.00           C 0
+ATOM   2363  CG1 ILE C 167      27.885  85.924  86.601  0.00  0.00           C 0
+ATOM   2423  CE2 PHE C 170      26.092  84.567  80.061  0.00  0.00           C 0
+ATOM   2421  CD2 PHE C 170      26.349  83.843  81.258  0.00  0.00           C 0
+ATOM   1813  CE1 PHE C 133      29.693  85.218  79.058  0.00  0.00           C 0
+ATOM   1919    O CYS C 139      37.767  90.011  87.399  0.00  0.00           O 0
+ATOM   1920    N THR C 140      36.457  88.783  86.075  0.00  0.00           N 0
+ATOM   1922   CA THR C 140      35.871  87.947  87.170  0.00  0.00           C 0
+ATOM   1913   CB CYS C 139      37.244  91.556  84.797  0.00  0.00           C 0
+ATOM   1978  OG1 THR C 143      37.488  91.208  89.748  0.70  9.64           O 0
+ATOM   2325  CE2 PHE C 164      32.803  88.131  91.498  0.00  0.00           C 0
+ATOM   1980  CG2 THR C 143      36.964  90.769  91.981  0.00  0.00           C 0
+ATOM   2321   CZ PHE C 164      34.093  88.258  91.978  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : 0.0163
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9177
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4803
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 24.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 293.6406
+HEADER 10 - Pocket volume (convex hull)       : 18.8254
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 16.7778
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.6923
+ATOM   1297  CD1 ILE C 102      31.861  79.621  50.924  0.00  0.00           C 0
+ATOM   1342  NH2 ARG C 104      27.000  75.091  53.116  0.00  0.00           N 0
+ATOM    985    O LEU C  83      25.186  79.638  48.741  0.57  7.50           O 0
+ATOM    650   CE LYS C  62      32.467  76.318  47.412  0.00  0.00           C 0
+ATOM    647   CD LYS C  62      33.258  75.801  48.572  0.00  0.00           C 0
+ATOM    641   CB LYS C  62      35.077  75.965  50.322  0.00  0.00           C 0
+ATOM   1294  CG1 ILE C 102      33.120  79.753  51.860  0.00  0.00           C 0
+ATOM   1302    O ILE C 102      34.632  77.827  54.361  0.86  3.21           O 0
+ATOM    974   CG LEU C  83      28.085  81.310  48.688  0.00  0.00           C 0
+ATOM    976  CD1 LEU C  83      27.668  81.441  47.200  0.00  0.00           C 0
+ATOM    709   CG PRO C  65      31.684  80.771  45.505  0.00  0.00           C 0
+ATOM   1164  CD1 ILE C  94      28.535  80.306  52.999  0.00  0.00           C 0
+ATOM    995  OD2 ASP C  84      24.900  76.640  52.363  0.44  3.21           O 0
+ATOM   1157  CG2 ILE C  94      29.510  77.693  54.735  0.00  0.00           C 0
+ATOM   1336   NE ARG C 104      28.293  74.400  54.897  0.00  0.00           N 0
+ATOM    980  CD2 LEU C  83      29.567  81.700  48.806  0.00  0.00           C 0
+ATOM    620   CB ALA C  60      32.942  71.969  54.708  0.00  0.00           C 0
+ATOM   1330   CG ARG C 104      30.154  73.765  56.406  0.00  0.00           C 0
+ATOM    625    O ALA C  60      34.490  74.350  55.838  0.62  1.07           O 0
+TER
+END

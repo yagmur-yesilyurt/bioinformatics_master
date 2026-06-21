@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.0887
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0167
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4186
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 21.6250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.5830
+HEADER 10 - Pocket volume (convex hull)       : 2.5600
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   4516  CH2 TRP B 301      80.231  54.634 130.740  0.00  0.00           C 0
+ATOM   4441    O ALA B 296      84.245  52.578 131.946  0.71  2.14           O 0
+ATOM   4436   CB ALA B 296      83.186  51.192 129.452  0.00  0.00           C 0
+ATOM   4696  OD1 ASN B 313      80.522  55.908 127.054  0.00  0.00           O 0
+ATOM   4249  NH1 ARG B 282      86.330  58.645 126.855  0.55  5.47           N 0
+ATOM   4470  CD1 LEU B 299      82.002  56.505 133.938  0.00  0.00           C 0
+ATOM   4450  OD1 ASP B 297      87.961  54.335 129.765  0.49  7.50           O 0
+ATOM   4446   CB ASP B 297      87.418  53.396 131.964  0.00  0.00           C 0
+ATOM   4243   CD ARG B 282      86.038  56.317 125.278  0.00  0.00           C 0
+ATOM   4609   OH TYR B 307      82.716  52.230 125.326  0.85  1.07           O 0
+ATOM   4606  CE1 TYR B 307      80.852  52.505 126.860  0.00  0.00           C 0
+ATOM   4237   CB ARG B 282      85.788  53.904 124.409  0.00  0.00           C 0
+ATOM   4270    O ASN B 283      86.173  50.209 126.686  0.53  1.07           O 0
+TER
+END

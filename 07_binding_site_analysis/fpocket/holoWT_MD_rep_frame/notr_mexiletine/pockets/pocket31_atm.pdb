@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0418
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9268
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6458
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 35.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.2905
+HEADER 10 - Pocket volume (convex hull)       : 8.7511
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM  15509   CG TYR D1445      57.490  95.855 102.420  0.00  0.00           C 0
+ATOM  15512  CE1 TYR D1445      55.328  96.981 102.291  0.00  0.00           C 0
+ATOM  15477  OD1 ASN D1443      59.194  96.738 106.338  0.86  7.50           O 0
+ATOM  15510  CD1 TYR D1445      56.731  97.022 102.417  0.00  0.00           C 0
+ATOM  15514   CZ TYR D1445      54.754  95.770 102.014  0.00  0.00           C 0
+ATOM  15519  CE2 TYR D1445      55.482  94.647 101.893  0.00  0.00           C 0
+ATOM  15517  CD2 TYR D1445      56.882  94.678 102.099  0.00  0.00           C 0
+ATOM  15483    N LEU D1444      59.056  93.421 106.953  0.00  0.00           N 0
+ATOM  15492  CD1 LEU D1444      55.765  91.438 107.554  0.00  0.00           C 0
+ATOM   9972  CE1 HIS C 886      54.881  87.886 106.101  0.00  0.00           C 0
+ATOM   9919  OD2 ASP C 883      51.074  86.354 105.876  0.29  7.50           O 0
+ATOM   9917   CG ASP C 883      50.802  86.829 104.747  0.00  0.00           C 0
+ATOM   9918  OD1 ASP C 883      51.639  87.213 103.873  0.64  3.21           O 0
+ATOM   9956  CD2 PHE C 885      55.453  90.320 102.254  0.00  0.00           C 0
+ATOM  15515   OH TYR D1445      53.382  95.744 101.845  0.71  9.64           O 0
+ATOM  15487   CB LEU D1444      57.791  91.469 106.027  0.00  0.00           C 0
+ATOM  15502    N TYR D1445      59.308  94.143 104.152  0.00  0.00           N 0
+ATOM  15468    O TYR D1442      58.617  93.981 110.680  0.58  7.50           O 0
+TER
+END

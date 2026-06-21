@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    93:
+HEADER 0  - Pocket Score                      : -0.1562
+HEADER 1  - Drug Score                        : 0.0059
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9072
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6173
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 65.6000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 271.5314
+HEADER 10 - Pocket volume (convex hull)       : 5.9041
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  17720  CG2 VAL D1577      73.232  27.751  74.992  0.00  0.00           C 0
+ATOM  16887  CG2 VAL D1525      71.783  31.541  72.604  0.00  0.00           C 0
+ATOM  17716  CG1 VAL D1577      73.603  28.426  72.609  0.00  0.00           C 0
+ATOM  16864  CG2 ILE D1524      68.316  28.384  69.389  0.00  0.00           C 0
+ATOM  16968   CZ PHE D1530      68.294  32.741  75.310  0.00  0.00           C 0
+ATOM  16972  CE2 PHE D1530      68.706  33.286  74.105  0.00  0.00           C 0
+ATOM  16879   CA VAL D1525      70.409  31.946  70.451  0.00  0.00           C 0
+ATOM  16970  CD2 PHE D1530      67.860  33.628  73.072  0.00  0.00           C 0
+ATOM  16876    O ILE D1524      68.066  31.804  69.236  0.61  3.21           O 0
+ATOM  16960   CB PHE D1530      65.538  33.880  72.243  0.00  0.00           C 0
+ATOM  16914   CG LYS D1527      65.738  32.599  66.931  0.00  0.00           C 0
+ATOM  16911   CB LYS D1527      65.419  33.845  67.883  0.00  0.00           C 0
+ATOM  16963   CG PHE D1530      66.498  33.460  73.257  0.00  0.00           C 0
+ATOM  16964  CD1 PHE D1530      65.978  33.084  74.517  0.00  0.00           C 0
+ATOM  16966  CE1 PHE D1530      66.877  32.715  75.533  0.00  0.00           C 0
+ATOM  16881   CB VAL D1525      71.688  31.304  71.072  0.00  0.00           C 0
+TER
+END

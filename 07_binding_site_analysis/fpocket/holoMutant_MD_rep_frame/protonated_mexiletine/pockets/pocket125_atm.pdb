@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   125:
+HEADER 0  - Pocket Score                      : -0.1470
+HEADER 1  - Drug Score                        : 0.0045
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1821
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5926
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 52.2857
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 334.0625
+HEADER 10 - Pocket volume (convex hull)       : 11.1659
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.8947
+ATOM   1844   CG MET C 135      37.476  92.327  77.573  0.00  0.00           C 0
+ATOM   1899   CG MET C 138      39.589  87.193  79.989  0.00  0.00           C 0
+ATOM   1848   CE MET C 135      39.991  93.108  76.881  0.00  0.00           C 0
+ATOM   1847   SD MET C 135      39.065  92.725  78.418  0.00  0.00           S 0
+ATOM   1903   CE MET C 138      42.216  86.943  80.903  0.00  0.00           C 0
+ATOM   3467  CD1 ILE C 233      44.898  86.020  77.861  0.00  0.00           C 0
+ATOM   3464  CG1 ILE C 233      44.934  86.068  76.376  0.00  0.00           C 0
+ATOM   1783    O SER C 131      34.455  90.441  75.529  0.53  1.07           O 0
+ATOM   1827   CB ASN C 134      35.642  87.210  76.068  0.00  0.00           C 0
+ATOM   1777   CB SER C 131      34.491  92.000  72.427  0.00  0.00           C 0
+ATOM   1775   CA SER C 131      33.881  90.800  73.161  0.00  0.00           C 0
+ATOM   3444  CG1 VAL C 232      40.938  85.072  76.500  0.00  0.00           C 0
+ATOM   1780   OG SER C 131      34.633  91.666  71.042  0.40  6.43           O 0
+ATOM   1832  ND2 ASN C 134      34.152  86.444  74.184  0.00  0.00           N 0
+ATOM   1755    O VAL C 129      33.037  87.970  70.674  0.00  0.00           O 0
+ATOM   1896   CB MET C 138      39.262  88.166  81.170  0.00  0.00           C 0
+ATOM   1837    N MET C 135      35.872  89.670  78.232  0.00  0.00           N 0
+ATOM   1835    C ASN C 134      35.799  88.319  78.337  0.00  0.00           C 0
+TER
+END

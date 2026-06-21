@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    53:
+HEADER 0  - Pocket Score                      : -0.0198
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1652
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6895
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 72.1429
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.0198
+HEADER 10 - Pocket volume (convex hull)       : 3.6009
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM   7980   CA PHE C 766      70.911 119.677  71.658  0.00  0.00           C 0
+ATOM   7100  CG2 VAL C 710      71.881 122.692  69.325  0.00  0.00           C 0
+ATOM   8052  CD1 ILE C 769      67.936 123.686  71.692  0.00  0.00           C 0
+ATOM   7972  CG2 THR C 765      68.180 121.802  75.138  0.00  0.00           C 0
+ATOM   7173  CG2 VAL C 714      76.290 122.830  71.595  0.00  0.00           C 0
+ATOM   7232  CE1 PHE C 718      75.379 118.783  74.287  0.00  0.00           C 0
+ATOM   7931    O ALA C 762      71.827 118.899  75.440  0.55  2.14           O 0
+ATOM   7982   CB PHE C 766      72.424 119.235  71.837  0.00  0.00           C 0
+ATOM   7978    N PHE C 766      70.257 119.420  72.967  0.00  0.00           N 0
+ATOM   7926   CB ALA C 762      73.076 120.059  78.278  0.00  0.00           C 0
+ATOM   7234   CZ PHE C 718      75.841 119.001  75.654  0.00  0.00           C 0
+ATOM   7968   CB THR C 765      68.709 120.421  75.597  0.00  0.00           C 0
+ATOM   7970  OG1 THR C 765      68.137 120.206  76.858  0.77  5.36           O 0
+ATOM   7924   CA ALA C 762      71.884 119.209  77.867  0.00  0.00           C 0
+TER
+END

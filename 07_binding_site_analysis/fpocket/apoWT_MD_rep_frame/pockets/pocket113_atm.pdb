@@ -1,0 +1,50 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   113:
+HEADER 0  - Pocket Score                      : -0.1325
+HEADER 1  - Drug Score                        : 0.0177
+HEADER 2  - Number of alpha spheres           :    33
+HEADER 3  - Mean alpha-sphere radius          : 3.8950
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5410
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 55.8182
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6364
+HEADER 9  - Pocket volume (Monte Carlo)       : 427.4148
+HEADER 10 - Pocket volume (convex hull)       : 56.7728
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.8889
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.5455
+ATOM  13390    O LEU D1311     103.026  73.493  76.969  0.55  3.21           O 0
+ATOM  12802   CA ASP D1275     106.642  78.940  75.228  0.00  0.00           C 0
+ATOM  12807   CG ASP D1275     106.931  76.518  74.207  0.00  0.00           C 0
+ATOM  12804   CB ASP D1275     106.594  77.985  73.950  0.00  0.00           C 0
+ATOM  13376   CB LEU D1311     102.241  75.485  79.331  0.00  0.00           C 0
+ATOM  12794  CD2 LEU D1274     101.766  82.377  74.797  0.00  0.00           C 0
+ATOM  13381  CD1 LEU D1311     101.384  77.641  80.256  0.00  0.00           C 0
+ATOM  12864  CD1 ILE D1278     103.388  80.499  79.266  0.00  0.00           C 0
+ATOM  12809  OD2 ASP D1275     106.798  75.733  73.243  0.45  8.57           O 0
+ATOM  13451   OG SER D1315     103.758  71.888  73.043  0.63  3.21           O 0
+ATOM  13448   CB SER D1315     102.546  71.930  72.263  0.00  0.00           C 0
+ATOM  12730  CD1 TRP D1271     104.793  78.981  67.620  0.00  0.00           C 0
+ATOM  12726   CB TRP D1271     103.527  80.211  69.425  0.00  0.00           C 0
+ATOM  12808  OD1 ASP D1275     107.475  76.159  75.264  0.00  0.00           O 0
+ATOM  13391    N ARG D1312     104.687  73.306  78.442  0.93  1.09           N 0
+ATOM  13389    C LEU D1311     103.412  73.603  78.127  0.00  0.00           C 0
+ATOM  12811    O ASP D1275     107.884  78.747  77.227  0.53  1.07           O 0
+ATOM  13438  CD2 LEU D1314      98.328  73.110  75.462  0.00  0.00           C 0
+ATOM  13444    N SER D1315     101.435  71.062  74.375  0.00  0.00           N 0
+ATOM  12788   CG LEU D1274     103.184  82.555  75.392  0.00  0.00           C 0
+ATOM  12855   CB ILE D1278     105.758  79.964  80.219  0.00  0.00           C 0
+ATOM  13385  CD2 LEU D1311     100.003  75.554  80.347  0.00  0.00           C 0
+ATOM  13434  CD1 LEU D1314      97.768  73.211  77.807  0.00  0.00           C 0
+ATOM  13600  CG1 VAL D1324      95.465  76.487  74.747  0.00  0.00           C 0
+ATOM  12745    O TRP D1271     105.666  80.073  71.950  0.65  3.21           O 0
+ATOM  12800    N ASP D1275     106.409  80.263  74.740  0.74  1.09           N 0
+ATOM  12880  CG2 VAL D1279     107.344  76.200  80.464  0.00  0.00           C 0
+ATOM  12753   SG CYS D1272     108.572  78.346  68.482  0.00  0.00           S 0
+TER
+END

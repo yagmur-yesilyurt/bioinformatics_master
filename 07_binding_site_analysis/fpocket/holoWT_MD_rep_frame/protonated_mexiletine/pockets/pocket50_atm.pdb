@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    50:
+HEADER 0  - Pocket Score                      : -0.1049
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.3415
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5063
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 20.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.4379
+HEADER 10 - Pocket volume (convex hull)       : 2.1640
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  19601    O ILE D1688      89.367  74.062 109.431  0.65  4.29           O 0
+ATOM  19537  NE1 TRP D1684      92.013  72.481 113.264  0.64  2.19           N 0
+ATOM   4792  ND2 ASN B 318      88.837  69.775 115.829  0.53  5.47           N 0
+ATOM  19611  OD2 ASP D1689      88.163  69.919 110.507  0.61  6.43           O 0
+ATOM   4796    O ASN B 318      84.883  70.907 115.967  0.00  0.00           O 0
+ATOM  19575    O ALA D1686      85.441  75.616 108.757  0.54  7.50           O 0
+ATOM  19535  CD1 TRP D1684      92.136  73.833 113.496  0.00  0.00           C 0
+ATOM  19553   CA GLU D1685      88.865  77.697 111.813  0.00  0.00           C 0
+ATOM  19550    O TRP D1684      90.961  76.802 113.376  0.70  4.29           O 0
+ATOM  19566    N ALA D1686      86.734  77.851 110.660  0.00  0.00           N 0
+ATOM  19609   CG ASP D1689      87.540  70.176 109.438  0.00  0.00           C 0
+ATOM  19610  OD1 ASP D1689      86.411  69.700 109.128  0.00  0.00           O 0
+ATOM  19606   CB ASP D1689      88.086  71.247 108.512  0.00  0.00           C 0
+TER
+END

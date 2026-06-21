@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    72:
+HEADER 0  - Pocket Score                      : -0.0525
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0649
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7034
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -1.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 151.9445
+HEADER 10 - Pocket volume (convex hull)       : 0.5961
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  21051   CG PRO D1785      64.437  55.521  56.487  0.00  0.00           C 0
+ATOM  21074    O LEU D1786      69.430  55.995  54.471  0.67  1.07           O 0
+ATOM  21086    N GLU D1788      70.178  53.996  51.789  0.62  6.56           N 0
+ATOM  21077   CA SER D1787      69.860  56.351  51.667  0.00  0.00           C 0
+ATOM  21096   CD GLU D1788      69.363  51.691  55.403  0.00  0.00           C 0
+ATOM  21093   CG GLU D1788      70.138  52.368  54.287  0.00  0.00           C 0
+ATOM  21048   CB PRO D1785      65.717  55.614  57.244  0.00  0.00           C 0
+ATOM  21098  OE2 GLU D1788      68.762  50.631  55.202  0.00  0.00           O 0
+ATOM  16543   NZ LYS D1505      67.244  49.253  53.440  0.00  0.00           N 0
+ATOM  21055    O PRO D1785      66.021  58.186  55.248  0.45  8.57           O 0
+ATOM  21090   CB GLU D1788      70.048  51.787  52.913  0.00  0.00           C 0
+ATOM  21073    C LEU D1786      69.359  57.153  54.080  0.00  0.00           C 0
+ATOM  21075    N SER D1787      69.624  57.402  52.757  0.67  8.75           N 0
+TER
+END

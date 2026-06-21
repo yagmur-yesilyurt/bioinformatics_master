@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    69:
+HEADER 0  - Pocket Score                      : -0.1304
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9636
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5298
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : -10.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 270.7423
+HEADER 10 - Pocket volume (convex hull)       : 10.3688
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0952
+ATOM  10963   CG GLU D1165     119.878  72.349  53.643  0.00  0.00           C 0
+ATOM  10956    N GLU D1165     121.940  74.344  53.127  0.60  3.28           N 0
+ATOM  11039  OE1 GLU D1170     119.455  70.242  48.741  0.71  3.21           O 0
+ATOM  10946   CA PRO D1164     121.490  76.436  52.043  0.00  0.00           C 0
+ATOM  10941    O ASP D1163     118.845  76.353  52.743  0.65  2.14           O 0
+ATOM  10924   NZ LYS D1162     115.643  73.236  50.657  0.00  0.00           N 0
+ATOM  11038   CD GLU D1170     119.775  70.421  47.524  0.00  0.00           C 0
+ATOM  10929    O LYS D1162     116.870  78.310  50.348  0.00  0.00           O 0
+ATOM  11040  OE2 GLU D1170     118.926  70.552  46.643  0.00  0.00           O 0
+ATOM  10970    O GLU D1165     124.188  72.554  53.275  0.17  6.43           O 0
+ATOM  10960   CB GLU D1165     121.334  72.003  53.906  0.00  0.00           C 0
+ATOM  11013    O PHE D1168     123.872  69.647  52.715  0.00  0.00           O 0
+ATOM  11035   CG GLU D1170     121.236  70.479  47.104  0.00  0.00           C 0
+ATOM  10948   CB PRO D1164     122.814  77.150  51.693  0.00  0.00           C 0
+ATOM  11020  OG1 THR D1169     125.717  68.256  49.143  0.19  5.36           O 0
+ATOM  11028    N GLU D1170     122.769  68.152  48.568  0.00  0.00           N 0
+ATOM  10942    N PRO D1164     120.544  77.564  52.154  0.71  1.09           N 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    75:
+HEADER 0  - Pocket Score                      : -0.0642
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8638
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4425
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 8.6667
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 5.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 242.5006
+HEADER 10 - Pocket volume (convex hull)       : 10.7876
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0909
+ATOM  15154   CB MET F1422      69.575  81.107 102.654  0.00  0.00           C 0
+ATOM  10248  OE2 GLU D 901      69.382  74.526 103.117  0.00  0.00           O 0
+ATOM  15225  CE1 TYR F1426      67.064  81.439 106.727  0.00  0.00           C 0
+ATOM  15228   OH TYR F1426      65.181  80.361 105.665  0.00  0.00           O 0
+ATOM  15175  OD1 ASP F1423      72.495  81.149 106.281  0.50  6.43           O 0
+ATOM  15161   CE MET F1422      66.360  80.623 102.499  0.00  0.00           C 0
+ATOM   9846    O ARG D 878      61.957  79.270 106.531  0.16  5.36           O 0
+ATOM   9861  CE3 TRP D 879      62.167  80.599 101.549  0.00  0.00           C 0
+ATOM  10259  CG2 THR D 902      62.342  75.255 101.756  0.00  0.00           C 0
+ATOM  10247  OE1 GLU D 901      69.292  73.465 105.092  0.00  0.00           O 0
+ATOM  10114  NH1 ARG D 893      66.313  76.330 101.676  0.63  1.09           N 0
+ATOM  10240   CB GLU D 901      66.587  72.841 103.146  0.00  0.00           C 0
+ATOM  10314  OD1 ASP D 905      62.816  74.086 107.057  0.00  0.00           O 0
+ATOM  15157   CG MET F1422      68.958  80.420 101.467  0.00  0.00           C 0
+ATOM  10246   CD GLU D 901      68.959  73.635 103.859  0.00  0.00           C 0
+TER
+END

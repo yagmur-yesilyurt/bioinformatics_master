@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    88:
+HEADER 0  - Pocket Score                      : -0.1483
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1195
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6014
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 5.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 321.2884
+HEADER 10 - Pocket volume (convex hull)       : 10.3155
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM   2091   CB HIS B 151      44.770  87.402 105.194  0.00  0.00           C 0
+ATOM   9909    O MET C 882      47.074  84.101 104.928  0.89  3.21           O 0
+ATOM   9914   CB ASP C 883      49.300  86.857 104.255  0.00  0.00           C 0
+ATOM   9897   CB MET C 882      48.400  82.873 107.318  0.00  0.00           C 0
+ATOM   9919  OD2 ASP C 883      51.074  86.354 105.876  0.29  7.50           O 0
+ATOM   2100  CD2 HIS B 151      43.469  88.062 107.476  0.00  0.00           C 0
+ATOM   2103    O HIS B 151      42.333  85.288 105.682  0.41  3.21           O 0
+ATOM   2097  CE1 HIS B 151      43.485  90.144 107.227  0.00  0.00           C 0
+ATOM   2094  ND1 HIS B 151      44.180  89.618 106.183  0.37  2.19           N 0
+ATOM   2099  NE2 HIS B 151      43.050  89.241 108.079  0.65  6.56           N 0
+ATOM   9903   SD MET C 882      48.410  82.019 110.044  0.00  0.00           S 0
+ATOM   2096   CG HIS B 151      44.122  88.303 106.280  0.00  0.00           C 0
+ATOM   9904   CE MET C 882      49.831  82.937 110.758  0.00  0.00           C 0
+ATOM   9644   OG SER C 866      44.587  79.694 110.547  0.00  0.00           O 0
+TER
+END

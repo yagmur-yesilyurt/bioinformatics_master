@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : -0.0487
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    40
+HEADER 3  - Mean alpha-sphere radius          : 3.7517
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4208
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 9.4444
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 158.1853
+HEADER 10 - Pocket volume (convex hull)       : 6.3722
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM  11868   CA LEU D1222     106.124  68.962  92.931  0.00  0.00           C 0
+ATOM  11925   CD GLU D1225     107.241  69.565  99.218  0.00  0.00           C 0
+ATOM  11926  OE1 GLU D1225     108.452  69.321  99.035  0.52  2.14           O 0
+ATOM  11927  OE2 GLU D1225     106.890  70.825  99.315  0.45  2.14           O 0
+ATOM  11884    O LEU D1222     104.415  68.771  94.682  0.76  4.29           O 0
+ATOM  12171   CB LEU D1239     112.119  66.036  96.582  0.00  0.00           C 0
+ATOM  12197  OE1 GLU D1240     111.910  71.235  97.904  0.51  2.14           O 0
+ATOM  11865    O ALA D1221     107.074  66.661  94.215  0.71  3.21           O 0
+ATOM  11866    N LEU D1222     106.926  67.921  92.347  0.00  0.00           N 0
+ATOM  13300  NH2 ARG D1306     112.020  72.824  95.039  0.66  1.09           N 0
+ATOM  12240  OD1 ASP D1243     112.171  72.629  92.208  0.57  3.21           O 0
+ATOM  13294   NE ARG D1306     110.121  73.785  94.268  0.93  2.19           N 0
+ATOM  13297  NH1 ARG D1306     110.565  73.537  96.515  0.56  3.28           N 0
+ATOM  13291   CD ARG D1306     108.780  74.218  94.416  0.00  0.00           C 0
+ATOM  13296   CZ ARG D1306     110.920  73.388  95.271  0.00  0.00           C 0
+ATOM  11875  CD1 LEU D1222     105.438  72.120  92.977  0.00  0.00           C 0
+ATOM  12185    O LEU D1239     113.853  67.835  94.645  0.58  3.21           O 0
+ATOM  11864    C ALA D1221     107.362  66.788  93.006  0.00  0.00           C 0
+ATOM  11860   CB ALA D1221     109.406  66.146  91.619  0.00  0.00           C 0
+ATOM  11837    O SER D1218     108.119  68.513  89.487  0.23  5.36           O 0
+ATOM  12236   CB ASP D1243     113.440  70.566  92.283  0.00  0.00           C 0
+ATOM  12239   CG ASP D1243     112.852  71.801  91.556  0.00  0.00           C 0
+ATOM  11870   CB LEU D1222     105.997  69.976  91.764  0.00  0.00           C 0
+ATOM  13350  NH1 ARG D1309     110.290  73.485  90.409  0.75  2.19           N 0
+TER
+END

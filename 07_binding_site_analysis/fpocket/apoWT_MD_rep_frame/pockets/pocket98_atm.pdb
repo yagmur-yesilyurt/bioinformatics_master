@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    98:
+HEADER 0  - Pocket Score                      : -0.0990
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0284
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6104
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 19.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.8785
+HEADER 10 - Pocket volume (convex hull)       : 4.3177
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM   4732  CD1 LEU B 315      83.524  62.255 119.256  0.00  0.00           C 0
+ATOM   4870  CD2 LEU B 324      84.665  60.449 115.954  0.00  0.00           C 0
+ATOM   4866  CD1 LEU B 324      84.140  62.569 114.853  0.00  0.00           C 0
+ATOM   5012   CG PRO B 336      87.663  59.924 119.033  0.00  0.00           C 0
+ATOM   4763   CA LYS B 317      81.231  66.253 117.588  0.00  0.00           C 0
+ATOM   4791  OD1 ASN B 318      84.633  68.115 119.750  0.00  9.64           O 0
+ATOM   4787   CB ASN B 318      83.956  70.148 118.542  0.00  0.00           C 0
+ATOM   4783    N ASN B 318      82.310  68.409 118.101  0.00  0.00           N 0
+ATOM   4796    O ASN B 318      81.415  70.954 117.247  0.81  6.43           O 0
+ATOM   4774   CE LYS B 317      80.630  66.900 113.116  0.00  0.00           C 0
+ATOM   4765   CB LYS B 317      80.868  66.554 116.100  0.00  0.00           C 0
+ATOM   4790   CG ASN B 318      84.980  68.962 118.930  0.00  0.00           C 0
+ATOM   4768   CG LYS B 317      81.225  65.320 115.145  0.00  0.00           C 0
+ATOM   4792  ND2 ASN B 318      86.193  69.128 118.413  0.00  0.00           N 0
+TER
+END

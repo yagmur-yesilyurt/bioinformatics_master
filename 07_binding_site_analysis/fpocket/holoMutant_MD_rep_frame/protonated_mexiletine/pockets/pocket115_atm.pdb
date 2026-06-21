@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   115:
+HEADER 0  - Pocket Score                      : -0.1246
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0364
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6106
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 42.8571
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 261.7338
+HEADER 10 - Pocket volume (convex hull)       : 6.2730
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   2805  CZ3 TRP C 193      44.679  75.065  80.631  0.00  0.00           C 0
+ATOM   2803  CE3 TRP C 193      43.355  74.979  80.194  0.00  0.00           C 0
+ATOM   2788    O PRO C 192      40.576  70.793  79.583  0.67  4.29           O 0
+ATOM   2864  CD2 LEU C 196      42.095  73.617  83.887  0.00  0.00           C 0
+ATOM   2781   CB PRO C 192      42.466  70.114  76.960  0.00  0.00           C 0
+ATOM   2802  CD2 TRP C 193      43.120  75.023  78.807  0.00  0.00           C 0
+ATOM   3630  CD1 ILE C 244      50.024  69.877  76.900  0.00  0.00           C 0
+ATOM   2799  NE1 TRP C 193      43.714  75.349  76.736  0.67  5.47           N 0
+ATOM   2807  CZ2 TRP C 193      45.453  75.540  78.407  0.00  0.00           C 0
+ATOM   2809  CH2 TRP C 193      45.611  75.412  79.754  0.00  0.00           C 0
+ATOM   3531    O LYS C 237      49.457  76.473  74.459  0.68  8.57           O 0
+ATOM   3514   CB LYS C 237      46.609  77.993  75.058  0.00  0.00           C 0
+ATOM   2801  CE2 TRP C 193      44.190  75.275  77.972  0.00  0.00           C 0
+ATOM   3571  CG1 VAL C 240      49.922  73.896  78.446  0.00  0.00           C 0
+ATOM   3581    N GLY C 241      51.535  74.354  74.887  0.00  0.00           N 0
+ATOM   3583   CA GLY C 241      51.786  73.374  73.755  0.00  0.00           C 0
+TER
+END

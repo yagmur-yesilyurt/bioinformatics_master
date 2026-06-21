@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0845
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.5571
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4474
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 47.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 77.5333
+HEADER 10 - Pocket volume (convex hull)       : 0.4220
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3043
+ATOM   5440   CB ALA C 364      71.647  58.335  97.117  0.00  0.00           C 0
+ATOM   5501  NH1 ARG C 367      69.913  62.463 101.021  0.89  3.28           N 0
+ATOM   5438   CA ALA C 364      70.707  59.337  96.470  0.00  0.00           C 0
+ATOM   5436    N ALA C 364      69.370  58.727  96.343  0.00  0.00           N 0
+ATOM   5424   CG LEU C 363      65.537  59.991  97.464  0.00  0.00           C 0
+ATOM   5421   CB LEU C 363      66.153  58.630  97.001  0.00  0.00           C 0
+ATOM   5246   CA TYR C 352      68.290  59.519 103.648  0.00  0.00           C 0
+ATOM   5430  CD2 LEU C 363      64.607  59.645  98.601  0.00  0.00           C 0
+ATOM   5259  CD2 TYR C 352      65.473  60.926 102.316  0.00  0.00           C 0
+ATOM   5675  CD2 LEU C 377      73.329  60.186 100.572  0.00  0.00           C 0
+ATOM   5264    O TYR C 352      70.314  60.756 103.190  0.62  2.14           O 0
+ATOM   5289    O SER C 354      70.951  55.238 100.855  0.54  2.14           O 0
+ATOM   5263    C TYR C 352      69.840  59.734 103.712  0.00  0.00           C 0
+ATOM   5377  CE3 TRP C 360      65.180  56.614 101.238  0.00  0.00           C 0
+ATOM   5386    O TRP C 360      68.759  56.364  97.866  0.54  2.14           O 0
+ATOM   5243    O GLY C 351      68.276  56.764 103.089  0.00  0.00           O 0
+TER
+END

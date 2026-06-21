@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    39:
+HEADER 0  - Pocket Score                      : -0.0884
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9290
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5710
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 38.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.5387
+HEADER 10 - Pocket volume (convex hull)       : 9.1766
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM  18951  CE2 PHE D1648      76.987  59.150  65.240  0.00  0.00           C 0
+ATOM  19012   CE MET D1652      81.476  60.860  64.789  0.00  0.00           C 0
+ATOM  20883  OE1 GLU D1773      79.879  65.697  65.497  0.00  0.00           O 0
+ATOM  19008   CG MET D1652      80.572  60.773  67.309  0.00  0.00           C 0
+ATOM  19005   CB MET D1652      80.771  62.103  68.095  0.00  0.00           C 0
+ATOM  20876   CB GLU D1773      78.021  65.865  67.786  0.00  0.00           C 0
+ATOM  20886    O GLU D1773      75.556  67.407  67.035  0.70  6.43           O 0
+ATOM  18949  CD2 PHE D1648      76.256  58.858  66.399  0.00  0.00           C 0
+ATOM  20896  ND2 ASN D1774      73.083  65.188  71.412  0.73  6.56           N 0
+ATOM  18896    O THR D1645      73.040  59.398  69.883  0.67  3.21           O 0
+ATOM  18910  CD2 LEU D1646      69.496  61.752  72.548  0.00  0.00           C 0
+ATOM  18891  CG2 THR D1645      70.844  58.833  67.512  0.00  0.00           C 0
+ATOM  18957   CA ALA D1649      76.931  61.986  70.160  0.00  0.00           C 0
+ATOM  20889   CA ASN D1774      73.856  67.805  69.247  0.00  0.00           C 0
+ATOM  18959   CB ALA D1649      75.711  62.904  70.453  0.00  0.00           C 0
+ATOM  18955    N ALA D1649      76.471  60.588  69.978  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    51:
+HEADER 0  - Pocket Score                      : -0.0161
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8883
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5049
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 4.2222
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.9788
+HEADER 10 - Pocket volume (convex hull)       : 4.9902
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7000
+ATOM    875  CD1 ILE B  76      36.800  92.718  62.264  0.00  0.00           C 0
+ATOM    818   CG GLN B  73      38.902  98.585  62.351  0.00  0.00           C 0
+ATOM    796    O PRO B  71      36.674  95.304  58.736  0.64  9.64           O 0
+ATOM    872  CG1 ILE B  76      36.908  93.746  63.389  0.00  0.00           C 0
+ATOM    777  OD1 ASN B  70      39.142  93.941  57.084  0.00  0.00           O 0
+ATOM   1217   CA LYS B  98      42.755  89.553  64.910  0.00  0.00           C 0
+ATOM   1215    N LYS B  98      41.520  89.038  65.388  0.77  1.09           N 0
+ATOM   1213    C ASN B  97      40.673  88.290  64.594  0.00  0.00           C 0
+ATOM   1237    N GLY B  99      43.741  89.982  62.546  0.00  0.00           N 0
+ATOM    868  CG2 ILE B  76      37.282  92.183  65.347  0.00  0.00           C 0
+ATOM   1214    O ASN B  97      40.889  87.934  63.426  0.00  0.00           O 0
+ATOM   1244    N LYS B 100      42.540  89.206  60.313  0.45  1.09           N 0
+ATOM   1225   CD LYS B  98      43.357  92.077  66.709  0.00  0.00           C 0
+ATOM   1186   CB LEU B  96      37.142  88.645  61.618  0.00  0.00           C 0
+ATOM   1191  CD1 LEU B  96      37.345  89.357  59.263  0.00  0.00           C 0
+ATOM   1251   CG LYS B 100      41.562  90.492  57.801  0.00  0.00           C 0
+TER
+END

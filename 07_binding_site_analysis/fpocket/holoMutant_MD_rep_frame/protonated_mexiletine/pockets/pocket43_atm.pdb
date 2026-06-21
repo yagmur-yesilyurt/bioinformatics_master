@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    43:
+HEADER 0  - Pocket Score                      : -0.0103
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9502
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4886
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 12.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.0522
+HEADER 10 - Pocket volume (convex hull)       : 5.4358
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM  20996    N GLU H1780      66.429  65.855  62.991  0.00  0.00           N 0
+ATOM   6406  OE1 GLN C 421      63.133  73.281  61.308  0.00  0.00           O 0
+ATOM  20990  CG2 THR H1779      68.640  68.421  62.942  0.00  0.00           C 0
+ATOM  21010    O GLU H1780      67.191  66.182  60.213  0.00  0.00           O 0
+ATOM  21000   CB GLU H1780      64.437  65.227  61.731  0.00  0.00           C 0
+ATOM  20935  CE1 PHE H1775      70.708  72.597  66.832  0.00  0.00           C 0
+ATOM  20988  OG1 THR H1779      68.779  68.950  65.326  0.00  0.00           O 0
+ATOM   6407  NE2 GLN C 421      63.759  74.100  63.252  0.52  7.66           N 0
+ATOM  20937   CZ PHE H1775      69.743  73.297  67.502  0.00  0.00           C 0
+ATOM   6361  OE2 GLU C 418      60.967  68.806  64.805  0.61  4.29           O 0
+ATOM  21007  OE1 GLU H1780      61.578  65.632  61.963  0.57  5.36           O 0
+ATOM  21003   CG GLU H1780      63.626  65.028  63.058  0.00  0.00           C 0
+ATOM   6346  OE2 GLU C 417      65.979  76.900  64.731  0.52  6.43           O 0
+ATOM   6338   CB GLU C 417      65.182  74.902  66.756  0.00  0.00           C 0
+ATOM   6341   CG GLU C 417      66.217  76.056  66.867  0.00  0.00           C 0
+ATOM   6296   SD MET C 414      65.997  69.674  66.606  0.00  0.00           S 0
+ATOM   6297   CE MET C 414      64.836  68.381  66.119  0.00  0.00           C 0
+ATOM   6356   CG GLU C 418      61.924  70.569  65.901  0.00  0.00           C 0
+TER
+END

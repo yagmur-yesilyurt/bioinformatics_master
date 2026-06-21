@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   100:
+HEADER 0  - Pocket Score                      : -0.1041
+HEADER 1  - Drug Score                        : 0.0613
+HEADER 2  - Number of alpha spheres           :    37
+HEADER 3  - Mean alpha-sphere radius          : 4.0813
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5569
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 75.1000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 452.3347
+HEADER 10 - Pocket volume (convex hull)       : 36.6535
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 25.1852
+HEADER 13 - Number of apolar alpha sphere     :    27
+HEADER 14 - Proportion of apolar alpha sphere : 0.7297
+ATOM  20620  CG2 ILE D1758      89.965  78.952  85.579  0.00  0.00           C 0
+ATOM  20627  CD1 ILE D1758      91.671  78.993  82.661  0.00  0.00           C 0
+ATOM  20554    O THR D1754      89.101  81.625  87.070  0.00  0.00           O 0
+ATOM  19332   OH TYR D1671      92.689  80.705  88.574  0.42  5.36           O 0
+ATOM  20545   CB THR D1754      91.142  83.510  88.595  0.00  0.00           C 0
+ATOM  13760   CE MET D1335      89.645  87.334  81.388  0.00  0.00           C 0
+ATOM  20549  CG2 THR D1754      91.482  85.039  88.550  0.00  0.00           C 0
+ATOM  20543   CA THR D1754      89.637  83.409  88.662  0.00  0.00           C 0
+ATOM  20605  CG1 ILE D1757      84.694  83.829  86.075  0.00  0.00           C 0
+ATOM  20540    O THR D1753      86.818  83.496  89.338  0.62  2.14           O 0
+ATOM  20531   CB THR D1753      87.075  85.763  91.701  0.00  0.00           C 0
+ATOM  20533  OG1 THR D1753      88.333  86.415  91.672  0.00  0.00           O 0
+ATOM  20541    N THR D1754      88.954  83.869  89.955  0.00  0.00           N 0
+ATOM  13805  CD1 LEU D1338      84.211  86.976  83.621  0.00  0.00           C 0
+ATOM  13759   SD MET D1335      88.450  88.803  81.510  0.00  0.00           S 0
+ATOM  20601  CG2 ILE D1757      85.368  83.182  83.650  0.00  0.00           C 0
+ATOM  13699  CD1 ILE D1331      89.586  84.043  79.089  0.00  0.00           C 0
+ATOM  20618   CB ILE D1758      89.476  79.371  84.168  0.00  0.00           C 0
+ATOM  20614    N ILE D1758      87.224  80.218  84.934  0.67  1.09           N 0
+ATOM  20624  CG1 ILE D1758      90.219  78.637  82.949  0.00  0.00           C 0
+ATOM  20539    C THR D1753      87.645  83.863  90.184  0.00  0.00           C 0
+ATOM  20599   CB ILE D1757      85.559  82.909  85.206  0.00  0.00           C 0
+ATOM  20677  CD2 LEU D1761      87.126  80.256  78.906  0.00  0.00           C 0
+ATOM  13647  CD2 LEU D1327      91.753  78.961  77.974  0.00  0.00           C 0
+ATOM  20616   CA ILE D1758      87.970  79.326  84.009  0.00  0.00           C 0
+TER
+END
