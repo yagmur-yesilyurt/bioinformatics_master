@@ -1,0 +1,798 @@
+MODEL 1
+REMARK VINA RESULT:      -6.0      0.000      0.000
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      77.307  82.125  88.462  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      77.817  80.846  88.792  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      77.095  79.521  88.843  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      79.167  80.748  89.208  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      80.005  81.851  89.261  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      79.516  83.096  88.903  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      78.178  83.249  88.505  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      77.709  84.633  88.132  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      76.016  82.478  88.109  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      75.001  82.289  89.077  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      75.621  83.191  91.304  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      74.819  83.484  90.033  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      73.410  83.695  90.392  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      72.844  82.939  90.009  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      73.091  84.586  90.010  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      73.317  83.708  91.408  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -5.8      0.603      2.582
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      77.266  82.097  88.552  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      78.104  83.239  88.564  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      77.766  84.668  88.215  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      79.475  83.062  88.871  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      80.005  81.822  89.195  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      79.177  80.713  89.219  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      77.815  80.832  88.900  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      76.971  79.583  88.941  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      75.928  82.010  88.209  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      75.069  83.038  88.666  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      73.884  81.405  90.111  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      74.511  82.802  90.083  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      73.489  83.793  90.447  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      73.636  84.096  91.410  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      72.563  83.375  90.360  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      73.558  84.597  89.824  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -5.8      4.733      6.022
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      79.705  86.911  91.216  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      80.572  86.155  92.043  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      81.186  84.800  91.786  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      80.882  86.659  93.329  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      80.398  87.878  93.780  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      79.581  88.634  92.957  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      79.226  88.167  91.681  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      78.330  89.038  90.837  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      79.203  86.589  89.967  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      78.094  85.712  89.915  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      79.681  84.598  88.367  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      78.353  84.425  89.109  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      77.288  84.160  88.132  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      77.603  84.436  87.203  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      76.456  84.696  88.382  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      77.064  83.165  88.135  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -5.7      2.401      3.389
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      77.327  82.118  90.163  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      78.101  81.196  90.909  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      78.700  81.355  92.286  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      78.453  79.968  90.300  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      78.032  79.629  89.022  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      77.243  80.515  88.308  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      76.886  81.756  88.860  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      76.029  82.676  88.026  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      76.931  83.398  90.512  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      77.933  84.396  90.578  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      78.753  85.232  88.390  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      77.770  85.514  89.530  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      78.054  86.842  90.090  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      78.410  86.742  91.040  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      77.196  87.395  90.105  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      78.751  87.312  89.514  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -5.7      5.352      6.944
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      80.290  86.851  91.869  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      79.502  88.022  91.983  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      78.644  88.694  90.938  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      79.541  88.743  93.201  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      80.291  88.316  94.287  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      81.031  87.151  94.188  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      81.044  86.413  92.993  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      81.875  85.156  92.952  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      80.473  86.035  90.767  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      79.383  85.228  90.364  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      78.521  84.964  88.052  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      79.606  84.497  89.026  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      79.525  83.038  89.172  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      78.646  82.705  88.777  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      79.568  82.792  90.162  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      80.306  82.603  88.680  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -5.7      5.213      6.530
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      80.369  86.776  91.918  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      81.171  86.392  93.020  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      82.082  85.197  93.160  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      81.094  87.161  94.207  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      80.293  88.289  94.305  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      79.538  88.685  93.215  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      79.563  87.944  92.022  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      78.713  88.428  90.875  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      80.218  86.144  90.696  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      79.692  84.830  90.701  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      79.286  85.096  88.268  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      78.684  84.556  89.569  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      77.391  85.212  89.808  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      77.548  86.148  90.180  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      76.851  84.664  90.479  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      76.876  85.276  88.930  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -5.7     13.292     14.044
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      73.340  72.938  97.980  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      73.777  73.092  99.319  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      73.324  74.089 100.357  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      74.834  72.268  99.778  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      75.418  71.300  98.976  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      74.964  71.125  97.680  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      73.934  71.932  97.169  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      73.491  71.691  95.748  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      72.390  73.672  97.291  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      71.038  73.519  97.681  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      69.286  73.874  95.960  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      70.161  72.811  96.631  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      69.296  71.787  97.232  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      69.843  70.948  97.424  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      68.539  71.559  96.587  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      68.903  72.143  98.104  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -5.6      2.441      3.680
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      77.459  82.043  90.124  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      76.956  81.699  88.846  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      76.166  82.546  87.878  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      77.128  80.369  88.392  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      77.803  79.416  89.140  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      78.327  79.763  90.373  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      78.163  81.063  90.878  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      78.756  81.374  92.229  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      77.345  83.243  90.805  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      78.306  84.244  90.530  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      78.752  85.148  88.262  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      77.846  85.283  89.490  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      77.936  86.657  90.003  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      78.758  86.744  90.601  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      77.098  86.874  90.542  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      78.015  87.307  89.221  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.6     13.306     14.007
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      73.374  72.891  97.984  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      73.934  71.931  97.106  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      73.536  71.595  95.689  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      74.967  71.095  97.595  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      75.466  71.215  98.883  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      74.944  72.178  99.729  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      73.903  73.017  99.299  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      73.378  74.042 100.272  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      72.317  73.755  97.761  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      71.013  73.275  98.030  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      69.524  74.014  96.187  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      70.251  72.802  96.777  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      69.266  71.757  97.090  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      68.572  71.711  96.346  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      68.805  71.979  97.973  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      69.740  70.857  97.171  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -5.5      2.698      4.051
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      78.018  82.876  89.711  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      79.242  83.484  90.082  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      80.162  83.143  91.229  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      79.677  84.617  89.352  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      78.965  85.117  88.273  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      77.788  84.500  87.888  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      77.303  83.387  88.593  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      76.012  82.764  88.123  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      77.359  81.820  90.316  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      78.142  80.724  90.750  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      77.029  79.311  89.041  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      78.384  79.660  89.663  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      78.990  78.438  90.210  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      78.453  77.627  89.906  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      78.989  78.485  91.229  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      79.950  78.356  89.874  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 11
+REMARK VINA RESULT:      -5.5      5.647      6.733
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      79.858  86.663  91.280  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      79.948  85.251  91.212  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      81.035  84.343  91.736  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      78.943  84.547  90.505  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      77.865  85.192  89.918  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      77.758  86.568  90.017  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      78.741  87.314  90.688  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      78.565  88.810  90.755  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      80.750  87.561  91.840  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      80.875  87.564  93.249  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      81.565  89.486  94.659  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      80.380  88.860  93.918  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      79.294  88.609  94.876  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      78.554  88.077  94.419  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      78.919  89.499  95.206  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      79.655  88.078  95.667  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 12
+REMARK VINA RESULT:      -5.5      6.337      7.693
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      79.971  87.378  91.812  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      78.888  87.766  90.985  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      78.225  89.117  90.861  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      78.255  86.774  90.199  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      78.687  85.456  90.185  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      79.769  85.085  90.964  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      80.416  86.028  91.780  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      81.586  85.556  92.607  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      80.687  88.144  92.715  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      80.008  88.591  93.874  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      82.350  89.094  94.520  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      80.937  88.882  95.069  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      80.958  87.776  96.035  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      80.207  87.901  96.713  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      81.856  87.766  96.520  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      80.828  86.892  95.543  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 13
+REMARK VINA RESULT:      -5.5      2.610      3.985
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      77.922  83.105  89.792  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      77.169  83.592  88.696  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      75.814  83.147  88.202  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      77.749  84.587  87.871  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      79.003  85.119  88.128  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      79.724  84.669  89.221  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      79.202  83.668  90.056  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      80.040  83.221  91.227  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      77.602  82.093  90.680  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      77.369  80.804  90.144  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      79.417  80.298  88.837  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      78.626  79.914  90.091  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      78.289  78.485  90.026  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      77.568  78.274  90.716  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      79.122  77.930  90.225  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      77.944  78.259  89.094  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 14
+REMARK VINA RESULT:      -5.4      4.033      5.728
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      79.574  86.002  91.291  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      79.753  87.406  91.237  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      78.724  88.487  91.013  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      81.070  87.918  91.331  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      82.171  87.095  91.512  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      81.991  85.725  91.602  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      80.707  85.166  91.492  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      80.582  83.667  91.595  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      78.406  85.273  91.145  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      77.713  85.390  89.916  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      79.205  85.085  87.957  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      78.171  84.384  88.843  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      77.055  83.922  88.005  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      77.132  84.338  87.078  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      76.172  84.202  88.432  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      77.088  82.906  87.926  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 15
+REMARK VINA RESULT:      -5.4      5.078      6.705
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      78.476  78.805  91.495  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      78.138  79.785  90.531  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      77.773  79.602  89.077  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      78.203  81.149  90.908  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      78.546  81.543  92.193  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      78.840  80.583  93.145  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      78.812  79.218  92.814  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      79.146  78.224  93.898  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      78.561  77.432  91.340  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      79.650  76.926  90.591  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      81.705  75.536  90.614  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      80.297  75.668  91.202  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      79.534  74.450  90.899  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      80.126  73.633  91.044  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      79.223  74.476  89.927  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      78.722  74.396  91.514  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 16
+REMARK VINA RESULT:      -5.4      2.282      2.872
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      78.331  84.095  90.437  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      79.095  82.978  90.854  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      78.738  81.512  90.807  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      80.347  83.214  91.473  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      80.856  84.493  91.644  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      80.125  85.582  91.202  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      78.868  85.401  90.602  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      78.123  86.631  90.147  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      77.061  84.117  89.886  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      76.013  83.536  90.639  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      75.425  82.861  88.325  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      74.966  82.796  89.785  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      73.632  83.401  89.896  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      73.440  83.957  89.063  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      73.599  84.002  90.720  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      72.932  82.666  89.983  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 17
+REMARK VINA RESULT:      -5.4     11.660     13.809
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      79.716  68.522  88.771  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      79.354  68.396  87.407  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      78.074  68.810  86.723  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      80.251  67.735  86.533  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      81.476  67.249  86.962  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      81.845  67.405  88.287  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      80.981  68.033  89.199  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      81.444  68.167  90.628  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      78.979  69.051  89.816  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      78.621  70.418  89.735  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      76.861  72.026  89.045  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      77.100  70.664  89.703  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      76.512  70.672  91.050  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      77.149  70.215  91.702  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      75.623  70.172  91.036  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      76.356  71.635  91.346  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 18
+REMARK VINA RESULT:      -5.3      3.076      4.681
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      79.418  84.206  89.857  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      80.087  84.732  90.989  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      81.164  84.098  91.836  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      79.679  85.996  91.483  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      78.682  86.740  90.871  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      78.055  86.242  89.742  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      78.408  84.984  89.227  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      77.683  84.499  87.997  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      79.586  82.974  89.249  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      79.019  81.847  89.890  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      77.454  80.726  88.325  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      78.841  80.627  88.967  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      78.940  79.358  89.701  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      79.875  78.969  89.583  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      78.249  78.701  89.339  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      78.764  79.525  90.692  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
+MODEL 19
+REMARK VINA RESULT:      -5.2     11.466     13.584
+REMARK  Name = mexiletine.pdb
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_12
+REMARK    2  A    between atoms: C_2  and  O_13
+REMARK    3  A    between atoms: C_3  and  C_4
+REMARK    4  A    between atoms: C_8  and  C_9
+REMARK    5  A    between atoms: C_10  and  C_12
+REMARK    6  A    between atoms: C_10  and  O_13
+REMARK    7  A    between atoms: C_11  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      79.535  68.510  88.741  0.00  0.00    +0.127 A 
+ATOM      2  C   UNL A   1      80.824  68.113  89.174  0.00  0.00    -0.009 A 
+ATOM      3  C   UNL A   1      81.391  68.093  90.573  0.00  0.00    +0.048 C 
+ATOM      4  C   UNL A   1      81.776  67.741  88.194  0.00  0.00    +0.007 A 
+ATOM      5  C   UNL A   1      81.472  67.717  86.841  0.00  0.00    +0.001 A 
+ATOM      6  C   UNL A   1      80.200  68.069  86.422  0.00  0.00    +0.007 A 
+ATOM      7  C   UNL A   1      79.227  68.468  87.353  0.00  0.00    -0.009 A 
+ATOM      8  C   UNL A   1      77.864  68.842  86.829  0.00  0.00    +0.048 C 
+ENDROOT
+BRANCH   1   9
+ATOM      9  O   UNL A   1      78.477  68.984  89.497  0.00  0.00    -0.486 OA
+BRANCH   9  10
+ATOM     10  C   UNL A   1      78.472  70.361  89.822  0.00  0.00    +0.282 C 
+BRANCH  10  12
+ATOM     11  C   UNL A   1      77.323  72.468  89.189  0.00  0.00    +0.067 C 
+ATOM     12  C   UNL A   1      77.094  71.034  89.676  0.00  0.00    +0.096 C 
+BRANCH  12  13
+ATOM     13  N   UNL A   1      76.358  71.070  90.948  0.00  0.00    +0.223 N 
+ATOM     14  H   UNL A   1      76.098  70.122  91.217  0.00  0.00    +0.200 HD
+ATOM     15  H   UNL A   1      75.516  71.636  90.837  0.00  0.00    +0.200 HD
+ATOM     16  H   UNL A   1      76.950  71.480  91.670  0.00  0.00    +0.200 HD
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   9  10
+ENDBRANCH   1   9
+TORSDOF 4
+ENDMDL
