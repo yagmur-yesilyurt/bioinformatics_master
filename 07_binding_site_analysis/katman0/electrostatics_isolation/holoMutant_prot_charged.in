@@ -1,0 +1,28 @@
+read
+    mol pqr holoMutant_prot_K347charged.pqr
+end
+elec
+    mg-auto
+    dime 97 97 97
+    cglen 286.7 286.7 286.7
+    fglen 198.3 198.3 198.3
+    cgcent mol 1
+    fgcent mol 1
+    mol 1
+    lpbe
+    bcfl sdh
+    ion charge 1 conc 0.150 radius 2.0
+    ion charge -1 conc 0.150 radius 2.0
+    pdie 2.0
+    sdie 78.54
+    srfm smol
+    chgm spl2
+    sdens 10.0
+    srad 1.4
+    swin 0.3
+    temp 310.0
+    calcenergy no
+    calcforce no
+    write pot dx holoMutant_prot_charged_pot
+end
+quit
